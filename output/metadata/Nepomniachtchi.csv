@@ -1,0 +1,935 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+2232,chess.com Speed 2019,chess.com INT,2020.01.05,3.9,"Nakamura,Hi","Nepomniachtchi,I",0-1,2776,B50,2745
+2233,chess.com Speed 2019,chess.com INT,2020.01.05,3.8,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2745,C50,2776
+2234,chess.com Speed 2019,chess.com INT,2020.01.05,3.7,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B23,2745
+2235,chess.com Speed 2019,chess.com INT,2020.01.05,3.6,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2745,C50,2776
+2236,chess.com Speed 2019,chess.com INT,2020.01.05,3.1,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B50,2745
+2237,chess.com Speed 2019,chess.com INT,2020.01.05,3.12,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,C50,2776
+2238,chess.com Speed 2019,chess.com INT,2020.01.05,3.13,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2776,B51,2745
+2239,chess.com Speed 2019,chess.com INT,2020.01.05,3.14,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,C50,2776
+2240,chess.com Speed 2019,chess.com INT,2020.01.05,3.15,"Nakamura,Hi","Nepomniachtchi,I",0-1,2776,B50,2745
+2241,chess.com Speed 2019,chess.com INT,2020.01.05,3.3,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B23,2745
+2242,chess.com Speed 2019,chess.com INT,2020.01.05,3.5,"Nakamura,Hi","Nepomniachtchi,I",0-1,2776,B50,2745
+2243,chess.com Speed 2019,chess.com INT,2020.01.05,3.18,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,C48,2776
+2244,chess.com Speed 2019,chess.com INT,2020.01.05,3.19,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2776,B51,2745
+2245,chess.com Speed 2019,chess.com INT,2020.01.05,3.20,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,C50,2776
+2246,chess.com Speed 2019,chess.com INT,2020.01.05,3.21,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2776,B50,2745
+2247,chess.com Speed 2019,chess.com INT,2020.01.05,3.22,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,C48,2776
+2248,chess.com Speed 2019,chess.com INT,2020.01.05,3.23,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,A04,2745
+2249,chess.com Speed 2019,chess.com INT,2020.01.05,3.24,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2745,B06,2776
+2250,chess.com Speed 2019,chess.com INT,2020.01.05,3.4,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,C65,2776
+2251,chess.com Speed 2019,chess.com INT,2020.01.05,3.26,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,B06,2776
+2252,chess.com Speed 2019,chess.com INT,2020.01.05,3.27,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B90,2745
+2253,chess.com Speed 2019,chess.com INT,2020.01.05,3.28,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,B33,2776
+2254,chess.com Speed 2019,chess.com INT,2020.01.05,3.29,"Nakamura,Hi","Nepomniachtchi,I",0-1,2776,B23,2745
+2255,chess.com Speed 2019,chess.com INT,2020.01.05,3.16,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,C48,2776
+2256,chess.com Speed 2019,chess.com INT,2020.01.05,3.2,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,C50,2776
+2257,chess.com Speed 2019,chess.com INT,2020.01.05,3.17,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B50,2745
+2258,chess.com Speed 2019,chess.com INT,2020.01.05,3.10,"Nepomniachtchi,I","Nakamura,Hi",0-1,2745,C50,2776
+2259,chess.com Speed 2019,chess.com INT,2020.01.05,3.11,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,B51,2745
+2260,chess.com Speed 2019,chess.com INT,2020.01.05,3.25,"Nakamura,Hi","Nepomniachtchi,I",1-0,2776,A05,2745
+2261,chess.com Speed 2019,chess.com INT,2020.01.05,3.32,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2745,B10,2776
+2262,chess.com Speed 2019,chess.com INT,2020.01.05,3.31,"Nakamura,Hi","Nepomniachtchi,I",0-1,2776,B23,2745
+2263,chess.com Speed 2019,chess.com INT,2020.01.05,3.30,"Nepomniachtchi,I","Nakamura,Hi",1-0,2745,B10,2776
+2264,PRO League Group Stage,chess.com INT,2020.01.23,3,"Martirosyan,Haik M.","Nepomniachtchi,I",0-1,2774,B08,2613
+2265,PRO League Group Stage,chess.com INT,2020.01.23,3,"Nepomniachtchi,I","Petrosian,TL",1-0,2601,B10,2774
+2266,PRO League Group Stage,chess.com INT,2020.01.23,3,"Sargsyan,Shant","Nepomniachtchi,I",1-0,2774,A33,2601
+2267,PRO League Group Stage,chess.com INT,2020.01.23,3,"Nepomniachtchi,I","Andriasian,Z",1-0,2611,B10,2774
+2268,PRO League Group Stage,chess.com INT,2020.02.12,6,"Nepomniachtchi,I","Narayanan,SL",1-0,2637,C65,2774
+2269,PRO League Group Stage,chess.com INT,2020.02.12,6,"Mamedyarov,S","Nepomniachtchi,I",0-1,2774,D02,2770
+2270,PRO League Group Stage,chess.com INT,2020.02.12,6,"Nepomniachtchi,I","Karthikeyan,M2",1-0,2602,C65,2774
+2271,PRO League Group Stage,chess.com INT,2020.02.12,6,"Gupta,Ab","Nepomniachtchi,I",0-1,2774,D85,2608
+2272,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Nepomniachtchi,I","Cori,J",1-0,2652,A27,2774
+2273,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Shimanov,A","Nepomniachtchi,I",1-0,2774,A45,2593
+2274,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Nepomniachtchi,I","Nyzhnyk,I",1/2-1/2,2665,A13,2774
+2275,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.3,"Giri,A","Nepomniachtchi,I",0-1,2774,A33,2763
+2276,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.2,"Nepomniachtchi,I","Grischuk,A",1/2-1/2,2777,C67,2774
+2277,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.4,"Alekseenko,K","Nepomniachtchi,I",1/2-1/2,2774,C19,2698
+2278,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.1,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2774,D87,2842
+2279,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.4,"Nepomniachtchi,I",Wang Hao,1-0,2762,C42,2774
+2280,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.3,"Nepomniachtchi,I",Ding Liren,1-0,2805,C84,2774
+2281,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2774,C19,2767
+2282,Abu Dhabi Super Blitz KO,chess.com INT,2020.04.15,1.2,"Artemiev,V","Nepomniachtchi,I",1-0,2784,A48,2716
+2283,Abu Dhabi Super Blitz KO,chess.com INT,2020.04.15,1.1,"Nepomniachtchi,I","Artemiev,V",0-1,2716,B10,2784
+2284,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,4,"Praggnanandhaa,R","Nepomniachtchi,I",0-1,2784,C19,2608
+2285,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,5,"Nepomniachtchi,I","Tabatabaei,M",1/2-1/2,2629,C67,2784
+2286,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,7,"Alekseenko,K","Nepomniachtchi,I",0-1,2784,A45,2696
+2287,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,8,"Nepomniachtchi,I","Andriasian,Z",1/2-1/2,2606,A28,2784
+2288,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,9,"Quparadze,G","Nepomniachtchi,I",0-1,2784,C07,2463
+2289,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,10,"Nepomniachtchi,I","Andreikin,D",1-0,2726,C67,2784
+2290,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,11,"Bortnyk,Olexandr","Nepomniachtchi,I",1/2-1/2,2784,A45,2598
+2291,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.2,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2835,C78,2784
+2292,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.3,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,C15,2835
+2293,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.1,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,C19,2835
+2294,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.4,"Nepomniachtchi,I","Caruana,F",0-1,2835,C84,2784
+2295,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.5,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,C42,2778
+2296,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.3,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2778,B24,2784
+2297,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2778,A11,2784
+2298,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.4,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,B51,2778
+2299,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.2,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2784,C19,2778
+2300,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.3,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D87,2764
+2301,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.2,"Nepomniachtchi,I","Giri,A",1-0,2764,A29,2784
+2302,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.1,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D87,2764
+2303,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.4,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,B51,2784
+2304,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.3,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2784,B51,2736
+2305,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.1,"Nakamura,Hi","Nepomniachtchi,I",1-0,2784,C19,2736
+2306,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.2,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,D37,2784
+2307,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.4,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,D37,2784
+2308,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.4,Ding Liren,"Nepomniachtchi,I",1-0,2784,A05,2791
+2309,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.3,"Nepomniachtchi,I",Ding Liren,1-0,2791,C65,2784
+2310,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.2,Ding Liren,"Nepomniachtchi,I",1-0,2784,D70,2791
+2311,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,C65,2784
+2312,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.3,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A45,2863
+2313,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.2,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,B00,2784
+2314,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.1,"Carlsen,M","Nepomniachtchi,I",0-1,2784,B54,2863
+2315,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.4,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,B30,2784
+2316,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.5,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A48,2863
+2317,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.5,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,B12,2784
+2318,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,B12,2784
+2319,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2784,A81,2728
+2320,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2784,A81,2728
+2321,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2728,B12,2784
+2322,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.1,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2784,B90,2778
+2323,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.1,"Nepomniachtchi,I","Nakamura,Hi",0-1,2736,D37,2784
+2324,Titled Tuesday 5th May,chess.com INT,2020.05.05,3,"Nepomniachtchi,I","Chan Yi Ren,D",1-0,2316,E95,2784
+2325,Titled Tuesday 5th May,chess.com INT,2020.05.05,4,"Nepomniachtchi,I","Cardoso Cardoso,Jose Gabriel",1-0,2414,A28,2784
+2326,Titled Tuesday 5th May,chess.com INT,2020.05.05,5,"Gumularz,Szymon","Nepomniachtchi,I",0-1,2784,A00,2513
+2327,Titled Tuesday 5th May,chess.com INT,2020.05.05,7,"Kovalev,Vl","Nepomniachtchi,I",0-1,2784,C00,2648
+2328,Titled Tuesday 5th May,chess.com INT,2020.05.05,8,"Nepomniachtchi,I","Fakhrutdinov,Timur",1-0,2501,C67,2784
+2329,Titled Tuesday 5th May,chess.com INT,2020.05.05,9,"Maghsoodloo,Parham","Nepomniachtchi,I",1-0,2784,B90,2676
+2330,Titled Tuesday 5th May,chess.com INT,2020.05.05,10,"Nepomniachtchi,I","Demchenko,A",0-1,2641,C71,2784
+2331,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.1,Ding Liren,"Nepomniachtchi,I",1-0,2784,D85,2791
+2332,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.1,"Nepomniachtchi,I","Radjabov,T",1-0,2765,D37,2784
+2333,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.1,"Anand,V","Nepomniachtchi,I",1-0,2784,D85,2753
+2334,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2778,B12,2784
+2335,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.1,"Nakamura,Hi","Nepomniachtchi,I",1-0,2784,D85,2736
+2336,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,D45,2784
+2337,Play for Russia Prelim,lichess.org INT,2020.05.12,1.2,"Nepomniachtchi,I","Inarkiev,E",1/2-1/2,2661,A11,2784
+2338,Play for Russia Prelim,lichess.org INT,2020.05.12,2.4,"Kramnik,V","Nepomniachtchi,I",1-0,2784,A36,2753
+2339,Play for Russia Prelim,lichess.org INT,2020.05.12,3.1,"Nepomniachtchi,I","Riazantsev,A",1-0,2638,B03,2784
+2340,Play for Russia Prelim,lichess.org INT,2020.05.12,4.4,"Nepomniachtchi,I","Karjakin,Sergey",1/2-1/2,2752,A28,2784
+2341,Play for Russia Prelim,lichess.org INT,2020.05.12,5.2,"Grischuk,A","Nepomniachtchi,I",1/2-1/2,2784,A48,2777
+2342,Play for Russia Prelim,lichess.org INT,2020.05.12,6.3,"Tomashevsky,E","Nepomniachtchi,I",1-0,2784,A35,2706
+2343,Play for Russia Prelim,lichess.org INT,2020.05.12,7.3,"Nepomniachtchi,I","Svidler,P",1/2-1/2,2723,A10,2784
+2344,Play for Russia Prelim,lichess.org INT,2020.05.13,8.2,"Inarkiev,E","Nepomniachtchi,I",1-0,2784,A40,2661
+2345,Play for Russia Prelim,lichess.org INT,2020.05.13,9.4,"Nepomniachtchi,I","Kramnik,V",0-1,2753,C11,2784
+2346,Play for Russia Prelim,lichess.org INT,2020.05.13,10.1,"Riazantsev,A","Nepomniachtchi,I",0-1,2784,A40,2638
+2347,Play for Russia Prelim,lichess.org INT,2020.05.13,11.4,"Karjakin,Sergey","Nepomniachtchi,I",1-0,2784,D87,2752
+2348,Play for Russia Prelim,lichess.org INT,2020.05.13,12.2,"Nepomniachtchi,I","Grischuk,A",1/2-1/2,2777,A01,2784
+2349,Play for Russia Prelim,lichess.org INT,2020.05.13,13.3,"Svidler,P","Nepomniachtchi,I",1-0,2784,A07,2723
+2350,Play for Russia Prelim,lichess.org INT,2020.05.13,14.3,"Nepomniachtchi,I","Tomashevsky,E",1/2-1/2,2706,C47,2784
+2351,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.11,"Caruana,F","Nepomniachtchi,I",0-1,2784,A29,2835
+2352,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.12,"Nepomniachtchi,I","Caruana,F",1-0,2835,C45,2784
+2353,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.13,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,A29,2835
+2354,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.14,"Nepomniachtchi,I","Caruana,F",0-1,2835,C44,2784
+2355,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.2,"Nepomniachtchi,I","Giri,A",0-1,2764,B23,2784
+2356,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.3,"Giri,A","Nepomniachtchi,I",0-1,2784,B06,2764
+2357,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.4,"Nepomniachtchi,I","Giri,A",0-1,2764,A28,2784
+2358,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.1,"Giri,A","Nepomniachtchi,I",1-0,2784,C19,2764
+2359,Titled Tuesday 26th May,chess.com INT,2020.05.26,2,"Nepomniachtchi,I","Danielian,E",1-0,2407,B07,2784
+2360,Titled Tuesday 26th May,chess.com INT,2020.05.26,3,"Khanin,S","Nepomniachtchi,I",0-1,2784,B90,2482
+2361,Titled Tuesday 26th May,chess.com INT,2020.05.26,4,"Savchenko,B","Nepomniachtchi,I",0-1,2784,B90,2564
+2362,Titled Tuesday 26th May,chess.com INT,2020.05.26,5,"Nepomniachtchi,I","Sadhwani,Raunak",1-0,2545,B10,2784
+2363,Titled Tuesday 26th May,chess.com INT,2020.05.26,6,"Svane,R","Nepomniachtchi,I",0-1,2784,D78,2613
+2364,Titled Tuesday 26th May,chess.com INT,2020.05.26,7,"Nepomniachtchi,I","Tang,Andrew",1-0,2538,C60,2784
+2365,Titled Tuesday 26th May,chess.com INT,2020.05.26,8,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1-0,2627,B95,2784
+2366,Titled Tuesday 26th May,chess.com INT,2020.05.26,9,"Artemiev,V","Nepomniachtchi,I",1-0,2784,A05,2716
+2367,Titled Tuesday 26th May,chess.com INT,2020.05.26,10,"Nepomniachtchi,I","Matlakov,M",1-0,2685,B47,2784
+2368,Titled Tuesday 9th June,chess.com INT,2020.06.09,2,"Maze,S","Nepomniachtchi,I",0-1,2784,B51,2557
+2369,Titled Tuesday 9th June,chess.com INT,2020.06.09,3,"Nepomniachtchi,I","Kushagra,Mohan",1-0,2351,E90,2784
+2370,Titled Tuesday 9th June,chess.com INT,2020.06.09,4,"Nepomniachtchi,I","Sanal,V",1-0,2581,C41,2784
+2371,Titled Tuesday 9th June,chess.com INT,2020.06.09,5,"Ramirez,Alej","Nepomniachtchi,I",0-1,2784,A04,2567
+2372,Titled Tuesday 9th June,chess.com INT,2020.06.09,6,"Nepomniachtchi,I","Kovalev,Vl",1/2-1/2,2648,E32,2784
+2373,Titled Tuesday 9th June,chess.com INT,2020.06.09,7,"Abdusattorov,Nodirbek","Nepomniachtchi,I",1-0,2784,B53,2627
+2374,Titled Tuesday 9th June,chess.com INT,2020.06.09,8,"Nepomniachtchi,I","Livaic,Leon",1-0,2507,D35,2784
+2375,Titled Tuesday 9th June,chess.com INT,2020.06.09,9,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",1/2-1/2,2784,A28,2620
+2376,Titled Tuesday 9th June,chess.com INT,2020.06.09,10,"Nepomniachtchi,I","Bachmann,Ax",1-0,2599,D20,2784
+2377,Chessable Masters GpB,chess24.com INT,2020.06.21,1.2,"Nepomniachtchi,I","Radjabov,T",1-0,2765,E18,2784
+2378,Chessable Masters GpB,chess24.com INT,2020.06.21,2.3,"Caruana,F","Nepomniachtchi,I",1-0,2784,A22,2835
+2379,Chessable Masters GpB,chess24.com INT,2020.06.21,3.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,D39,2784
+2380,Chessable Masters GpB,chess24.com INT,2020.06.21,4.2,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,E06,2764
+2381,Chessable Masters GpB,chess24.com INT,2020.06.21,5.3,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2778,C84,2784
+2382,Chessable Masters GpB,chess24.com INT,2020.06.23,6.2,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
+2383,Chessable Masters GpB,chess24.com INT,2020.06.23,7.3,"Nepomniachtchi,I","Caruana,F",1-0,2835,C78,2784
+2384,Chessable Masters GpB,chess24.com INT,2020.06.23,8.1,Ding Liren,"Nepomniachtchi,I",1-0,2784,E60,2791
+2385,Chessable Masters GpB,chess24.com INT,2020.06.23,9.2,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,C65,2784
+2386,Chessable Masters GpB,chess24.com INT,2020.06.23,10.3,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,E48,2778
+2387,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.12,"Artemiev,V","Nepomniachtchi,I",1/2-1/2,2784,A35,2716
+2388,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.13,"Nepomniachtchi,I","Artemiev,V",1-0,2716,B28,2784
+2389,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.11,"Nepomniachtchi,I","Artemiev,V",1-0,2716,C76,2784
+2390,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.22,"Nepomniachtchi,I","Artemiev,V",1-0,2716,C63,2784
+2391,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.21,"Artemiev,V","Nepomniachtchi,I",1/2-1/2,2784,A45,2716
+2392,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.23,"Artemiev,V","Nepomniachtchi,I",0-1,2784,A01,2716
+2393,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.12,"Giri,A","Nepomniachtchi,I",1-0,2784,D41,2764
+2394,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.11,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,A28,2784
+2395,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.13,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,A28,2784
+2396,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.14,"Giri,A","Nepomniachtchi,I",1-0,2784,B08,2764
+2397,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.22,"Nepomniachtchi,I","Giri,A",1-0,2764,A13,2784
+2398,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.23,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D41,2764
+2399,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.21,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D41,2764
+2400,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.24,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,C41,2784
+2401,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.32,"Giri,A","Nepomniachtchi,I",1-0,2784,D02,2764
+2402,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.36,"Giri,A","Nepomniachtchi,I",1-0,2784,D78,2764
+2403,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.35,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,A06,2784
+2404,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.33,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,A33,2784
+2405,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.34,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,A46,2764
+2406,Chessable Masters Final 8,chess24.com INT,2020.07.02,2.31,"Nepomniachtchi,I","Giri,A",1-0,2764,A06,2784
+2407,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.5,"Kramnik,V","Nepomniachtchi,I",0-1,2784,A04,2753
+2408,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.2,"Nepomniachtchi,I","Kramnik,V",0-1,2753,D37,2784
+2409,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.1,"Kramnik,V","Nepomniachtchi,I",1/2-1/2,2784,A04,2753
+2410,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.3,"Kramnik,V","Nepomniachtchi,I",0-1,2784,A04,2753
+2411,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.4,"Nepomniachtchi,I","Kramnik,V",1/2-1/2,2753,D37,2784
+2412,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.1,"Nepomniachtchi,I",Ding Liren,1-0,2791,C45,2784
+2413,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.2,Ding Liren,"Nepomniachtchi,I",0-1,2784,A81,2791
+2414,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.3,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,B11,2784
+2415,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.2,"Nepomniachtchi,I","Giri,A",1-0,2764,B90,2784
+2416,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.3,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D85,2764
+2417,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.1,"Giri,A","Nepomniachtchi,I",0-1,2784,D85,2764
+2418,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.2,"Ivanchuk,V","Nepomniachtchi,I",1/2-1/2,2784,D83,2678
+2419,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.4,"Ivanchuk,V","Nepomniachtchi,I",0-1,2784,D83,2678
+2420,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.1,"Nepomniachtchi,I","Ivanchuk,V",1/2-1/2,2678,C84,2784
+2421,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.3,"Nepomniachtchi,I","Ivanchuk,V",1/2-1/2,2678,C82,2784
+2422,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.2,"Svidler,P","Nepomniachtchi,I",1/2-1/2,2784,A33,2723
+2423,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.3,"Nepomniachtchi,I","Svidler,P",1-0,2723,C84,2784
+2424,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.1,"Nepomniachtchi,I","Svidler,P",1/2-1/2,2723,C84,2784
+2425,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.4,"Svidler,P","Nepomniachtchi,I",0-1,2784,A05,2723
+2426,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.3,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
+2427,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.5,"Nepomniachtchi,I","Anand,V",1-0,2753,A06,2784
+2428,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.1,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
+2429,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.2,"Nepomniachtchi,I","Anand,V",1-0,2753,C24,2784
+2430,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.4,"Nepomniachtchi,I","Anand,V",0-1,2753,B47,2784
+2431,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.4,"Nepomniachtchi,I","Leko,P",1/2-1/2,2663,C50,2784
+2432,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.3,"Leko,P","Nepomniachtchi,I",1/2-1/2,2784,A31,2663
+2433,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.2,"Nepomniachtchi,I","Leko,P",1/2-1/2,2663,E21,2784
+2434,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.1,"Leko,P","Nepomniachtchi,I",1/2-1/2,2784,D41,2663
+2435,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.5,"Nepomniachtchi,I","Leko,P",1-0,2663,A01,2784
+2436,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.2,"Carlsen,M","Nepomniachtchi,I",1-0,2784,D85,2863
+2437,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A20,2784
+2438,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A13,2784
+2439,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.4,"Carlsen,M","Nepomniachtchi,I",0-1,2784,A41,2863
+2440,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A15,2784
+2441,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.3,"Gelfand,B","Nepomniachtchi,I",1/2-1/2,2784,D86,2676
+2442,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.1,"Gelfand,B","Nepomniachtchi,I",0-1,2784,D86,2676
+2443,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.4,"Nepomniachtchi,I","Gelfand,B",1/2-1/2,2676,B20,2784
+2444,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.2,"Nepomniachtchi,I","Gelfand,B",0-1,2676,B20,2784
+2445,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.5,"Nepomniachtchi,I","Gelfand,B",0-1,2676,A01,2784
+2446,Legends of Chess Final,chess24.com INT,2020.07.31,1.12,"Nepomniachtchi,I","Giri,A",1-0,2764,C24,2784
+2447,Legends of Chess Final,chess24.com INT,2020.07.31,1.13,"Giri,A","Nepomniachtchi,I",0-1,2784,D85,2764
+2448,Legends of Chess Final,chess24.com INT,2020.07.31,1.11,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D85,2764
+2449,Legends of Chess Final,chess24.com INT,2020.08.01,1.27,"Nepomniachtchi,I","Giri,A",0-1,2764,C67,2784
+2450,Legends of Chess Final,chess24.com INT,2020.08.01,1.24,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D85,2764
+2451,Legends of Chess Final,chess24.com INT,2020.08.01,1.26,"Giri,A","Nepomniachtchi,I",1-0,2784,A35,2764
+2452,Legends of Chess Final,chess24.com INT,2020.08.01,1.25,"Nepomniachtchi,I","Giri,A",1-0,2764,B90,2784
+2453,Legends of Chess Final,chess24.com INT,2020.08.01,1.21,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,C45,2784
+2454,Legends of Chess Final,chess24.com INT,2020.08.01,1.22,"Giri,A","Nepomniachtchi,I",0-1,2784,A33,2764
+2455,Legends of Chess Final,chess24.com INT,2020.08.01,1.23,"Nepomniachtchi,I","Giri,A",0-1,2764,B51,2784
+2456,Legends of Chess Final,chess24.com INT,2020.08.02,1.31,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D02,2764
+2457,Legends of Chess Final,chess24.com INT,2020.08.02,1.34,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,C67,2784
+2458,Legends of Chess Final,chess24.com INT,2020.08.02,1.35,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D87,2764
+2459,Legends of Chess Final,chess24.com INT,2020.08.02,1.36,"Nepomniachtchi,I","Giri,A",1-0,2764,C45,2784
+2460,Legends of Chess Final,chess24.com INT,2020.08.02,1.33,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D02,2764
+2461,Legends of Chess Final,chess24.com INT,2020.08.02,1.32,"Nepomniachtchi,I","Giri,A",1/2-1/2,2764,C65,2784
+2462,Legends of Chess Final,chess24.com INT,2020.08.03,2.13,"Nepomniachtchi,I","Carlsen,M",1-0,2863,B90,2784
+2463,Legends of Chess Final,chess24.com INT,2020.08.03,2.14,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D79,2863
+2464,Legends of Chess Final,chess24.com INT,2020.08.03,2.11,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
+2465,Legends of Chess Final,chess24.com INT,2020.08.03,2.12,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D85,2863
+2466,Legends of Chess Final,chess24.com INT,2020.08.03,2.16,"Carlsen,M","Nepomniachtchi,I",1-0,2784,B06,2863
+2467,Legends of Chess Final,chess24.com INT,2020.08.03,2.15,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
+2468,Legends of Chess Final,chess24.com INT,2020.08.04,2.23,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,A41,2863
+2469,Legends of Chess Final,chess24.com INT,2020.08.04,2.22,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
+2470,Legends of Chess Final,chess24.com INT,2020.08.04,2.21,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A48,2863
+2471,Online Olym Top DivC 2020,chess.com INT,2020.08.21,1.4,"Stoyanov,Tsvetan","Nepomniachtchi,I",0-1,2784,B53,2387
+2472,Online Olym Top DivC 2020,chess.com INT,2020.08.21,2.3,"Solak,D","Nepomniachtchi,I",1/2-1/2,2784,B20,2594
+2473,Online Olym Top DivC 2020,chess.com INT,2020.08.23,7.1,"Nepomniachtchi,I","Amin,B",1-0,2686,C84,2784
+2474,Online Olym Top DivC 2020,chess.com INT,2020.08.23,8.5,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2773,C24,2784
+2475,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.31,"Nepomniachtchi,I","Erdos,V",1-0,2618,B51,2784
+2476,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.32,"Banusz,T","Nepomniachtchi,I",0-1,2784,D85,2628
+2477,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.22,"Nepomniachtchi,I","Shankland,S",1-0,2691,B40,2784
+2478,Online Olym KO Stage 2020,chess.com INT,2020.08.30,4.1,"Vidit,S","Nepomniachtchi,I",1/2-1/2,2784,D85,2726
+2479,Online Olym KO Stage 2020,chess.com INT,2020.08.30,4.2,"Nepomniachtchi,I","Anand,V",1/2-1/2,2753,C50,2784
+2480,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,1.5,"Grischuk,A","Nepomniachtchi,I",1/2-1/2,2784,A35,2777
+2481,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,2.1,"Carlsen,M","Nepomniachtchi,I",0-1,2784,A20,2863
+2482,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,3.5,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2773,C44,2784
+2483,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,4.2,"Harikrishna,P","Nepomniachtchi,I",0-1,2784,B53,2732
+2484,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,5.4,"Nepomniachtchi,I","Xiong,Jeffery",0-1,2709,B04,2784
+2485,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,6.3,"Nakamura,Hi","Nepomniachtchi,I",0-1,2784,B50,2736
+2486,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,7.3,"Nepomniachtchi,I","So,W",1/2-1/2,2770,C24,2784
+2487,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,8.4,"Dominguez Perez,L","Nepomniachtchi,I",1-0,2784,C02,2758
+2488,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,9.2,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2728,B10,2784
+2489,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,1.5,"Nepomniachtchi,I","Grischuk,A",1/2-1/2,2777,A01,2784
+2490,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,2.2,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2784,B08,2728
+2491,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,3.4,"Nepomniachtchi,I","Dominguez Perez,L",1-0,2758,A01,2784
+2492,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,4.3,"So,W","Nepomniachtchi,I",1-0,2784,D85,2770
+2493,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,5.3,"Nepomniachtchi,I","Carlsen,M",1-0,2863,A01,2784
+2494,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,6.4,"Xiong,Jeffery","Nepomniachtchi,I",1/2-1/2,2784,C47,2709
+2495,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,7.2,"Nepomniachtchi,I","Harikrishna,P",1/2-1/2,2732,A01,2784
+2496,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,8.5,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2784,D84,2773
+2497,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,9.1,"Nepomniachtchi,I","Nakamura,Hi",1-0,2736,A01,2784
+2498,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,10.5,"Grischuk,A","Nepomniachtchi,I",1-0,2784,A48,2777
+2499,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,A22,2863
+2500,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,12.5,"Nepomniachtchi,I","Aronian,L",0-1,2773,A01,2784
+2501,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,13.2,"Harikrishna,P","Nepomniachtchi,I",1/2-1/2,2784,B53,2732
+2502,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,14.4,"Nepomniachtchi,I","Xiong,Jeffery",0-1,2709,C24,2784
+2503,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,15.3,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2784,B50,2736
+2504,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,16.3,"Nepomniachtchi,I","So,W",0-1,2770,C26,2784
+2505,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,17.4,"Dominguez Perez,L","Nepomniachtchi,I",1/2-1/2,2784,B84,2758
+2506,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,18.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,A01,2784
+2507,Titled Tue 22nd Sep Final,chess.com INT,2020.09.22,1.1,"Nepomniachtchi,I","Zhigalko,S",1-0,2572,A01,2784
+2508,Titled Tue 22nd Sep Final,chess.com INT,2020.09.22,2.2,"Nepomniachtchi,I","Fier,A",1/2-1/2,2560,B40,2784
+2509,Titled Tue 22nd Sep Final,chess.com INT,2020.09.22,2.1,"Fier,A","Nepomniachtchi,I",0-1,2784,A45,2560
+2510,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,2,"Nepomniachtchi,I","Matveev,V3",1-0,2368,A01,2784
+2511,Titled Tue 22nd Sep Final,chess.com INT,2020.09.22,3.1,"Fedoseev,Vl3","Nepomniachtchi,I",1-0,2784,B93,2678
+2512,Titled Tue 22nd Sep Final,chess.com INT,2020.09.22,3.2,"Nepomniachtchi,I","Fedoseev,Vl3",1/2-1/2,2678,A01,2784
+2513,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,4,"Nepomniachtchi,I","Shirov,A",1-0,2647,A01,2784
+2514,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,5,"Nepomniachtchi,I","Livaic,Leon",1-0,2507,C19,2784
+2515,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,6,"Demidov,M","Nepomniachtchi,I",1/2-1/2,2784,A05,2519
+2516,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,7,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1/2-1/2,2627,C24,2784
+2517,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,8,"Demchenko,A","Nepomniachtchi,I",0-1,2784,A48,2641
+2518,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,9,"Nepomniachtchi,I","Chigaev,M",1-0,2588,A01,2784
+2519,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,1,"Rodchenkov,S","Nepomniachtchi,I",0-1,2784,C03,2346
+2520,Titled Tue 29th Sep Final,chess.com INT,2020.09.29,1.1,"Nepomniachtchi,I","Narayanan,SL",1-0,2618,A01,2784
+2521,Titled Tue 29th Sep Final,chess.com INT,2020.09.29,2.2,"Fedoseev,Vl3","Nepomniachtchi,I",0-1,2784,B90,2678
+2522,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,2,"Nepomniachtchi,I","Fakhrutdinov,Timur",1-0,2501,A01,2784
+2523,Titled Tue 29th Sep Final,chess.com INT,2020.09.29,2.1,"Nepomniachtchi,I","Fedoseev,Vl3",1-0,2678,C65,2784
+2524,Titled Tue 29th Sep Final,chess.com INT,2020.09.29,3.2,"Bluebaum,M","Nepomniachtchi,I",0-1,2784,D85,2660
+2525,Titled Tue 29th Sep Final,chess.com INT,2020.09.29,3.1,"Nepomniachtchi,I","Bluebaum,M",1-0,2660,A00,2784
+2526,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,3,"Jumabayev,R","Nepomniachtchi,I",0-1,2784,C03,2654
+2527,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,4,"Nepomniachtchi,I","Mekhitarian,K",1-0,2554,A01,2784
+2528,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,5,"Pantsulaia,L","Nepomniachtchi,I",0-1,2784,A04,2553
+2529,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,6,"Nepomniachtchi,I","Svane,R",1-0,2613,A01,2784
+2530,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,8,"Zhigalko,S","Nepomniachtchi,I",0-1,2784,B00,2572
+2531,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,9,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2784,B51,2736
+2532,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,10,"Nepomniachtchi,I","Bluebaum,M",1/2-1/2,2660,C01,2784
+2533,Speed Chess Super Swiss,chess.com INT,2020.10.03,1,"Nepomniachtchi,I","Jakubowski,K",1/2-1/2,2497,A01,2784
+2534,Speed Chess Super Swiss,chess.com INT,2020.10.03,2,"Cagara,P","Nepomniachtchi,I",0-1,2784,C19,2027
+2535,Speed Chess Super Swiss,chess.com INT,2020.10.03,3,"Nepomniachtchi,I","Klekowski,M",1-0,2512,B46,2784
+2536,Speed Chess Super Swiss,chess.com INT,2020.10.03,4,"Szustakowski,Antoni","Nepomniachtchi,I",1-0,2784,D85,2238
+2537,Speed Chess Super Swiss,chess.com INT,2020.10.03,5,"Nepomniachtchi,I","Motylev,A",1-0,2641,A01,2784
+2538,Speed Chess Super Swiss,chess.com INT,2020.10.03,6,"Stupak,K","Nepomniachtchi,I",0-1,2784,D90,2515
+2539,Speed Chess Super Swiss,chess.com INT,2020.10.03,7,"Nepomniachtchi,I","Bortnyk,Olexandr",1-0,2598,A01,2784
+2540,Speed Chess Super Swiss,chess.com INT,2020.10.03,8,"Nepomniachtchi,I","Savchenko,B",1-0,2551,A01,2784
+2541,Speed Chess Super Swiss,chess.com INT,2020.10.03,9,"Kuzubov,Y","Nepomniachtchi,I",0-1,2784,A48,2643
+2542,Speed Chess Super Swiss,chess.com INT,2020.10.03,10,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",1/2-1/2,2784,C15,2620
+2543,Speed Chess Super Swiss,chess.com INT,2020.10.03,11,"Nepomniachtchi,I","Nakamura,Hi",1-0,2736,A01,2784
+2544,Speed Chess Super Swiss,chess.com INT,2020.10.03,12,"Nepomniachtchi,I","So,W",1/2-1/2,2770,A01,2784
+2545,Speed Chess Super Swiss,chess.com INT,2020.10.03,13,"Praggnanandhaa,R","Nepomniachtchi,I",1/2-1/2,2784,A05,2608
+2546,Speed Chess Super Swiss,chess.com INT,2020.10.03,14,"Nepomniachtchi,I","Artemiev,V",1/2-1/2,2716,A01,2784
+2547,Speed Chess Super Swiss,chess.com INT,2020.10.03,15,"Andreikin,D","Nepomniachtchi,I",1/2-1/2,2784,A45,2726
+2548,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.3,"Fedoseev,Vl3","Nepomniachtchi,I",1/2-1/2,2784,A48,2678
+2549,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.4,"Nepomniachtchi,I","Fedoseev,Vl3",1-0,2678,B10,2784
+2550,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.1,"Fedoseev,Vl3","Nepomniachtchi,I",1-0,2784,A00,2678
+2551,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.2,"Nepomniachtchi,I","Fedoseev,Vl3",0-1,2678,B10,2784
+2552,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.7,"Fedoseev,Vl3","Nepomniachtchi,I",1-0,2784,C00,2678
+2553,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.5,"Fedoseev,Vl3","Nepomniachtchi,I",1-0,2784,C00,2678
+2554,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.6,"Nepomniachtchi,I","Fedoseev,Vl3",0-1,2678,B10,2784
+2555,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,1.2,"Nepomniachtchi,I","Motylev,A",1-0,2641,A06,2784
+2556,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,2.4,"Lautier,J","Nepomniachtchi,I",0-1,2784,D85,2658
+2557,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,3.1,"Nepomniachtchi,I","Kramnik,V",0-1,2753,A13,2784
+2558,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,4.4,"Nepomniachtchi,I","Potkin,V",1-0,2583,A01,2784
+2559,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,5.2,"Tomashevsky,E","Nepomniachtchi,I",1-0,2784,A06,2706
+2560,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,6.3,"Nepomniachtchi,I","Kobalia,M",1-0,2614,A01,2784
+2561,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,7.3,"Gelfand,B","Nepomniachtchi,I",0-1,2784,A41,2676
+2562,chess.com Speed 2020,chess.com INT,2020.11.11,1.13,"Nepomniachtchi,I","Aronian,L",0-1,2781,A01,2784
+2563,chess.com Speed 2020,chess.com INT,2020.11.11,1.11,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,A01,2784
+2564,chess.com Speed 2020,chess.com INT,2020.11.11,1.14,"Aronian,L","Nepomniachtchi,I",1-0,2784,B50,2781
+2565,chess.com Speed 2020,chess.com INT,2020.11.11,1.12,"Aronian,L","Nepomniachtchi,I",0-1,2784,B90,2781
+2566,chess.com Speed 2020,chess.com INT,2020.11.11,1.15,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,A01,2784
+2567,chess.com Speed 2020,chess.com INT,2020.11.11,1.16,"Aronian,L","Nepomniachtchi,I",1-0,2784,B50,2781
+2568,chess.com Speed 2020,chess.com INT,2020.11.11,1.37,"Aronian,L","Nepomniachtchi,I",0-1,2784,B13,2781
+2569,chess.com Speed 2020,chess.com INT,2020.11.11,1.24,"Aronian,L","Nepomniachtchi,I",1-0,2784,C15,2781
+2570,chess.com Speed 2020,chess.com INT,2020.11.11,1.28,"Aronian,L","Nepomniachtchi,I",0-1,2784,B50,2781
+2571,chess.com Speed 2020,chess.com INT,2020.11.11,1.17,"Nepomniachtchi,I","Aronian,L",1-0,2781,C65,2784
+2572,chess.com Speed 2020,chess.com INT,2020.11.11,1.18,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2784,C19,2781
+2573,chess.com Speed 2020,chess.com INT,2020.11.11,1.26,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2784,C15,2781
+2574,chess.com Speed 2020,chess.com INT,2020.11.11,1.22,"Aronian,L","Nepomniachtchi,I",0-1,2784,C19,2781
+2575,chess.com Speed 2020,chess.com INT,2020.11.11,1.31,"Aronian,L","Nepomniachtchi,I",1-0,2784,B50,2781
+2576,chess.com Speed 2020,chess.com INT,2020.11.11,1.27,"Nepomniachtchi,I","Aronian,L",1-0,2781,A01,2784
+2577,chess.com Speed 2020,chess.com INT,2020.11.11,1.35,"Aronian,L","Nepomniachtchi,I",1-0,2784,C15,2781
+2578,chess.com Speed 2020,chess.com INT,2020.11.11,1.34,"Nepomniachtchi,I","Aronian,L",0-1,2781,A01,2784
+2579,chess.com Speed 2020,chess.com INT,2020.11.11,1.33,"Aronian,L","Nepomniachtchi,I",1-0,2784,B50,2781
+2580,chess.com Speed 2020,chess.com INT,2020.11.11,1.32,"Nepomniachtchi,I","Aronian,L",1-0,2781,A01,2784
+2581,chess.com Speed 2020,chess.com INT,2020.11.11,1.38,"Nepomniachtchi,I","Aronian,L",0-1,2781,C45,2784
+2582,chess.com Speed 2020,chess.com INT,2020.11.11,1.29,"Nepomniachtchi,I","Aronian,L",0-1,2781,A15,2784
+2583,chess.com Speed 2020,chess.com INT,2020.11.11,1.25,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,A00,2784
+2584,chess.com Speed 2020,chess.com INT,2020.11.11,1.23,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,C65,2784
+2585,chess.com Speed 2020,chess.com INT,2020.11.11,1.36,"Nepomniachtchi,I","Aronian,L",1-0,2781,C22,2784
+2586,chess.com Speed 2020,chess.com INT,2020.11.11,1.21,"Nepomniachtchi,I","Aronian,L",0-1,2781,C65,2784
+2587,Skilling Open Prelim,chess24.com INT,2020.11.22,1.8,"Nepomniachtchi,I","Carlsen,M",1-0,2862,C60,2784
+2588,Skilling Open Prelim,chess24.com INT,2020.11.22,2.2,"Radjabov,T","Nepomniachtchi,I",0-1,2784,D93,2765
+2589,Skilling Open Prelim,chess24.com INT,2020.11.22,3.7,"Nepomniachtchi,I","Anton Guijarro,D",0-1,2675,A01,2784
+2590,Skilling Open Prelim,chess24.com INT,2020.11.22,4.3,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2784,E60,2749
+2591,Skilling Open Prelim,chess24.com INT,2020.11.23,6.4,"Duda,J","Nepomniachtchi,I",0-1,2784,D85,2743
+2592,Skilling Open Prelim,chess24.com INT,2020.11.23,8.5,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D42,2764
+2593,Skilling Open Prelim,chess24.com INT,2020.11.23,10.6,"Nakamura,Hi","Nepomniachtchi,I",1-0,2784,B90,2736
+2594,Skilling Open Prelim,chess24.com INT,2020.11.24,11.3,"Nepomniachtchi,I",Le Quang Liem,1/2-1/2,2709,C67,2784
+2595,Skilling Open Prelim,chess24.com INT,2020.11.24,12.7,"Vidit,S","Nepomniachtchi,I",1/2-1/2,2784,D85,2726
+2596,Skilling Open Prelim,chess24.com INT,2020.11.24,13.2,"Nepomniachtchi,I","So,W",1/2-1/2,2770,C67,2784
+2597,Skilling Open Prelim,chess24.com INT,2020.11.24,14.8,"Svidler,P","Nepomniachtchi,I",0-1,2784,B90,2723
+2598,Skilling Open Prelim,chess24.com INT,2020.11.24,15.1,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2784,B51,2784
+2599,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.13,"Aronian,L","Nepomniachtchi,I",1-0,2784,A48,2781
+2600,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.12,"Nepomniachtchi,I","Aronian,L",1-0,2781,C53,2784
+2601,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.11,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2784,A48,2781
+2602,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.14,"Nepomniachtchi,I","Aronian,L",0-1,2781,C53,2784
+2603,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.23,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,C43,2784
+2604,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.22,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2784,A34,2781
+2605,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.21,"Nepomniachtchi,I","Aronian,L",1-0,2781,C53,2784
+2606,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.32,"Nepomniachtchi,I","Aronian,L",1-0,2781,B06,2784
+2607,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.24,"Aronian,L","Nepomniachtchi,I",0-1,2784,A34,2781
+2608,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.31,"Aronian,L","Nepomniachtchi,I",0-1,2784,A34,2781
+2609,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,B35,2784
+2610,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.11,"Carlsen,M","Nepomniachtchi,I",1-0,2784,D85,2862
+2611,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.13,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D85,2862
+2612,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C67,2784
+2613,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.23,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C84,2784
+2614,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.24,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,B51,2862
+2615,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.21,"Nepomniachtchi,I","Carlsen,M",1-0,2862,C84,2784
+2616,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.22,"Carlsen,M","Nepomniachtchi,I",1-0,2784,B22,2862
+2617,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,2,"Kashlinskaya,A","Nepomniachtchi,I",0-1,2784,A85,2494
+2618,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,3,"Nepomniachtchi,I","Chernobay,A",1-0,2490,B89,2784
+2619,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,4,"Ivic,Velimir","Nepomniachtchi,I",0-1,2784,B23,2581
+2620,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,5,"Nepomniachtchi,I","Svidler,P",1/2-1/2,2723,B90,2784
+2621,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,6,"Vastrukhin,O","Nepomniachtchi,I",0-1,2784,A04,2401
+2622,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,7,"Nepomniachtchi,I","Paravyan,D",1-0,2647,C42,2784
+2623,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,8,"Nepomniachtchi,I","Erigaisi,Arjun",1-0,2559,C18,2784
+2624,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,9,"Svane,R","Nepomniachtchi,I",0-1,2784,D78,2613
+2625,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,10,"Sadhwani,Raunak","Nepomniachtchi,I",1-0,2784,A22,2545
+2626,Titled Tuesday 1st Dec,chess.com INT,2020.12.01,11,"Nepomniachtchi,I","Gukesh,D",1-0,2563,B10,2784
+2627,73rd ch-RUS 2020,Moscow RUS,2020.12.05,1.4,"Nepomniachtchi,I","Matlakov,M",1-0,2698,D35,2784
+2628,73rd ch-RUS 2020,Moscow RUS,2020.12.06,2.4,"Svidler,P","Nepomniachtchi,I",1/2-1/2,2784,B90,2723
+2629,73rd ch-RUS 2020,Moscow RUS,2020.12.07,3.3,"Nepomniachtchi,I","Artemiev,V",1/2-1/2,2711,C79,2784
+2630,73rd ch-RUS 2020,Moscow RUS,2020.12.08,4.5,"Antipov,M2","Nepomniachtchi,I",0-1,2784,B90,2611
+2631,73rd ch-RUS 2020,Moscow RUS,2020.12.09,5.2,"Nepomniachtchi,I","Vitiugov,N",1/2-1/2,2720,C45,2784
+2632,73rd ch-RUS 2020,Moscow RUS,2020.12.10,6.6,"Goganov,A","Nepomniachtchi,I",0-1,2784,D37,2594
+2633,73rd ch-RUS 2020,Moscow RUS,2020.12.12,7.1,"Nepomniachtchi,I","Karjakin,Sergey",1-0,2752,E20,2784
+2634,73rd ch-RUS 2020,Moscow RUS,2020.12.13,8.6,"Nepomniachtchi,I","Fedoseev,Vl3",1/2-1/2,2674,B51,2784
+2635,73rd ch-RUS 2020,Moscow RUS,2020.12.14,9.2,"Dubov,Daniil","Nepomniachtchi,I",1-0,2784,D85,2702
+2636,73rd ch-RUS 2020,Moscow RUS,2020.12.15,10.5,"Nepomniachtchi,I","Esipenko,Andrey",1-0,2686,C42,2784
+2637,Airthings Masters Prelim,chess24.com INT,2020.12.26,1.5,"Giri,A","Nepomniachtchi,I",1/2-1/2,2784,D90,2764
+2638,Airthings Masters Prelim,chess24.com INT,2020.12.26,2.2,"Nepomniachtchi,I","Grischuk,A",0-1,2777,C53,2784
+2639,Airthings Masters Prelim,chess24.com INT,2020.12.26,3.6,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2784,B51,2736
+2640,Airthings Masters Prelim,chess24.com INT,2020.12.26,4.1,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,B90,2784
+2641,Airthings Masters Prelim,chess24.com INT,2020.12.27,5.6,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2781,C45,2784
+2642,Airthings Masters Prelim,chess24.com INT,2020.12.27,6.2,"So,W","Nepomniachtchi,I",1/2-1/2,2784,D85,2770
+2643,Airthings Masters Prelim,chess24.com INT,2020.12.27,7.5,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,B30,2784
+2644,Airthings Masters Prelim,chess24.com INT,2020.12.27,8.3,"Harikrishna,P","Nepomniachtchi,I",1/2-1/2,2784,B53,2732
+2645,Airthings Masters Prelim,chess24.com INT,2020.12.28,9.4,"Nepomniachtchi,I","Dubov,Daniil",1-0,2702,E73,2784
+2646,Airthings Masters Prelim,chess24.com INT,2020.12.28,10.4,"Anton Guijarro,D","Nepomniachtchi,I",1/2-1/2,2784,B53,2675
+2647,Airthings Masters Prelim,chess24.com INT,2020.12.28,11.3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,B33,2784
+2648,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.13,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E61,2784
+2649,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.12,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
+2650,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.14,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
+2651,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.11,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,D35,2784
+2652,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.23,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,A04,2765
+2653,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.22,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E25,2784
+2654,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.24,"Nepomniachtchi,I","Radjabov,T",1-0,2765,E73,2784
+2655,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.21,"Radjabov,T","Nepomniachtchi,I",1-0,2784,D42,2765
+2656,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.32,"Nepomniachtchi,I","Radjabov,T",0-1,2765,B00,2784
+2657,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.31,"Radjabov,T","Nepomniachtchi,I",0-1,2784,D02,2765
+2658,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.33,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E91,2784
+2659,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,2,"Nepomniachtchi,I","Dukic,Zachary",1-0,2149,A01,2789
+2660,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,3,"Gorodetzky,David","Nepomniachtchi,I",1-0,2789,A20,2495
+2661,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,4,"Nepomniachtchi,I","Vasli,A",1-0,2384,A01,2789
+2662,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,5,"Studer,N","Nepomniachtchi,I",0-1,2789,D08,2579
+2663,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,6,"Nepomniachtchi,I","Bordi,K",1-0,2288,A01,2789
+2664,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,7,"Moskalenko,A","Nepomniachtchi,I",0-1,2789,E60,2515
+2665,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,8,"Nepomniachtchi,I","Sjugirov,S",1/2-1/2,2663,A01,2789
+2666,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,9,"Chigaev,M","Nepomniachtchi,I",0-1,2789,B30,2631
+2667,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,10,"Nepomniachtchi,I","Vrolijk,Liam",1/2-1/2,2480,A01,2789
+2668,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,11,"Abdusattorov,Nodirbek","Nepomniachtchi,I",1-0,2789,B90,2627
+2669,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.7,"Duda,J","Nepomniachtchi,I",0-1,2789,D87,2743
+2670,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.2,"Nepomniachtchi,I","Grischuk,A",1-0,2777,B94,2789
+2671,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.8,"Giri,A","Nepomniachtchi,I",1-0,2789,B90,2764
+2672,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.1,"Dubov,Daniil","Nepomniachtchi,I",1/2-1/2,2789,B93,2710
+2673,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.8,"Nepomniachtchi,I","Nakamura,Hi",1-0,2736,C67,2789
+2674,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.2,"Vidit,S","Nepomniachtchi,I",1/2-1/2,2789,D42,2726
+2675,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.7,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,B32,2789
+2676,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.3,Ding Liren,"Nepomniachtchi,I",1/2-1/2,2789,E60,2791
+2677,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.6,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C78,2789
+2678,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.4,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2789,B51,2784
+2679,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.5,"Nepomniachtchi,I","So,W",1/2-1/2,2770,D41,2789
+2680,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.5,"Aronian,L","Nepomniachtchi,I",1-0,2789,D80,2781
+2681,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.4,"Nepomniachtchi,I","Bluebaum,M",0-1,2670,C11,2789
+2682,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,14.6,"Shankland,S","Nepomniachtchi,I",1/2-1/2,2789,B90,2691
+2683,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.3,"Nepomniachtchi,I","Dominguez Perez,L",0-1,2758,E48,2789
+2684,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,1,"Goltseva,Ekaterina","Nepomniachtchi,I",0-1,2789,E90,2295
+2685,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,2,"Nepomniachtchi,I","Heinemann,Josefine",1-0,2296,B95,2789
+2686,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,3,"Markov,M KGZ","Nepomniachtchi,I",0-1,2789,A10,2365
+2687,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,4,"Nepomniachtchi,I","Fier,A",1-0,2576,B81,2789
+2688,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,5,"Livaic,Leon","Nepomniachtchi,I",1-0,2789,E71,2507
+2689,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,6,"Nepomniachtchi,I","Krzyzanowski,M",1-0,2503,C45,2789
+2690,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,7,"Nepomniachtchi,I","Holt,C",1-0,2549,C11,2789
+2691,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,8,"Perez Ponsa,F","Nepomniachtchi,I",1/2-1/2,2789,C07,2554
+2692,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,9,"Nepomniachtchi,I","Tabatabaei,M",1-0,2629,E20,2789
+2693,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,10,"Nepomniachtchi,I","Ivic,Velimir",1-0,2581,B33,2789
+2694,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,11,"Vastrukhin,O","Nepomniachtchi,I",0-1,2789,B06,2401
+2695,World Corporate East A,chess.com INT,2021.02.19,1.1,"Nepomniachtchi,I","Kontopodis,Dimitrios",1-0,,B05,2789
+2696,World Corporate East A,chess.com INT,2021.02.19,2.1,"Kazakouski,Valery","Nepomniachtchi,I",0-1,2789,A04,2476
+2697,World Corporate East A,chess.com INT,2021.02.19,3.2,"Nepomniachtchi,I","Baraeva,M",1-0,2227,D11,2789
+2698,World Corporate East A,chess.com INT,2021.02.20,4.1,"Nepomniachtchi,I","Anisimov,P2",1-0,2527,C10,2789
+2699,World Corporate East A,chess.com INT,2021.02.20,5.1,"Brylski,P","Nepomniachtchi,I",0-1,2789,B20,1966
+2700,World Corporate East A,chess.com INT,2021.02.20,6.1,"Berend,E","Nepomniachtchi,I",0-1,2789,B50,2326
+2701,World Corporate Final,chess.com INT,2021.02.21,1,"Ismagambetov,An","Nepomniachtchi,I",1/2-1/2,2789,C60,2520
+2702,World Corporate Final,chess.com INT,2021.02.21,3,"Nepomniachtchi,I","Korobov,A",1-0,2683,C11,2789
+2703,World Corporate Final,chess.com INT,2021.02.21,4,"Meier,Geo","Nepomniachtchi,I",0-1,2789,A35,2628
+2704,World Corporate Final,chess.com INT,2021.02.21,5,"Nepomniachtchi,I","Meier,Geo",1/2-1/2,2628,C10,2789
+2705,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,1,"Nepomniachtchi,I","Ovchinnikov,Vsevolod",1-0,2426,D90,2789
+2706,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,2,"Dragomirescu,R","Nepomniachtchi,I",0-1,2789,D35,2337
+2707,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,3,"Nepomniachtchi,I","Dardha,Daniel",1-0,2516,B32,2789
+2708,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,4,"Iturrizaga,E","Nepomniachtchi,I",0-1,2789,A20,2607
+2709,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,5,"Nepomniachtchi,I","Alekseenko,K",1-0,2696,C45,2789
+2710,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,6,"Yoo,Christopher Woojin","Nepomniachtchi,I",1/2-1/2,2789,D90,2455
+2711,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,7,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1-0,2627,B12,2789
+2712,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,8,"Bernadskiy,V","Nepomniachtchi,I",0-1,2789,D90,2599
+2713,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,9,"Nepomniachtchi,I","Tsydypov,Z",1/2-1/2,2565,B84,2789
+2714,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,10,"Nepomniachtchi,I","Artemiev,V",1-0,2709,C45,2789
+2715,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,11,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2789,B23,2759
+2716,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,1.3,"So,W","Nepomniachtchi,I",0-1,2789,B06,2770
+2717,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,2.6,"Nepomniachtchi,I","Aronian,L",0-1,2781,C33,2789
+2718,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,3.4,"Dubov,Daniil","Nepomniachtchi,I",1-0,2789,B09,2710
+2719,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,4.5,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,C67,2789
+2720,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,5.5,"Van Foreest,Jorden","Nepomniachtchi,I",1-0,2789,B06,2701
+2721,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,6.4,"Nepomniachtchi,I","Vachier Lagrave,M",1-0,2758,A01,2789
+2722,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,7.6,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2789,A45,2759
+2723,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,8.3,"Nepomniachtchi,I","Carlsen,M",0-1,2847,B33,2789
+2724,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,9.7,"Anton Guijarro,D","Nepomniachtchi,I",0-1,2789,E60,2673
+2725,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,10.2,"Nepomniachtchi,I","Grandelius,N",1/2-1/2,2670,A01,2789
+2726,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,11.8,"Mamedyarov,S","Nepomniachtchi,I",0-1,2789,B22,2770
+2727,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,12.1,"Giri,A","Nepomniachtchi,I",0-1,2789,B46,2776
+2728,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,14.2,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2789,D85,2765
+2729,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,15.7,"Nepomniachtchi,I","Pichot,A",1-0,2630,B48,2789
+2730,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.13,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2789,B46,2736
+2731,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.14,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,C67,2789
+2732,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.11,"Nakamura,Hi","Nepomniachtchi,I",1-0,2789,B90,2736
+2733,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.12,"Nepomniachtchi,I","Nakamura,Hi",1-0,2736,C67,2789
+2734,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.21,"Nepomniachtchi,I","Nakamura,Hi",1-0,2736,C53,2789
+2735,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.23,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,C70,2789
+2736,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.22,"Nakamura,Hi","Nepomniachtchi,I",0-1,2789,B47,2736
+2737,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.11,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2789,D37,2847
+2738,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C83,2789
+2739,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,B51,2789
+2740,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.13,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D37,2847
+2741,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.31,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C84,2789
+2742,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.22,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D35,2847
+2743,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.21,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C84,2789
+2744,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.32,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D35,2847
+2745,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.23,"Nepomniachtchi,I","Carlsen,M",0-1,2847,B40,2789
+2746,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.24,"Carlsen,M","Nepomniachtchi,I",1-0,2789,B90,2847
+2747,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.12,"Nepomniachtchi,I","Giri,A",1/2-1/2,2776,B97,2789
+2748,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.11,"Giri,A","Nepomniachtchi,I",1/2-1/2,2789,B40,2776
+2749,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.13,"Giri,A","Nepomniachtchi,I",1/2-1/2,2789,B48,2776
+2750,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.14,"Nepomniachtchi,I","Giri,A",1/2-1/2,2776,B97,2789
+2751,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.21,"Nepomniachtchi,I","Giri,A",1/2-1/2,2776,B97,2789
+2752,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.31,"Giri,A","Nepomniachtchi,I",1-0,2789,C02,2776
+2753,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.24,"Giri,A","Nepomniachtchi,I",0-1,2789,B30,2776
+2754,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.32,"Nepomniachtchi,I","Giri,A",0-1,2776,A01,2789
+2755,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.22,"Giri,A","Nepomniachtchi,I",1-0,2789,B48,2776
+2756,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.23,"Nepomniachtchi,I","Giri,A",1/2-1/2,2776,B97,2789
+2757,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.3,"Nepomniachtchi,I","Giri,A",1/2-1/2,2763,B33,2774
+2758,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.2,"Grischuk,A","Nepomniachtchi,I",1/2-1/2,2774,D85,2777
+2759,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.4,"Nepomniachtchi,I","Alekseenko,K",1-0,2698,A13,2774
+2760,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.1,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2842,C47,2774
+2761,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.4,Wang Hao,"Nepomniachtchi,I",0-1,2774,C42,2762
+2762,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2767,A15,2774
+2763,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.3,Ding Liren,"Nepomniachtchi,I",1-0,2774,E60,2805
+2764,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,D37,2760
+2765,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.7,"Nepomniachtchi,I","Pichot,A",1-0,2630,B51,2792
+2766,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.3,"Giri,A","Nepomniachtchi,I",1/2-1/2,2792,D85,2780
+2767,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.6,"Nepomniachtchi,I",Ding Liren,1-0,2799,B19,2792
+2768,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,15.4,"Grischuk,A","Nepomniachtchi,I",0-1,2792,D85,2776
+2769,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.11,"Nepomniachtchi,I","Caruana,F",1-0,2820,C42,2792
+2770,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.14,"Caruana,F","Nepomniachtchi,I",1-0,2792,C02,2820
+2771,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.13,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,B48,2792
+2772,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.12,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,C02,2820
+2773,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.31,"Nepomniachtchi,I","Caruana,F",1-0,2820,A20,2792
+2774,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.24,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,C47,2792
+2775,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.32,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,C02,2820
+2776,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.22,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,C55,2792
+2777,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.23,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,A48,2820
+2778,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.21,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,A48,2820
+2779,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.14,"Nepomniachtchi,I","So,W",0-1,2770,A08,2792
+2780,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.13,"So,W","Nepomniachtchi,I",1/2-1/2,2792,C11,2770
+2781,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.12,"Nepomniachtchi,I","So,W",1/2-1/2,2770,A08,2792
+2782,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.11,"So,W","Nepomniachtchi,I",1/2-1/2,2792,C11,2770
+2783,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.23,"Nepomniachtchi,I","So,W",0-1,2770,D35,2792
+2784,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.21,"Nepomniachtchi,I","So,W",1/2-1/2,2770,A28,2792
+2785,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.13,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2792,D85,2765
+2786,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.12,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,C67,2792
+2787,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.24,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2792,A35,2765
+2788,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.21,"Nepomniachtchi,I","Radjabov,T",1-0,2765,A01,2792
+2789,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.22,"Radjabov,T","Nepomniachtchi,I",1-0,2792,B08,2765
+2790,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.23,"Nepomniachtchi,I","Radjabov,T",1-0,2765,A01,2792
+2791,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,E53,2820
+2792,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.2,"Nepomniachtchi,I","Bacrot,E",1-0,2678,B52,2792
+2793,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.4,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,A05,2763
+2794,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.1,"So,W","Nepomniachtchi,I",1/2-1/2,2792,D38,2770
+2795,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.5,"Nepomniachtchi,I","Aronian,L",1-0,2781,A13,2792
+2796,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,C02,2760
+2797,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2759,C50,2792
+2798,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.3,"Svidler,P","Nepomniachtchi,I",1/2-1/2,2792,C11,2714
+2799,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.3,"Nepomniachtchi,I","Radjabov,T",1-0,2765,C67,2792
+2800,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2763,B40,2792
+2801,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.5,"Nepomniachtchi,I","Caruana,F",1-0,2820,C55,2792
+2802,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.2,"Radjabov,T","Nepomniachtchi,I",0-1,2792,D38,2765
+2803,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.4,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2760,A01,2792
+2804,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.3,"Svidler,P","Nepomniachtchi,I",1/2-1/2,2792,A13,2714
+2805,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.3,"Nepomniachtchi,I","Aronian,L",1-0,2781,A13,2792
+2806,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.4,"Kramnik,V","Nepomniachtchi,I",0-1,2792,A13,2753
+2807,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2759,B30,2792
+2808,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.5,"So,W","Nepomniachtchi,I",1/2-1/2,2792,D38,2770
+2809,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.1,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D38,2763
+2810,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.5,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,D38,2820
+2811,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.2,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,A01,2792
+2812,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.4,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2792,C11,2760
+2813,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.3,"Nepomniachtchi,I","Svidler,P",1-0,2714,A37,2792
+2814,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.3,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2792,A46,2781
+2815,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.4,"Nepomniachtchi,I","Kramnik,V",1/2-1/2,2753,C67,2792
+2816,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.2,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C11,2759
+2817,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.5,"Nepomniachtchi,I","So,W",0-1,2770,A01,2792
+2818,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.1,"Nepomniachtchi,I","Korobov,A",1-0,2683,C11,2792
+2819,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.5,"Nepomniachtchi,I","Mamedyarov,S",1-0,2782,E72,2792
+2820,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.2,"Anand,V","Nepomniachtchi,I",1/2-1/2,2792,B46,2753
+2821,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.4,"Nepomniachtchi,I","Grischuk,A",1-0,2778,A13,2792
+2822,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.3,"Duda,J","Nepomniachtchi,I",1/2-1/2,2792,E49,2738
+2823,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.3,"Nepomniachtchi,I","Saric,Iv",0-1,2653,B33,2792
+2824,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.4,"Giri,A","Nepomniachtchi,I",1/2-1/2,2792,E06,2776
+2825,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.2,"Nepomniachtchi,I","Van Foreest,Jorden",1/2-1/2,2688,D10,2792
+2826,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.5,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2792,B46,2749
+2827,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.3,"Nepomniachtchi,I","Korobov,A",1-0,2683,E63,2792
+2828,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.4,"Mamedyarov,S","Nepomniachtchi,I",1-0,2792,D38,2782
+2829,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.2,"Nepomniachtchi,I","Giri,A",1/2-1/2,2776,A14,2792
+2830,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.5,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,B92,2749
+2831,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.1,"Nepomniachtchi,I","Anand,V",1-0,2753,A33,2792
+2832,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.5,"Nepomniachtchi,I","Van Foreest,Jorden",1-0,2688,A11,2792
+2833,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.2,"Grischuk,A","Nepomniachtchi,I",1/2-1/2,2792,B46,2778
+2834,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.4,"Nepomniachtchi,I","Duda,J",1-0,2738,A13,2792
+2835,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.3,"Kasparov,G","Nepomniachtchi,I",0-1,2792,D38,2812
+2836,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.3,"Korobov,A","Nepomniachtchi,I",0-1,2792,E54,2683
+2837,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.4,"Nepomniachtchi,I","Mamedyarov,S",0-1,2782,A15,2792
+2838,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.2,"Giri,A","Nepomniachtchi,I",1-0,2792,E10,2776
+2839,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.5,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2749,A33,2792
+2840,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.1,"Anand,V","Nepomniachtchi,I",1-0,2792,B46,2753
+2841,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.5,"Van Foreest,Jorden","Nepomniachtchi,I",1/2-1/2,2792,A07,2688
+2842,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.2,"Nepomniachtchi,I","Grischuk,A",1/2-1/2,2778,A20,2792
+2843,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.4,"Duda,J","Nepomniachtchi,I",1-0,2792,D38,2738
+2844,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.3,"Nepomniachtchi,I","Kasparov,G",1/2-1/2,2812,A10,2792
+2845,Smyslov Region Group Cup,Moscow RUS,2021.08.16,1.3,"Alekseenko,K","Nepomniachtchi,I",0-1,2792,B46,2703
+2846,Smyslov Region Group Cup,Moscow RUS,2021.08.16,2.3,"Nepomniachtchi,I","Alekseenko,K",1-0,2703,C31,2792
+2847,Smyslov Region Group Cup,Moscow RUS,2021.08.16,3.1,"Nepomniachtchi,I","Kobalia,M",1-0,2594,B19,2792
+2848,Smyslov Region Group Cup,Moscow RUS,2021.08.16,4.1,"Kobalia,M","Nepomniachtchi,I",1/2-1/2,2792,B44,2594
+2849,Smyslov Region Group Cup,Moscow RUS,2021.08.16,5.1,"Matlakov,M","Nepomniachtchi,I",1-0,2792,A33,2680
+2850,Smyslov Region Group Cup,Moscow RUS,2021.08.16,6.1,"Nepomniachtchi,I","Matlakov,M",0-1,2680,B15,2792
+2851,Smyslov Region Group Cup,Moscow RUS,2021.08.16,7.2,"Nepomniachtchi,I","Lagno,Kateryna",1-0,2559,C36,2792
+2852,Smyslov Region Group Cup,Moscow RUS,2021.08.16,8.2,"Lagno,Kateryna","Nepomniachtchi,I",0-1,2792,C03,2559
+2853,Smyslov Region Group Cup,Moscow RUS,2021.08.16,9.1,"Nepomniachtchi,I","Sjugirov,S",1-0,2661,B33,2792
+2854,Smyslov Region Group Cup,Moscow RUS,2021.08.16,10.1,"Sjugirov,S","Nepomniachtchi,I",0-1,2792,B46,2661
+2855,Smyslov Region Group Cup,Moscow RUS,2021.08.16,11.1,"Artemiev,V","Nepomniachtchi,I",1/2-1/2,2792,A07,2704
+2856,Smyslov Region Group Cup,Moscow RUS,2021.08.16,12.1,"Nepomniachtchi,I","Artemiev,V",1-0,2704,B10,2792
+2857,Smyslov Region Group Cup,Moscow RUS,2021.08.16,13.1,"Nepomniachtchi,I","Grischuk,A",1/2-1/2,2778,C67,2792
+2858,Smyslov Region Group Cup,Moscow RUS,2021.08.16,14.1,"Grischuk,A","Nepomniachtchi,I",1/2-1/2,2792,E06,2778
+2859,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2754,C34,2792
+2860,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2754,C78,2792
+2861,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.2,"Tari,A","Nepomniachtchi,I",0-1,2792,B23,2642
+2862,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.2,"Tari,A","Nepomniachtchi,I",1/2-1/2,2792,B90,2642
+2863,9th Norway Armageddon,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1-0,2792,A05,2855
+2864,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2792,C67,2855
+2865,9th Norway Chess 2021,Stavanger NOR,2021.09.11,1.3,"Nepomniachtchi,I","Karjakin,Sergey",1-0,2758,C67,2792
+2866,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2760,D02,2792
+2867,9th Norway Armageddon,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1-0,2760,B01,2792
+2868,9th Norway Armageddon,Stavanger NOR,2021.09.13,6.2,"Karjakin,Sergey","Nepomniachtchi,I",1-0,2792,C24,2758
+2869,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.2,"Karjakin,Sergey","Nepomniachtchi,I",1/2-1/2,2792,E06,2758
+2870,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.3,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C50,2754
+2871,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.2,"Nepomniachtchi,I","Tari,A",0-1,2642,A21,2792
+2872,9th Norway Armageddon,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",0-1,2792,A06,2760
+2873,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D30,2760
+2874,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C53,2792
+2875,9th Norway Armageddon,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C28,2792
+2876,WCh 2021,Dubai UAE,2021.11.26,1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+2877,WCh 2021,Dubai UAE,2021.11.27,2,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2855
+2878,WCh 2021,Dubai UAE,2021.11.28,3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+2879,WCh 2021,Dubai UAE,2021.11.30,4,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+2880,WCh 2021,Dubai UAE,2021.12.01,5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+2881,WCh 2021,Dubai UAE,2021.12.03,6,"Carlsen,M","Nepomniachtchi,I",1-0,2782,D02,2855
+2882,WCh 2021,Dubai UAE,2021.12.04,7,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+2883,WCh 2021,Dubai UAE,2021.12.05,8,"Carlsen,M","Nepomniachtchi,I",1-0,2782,C43,2855
+2884,WCh 2021,Dubai UAE,2021.12.07,9,"Nepomniachtchi,I","Carlsen,M",0-1,2855,A13,2782
+2885,WCh 2021,Dubai UAE,2021.12.08,10,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+2886,WCh 2021,Dubai UAE,2021.12.10,11,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C50,2782
+2887,World Rapid 2021,Warsaw POL,2021.12.26,1.4,"Mastrovasilis,D","Nepomniachtchi,I",0-1,2782,C17,2627
+2888,World Rapid 2021,Warsaw POL,2021.12.26,2.4,"Nepomniachtchi,I","Socko,B",1-0,2642,B18,2782
+2889,World Rapid 2021,Warsaw POL,2021.12.26,3.2,"Vidit,S","Nepomniachtchi,I",0-1,2782,D38,2727
+2890,World Rapid 2021,Warsaw POL,2021.12.26,4.3,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1/2-1/2,2633,C80,2782
+2891,World Rapid 2021,Warsaw POL,2021.12.26,5.3,"Korobov,A","Nepomniachtchi,I",1/2-1/2,2782,D38,2699
+2892,World Rapid 2021,Warsaw POL,2021.12.27,6.2,"Nepomniachtchi,I","Duda,J",1-0,2760,C88,2782
+2893,World Rapid 2021,Warsaw POL,2021.12.27,7.2,"Jobava,Ba","Nepomniachtchi,I",1/2-1/2,2782,E32,2588
+2894,World Rapid 2021,Warsaw POL,2021.12.27,8.3,"Nepomniachtchi,I","Gelfand,B",1/2-1/2,2663,B30,2782
+2895,World Rapid 2021,Warsaw POL,2021.12.27,9.3,"Gareev,T","Nepomniachtchi,I",0-1,2782,A15,2573
+2896,World Rapid TB 2021,Warsaw POL,2021.12.28,1,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1/2-1/2,2633,C80,2782
+2897,World Rapid TB 2021,Warsaw POL,2021.12.28,2,"Abdusattorov,Nodirbek","Nepomniachtchi,I",1-0,2782,A28,2633
+2898,World Rapid 2021,Warsaw POL,2021.12.28,10.2,"Nepomniachtchi,I","Grischuk,A",1-0,2764,C07,2782
+2899,World Rapid 2021,Warsaw POL,2021.12.28,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2856
+2900,World Rapid 2021,Warsaw POL,2021.12.28,12.2,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2736,C67,2782
+2901,World Rapid 2021,Warsaw POL,2021.12.28,13.2,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2782,C48,2792
+2902,World Blitz 2021,Warsaw POL,2021.12.29,1.7,"Ponkratov,P","Nepomniachtchi,I",1/2-1/2,2782,C29,2641
+2903,World Blitz 2021,Warsaw POL,2021.12.29,2.38,"Nepomniachtchi,I","Saric,Iv",1-0,2669,B90,2782
+2904,World Blitz 2021,Warsaw POL,2021.12.29,3.15,"Volokitin,And","Nepomniachtchi,I",1/2-1/2,2782,C43,2677
+2905,World Blitz 2021,Warsaw POL,2021.12.29,4.18,"Nepomniachtchi,I","Sjugirov,S",1-0,2680,C36,2782
+2906,World Blitz 2021,Warsaw POL,2021.12.29,5.8,"Nepomniachtchi,I","Sanal,V",1-0,2601,C34,2782
+2907,World Blitz 2021,Warsaw POL,2021.12.29,6.5,"Ivic,Velimir","Nepomniachtchi,I",1/2-1/2,2782,C43,2606
+2908,World Blitz 2021,Warsaw POL,2021.12.29,7.7,"Amin,B","Nepomniachtchi,I",1/2-1/2,2782,D77,2680
+2909,World Blitz 2021,Warsaw POL,2021.12.29,8.8,"Nepomniachtchi,I","Svane,R",1/2-1/2,2637,B15,2782
+2910,World Blitz 2021,Warsaw POL,2021.12.29,9.9,"Muradli,Mahammad","Nepomniachtchi,I",1/2-1/2,2782,A28,2503
+2911,World Blitz 2021,Warsaw POL,2021.12.29,10.11,"Nepomniachtchi,I","Zvjaginsev,V",1-0,2599,B30,2782
+2912,World Blitz 2021,Warsaw POL,2021.12.29,11.7,"Sarana,A","Nepomniachtchi,I",0-1,2782,E49,2666
+2913,World Blitz 2021,Warsaw POL,2021.12.29,12.6,"Nepomniachtchi,I","Fedoseev,Vl3",1/2-1/2,2704,C67,2782
+2914,World Blitz 2021,Warsaw POL,2021.12.30,13.5,"Kravtsiv,M","Nepomniachtchi,I",1/2-1/2,2782,C47,2604
+2915,World Blitz 2021,Warsaw POL,2021.12.30,14.6,"Nepomniachtchi,I","Grischuk,A",1-0,2764,C67,2782
+2916,World Blitz 2021,Warsaw POL,2021.12.30,15.2,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2772,C78,2782
+2917,World Blitz 2021,Warsaw POL,2021.12.30,16.4,"Artemiev,V","Nepomniachtchi,I",1/2-1/2,2782,A14,2700
+2918,World Blitz 2021,Warsaw POL,2021.12.30,17.4,"Nepomniachtchi,I","Erigaisi,Arjun",1/2-1/2,2629,C36,2782
+2919,World Blitz 2021,Warsaw POL,2021.12.30,18.6,"Giri,A","Nepomniachtchi,I",1/2-1/2,2782,E06,2772
+2920,World Blitz 2021,Warsaw POL,2021.12.30,19.7,"Nepomniachtchi,I","Sindarov,Javokhir",0-1,2609,C80,2782
+2921,World Blitz 2021,Warsaw POL,2021.12.30,20.1,"Carlsen,M","Nepomniachtchi,I",1-0,2782,A07,2856
+2922,World Blitz 2021,Warsaw POL,2021.12.30,21.12,"Nepomniachtchi,I","Salem,AR",1/2-1/2,2690,B30,2782
+2923,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,1,"Martin Duque,J","Nepomniachtchi,I",0-1,2773,A06,2406
+2924,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,2,"Nepomniachtchi,I","Mitusov,Semen",1-0,2304,C36,2773
+2925,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,3,"Gareev,T","Nepomniachtchi,I",0-1,2773,C30,2573
+2926,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,4,"Nepomniachtchi,I","Roshka,Yevgeniy",0-1,2478,B01,2773
+2927,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,5,"Nepomniachtchi,I","Piesik,P",0-1,2407,B10,2773
+2928,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,6,"Milosevic,Milos","Nepomniachtchi,I",0-1,2773,C46,2296
+2929,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,7,"Nepomniachtchi,I","Agasiyev,Ka",1-0,2441,B38,2773
+2930,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,8,"Concio,Michael Jr.","Nepomniachtchi,I",0-1,2773,C55,2211
+2931,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,9,"Nepomniachtchi,I","Ibrahimli,Murad",1-0,2418,B90,2773
+2932,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,10,"Nepomniachtchi,I","Zhigalko,S",1-0,2572,B30,2773
+2933,Titled Tuesday 4th Jan,chess.com INT,2022.01.04,11,"Deac,Bogdan-Daniel","Nepomniachtchi,I",1/2-1/2,2773,C89,2679
+2934,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,1,"Nepomniachtchi,I","Dauner,Benedikt",1-0,2331,B12,2773
+2935,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,2,"Wieczorek,O","Nepomniachtchi,I",1-0,2773,B90,2500
+2936,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,3,"Nepomniachtchi,I","Xie,Bryan",1-0,2128,B48,2773
+2937,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,4,"Beerdsen,Thomas","Nepomniachtchi,I",0-1,2773,B40,2508
+2938,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,5,"Nepomniachtchi,I","Moroni,L",1-0,2588,B00,2773
+2939,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,6,"Zhigalko,S","Nepomniachtchi,I",1-0,2773,B40,2572
+2940,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,1,"Brunner,N","Nepomniachtchi,I",1/2-1/2,2773,D91,2427
+2941,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,1,"Nepomniachtchi,I","Loay,Sameer",1-0,2180,B06,2773
+2942,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,2,"Nepomniachtchi,I","Suder,Jakub",1-0,2321,B45,2773
+2943,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,2,"Shyam,N","Nepomniachtchi,I",0-1,2773,A49,2442
+2944,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,3,"Nepomniachtchi,I","Costachi,M",1-0,2463,C30,2773
+2945,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,3,"Ramirez,Alej","Nepomniachtchi,I",0-1,2773,A01,2573
+2946,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,4,"Jones,G","Nepomniachtchi,I",1-0,2773,A07,2671
+2947,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,4,"Boros,De","Nepomniachtchi,I",0-1,2773,C86,2430
+2948,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,5,"Nepomniachtchi,I","Ibarra Jerez,JC",1-0,2570,B40,2773
+2949,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,5,"Nepomniachtchi,I","Samunenkov,Ihor",1-0,2371,B12,2773
+2950,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,6,"Mekhitarian,K","Nepomniachtchi,I",1-0,2773,C19,2562
+2951,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,6,"Nogerbek,Kazybek","Nepomniachtchi,I",0-1,2773,E32,2424
+2952,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,7,"Nepomniachtchi,I","Svane,R",1-0,2637,B10,2773
+2953,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,7,"Nepomniachtchi,I","Gelman,A",1-0,2403,B43,2773
+2954,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,8,"Jaracz,P","Nepomniachtchi,I",1-0,2773,C03,2459
+2955,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,8,"Sadhwani,Raunak","Nepomniachtchi,I",1/2-1/2,2773,E06,2616
+2956,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,9,"Nepomniachtchi,I","Xiong,Jeffery",1-0,2686,B10,2773
+2957,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,10,"Sviridov,Va","Nepomniachtchi,I",0-1,2773,A01,2561
+2958,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,1,"Nepomniachtchi,I","Hakobyan,Aram",1-0,2601,B90,2773
+2959,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,2,"Volokitin,And","Nepomniachtchi,I",1-0,2773,C19,2681
+2960,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,3,"Nepomniachtchi,I","Sadhwani,Raunak",1-0,2616,C50,2773
+2961,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,4,"Tabatabaei,M","Nepomniachtchi,I",1/2-1/2,2773,D02,2623
+2962,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,5,"Nepomniachtchi,I","Keymer,Vincent",1-0,2664,B19,2773
+2963,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,6,"Nepomniachtchi,I","Giri,A",0-1,2772,B90,2773
+2964,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,7,"Kovalev,Vl","Nepomniachtchi,I",1/2-1/2,2773,B40,2623
+2965,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,8,"Nepomniachtchi,I","Niemann,Hans Moke",1-0,2642,B30,2773
+2966,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,9,"Erigaisi,Arjun","Nepomniachtchi,I",0-1,2773,E10,2633
+2967,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,1.2,"Nepomniachtchi,I","Paravyan,D",1-0,2617,C42,2773
+2968,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,1.1,"Paravyan,D","Nepomniachtchi,I",1/2-1/2,2773,C47,2617
+2969,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,2.1,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",0-1,2773,C84,2598
+2970,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,3.2,"Nepomniachtchi,I","Giri,A",1-0,2772,B92,2773
+2971,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,3.1,"Giri,A","Nepomniachtchi,I",1/2-1/2,2773,C84,2772
+2972,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,1,"Rosen,E","Nepomniachtchi,I",0-1,2773,A45,2356
+2973,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,2,"Nepomniachtchi,I","Djordjevic,Vu",1-0,2382,C03,2773
+2974,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,3,"Kamsky,G","Nepomniachtchi,I",0-1,2773,A48,2657
+2975,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,4,"Nepomniachtchi,I","Mekhitarian,K",1/2-1/2,2562,B36,2773
+2976,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,5,"Kravtsiv,M","Nepomniachtchi,I",0-1,2773,C16,2598
+2977,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,7,"Lugovskoy,M","Nepomniachtchi,I",1/2-1/2,2773,C47,2423
+2978,Titled Tue 15th Feb Late,chess.com INT,2022.02.15,8,"Nepomniachtchi,I","Lin,D",0-1,2299,B06,2773
+2979,Airthings Masters Prelim,chess24.com INT,2022.02.19,1.4,"Nepomniachtchi,I","Aronian,L",0-1,2772,C50,2773
+2980,Airthings Masters Prelim,chess24.com INT,2022.02.19,2.6,"Mamedyarov,S","Nepomniachtchi,I",0-1,2773,D41,2767
+2981,Airthings Masters Prelim,chess24.com INT,2022.02.19,3.3,"Nepomniachtchi,I","Giri,A",1-0,2772,B92,2773
+2982,Airthings Masters Prelim,chess24.com INT,2022.02.19,4.7,"Carlsen,M","Nepomniachtchi,I",0-1,2773,E06,2865
+2983,Airthings Masters Prelim,chess24.com INT,2022.02.20,5.2,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1-0,2651,C50,2773
+2984,Airthings Masters Prelim,chess24.com INT,2022.02.20,6.8,"Esipenko,Andrey","Nepomniachtchi,I",0-1,2773,C50,2714
+2985,Airthings Masters Prelim,chess24.com INT,2022.02.20,7.1,"Nepomniachtchi,I","Artemiev,V",1/2-1/2,2700,C50,2773
+2986,Airthings Masters Prelim,chess24.com INT,2022.02.20,8.8,"Nepomniachtchi,I","Kosteniuk,A",1-0,2516,C36,2773
+2987,Airthings Masters Prelim,chess24.com INT,2022.02.21,9.2,"Keymer,Vincent","Nepomniachtchi,I",1/2-1/2,2773,D38,2664
+2988,Airthings Masters Prelim,chess24.com INT,2022.02.21,10.7,"Nepomniachtchi,I","Niemann,Hans Moke",1-0,2642,C55,2773
+2989,Airthings Masters Prelim,chess24.com INT,2022.02.21,11.3,"Praggnanandhaa,R","Nepomniachtchi,I",0-1,2773,C65,2612
+2990,Airthings Masters Prelim,chess24.com INT,2022.02.21,12.6,"Nepomniachtchi,I","Le, Quang Liem",1/2-1/2,2709,C50,2773
+2991,Airthings Masters Prelim,chess24.com INT,2022.02.22,13.4,"Hansen,Eric","Nepomniachtchi,I",1-0,2773,B40,2606
+2992,Airthings Masters Prelim,chess24.com INT,2022.02.22,14.5,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2799,C84,2773
+2993,Airthings Masters Prelim,chess24.com INT,2022.02.22,15.5,"Duda,J","Nepomniachtchi,I",1/2-1/2,2773,C65,2760
+2994,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.11,"Nepomniachtchi,I","Keymer,Vincent",1/2-1/2,2664,B92,2773
+2995,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.14,"Keymer,Vincent","Nepomniachtchi,I",1/2-1/2,2773,D40,2664
+2996,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.13,"Nepomniachtchi,I","Keymer,Vincent",1-0,2664,B92,2773
+2997,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.12,"Keymer,Vincent","Nepomniachtchi,I",1/2-1/2,2773,D73,2664
+2998,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.12,"Esipenko,Andrey","Nepomniachtchi,I",0-1,2773,C84,2714
+2999,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.11,"Nepomniachtchi,I","Esipenko,Andrey",1/2-1/2,2714,C50,2773
+3000,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.13,"Nepomniachtchi,I","Esipenko,Andrey",1-0,2714,C53,2773
+3001,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,B30,2773
+3002,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,C53,2773
+3003,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.11,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2773,A22,2865
+3004,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.13,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2773,D41,2865
+3005,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.21,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,B31,2773
+3006,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.23,"Nepomniachtchi,I","Carlsen,M",0-1,2865,B48,2773
+3007,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.22,"Carlsen,M","Nepomniachtchi,I",1-0,2773,C24,2865
+3008,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,1,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",0-1,2773,C77,2598
+3009,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,2,"Nepomniachtchi,I","Ponkratov,P",1-0,2641,B45,2773
+3010,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,3,"Demchenko,A","Nepomniachtchi,I",0-1,2773,C50,2654
+3011,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,5,"Nepomniachtchi,I","Sarana,A",0-1,2685,B92,2773
+3012,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,6,"Nepomniachtchi,I","Bok,B",1-0,2624,C53,2773
+3013,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,8,"Nepomniachtchi,I","Paravyan,D",1/2-1/2,2617,C42,2773
+3014,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,9,"Aronian,L","Nepomniachtchi,I",1/2-1/2,2773,D41,2785
+3015,Chess.com Rapid Wk4 KO,chess.com INT,2022.03.06,1.1,"Nepomniachtchi,I","Paravyan,D",0-1,2617,B12,2773
+3016,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,1,"Nepomniachtchi,I","Fedoseev,Vl3",1-0,2704,B31,2773
+3017,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,2,"Erigaisi,Arjun","Nepomniachtchi,I",1-0,2773,A05,2660
+3018,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,3,"Nepomniachtchi,I","Kosteniuk,A",1-0,2516,C36,2773
+3019,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,4,"Maghsoodloo,Parham","Nepomniachtchi,I",1-0,2773,C88,2701
+3020,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,5,"Nepomniachtchi,I","Bok,B",1-0,2624,C50,2773
+3021,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,6,"Xiong,Jeffery","Nepomniachtchi,I",1-0,2773,C45,2686
+3022,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,7,"Nepomniachtchi,I","Sadhwani,Raunak",1-0,2616,C58,2773
+3023,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,8,"Kamsky,G","Nepomniachtchi,I",1-0,2773,C89,2658
+3024,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,9,"Nepomniachtchi,I","Anton Guijarro,D",1-0,2694,B30,2773
+3025,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,1,"Nepomniachtchi,I","Demin,V1",1-0,2430,B04,2773
+3026,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,2,"Yeletsky,Ivan","Nepomniachtchi,I",0-1,2773,C55,2460
+3027,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,3,"Nepomniachtchi,I","Demchenko,A",1-0,2654,C36,2773
+3028,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,4,"Rodrigue-Lemieux,Shawn","Nepomniachtchi,I",0-1,2773,A20,2341
+3029,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,5,"Nepomniachtchi,I","Hakobyan,Aram",1-0,2601,C31,2773
+3030,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,6,"Sarana,A","Nepomniachtchi,I",0-1,2773,E32,2685
+3031,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,7,"Nepomniachtchi,I","Andreikin,D",1-0,2724,B43,2773
+3032,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,8,"Kollars,Dmitrij","Nepomniachtchi,I",1/2-1/2,2773,C48,2635
+3033,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,9,"Nepomniachtchi,I","Vokhidov,Shamsiddin",1/2-1/2,2536,B67,2773
+3034,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,10,Le Tuan Minh,"Nepomniachtchi,I",0-1,2773,D02,2514
+3035,Titled Tue 22nd Mar Early,chess.com INT,2022.03.22,11,"Nepomniachtchi,I","Martinez Alcantara,Jose Eduardo",1-0,2598,C39,2773
+3036,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,1,"Sjugirov,S","Nepomniachtchi,I",0-1,2773,E51,2696
+3037,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,2,"Nepomniachtchi,I","Grischuk,A",1-0,2742,C53,2773
+3038,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,3,"Nepomniachtchi,I","Xiong,Jeffery",0-1,2685,B30,2773
+3039,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,4,"Paravyan,D","Nepomniachtchi,I",1/2-1/2,2773,C19,2617
+3040,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,5,"Nepomniachtchi,I","Fedoseev,Vl3",0-1,2701,B90,2773
+3041,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,6,"Dreev,A","Nepomniachtchi,I",1/2-1/2,2773,E32,2623
+3042,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,7,"Nepomniachtchi,I","Bortnyk,Olexandr",1-0,2604,B04,2773
+3043,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,8,"Nepomniachtchi,I","Matlakov,M",1-0,2674,B90,2773
+3044,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,9,"Tabatabaei,M","Nepomniachtchi,I",1/2-1/2,2773,D02,2632
+3045,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,1,"Pinheiro,I","Nepomniachtchi,I",1/2-1/2,2773,A20,2320
+3046,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,2,"Nepomniachtchi,I","Cagara,P",1-0,2045,B13,2773
+3047,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,3,"Hamidi,Amir Mohammad","Nepomniachtchi,I",0-1,2773,A80,2276
+3048,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,4,"Kamsky,G","Nepomniachtchi,I",1/2-1/2,2773,A81,2661
+3049,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,5,"Nepomniachtchi,I","Li,Ben",1-0,2361,C36,2773
+3050,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,6,"Moussard,J","Nepomniachtchi,I",0-1,2773,A07,2630
+3051,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,7,"Nepomniachtchi,I","Jumabayev,R",1-0,2628,C07,2773
+3052,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,8,"Demchenko,A","Nepomniachtchi,I",0-1,2773,C07,2654
+3053,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,9,"Nepomniachtchi,I","Andreikin,D",1-0,2729,B46,2773
+3054,Titled Tue 5th Apr Late,chess.com INT,2022.04.05,10,"Vasquez Schroeder,R","Nepomniachtchi,I",0-1,2773,C16,2500
+3055,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,1,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",1-0,2773,C77,2598
+3056,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,2,"Nepomniachtchi,I","Ponkratov,P",0-1,2635,C30,2773
+3057,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,3,"Nepomniachtchi,I","Hansen,Eric",1-0,2606,C34,2773
+3058,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,4,"Gledura,B","Nepomniachtchi,I",1-0,2773,A06,2652
+3059,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,5,"Nepomniachtchi,I","Alekseenko,K",1-0,2698,C34,2773
+3060,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,6,"Harika,D","Nepomniachtchi,I",0-1,2773,C07,2517
+3061,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,7,"Narayanan,SL","Nepomniachtchi,I",0-1,2773,D90,2662
+3062,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,8,"Nepomniachtchi,I","Grischuk,A",0-1,2742,C07,2773
+3063,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,9,"Paravyan,D","Nepomniachtchi,I",1-0,2773,C12,2617
+3064,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,1,"Swiercz,D","Nepomniachtchi,I",0-1,2773,B48,2664
+3065,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,2,"Nepomniachtchi,I","Kovalev,Vl",1-0,2623,C50,2773
+3066,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,3,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",1/2-1/2,2773,B40,2598
+3067,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,4,"Andreikin,D","Nepomniachtchi,I",1/2-1/2,2773,E06,2729
+3068,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,5,"Nepomniachtchi,I","Fedoseev,Vl3",1-0,2701,C55,2773
+3069,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,6,"Tabatabaei,M","Nepomniachtchi,I",1/2-1/2,2773,D02,2632
+3070,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,7,"Nepomniachtchi,I","Xiong,Jeffery",1/2-1/2,2685,C42,2773
+3071,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,8,"Nepomniachtchi,I","Nakamura,Hi",0-1,2750,C53,2773
+3072,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,9,"Esipenko,Andrey","Nepomniachtchi,I",1-0,2773,E44,2723
+3073,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,1,"Matlakov,M","Nepomniachtchi,I",0-1,2773,E43,2674
+3074,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,2,"Nepomniachtchi,I","Demchenko,A",1-0,2654,C55,2773
+3075,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,3,"Martinez Alcantara,Jose Eduardo","Nepomniachtchi,I",1/2-1/2,2773,C43,2598
+3076,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,4,"Nepomniachtchi,I","Grischuk,A",1-0,2742,C07,2773
+3077,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,5,"Nepomniachtchi,I","Nakamura,Hi",1/2-1/2,2750,C50,2773
+3078,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,7,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1/2-1/2,2661,B27,2773
+3079,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,8,"Vidit,S","Nepomniachtchi,I",1/2-1/2,2773,E06,2723
+3080,Chess.com RCC Wk12 KO,chess.com INT,2022.05.01,1.1,"Nepomniachtchi,I","Giri,A",1-0,2773,C50,2773
+3081,Chess.com RCC Wk12 KO,chess.com INT,2022.05.01,2.1,"Nepomniachtchi,I","Grischuk,A",1-0,2742,C50,2773
+3082,Chess.com RCC Wk12 KO,chess.com INT,2022.05.01,3.1,"Nepomniachtchi,I","Abdusattorov,Nodirbek",1-0,2661,B38,2773
+3083,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.3,"Nepomniachtchi,I","Deac,Bogdan-Daniel",1/2-1/2,2671,C43,2773
+3084,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2773,C24,2804
+3085,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.2,"Nepomniachtchi,I","Dominguez Perez,L",1/2-1/2,2753,C43,2773
+3086,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.1,"So,W","Nepomniachtchi,I",1-0,2773,E06,2776
+3087,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2750,B54,2773
+3088,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2773,C42,2786
+3089,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.4,"Nepomniachtchi,I","Mamedyarov,S",0-1,2759,C50,2773
+3090,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.2,"Nepomniachtchi,I","Aronian,L",1/2-1/2,2765,C53,2773
+3091,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.5,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2773,E32,2776
+3092,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.2,Ding Liren,"Nepomniachtchi,I",0-1,2766,A20,2806
+3093,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.3,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2783,C50,2766
+3094,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.3,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2766,E04,2753
+3095,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2793,B90,2766
+3096,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.4,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2766,C42,2760
+3097,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.4,"Nepomniachtchi,I","Duda,J",1-0,2750,A07,2766
+3098,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.1,"Rapport,R","Nepomniachtchi,I",0-1,2766,C42,2764
+3099,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.2,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2806,C47,2766
+3100,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.3,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2766,C42,2783
+3101,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.3,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2753,E06,2766
+3102,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2766,C42,2793
+3103,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2764,B67,2766
+3104,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.4,"Duda,J","Nepomniachtchi,I",1/2-1/2,2766,C43,2750
+3105,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.3,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2766,D41,2864
+3106,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2793,C50,2766
+3107,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.3,"Mamedyarov,S","Nepomniachtchi,I",1-0,2766,D40,2759
+3108,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.3,"Nepomniachtchi,I","Dominguez Perez,L",1-0,2754,C42,2766
+3109,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.4,"So,W","Nepomniachtchi,I",1/2-1/2,2766,E04,2773
+3110,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.2,"Nepomniachtchi,I","Van Foreest,Jorden",0-1,2678,C50,2766
+3111,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.5,"Saric,Iv","Nepomniachtchi,I",1-0,2766,B90,2680
+3112,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.1,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C43,2760
+3113,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.5,"Nepomniachtchi,I","Topalov,V",1-0,2728,B92,2766
+3114,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.2,"Nepomniachtchi,I","Dominguez Perez,L",1-0,2754,C36,2766
+3115,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.5,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C42,2760
+3116,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.1,"Nepomniachtchi,I","Saric,Iv",1-0,2680,A05,2766
+3117,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.5,"Nepomniachtchi,I","Mamedyarov,S",1/2-1/2,2759,C30,2766
+3118,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.2,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2766,A45,2793
+3119,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.4,"Nepomniachtchi,I","Carlsen,M",0-1,2864,A05,2766
+3120,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.3,"Van Foreest,Jorden","Nepomniachtchi,I",0-1,2766,C42,2678
+3121,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.3,"Nepomniachtchi,I","Topalov,V",1-0,2728,C34,2766
+3122,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.4,"So,W","Nepomniachtchi,I",1/2-1/2,2766,E32,2773
+3123,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.2,"Dominguez Perez,L","Nepomniachtchi,I",0-1,2766,C42,2754
+3124,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2760,D79,2766
+3125,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.2,"Saric,Iv","Nepomniachtchi,I",0-1,2766,C42,2680
+3126,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.2,"Mamedyarov,S","Nepomniachtchi,I",0-1,2766,D40,2759
+3127,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2793,C50,2766
+3128,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.2,"Carlsen,M","Nepomniachtchi,I",1-0,2766,B23,2864
+3129,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.2,"Nepomniachtchi,I","Van Foreest,Jorden",1-0,2678,A15,2766
+3130,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.2,"Topalov,V","Nepomniachtchi,I",1/2-1/2,2766,C42,2728
+3131,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.2,"Nepomniachtchi,I","So,W",1-0,2773,A15,2766
+3132,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,1,"Rasulov,Vu","Nepomniachtchi,I",1/2-1/2,2792,D38,2480
+3133,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,2,"Nepomniachtchi,I","Chigaev,M",1-0,2641,B84,2792
+3134,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,3,"Salem,AR","Nepomniachtchi,I",1-0,2792,E24,2679
+3135,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,4,"Nepomniachtchi,I","Martinez Alcantara,Jose Eduardo",1-0,2591,C34,2792
+3136,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,5,"Le,Quang Liem","Nepomniachtchi,I",1/2-1/2,2792,E51,2728
+3137,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,6,"Nepomniachtchi,I","Yoo,Christopher Woojin",1/2-1/2,2567,B40,2792
+3138,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,7,"Pichot,A","Nepomniachtchi,I",0-1,2792,B51,2641
+3139,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,8,"Nepomniachtchi,I","Niemann,Hans Moke",0-1,2687,C36,2792
+3140,Chess.com RCC Wk24 Swiss,chess.com INT,2022.08.06,9,"Andreikin,D","Nepomniachtchi,I",1-0,2792,D85,2729
+3141,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,1,"Nepomniachtchi,I","Van Foreest,Jorden",1-0,2680,B15,2792
+3142,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,2,"Kovalev,Vl","Nepomniachtchi,I",1/2-1/2,2792,C42,2623
+3143,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,3,"Nepomniachtchi,I","Paravyan,D",1-0,2592,C34,2792
+3144,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,4,"Vokhidov,Shamsiddin","Nepomniachtchi,I",0-1,2792,C42,2552
+3145,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,5,"Nepomniachtchi,I","Martinez Alcantara,Jose Eduardo",1-0,2591,C42,2792
+3146,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,6,"Nepomniachtchi,I","So,W",1/2-1/2,2773,C50,2792
+3147,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,7,"Nakamura,Hi","Nepomniachtchi,I",1/2-1/2,2792,C42,2768
+3148,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,1.1,"Nepomniachtchi,I","Niemann,Hans Moke",1-0,2687,E00,2792
+3149,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,2.1,"Nepomniachtchi,I","Bortnyk,Olexandr",1-0,2604,B03,2792
+3150,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,3.4,"So,W","Nepomniachtchi,I",1-0,2792,C43,2773
+3151,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,3.3,"Nepomniachtchi,I","So,W",1/2-1/2,2773,C67,2792
+3152,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,3.2,"So,W","Nepomniachtchi,I",1/2-1/2,2792,C42,2773
+3153,Chess.com RCC Wk25 KO,chess.com INT,2022.08.14,3.1,"Nepomniachtchi,I","So,W",1/2-1/2,2773,E06,2792
+3154,Chess.com RCC Winners,chess.com INT,2022.08.18,1.1,"Caruana,F","Nepomniachtchi,I",0-1,2792,E04,2776
+3155,Chess.com RCC Winners,chess.com INT,2022.08.18,1.2,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2776,E97,2792
+3156,Chess.com RCC Winners,chess.com INT,2022.08.18,2.2,"Nepomniachtchi,I","Dubov,Daniil",1-0,2702,E10,2792
+3157,Chess.com RCC Winners,chess.com INT,2022.08.18,2.1,"Dubov,Daniil","Nepomniachtchi,I",1/2-1/2,2792,E04,2702
+3158,Chess.com RCC Winners,chess.com INT,2022.08.19,3.1,"Fedoseev,Vl3","Nepomniachtchi,I",1/2-1/2,2792,D40,2685
+3159,Chess.com RCC Winners,chess.com INT,2022.08.19,3.3,"Nepomniachtchi,I","Fedoseev,Vl3",1-0,2685,E06,2792
+3160,Chess.com RCC Winners,chess.com INT,2022.08.19,3.2,"Nepomniachtchi,I","Fedoseev,Vl3",1/2-1/2,2685,E10,2792
+3161,Chess.com RCC Winners,chess.com INT,2022.08.20,4.1,"Nakamura,Hi","Nepomniachtchi,I",1-0,2792,A06,2768
+3162,Chess.com RCC Winners,chess.com INT,2022.08.20,4.3,"Nepomniachtchi,I","Nakamura,Hi",1-0,2768,E06,2792
+3163,Chess.com RCC Winners,chess.com INT,2022.08.20,4.2,"Nepomniachtchi,I","Nakamura,Hi",1-0,2768,E06,2792
+3164,Chess.com RCC Winners,chess.com INT,2022.08.21,5.2,"Nepomniachtchi,I","Andreikin,D",1-0,2729,E06,2792
+3165,?,?,????.??.??,?,?,?,0-1,,,

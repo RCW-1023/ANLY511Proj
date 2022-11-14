@@ -1,0 +1,46 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+1599,?,?,????.??.??,?,?,?,1/2-1/2,,,
+1756,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,1.3,Bu Xiangzhi,"Mamedyarov,S",1/2-1/2,2764,D27,2705
+1757,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,2.4,"Korobov,A",Bu Xiangzhi,0-1,2705,D12,2688
+1758,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,3.2,Bu Xiangzhi,"Anton Guijarro,D",1/2-1/2,2703,D27,2705
+1759,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,4.5,"Grischuk,A",Bu Xiangzhi,1-0,2705,A20,2777
+1760,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,5.1,Bu Xiangzhi,"Xiong,Jeffery",1/2-1/2,2709,D37,2705
+1761,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,6.5,Bu Xiangzhi,"Dubov,Daniil",1-0,2699,D45,2705
+1762,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,7.2,"Carlsen,M",Bu Xiangzhi,1-0,2705,C42,2863
+1763,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,8.3,Le Quang Liem,Bu Xiangzhi,1-0,2705,A06,2709
+1764,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,9.4,Bu Xiangzhi,"Svidler,P",1/2-1/2,2723,A15,2705
+1765,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,10.3,"Mamedyarov,S",Bu Xiangzhi,1-0,2705,D11,2764
+1766,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,11.4,Bu Xiangzhi,"Korobov,A",1/2-1/2,2688,E97,2705
+1767,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,12.2,"Anton Guijarro,D",Bu Xiangzhi,0-1,2705,A06,2703
+1768,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,13.5,Bu Xiangzhi,"Grischuk,A",1-0,2777,A48,2705
+1769,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,14.1,"Xiong,Jeffery",Bu Xiangzhi,1-0,2705,D14,2709
+1770,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,15.5,"Dubov,Daniil",Bu Xiangzhi,0-1,2705,D30,2699
+1771,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,16.2,Bu Xiangzhi,"Carlsen,M",0-1,2863,D45,2705
+1772,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,17.4,"Svidler,P",Bu Xiangzhi,1-0,2705,C24,2723
+1773,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,18.3,Bu Xiangzhi,Le Quang Liem,1-0,2709,A30,2705
+1774,Online Olym Top DivA 2020,chess.com INT,2020.08.22,4.4,Bu Xiangzhi,"Agibileg,Uurtsaikh",1-0,2413,E69,2705
+1775,Online Olym Top DivA 2020,chess.com INT,2020.08.22,5.2,"Pantsulaia,L",Bu Xiangzhi,0-1,2705,A07,2553
+1776,Online Olym Top DivA 2020,chess.com INT,2020.08.23,7.1,Nguyen Ngoc Truong Son,Bu Xiangzhi,1-0,2705,D02,2641
+1777,Online Olym Top DivA 2021,chess.com INT,2021.09.08,2.2,"Urtnasan,N",Bu Xiangzhi,0-1,2705,E04,2460
+1778,Online Olym Top DivA 2021,chess.com INT,2021.09.09,5.5,"Pavlidis,Ant",Bu Xiangzhi,0-1,2705,C42,2536
+1779,Online Olym Top DivA 2021,chess.com INT,2021.09.10,8.3,Bu Xiangzhi,"Miron,L",1-0,2512,D12,2705
+1780,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.2,Bu Xiangzhi,"Ju,Wenjun",1/2-1/2,2560,D38,2705
+1781,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.4,"Topalov,V",Bu Xiangzhi,1-0,2705,D38,2730
+1782,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.1,Bu Xiangzhi,"Rapport,R",1/2-1/2,2760,D02,2705
+1783,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.4,Bu Xiangzhi,"Vitiugov,N",1/2-1/2,2727,A15,2705
+1784,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.2,Yu Yangyi,Bu Xiangzhi,1/2-1/2,2705,D19,2704
+1785,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.3,Bu Xiangzhi,Ding Liren,1/2-1/2,2799,D38,2705
+1786,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.3,Wei Yi,Bu Xiangzhi,1-0,2705,D45,2725
+1787,Shenzhen Chess GM Match,Shenzhen CHN,2022.02.21,1,Bu Xiangzhi,Hou Yifan,1-0,2658,D38,2700
+1788,Shenzhen Chess GM Match,Shenzhen CHN,2022.02.22,2.1,Hou Yifan,Bu Xiangzhi,0-1,2700,C50,2658
+1789,Shenzhen Chess GM Match,Shenzhen CHN,2022.02.23,3.1,Bu Xiangzhi,Hou Yifan,1/2-1/2,2658,D38,2700
+1790,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.14,1.2,"Xu,Xiangyu",Bu Xiangzhi,1/2-1/2,2708,D38,2564
+1791,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.15,2.2,Bu Xiangzhi,Wei Yi,1/2-1/2,2729,D38,2708
+1792,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.16,3.3,Zhang Zhong,Bu Xiangzhi,1/2-1/2,2708,C78,2640
+1793,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.17,4.2,Bu Xiangzhi,Ding Liren,1/2-1/2,2799,D38,2708
+1794,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.18,5.1,Ma Qun,Bu Xiangzhi,1/2-1/2,2708,D38,2645
+1795,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.20,6.3,Bu Xiangzhi,"Xu,Xiangyu",1/2-1/2,2564,E54,2708
+1796,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.21,7.2,Wei Yi,Bu Xiangzhi,1/2-1/2,2708,C53,2729
+1797,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.22,8.3,Bu Xiangzhi,Zhang Zhong,1-0,2640,D20,2708
+1798,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.23,9.2,Bu Xiangzhi,Ma Qun,1/2-1/2,2645,D41,2708
+1799,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.24,10.3,Ding Liren,Bu Xiangzhi,1/2-1/2,2708,C67,2799

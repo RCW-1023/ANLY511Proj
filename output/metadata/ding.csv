@@ -1,0 +1,553 @@
+,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
+945,?,?,????.??.??,?,?,?,1/2-1/2,,,
+1322,PRO League Group Stage,chess.com INT,2020.02.17,7,"Nestorovic,N",Ding Liren,0-1,2805,C02,2466
+1323,PRO League Group Stage,chess.com INT,2020.02.17,7,Ding Liren,"Plenca,Jadranko",1-0,2463,C50,2805
+1324,PRO League Group Stage,chess.com INT,2020.02.17,7,"Tica,Sven",Ding Liren,0-1,2805,A48,2398
+1325,PRO League Group Stage,chess.com INT,2020.02.17,7,Ding Liren,Le Tuan Minh,1/2-1/2,2501,B29,2805
+1326,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Korobov,A",Ding Liren,1-0,2805,D86,2688
+1327,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Ding Liren,"Tomczak,J",1-0,2605,D85,2805
+1328,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Ding Liren,"Braun,A",1-0,2609,E15,2805
+1329,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Mons,L",Ding Liren,1/2-1/2,2805,A13,2543
+1330,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.2,Ding Liren,Wang Hao,0-1,2762,A20,2805
+1331,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.4,"Vachier Lagrave,M",Ding Liren,1-0,2805,C88,2767
+1332,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.1,Ding Liren,"Caruana,F",1-0,2842,D17,2805
+1333,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.4,Ding Liren,"Giri,A",1/2-1/2,2763,E00,2805
+1334,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.2,"Grischuk,A",Ding Liren,1/2-1/2,2805,C88,2777
+1335,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.3,"Nepomniachtchi,I",Ding Liren,1-0,2805,C84,2774
+1336,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.3,Ding Liren,"Alekseenko,K",1/2-1/2,2698,E00,2805
+1337,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.2,"Firouzja,Alireza",Ding Liren,0-1,2791,B90,2728
+1338,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.1,Ding Liren,"Firouzja,Alireza",1/2-1/2,2728,E51,2791
+1339,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2728,A07,2791
+1340,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.4,"Firouzja,Alireza",Ding Liren,1/2-1/2,2791,C65,2728
+1341,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.3,Ding Liren,"Caruana,F",1-0,2835,D73,2791
+1342,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.5,Ding Liren,"Caruana,F",0-1,2835,A07,2791
+1343,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.1,Ding Liren,"Caruana,F",1/2-1/2,2835,A07,2791
+1344,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.2,"Caruana,F",Ding Liren,1/2-1/2,2791,B90,2835
+1345,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.4,"Caruana,F",Ding Liren,1-0,2791,C65,2835
+1346,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.2,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,D12,2791
+1347,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E35,2778
+1348,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.3,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E35,2778
+1349,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.5,Ding Liren,"Vachier Lagrave,M",1-0,2778,D15,2791
+1350,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,D14,2791
+1351,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.5,"Giri,A",Ding Liren,1/2-1/2,2791,C65,2764
+1352,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.3,Ding Liren,"Giri,A",0-1,2764,E60,2791
+1353,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.2,"Giri,A",Ding Liren,0-1,2791,D86,2764
+1354,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.1,Ding Liren,"Giri,A",1/2-1/2,2764,A35,2791
+1355,Carlsen Inv Prelim,chess24.com INT,2020.04.25,4.4,"Giri,A",Ding Liren,1/2-1/2,2791,D41,2764
+1356,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.4,Ding Liren,"Nepomniachtchi,I",1-0,2784,A05,2791
+1357,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.3,"Nepomniachtchi,I",Ding Liren,1-0,2791,C65,2784
+1358,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.2,Ding Liren,"Nepomniachtchi,I",1-0,2784,D70,2791
+1359,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,C65,2784
+1360,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.4,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E06,2791
+1361,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.2,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E06,2791
+1362,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.5,Ding Liren,"Nakamura,Hi",0-1,2736,A29,2791
+1363,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.3,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,C65,2736
+1364,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.1,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,C65,2736
+1365,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,Ding Liren,"Carlsen,M",1-0,2863,B30,2791
+1366,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,Ding Liren,"Carlsen,M",1-0,2863,B00,2791
+1367,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Carlsen,M",Ding Liren,0-1,2791,C34,2863
+1368,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Carlsen,M",Ding Liren,1-0,2791,B21,2863
+1369,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.3,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
+1370,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.2,Ding Liren,"Carlsen,M",1-0,2863,C50,2791
+1371,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.4,Ding Liren,"Carlsen,M",0-1,2863,D45,2791
+1372,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.1,"Carlsen,M",Ding Liren,1/2-1/2,2791,D02,2863
+1373,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.3,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E32,2778
+1374,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.1,Ding Liren,"Nepomniachtchi,I",1-0,2784,D85,2791
+1375,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,Ding Liren,"Anand,V",1/2-1/2,2753,D35,2791
+1376,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.2,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,B22,2736
+1377,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.2,"Radjabov,T",Ding Liren,0-1,2791,A05,2765
+1378,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.3,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,A06,2791
+1379,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,D45,2784
+1380,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.2,Ding Liren,"Nakamura,Hi",1-0,2736,C50,2791
+1381,Online Nations Cup Final,chess.com INT,2020.05.10,1.1,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,C53,2791
+1382,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.3,Ding Liren,"Dubov,Daniil",1-0,2699,B31,2791
+1383,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.5,"Firouzja,Alireza",Ding Liren,1/2-1/2,2791,C65,2728
+1384,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.2,Ding Liren,"Carlsen,M",1/2-1/2,2863,E01,2791
+1385,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.6,"Aronian,L",Ding Liren,1/2-1/2,2791,B50,2773
+1386,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.1,Ding Liren,"Grischuk,A",0-1,2777,E02,2791
+1387,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.6,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E06,2791
+1388,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.2,Yu Yangyi,Ding Liren,1-0,2791,D97,2709
+1389,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.5,Ding Liren,Wei Yi,1-0,2732,E60,2791
+1390,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.3,"Duda,J",Ding Liren,0-1,2791,A22,2753
+1391,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.4,Ding Liren,"So,W",1/2-1/2,2770,C67,2791
+1392,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.4,"Karjakin,Sergey",Ding Liren,1/2-1/2,2791,C67,2752
+1393,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.11,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+1394,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.13,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+1395,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.14,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
+1396,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.15,Yu Yangyi,Ding Liren,1-0,2791,C58,2709
+1397,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.12,Ding Liren,Yu Yangyi,1/2-1/2,2709,A20,2791
+1398,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.22,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+1399,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.23,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
+1400,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.24,Yu Yangyi,Ding Liren,1/2-1/2,2791,C58,2709
+1401,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.21,Ding Liren,Yu Yangyi,1-0,2709,D27,2791
+1402,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.35,Yu Yangyi,Ding Liren,1/2-1/2,2791,A45,2709
+1403,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.33,Yu Yangyi,Ding Liren,0-1,2791,E49,2709
+1404,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.34,Ding Liren,Yu Yangyi,1/2-1/2,2709,D20,2791
+1405,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.31,Yu Yangyi,Ding Liren,1/2-1/2,2791,E49,2709
+1406,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.32,Ding Liren,Yu Yangyi,0-1,2709,D25,2791
+1407,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.13,"Dubov,Daniil",Ding Liren,1/2-1/2,2791,C26,2699
+1408,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.12,Ding Liren,"Dubov,Daniil",1-0,2699,D11,2791
+1409,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.11,"Dubov,Daniil",Ding Liren,1-0,2791,C28,2699
+1410,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.14,Ding Liren,"Dubov,Daniil",0-1,2699,E10,2791
+1411,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.22,"Dubov,Daniil",Ding Liren,1-0,2791,E10,2699
+1412,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.21,Ding Liren,"Dubov,Daniil",0-1,2699,A15,2791
+1413,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.23,Ding Liren,"Dubov,Daniil",1/2-1/2,2699,A14,2791
+1414,Chessable Masters GpB,chess24.com INT,2020.06.21,1.1,"Caruana,F",Ding Liren,1/2-1/2,2791,E46,2835
+1415,Chessable Masters GpB,chess24.com INT,2020.06.21,2.1,Ding Liren,"Giri,A",1/2-1/2,2764,A20,2791
+1416,Chessable Masters GpB,chess24.com INT,2020.06.21,3.1,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,D39,2784
+1417,Chessable Masters GpB,chess24.com INT,2020.06.21,4.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,A20,2778
+1418,Chessable Masters GpB,chess24.com INT,2020.06.21,5.1,Ding Liren,"Radjabov,T",1/2-1/2,2765,A35,2791
+1419,Chessable Masters GpB,chess24.com INT,2020.06.23,6.1,Ding Liren,"Caruana,F",1/2-1/2,2835,A07,2791
+1420,Chessable Masters GpB,chess24.com INT,2020.06.23,7.1,"Giri,A",Ding Liren,1-0,2791,B52,2764
+1421,Chessable Masters GpB,chess24.com INT,2020.06.23,8.1,Ding Liren,"Nepomniachtchi,I",1-0,2784,E60,2791
+1422,Chessable Masters GpB,chess24.com INT,2020.06.23,9.1,Ding Liren,"Vachier Lagrave,M",1-0,2778,A40,2791
+1423,Chessable Masters GpB,chess24.com INT,2020.06.23,10.1,"Radjabov,T",Ding Liren,1/2-1/2,2791,A06,2765
+1424,Chessable Masters Final 8,chess24.com INT,2020.06.26,1.12,"Nakamura,Hi",Ding Liren,0-1,2791,C65,2736
+1425,Chessable Masters Final 8,chess24.com INT,2020.06.26,1.13,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A88,2791
+1426,Chessable Masters Final 8,chess24.com INT,2020.06.26,1.11,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A20,2791
+1427,Chessable Masters Final 8,chess24.com INT,2020.06.26,1.14,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,C65,2736
+1428,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.24,Ding Liren,"Nakamura,Hi",1-0,2736,E32,2791
+1429,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.27,"Nakamura,Hi",Ding Liren,1-0,2791,A05,2736
+1430,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.26,Ding Liren,"Nakamura,Hi",0-1,2736,A88,2791
+1431,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.22,Ding Liren,"Nakamura,Hi",0-1,2736,D20,2791
+1432,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.25,"Nakamura,Hi",Ding Liren,0-1,2791,A06,2736
+1433,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.21,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,C65,2736
+1434,Chessable Masters Final 8,chess24.com INT,2020.06.28,1.23,"Nakamura,Hi",Ding Liren,1/2-1/2,2791,B52,2736
+1435,Chessable Masters Final 8,chess24.com INT,2020.06.29,1.31,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E06,2791
+1436,Chessable Masters Final 8,chess24.com INT,2020.06.29,1.32,"Nakamura,Hi",Ding Liren,0-1,2791,C65,2736
+1437,Chessable Masters Final 8,chess24.com INT,2020.06.29,1.33,Ding Liren,"Nakamura,Hi",1-0,2736,E97,2791
+1438,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.12,Ding Liren,"Carlsen,M",1-0,2863,A13,2791
+1439,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.13,"Carlsen,M",Ding Liren,1/2-1/2,2791,D85,2863
+1440,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.14,Ding Liren,"Carlsen,M",1/2-1/2,2863,E94,2791
+1441,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.15,"Carlsen,M",Ding Liren,1/2-1/2,2791,D38,2863
+1442,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.16,Ding Liren,"Carlsen,M",0-1,2863,A20,2791
+1443,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.11,"Carlsen,M",Ding Liren,1-0,2791,D38,2863
+1444,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.22,"Carlsen,M",Ding Liren,1/2-1/2,2791,D38,2863
+1445,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.23,Ding Liren,"Carlsen,M",0-1,2863,A20,2791
+1446,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.21,Ding Liren,"Carlsen,M",0-1,2863,E90,2791
+1447,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.2,Ding Liren,"Gelfand,B",0-1,2676,E47,2791
+1448,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.3,"Gelfand,B",Ding Liren,1/2-1/2,2791,D86,2676
+1449,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.4,Ding Liren,"Gelfand,B",0-1,2676,B30,2791
+1450,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.1,"Gelfand,B",Ding Liren,1/2-1/2,2791,E10,2676
+1451,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.1,"Nepomniachtchi,I",Ding Liren,1-0,2791,C45,2784
+1452,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.2,Ding Liren,"Nepomniachtchi,I",0-1,2784,A81,2791
+1453,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.3,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2791,B11,2784
+1454,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.3,Ding Liren,"Ivanchuk,V",1-0,2678,E00,2791
+1455,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.4,"Ivanchuk,V",Ding Liren,1-0,2791,E50,2678
+1456,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.2,"Ivanchuk,V",Ding Liren,1-0,2791,C45,2678
+1457,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.1,Ding Liren,"Ivanchuk,V",1/2-1/2,2678,E15,2791
+1458,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.3,"Svidler,P",Ding Liren,1/2-1/2,2791,D78,2723
+1459,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.4,Ding Liren,"Svidler,P",1-0,2723,D16,2791
+1460,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.1,"Svidler,P",Ding Liren,1-0,2791,D78,2723
+1461,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.2,Ding Liren,"Svidler,P",1-0,2723,D16,2791
+1462,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.2,Ding Liren,"Kramnik,V",0-1,2753,D37,2791
+1463,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.3,"Kramnik,V",Ding Liren,1/2-1/2,2791,B90,2753
+1464,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.1,"Kramnik,V",Ding Liren,0-1,2791,B92,2753
+1465,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.4,Ding Liren,"Kramnik,V",0-1,2753,D37,2791
+1466,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.4,"Carlsen,M",Ding Liren,1/2-1/2,2791,B51,2863
+1467,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.1,Ding Liren,"Carlsen,M",1/2-1/2,2863,A05,2791
+1468,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.2,"Carlsen,M",Ding Liren,1-0,2791,D43,2863
+1469,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.3,Ding Liren,"Carlsen,M",1/2-1/2,2863,D78,2791
+1470,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.2,"Giri,A",Ding Liren,1/2-1/2,2791,A20,2764
+1471,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.1,Ding Liren,"Giri,A",0-1,2764,E06,2791
+1472,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.3,Ding Liren,"Giri,A",0-1,2764,E48,2791
+1473,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.3,"Anand,V",Ding Liren,0-1,2791,B90,2753
+1474,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.2,Ding Liren,"Anand,V",1/2-1/2,2753,A08,2791
+1475,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.1,"Anand,V",Ding Liren,0-1,2791,B90,2753
+1476,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.1,Ding Liren,"Leko,P",1-0,2663,C50,2791
+1477,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.4,"Leko,P",Ding Liren,1/2-1/2,2791,A06,2663
+1478,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.2,"Leko,P",Ding Liren,1/2-1/2,2791,C50,2663
+1479,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.17,"Carlsen,M",Ding Liren,1/2-1/2,2791,A48,2863
+1480,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.16,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
+1481,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.15,Ding Liren,"Carlsen,M",1-0,2863,B13,2791
+1482,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.14,"Carlsen,M",Ding Liren,1/2-1/2,2791,C67,2863
+1483,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.13,Ding Liren,"Carlsen,M",1/2-1/2,2863,B13,2791
+1484,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.12,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
+1485,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.11,Ding Liren,"Carlsen,M",1-0,2863,B90,2791
+1486,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.22,Ding Liren,"Carlsen,M",0-1,2863,C50,2791
+1487,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.21,"Carlsen,M",Ding Liren,1-0,2791,D41,2863
+1488,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.23,"Carlsen,M",Ding Liren,1/2-1/2,2791,E91,2863
+1489,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.32,"Carlsen,M",Ding Liren,1-0,2791,B90,2863
+1490,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.31,Ding Liren,"Carlsen,M",1/2-1/2,2863,E62,2791
+1491,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.33,Ding Liren,"Carlsen,M",0-1,2863,B90,2791
+1492,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.42,Ding Liren,"Carlsen,M",1-0,2863,E62,2791
+1493,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.41,"Carlsen,M",Ding Liren,1-0,2791,D43,2863
+1494,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.43,"Carlsen,M",Ding Liren,1/2-1/2,2791,D37,2863
+1495,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.44,Ding Liren,"Carlsen,M",1/2-1/2,2863,E60,2791
+1496,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.45,"Carlsen,M",Ding Liren,1/2-1/2,2791,D02,2863
+1497,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.46,Ding Liren,"Carlsen,M",0-1,2863,E01,2791
+1498,Online Olym Top DivA 2020,chess.com INT,2020.08.21,2.3,"Taher,Yoseph Theolifus",Ding Liren,1/2-1/2,2791,A45,2455
+1499,Online Olym Top DivA 2020,chess.com INT,2020.08.21,3.3,Ding Liren,"Maghsoodloo,Parham",1-0,2676,A34,2791
+1500,Online Olym Top DivA 2020,chess.com INT,2020.08.22,5.2,Ding Liren,"Jobava,Ba",1-0,2603,D17,2791
+1501,Online Olym Top DivA 2020,chess.com INT,2020.08.22,6.5,"Svane,R",Ding Liren,1/2-1/2,2791,D78,2613
+1502,Online Olym Top DivA 2020,chess.com INT,2020.08.23,9.2,"Vidit,S",Ding Liren,1/2-1/2,2791,D39,2726
+1503,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.12,"Ivanchuk,V",Ding Liren,1/2-1/2,2791,E48,2678
+1504,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.11,Ding Liren,"Ivanchuk,V",1-0,2678,E15,2791
+1505,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.3,Ding Liren,"Dominguez Perez,L",1/2-1/2,2758,C50,2805
+1506,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.2,Ding Liren,"So,W",1/2-1/2,2770,A29,2805
+1507,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.1,"Xiong,Jeffery",Ding Liren,1/2-1/2,2805,E32,2709
+1508,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.4,"Caruana,F",Ding Liren,1/2-1/2,2805,E63,2842
+1509,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.1,"Tari,A",Ding Liren,1-0,2805,B50,2634
+1510,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.2,Ding Liren,"Saric,Iv",1-0,2646,E60,2805
+1511,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.3,Ding Liren,"Giri,A",1-0,2763,E00,2805
+1512,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.4,"Grischuk,A",Ding Liren,0-1,2805,E48,2777
+1513,Skilling Open Prelim,chess24.com INT,2020.11.22,1.2,"Karjakin,Sergey",Ding Liren,1/2-1/2,2791,B54,2752
+1514,Skilling Open Prelim,chess24.com INT,2020.11.22,2.7,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,C53,2791
+1515,Skilling Open Prelim,chess24.com INT,2020.11.22,3.3,Le Quang Liem,Ding Liren,1/2-1/2,2791,E15,2709
+1516,Skilling Open Prelim,chess24.com INT,2020.11.22,4.6,Ding Liren,"Vidit,S",1/2-1/2,2726,C77,2791
+1517,Skilling Open Prelim,chess24.com INT,2020.11.22,5.4,"So,W",Ding Liren,1/2-1/2,2791,E32,2770
+1518,Skilling Open Prelim,chess24.com INT,2020.11.23,6.5,Ding Liren,"Svidler,P",1/2-1/2,2723,E60,2791
+1519,Skilling Open Prelim,chess24.com INT,2020.11.23,8.4,Ding Liren,"Carlsen,M",1/2-1/2,2862,D37,2791
+1520,Skilling Open Prelim,chess24.com INT,2020.11.23,9.6,"Radjabov,T",Ding Liren,0-1,2791,B97,2765
+1521,Skilling Open Prelim,chess24.com INT,2020.11.23,10.3,Ding Liren,"Anton Guijarro,D",1-0,2675,A07,2791
+1522,Skilling Open Prelim,chess24.com INT,2020.11.24,11.7,"Firouzja,Alireza",Ding Liren,1-0,2791,C50,2749
+1523,Skilling Open Prelim,chess24.com INT,2020.11.24,12.2,Ding Liren,"Aronian,L",1/2-1/2,2781,E06,2791
+1524,Skilling Open Prelim,chess24.com INT,2020.11.24,13.8,"Duda,J",Ding Liren,1-0,2791,D45,2743
+1525,Skilling Open Prelim,chess24.com INT,2020.11.24,14.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,B90,2784
+1526,Skilling Open Prelim,chess24.com INT,2020.11.24,15.8,Ding Liren,"Giri,A",1/2-1/2,2764,A15,2791
+1527,11th Hainan Danzhou GM,chess.com INT,2020.12.03,1.2,Ding Liren,"Rapport,R",0-1,2759,E11,2791
+1528,11th Hainan Danzhou GM,chess.com INT,2020.12.03,2.4,Wei Yi,Ding Liren,0-1,2791,B12,2732
+1529,11th Hainan Danzhou GM,chess.com INT,2020.12.04,3.1,Ding Liren,Wang Hao,1-0,2763,D37,2791
+1530,11th Hainan Danzhou GM,chess.com INT,2020.12.04,4.4,Ding Liren,"Grischuk,A",1-0,2777,D12,2791
+1531,11th Hainan Danzhou GM,chess.com INT,2020.12.05,5.2,Yu Yangyi,Ding Liren,1/2-1/2,2791,E15,2709
+1532,11th Hainan Danzhou GM,chess.com INT,2020.12.05,6.3,Ding Liren,"Giri,A",1-0,2764,A14,2791
+1533,11th Hainan Danzhou GM,chess.com INT,2020.12.05,7.3,"Topalov,V",Ding Liren,1/2-1/2,2791,A28,2735
+1534,11th Hainan Danzhou GM,chess.com INT,2020.12.07,8.2,"Rapport,R",Ding Liren,1/2-1/2,2791,A22,2759
+1535,11th Hainan Danzhou GM,chess.com INT,2020.12.07,9.4,Ding Liren,Wei Yi,0-1,2732,D35,2791
+1536,11th Hainan Danzhou GM,chess.com INT,2020.12.07,10.1,Wang Hao,Ding Liren,1/2-1/2,2791,E32,2763
+1537,11th Hainan Danzhou GM,chess.com INT,2020.12.08,11.4,"Grischuk,A",Ding Liren,1/2-1/2,2791,C26,2777
+1538,11th Hainan Danzhou GM,chess.com INT,2020.12.08,12.2,Ding Liren,Yu Yangyi,1-0,2709,D45,2791
+1539,11th Hainan Danzhou GM,chess.com INT,2020.12.09,13.3,"Giri,A",Ding Liren,1/2-1/2,2791,D02,2764
+1540,11th Hainan Danzhou GM,chess.com INT,2020.12.09,14.3,Ding Liren,"Topalov,V",1/2-1/2,2735,A10,2791
+1541,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.3,"Aronian,L",Ding Liren,1-0,2791,B90,2781
+1542,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.6,Ding Liren,"Bluebaum,M",1/2-1/2,2670,D35,2791
+1543,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.4,"Shankland,S",Ding Liren,1-0,2791,E12,2691
+1544,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.5,Ding Liren,"Dominguez Perez,L",1-0,2758,A36,2791
+1545,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.5,"Duda,J",Ding Liren,1-0,2791,D38,2743
+1546,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.4,Ding Liren,"Grischuk,A",0-1,2777,A36,2791
+1547,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.6,"Giri,A",Ding Liren,1-0,2791,C77,2764
+1548,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.3,Ding Liren,"Nepomniachtchi,I",1/2-1/2,2789,E60,2791
+1549,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.7,"Nakamura,Hi",Ding Liren,1-0,2791,A01,2736
+1550,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.2,Ding Liren,"Vidit,S",1-0,2726,A36,2791
+1551,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.8,"Radjabov,T",Ding Liren,1/2-1/2,2791,E15,2765
+1552,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.1,"Dubov,Daniil",Ding Liren,1-0,2791,D02,2710
+1553,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.8,Ding Liren,"Carlsen,M",1-0,2862,E10,2791
+1554,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,14.2,"Vachier Lagrave,M",Ding Liren,1-0,2791,B90,2784
+1555,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.7,Ding Liren,"So,W",1/2-1/2,2770,C53,2791
+1556,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.2,Wang Hao,Ding Liren,1/2-1/2,2805,C45,2762
+1557,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2767,E60,2805
+1558,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.1,"Caruana,F",Ding Liren,1/2-1/2,2805,C88,2842
+1559,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.4,"Giri,A",Ding Liren,1-0,2805,C85,2763
+1560,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.2,Ding Liren,"Grischuk,A",1-0,2777,D37,2805
+1561,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.3,"Alekseenko,K",Ding Liren,0-1,2805,C50,2698
+1562,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.3,Ding Liren,"Nepomniachtchi,I",1-0,2774,E60,2805
+1563,Ding vs. Challengers,chess24.com INT,2021.05.11,1.7,"Keymer,Vincent",Ding Liren,1-0,2799,D33,2591
+1564,Ding vs. Challengers,chess24.com INT,2021.05.11,1.5,"Mammadzada,G",Ding Liren,0-1,2799,B15,2443
+1565,Ding vs. Challengers,chess24.com INT,2021.05.11,1.4,Ding Liren,"Gukesh,D",1/2-1/2,2578,C50,2799
+1566,Ding vs. Challengers,chess24.com INT,2021.05.11,1.3,"Abdumalik,Z",Ding Liren,0-1,2799,B90,2472
+1567,Ding vs. Challengers,chess24.com INT,2021.05.11,1.6,Ding Liren,"Garifullina,Leya",1-0,2406,B52,2799
+1568,Ding vs. Challengers,chess24.com INT,2021.05.11,1.2,Ding Liren,"Zhu,Jiner",1-0,2459,B52,2799
+1569,Ding vs. Challengers,chess24.com INT,2021.05.11,1.1,"Aditya,Mittal",Ding Liren,0-1,2799,E54,2438
+1570,Ding vs. Challengers,chess24.com INT,2021.05.12,2.1,"Vaishali,R",Ding Liren,1/2-1/2,2799,A05,2393
+1571,Ding vs. Challengers,chess24.com INT,2021.05.12,2.7,Ding Liren,"Sokolovsky,Yahli",1-0,2431,E97,2799
+1572,Ding vs. Challengers,chess24.com INT,2021.05.12,2.6,Ding Liren,"Yoo,Christopher Woojin",1-0,2455,A19,2799
+1573,Ding vs. Challengers,chess24.com INT,2021.05.12,2.5,"Mendonca,Leon Luke",Ding Liren,0-1,2799,D45,2550
+1574,Ding vs. Challengers,chess24.com INT,2021.05.12,2.4,Ding Liren,"Badelka,Olga",1/2-1/2,2433,B30,2799
+1575,Ding vs. Challengers,chess24.com INT,2021.05.12,2.2,Ding Liren,"Praggnanandhaa,R",1/2-1/2,2608,D37,2799
+1576,Ding vs. Challengers,chess24.com INT,2021.05.12,2.8,Lei Tingjie,Ding Liren,0-1,2799,E00,2505
+1577,Ding vs. Challengers,chess24.com INT,2021.05.12,2.3,"Bjerre,Jonas Buhl",Ding Liren,1/2-1/2,2799,D85,2557
+1578,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.5,Ding Liren,"Caruana,F",1/2-1/2,2820,A08,2799
+1579,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.5,"Radjabov,T",Ding Liren,1-0,2799,E15,2765
+1580,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.4,Ding Liren,"Mamedyarov,S",1/2-1/2,2770,E01,2799
+1581,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.6,"Nepomniachtchi,I",Ding Liren,1-0,2799,B19,2792
+1582,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,1.2,Ding Liren,"Artemiev,V",1-0,2704,D30,2799
+1583,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,2.8,"Adhiban,Baskaran",Ding Liren,0-1,2799,A09,2660
+1584,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,3.1,Ding Liren,"Aronian,L",1/2-1/2,2781,E04,2799
+1585,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,4.8,Ding Liren,"Gukesh,D",1/2-1/2,2578,D31,2799
+1586,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,5.2,"Erigaisi,Arjun",Ding Liren,1/2-1/2,2799,E00,2567
+1587,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,6.7,Ding Liren,"Vidit,S",1/2-1/2,2726,A30,2799
+1588,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,7.3,"Firouzja,Alireza",Ding Liren,0-1,2799,D02,2759
+1589,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,8.6,Ding Liren,Hou Yifan,1/2-1/2,2658,A30,2799
+1590,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,9.4,"So,W",Ding Liren,1/2-1/2,2799,E32,2770
+1591,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,10.5,Ding Liren,"Svidler,P",1-0,2714,D70,2799
+1592,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,11.5,"Salem,AR",Ding Liren,0-1,2799,E24,2682
+1593,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,12.4,Ding Liren,"Carlsen,M",1/2-1/2,2847,E01,2799
+1594,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,13.6,"Giri,A",Ding Liren,1/2-1/2,2799,D38,2780
+1595,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,14.3,Ding Liren,"Duda,J",0-1,2729,A30,2799
+1596,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,15.7,"Dubov,Daniil",Ding Liren,1/2-1/2,2799,C46,2714
+1597,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.14,Ding Liren,"Duda,J",1/2-1/2,2729,D43,2799
+1598,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.12,Ding Liren,"Duda,J",1/2-1/2,2729,D43,2799
+1599,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.13,"Duda,J",Ding Liren,1/2-1/2,2799,D41,2729
+1600,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.11,"Duda,J",Ding Liren,1/2-1/2,2799,D38,2729
+1601,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.22,"Duda,J",Ding Liren,0-1,2799,C02,2729
+1602,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.23,Ding Liren,"Duda,J",1-0,2729,D52,2799
+1603,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.24,"Duda,J",Ding Liren,0-1,2799,C59,2729
+1604,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.21,Ding Liren,"Duda,J",0-1,2729,D43,2799
+1605,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.13,"Artemiev,V",Ding Liren,0-1,2799,A07,2704
+1606,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.11,"Artemiev,V",Ding Liren,1/2-1/2,2799,A07,2704
+1607,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.12,Ding Liren,"Artemiev,V",1-0,2704,D30,2799
+1608,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.31,Ding Liren,"Artemiev,V",1/2-1/2,2704,D32,2799
+1609,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.21,Ding Liren,"Artemiev,V",1/2-1/2,2704,E60,2799
+1610,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.23,Ding Liren,"Artemiev,V",1-0,2704,E60,2799
+1611,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.32,"Artemiev,V",Ding Liren,1-0,2799,A07,2704
+1612,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.22,"Artemiev,V",Ding Liren,1-0,2799,A22,2704
+1613,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.24,"Artemiev,V",Ding Liren,1-0,2799,A45,2704
+1614,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.13,"Carlsen,M",Ding Liren,1/2-1/2,2799,B13,2847
+1615,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.12,Ding Liren,"Carlsen,M",1/2-1/2,2847,E06,2799
+1616,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.11,"Carlsen,M",Ding Liren,1-0,2799,A22,2847
+1617,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.14,Ding Liren,"Carlsen,M",1/2-1/2,2847,E06,2799
+1618,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.23,Ding Liren,"Carlsen,M",1-0,2847,E60,2799
+1619,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.22,"Carlsen,M",Ding Liren,0-1,2799,A01,2847
+1620,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.31,"Carlsen,M",Ding Liren,1-0,2799,C84,2847
+1621,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.32,Ding Liren,"Carlsen,M",1/2-1/2,2847,E01,2799
+1622,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.21,Ding Liren,"Carlsen,M",1-0,2847,E06,2799
+1623,San Fermin Masters Final,chess24.com INT,2021.07.10,1.6,"Santos Latasa,J",Ding Liren,0-1,2799,D38,2608
+1624,San Fermin Masters Final,chess24.com INT,2021.07.10,1.2,"Santos Latasa,J",Ding Liren,0-1,2799,D02,2608
+1625,San Fermin Masters Final,chess24.com INT,2021.07.10,1.1,Ding Liren,"Santos Latasa,J",1/2-1/2,2608,A07,2799
+1626,San Fermin Masters Final,chess24.com INT,2021.07.10,1.5,Ding Liren,"Santos Latasa,J",1-0,2608,E04,2799
+1627,San Fermin Masters Final,chess24.com INT,2021.07.10,1.4,"Santos Latasa,J",Ding Liren,1-0,2799,A06,2608
+1628,San Fermin Masters Final,chess24.com INT,2021.07.10,1.3,Ding Liren,"Santos Latasa,J",1-0,2608,D02,2799
+1629,San Fermin Masters Final,chess24.com INT,2021.07.11,2.7,Ding Liren,"Aronian,L",1/2-1/2,2782,D78,2799
+1630,San Fermin Masters Final,chess24.com INT,2021.07.11,2.1,Ding Liren,"Aronian,L",0-1,2782,A07,2799
+1631,San Fermin Masters Final,chess24.com INT,2021.07.11,2.4,"Aronian,L",Ding Liren,1/2-1/2,2799,D43,2782
+1632,San Fermin Masters Final,chess24.com INT,2021.07.11,2.5,Ding Liren,"Aronian,L",1-0,2782,D78,2799
+1633,San Fermin Masters Final,chess24.com INT,2021.07.11,2.6,"Aronian,L",Ding Liren,1-0,2799,D40,2782
+1634,San Fermin Masters Final,chess24.com INT,2021.07.11,2.3,Ding Liren,"Aronian,L",1/2-1/2,2782,A07,2799
+1635,San Fermin Masters Final,chess24.com INT,2021.07.11,2.8,"Aronian,L",Ding Liren,1-0,2799,E73,2782
+1636,San Fermin Masters Final,chess24.com INT,2021.07.11,2.2,"Aronian,L",Ding Liren,1/2-1/2,2799,D38,2782
+1637,Online Olym Top DivA 2021,chess.com INT,2021.09.08,2.2,Ding Liren,"Batchuluun,T",1-0,2536,A13,2799
+1638,Online Olym Top DivA 2021,chess.com INT,2021.09.08,3.5,"Megaranto,S",Ding Liren,0-1,2799,D02,2548
+1639,Online Olym Top DivA 2021,chess.com INT,2021.09.09,4.1,"Jumabayev,R",Ding Liren,0-1,2799,A45,2651
+1640,Online Olym Top DivA 2021,chess.com INT,2021.09.09,6.2,"Maghsoodloo,Parham",Ding Liren,1/2-1/2,2799,C88,2695
+1641,Online Olym Top DivA 2021,chess.com INT,2021.09.10,8.3,"Szabo,G ROM",Ding Liren,0-1,2799,B22,2531
+1642,Online Olym Top DivA 2021,chess.com INT,2021.09.10,9.3,Ding Liren,"Hovhannisyan,R",1/2-1/2,2626,D02,2799
+1643,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.41,Ding Liren,"Duda,J",1-0,2756,D37,2799
+1644,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.42,"Duda,J",Ding Liren,1-0,2799,C67,2756
+1645,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.1,Ding Liren,"Dubov,Daniil",1/2-1/2,2714,D12,2799
+1646,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.2,"Dubov,Daniil",Ding Liren,1-0,2799,E10,2714
+1647,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.4,Yu Yangyi,Ding Liren,0-1,2799,D35,2704
+1648,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.1,"Rapport,R",Ding Liren,1/2-1/2,2799,A06,2760
+1649,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.4,Ding Liren,Wei Yi,1/2-1/2,2725,A29,2799
+1650,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.2,"Ju,Wenjun",Ding Liren,0-1,2799,D10,2560
+1651,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.3,Ding Liren,"Topalov,V",1-0,2730,A35,2799
+1652,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.3,Bu Xiangzhi,Ding Liren,1/2-1/2,2799,D38,2705
+1653,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.2,Ding Liren,"Vitiugov,N",1-0,2727,E97,2799
+1654,Chess Super League 2021,chess.com INT,2021.10.11,1.2,"Radjabov,T",Ding Liren,1/2-1/2,2799,E32,2763
+1655,Chess Super League 2021,chess.com INT,2021.10.12,2.2,"Sethuraman,S",Ding Liren,1/2-1/2,2799,C92,2620
+1656,Chess Super League 2021,chess.com INT,2021.10.13,3.3,Ding Liren,"Vidit,S",0-1,2727,A45,2799
+1657,Chess Super League 2021,chess.com INT,2021.10.14,4.1,"Karjakin,Sergey",Ding Liren,1/2-1/2,2799,D38,2743
+1658,Chess Super League 2021,chess.com INT,2021.10.15,5.3,"Sasikiran,K",Ding Liren,0-1,2799,B11,2640
+1659,chess.com Speed 2021,chess.com INT,2021.11.09,1.37,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,E10,2799
+1660,chess.com Speed 2021,chess.com INT,2021.11.09,1.36,"Mamedyarov,S",Ding Liren,1-0,2799,D38,2765
+1661,chess.com Speed 2021,chess.com INT,2021.11.09,1.35,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,E10,2799
+1662,chess.com Speed 2021,chess.com INT,2021.11.09,1.29,"Mamedyarov,S",Ding Liren,0-1,2799,D38,2765
+1663,chess.com Speed 2021,chess.com INT,2021.11.09,1.34,"Mamedyarov,S",Ding Liren,1-0,2799,D38,2765
+1664,chess.com Speed 2021,chess.com INT,2021.11.09,1.33,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,D20,2799
+1665,chess.com Speed 2021,chess.com INT,2021.11.09,1.32,"Mamedyarov,S",Ding Liren,1/2-1/2,2799,D38,2765
+1666,chess.com Speed 2021,chess.com INT,2021.11.09,1.31,Ding Liren,"Mamedyarov,S",1-0,2765,D20,2799
+1667,chess.com Speed 2021,chess.com INT,2021.11.09,1.25,"Mamedyarov,S",Ding Liren,0-1,2799,A14,2765
+1668,chess.com Speed 2021,chess.com INT,2021.11.09,1.28,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,D27,2799
+1669,chess.com Speed 2021,chess.com INT,2021.11.09,1.27,"Mamedyarov,S",Ding Liren,1/2-1/2,2799,D38,2765
+1670,chess.com Speed 2021,chess.com INT,2021.11.09,1.26,Ding Liren,"Mamedyarov,S",0-1,2765,D27,2799
+1671,chess.com Speed 2021,chess.com INT,2021.11.09,1.38,"Mamedyarov,S",Ding Liren,0-1,2799,D41,2765
+1672,chess.com Speed 2021,chess.com INT,2021.11.09,1.24,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,E10,2799
+1673,chess.com Speed 2021,chess.com INT,2021.11.09,1.23,"Mamedyarov,S",Ding Liren,0-1,2799,D02,2765
+1674,chess.com Speed 2021,chess.com INT,2021.11.09,1.22,Ding Liren,"Mamedyarov,S",0-1,2765,E10,2799
+1675,chess.com Speed 2021,chess.com INT,2021.11.09,1.21,"Mamedyarov,S",Ding Liren,1/2-1/2,2799,A07,2765
+1676,chess.com Speed 2021,chess.com INT,2021.11.09,1.19,Ding Liren,"Mamedyarov,S",1-0,2765,E10,2799
+1677,chess.com Speed 2021,chess.com INT,2021.11.09,1.18,"Mamedyarov,S",Ding Liren,1-0,2799,D38,2765
+1678,chess.com Speed 2021,chess.com INT,2021.11.09,1.17,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,E10,2799
+1679,chess.com Speed 2021,chess.com INT,2021.11.09,1.16,"Mamedyarov,S",Ding Liren,0-1,2799,C26,2765
+1680,chess.com Speed 2021,chess.com INT,2021.11.09,1.15,Ding Liren,"Mamedyarov,S",1/2-1/2,2765,D20,2799
+1681,chess.com Speed 2021,chess.com INT,2021.11.09,1.14,"Mamedyarov,S",Ding Liren,1-0,2799,E20,2765
+1682,chess.com Speed 2021,chess.com INT,2021.11.09,1.13,Ding Liren,"Mamedyarov,S",1-0,2765,D31,2799
+1683,chess.com Speed 2021,chess.com INT,2021.11.09,1.11,Ding Liren,"Mamedyarov,S",1-0,2765,E60,2799
+1684,chess.com Speed 2021,chess.com INT,2021.11.09,1.12,"Mamedyarov,S",Ding Liren,1-0,2799,A07,2765
+1685,GM Warmup Match 2021,Hangzhou CHN,2021.11.22,1.1,Lu Shanglei,Ding Liren,0-1,2799,C88,2616
+1686,GM Warmup Match 2021,Hangzhou CHN,2021.11.23,2.1,Ding Liren,Lu Shanglei,1/2-1/2,2616,D11,2799
+1687,GM Warmup Match 2021,Hangzhou CHN,2021.11.24,3.1,Lu Shanglei,Ding Liren,1/2-1/2,2799,C67,2616
+1688,GM Warmup Match 2021,Hangzhou CHN,2021.11.25,4.1,Ding Liren,Lu Shanglei,1-0,2616,A11,2799
+1689,chess.com Speed 2021,chess.com INT,2021.12.06,2.22,Ding Liren,"Aronian,L",1-0,2782,D27,2799
+1690,chess.com Speed 2021,chess.com INT,2021.12.06,2.12,"Aronian,L",Ding Liren,0-1,2799,C88,2782
+1691,chess.com Speed 2021,chess.com INT,2021.12.06,2.19,Ding Liren,"Aronian,L",0-1,2782,A56,2799
+1692,chess.com Speed 2021,chess.com INT,2021.12.06,2.15,Ding Liren,"Aronian,L",1-0,2782,D27,2799
+1693,chess.com Speed 2021,chess.com INT,2021.12.06,2.39,"Aronian,L",Ding Liren,1/2-1/2,2799,D02,2782
+1694,chess.com Speed 2021,chess.com INT,2021.12.06,2.33,"Aronian,L",Ding Liren,1/2-1/2,2799,A45,2782
+1695,chess.com Speed 2021,chess.com INT,2021.12.06,2.21,"Aronian,L",Ding Liren,1-0,2799,C88,2782
+1696,chess.com Speed 2021,chess.com INT,2021.12.06,2.38,Ding Liren,"Aronian,L",0-1,2782,B91,2799
+1697,chess.com Speed 2021,chess.com INT,2021.12.06,2.37,"Aronian,L",Ding Liren,1-0,2799,D03,2782
+1698,chess.com Speed 2021,chess.com INT,2021.12.06,2.36,Ding Liren,"Aronian,L",1-0,2782,E91,2799
+1699,chess.com Speed 2021,chess.com INT,2021.12.06,2.35,"Aronian,L",Ding Liren,1-0,2799,D02,2782
+1700,chess.com Speed 2021,chess.com INT,2021.12.06,2.34,Ding Liren,"Aronian,L",1-0,2782,E60,2799
+1701,chess.com Speed 2021,chess.com INT,2021.12.06,2.11,Ding Liren,"Aronian,L",1-0,2782,D27,2799
+1702,chess.com Speed 2021,chess.com INT,2021.12.06,2.17,Ding Liren,"Aronian,L",0-1,2782,A56,2799
+1703,chess.com Speed 2021,chess.com INT,2021.12.06,2.16,"Aronian,L",Ding Liren,0-1,2799,C88,2782
+1704,chess.com Speed 2021,chess.com INT,2021.12.06,2.13,Ding Liren,"Aronian,L",1-0,2782,D27,2799
+1705,chess.com Speed 2021,chess.com INT,2021.12.06,2.27,"Aronian,L",Ding Liren,1-0,2799,A45,2782
+1706,chess.com Speed 2021,chess.com INT,2021.12.06,2.18,"Aronian,L",Ding Liren,0-1,2799,C88,2782
+1707,chess.com Speed 2021,chess.com INT,2021.12.06,2.32,Ding Liren,"Aronian,L",0-1,2782,A49,2799
+1708,chess.com Speed 2021,chess.com INT,2021.12.06,2.31,"Aronian,L",Ding Liren,0-1,2799,C22,2782
+1709,chess.com Speed 2021,chess.com INT,2021.12.06,2.14,"Aronian,L",Ding Liren,1-0,2799,C88,2782
+1710,chess.com Speed 2021,chess.com INT,2021.12.06,2.28,Ding Liren,"Aronian,L",1-0,2782,A49,2799
+1711,chess.com Speed 2021,chess.com INT,2021.12.06,2.26,Ding Liren,"Aronian,L",1-0,2782,E60,2799
+1712,chess.com Speed 2021,chess.com INT,2021.12.06,2.25,"Aronian,L",Ding Liren,0-1,2799,D02,2782
+1713,chess.com Speed 2021,chess.com INT,2021.12.06,2.24,Ding Liren,"Aronian,L",0-1,2782,A56,2799
+1714,chess.com Speed 2021,chess.com INT,2021.12.06,2.23,"Aronian,L",Ding Liren,0-1,2799,C88,2782
+1715,chess.com Speed 2021,chess.com INT,2021.12.16,3.11,"Nakamura,Hi",Ding Liren,1-0,2799,D78,2736
+1716,chess.com Speed 2021,chess.com INT,2021.12.16,3.13,"Nakamura,Hi",Ding Liren,0-1,2799,D78,2736
+1717,chess.com Speed 2021,chess.com INT,2021.12.16,3.12,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A07,2799
+1718,chess.com Speed 2021,chess.com INT,2021.12.16,3.14,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E49,2799
+1719,chess.com Speed 2021,chess.com INT,2021.12.16,3.17,"Nakamura,Hi",Ding Liren,1-0,2799,A07,2736
+1720,chess.com Speed 2021,chess.com INT,2021.12.16,3.16,Ding Liren,"Nakamura,Hi",1-0,2736,A07,2799
+1721,chess.com Speed 2021,chess.com INT,2021.12.16,3.15,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,A07,2736
+1722,chess.com Speed 2021,chess.com INT,2021.12.16,3.18,Ding Liren,"Nakamura,Hi",0-1,2736,E06,2799
+1723,chess.com Speed 2021,chess.com INT,2021.12.17,3.29,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A50,2799
+1724,chess.com Speed 2021,chess.com INT,2021.12.17,3.28,"Nakamura,Hi",Ding Liren,1-0,2799,C88,2736
+1725,chess.com Speed 2021,chess.com INT,2021.12.17,3.41,Ding Liren,"Nakamura,Hi",0-1,2736,A15,2799
+1726,chess.com Speed 2021,chess.com INT,2021.12.17,3.27,Ding Liren,"Nakamura,Hi",1-0,2736,D37,2799
+1727,chess.com Speed 2021,chess.com INT,2021.12.17,3.26,"Nakamura,Hi",Ding Liren,0-1,2799,A06,2736
+1728,chess.com Speed 2021,chess.com INT,2021.12.17,3.25,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,D37,2799
+1729,chess.com Speed 2021,chess.com INT,2021.12.17,3.24,"Nakamura,Hi",Ding Liren,0-1,2799,A05,2736
+1730,chess.com Speed 2021,chess.com INT,2021.12.17,3.23,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A07,2799
+1731,chess.com Speed 2021,chess.com INT,2021.12.17,3.22,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,A07,2736
+1732,chess.com Speed 2021,chess.com INT,2021.12.17,3.21,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,E06,2799
+1733,chess.com Speed 2021,chess.com INT,2021.12.17,3.37,Ding Liren,"Nakamura,Hi",1/2-1/2,2736,A41,2799
+1734,chess.com Speed 2021,chess.com INT,2021.12.17,3.36,"Nakamura,Hi",Ding Liren,0-1,2799,C77,2736
+1735,chess.com Speed 2021,chess.com INT,2021.12.17,3.38,"Nakamura,Hi",Ding Liren,1-0,2799,C50,2736
+1736,chess.com Speed 2021,chess.com INT,2021.12.17,3.34,"Nakamura,Hi",Ding Liren,1-0,2799,C26,2736
+1737,chess.com Speed 2021,chess.com INT,2021.12.17,3.312,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,C88,2736
+1738,chess.com Speed 2021,chess.com INT,2021.12.17,3.311,Ding Liren,"Nakamura,Hi",1-0,2736,D37,2799
+1739,chess.com Speed 2021,chess.com INT,2021.12.17,3.310,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,C50,2736
+1740,chess.com Speed 2021,chess.com INT,2021.12.17,3.210,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,C65,2736
+1741,chess.com Speed 2021,chess.com INT,2021.12.17,3.31,Ding Liren,"Nakamura,Hi",1-0,2736,D37,2799
+1742,chess.com Speed 2021,chess.com INT,2021.12.17,3.19,"Nakamura,Hi",Ding Liren,1/2-1/2,2799,D38,2736
+1743,chess.com Speed 2021,chess.com INT,2021.12.17,3.39,Ding Liren,"Nakamura,Hi",0-1,2736,D37,2799
+1744,chess.com Speed 2021,chess.com INT,2021.12.17,3.32,"Nakamura,Hi",Ding Liren,1-0,2799,A01,2736
+1745,chess.com Speed 2021,chess.com INT,2021.12.17,3.35,Ding Liren,"Nakamura,Hi",0-1,2736,A40,2799
+1746,chess.com Speed 2021,chess.com INT,2021.12.17,3.33,Ding Liren,"Nakamura,Hi",1-0,2736,E94,2799
+1747,Airthings Masters Prelim,chess24.com INT,2022.02.19,1.6,"Keymer,Vincent",Ding Liren,0-1,2799,A07,2664
+1748,Airthings Masters Prelim,chess24.com INT,2022.02.19,2.3,Ding Liren,"Niemann,Hans Moke",1/2-1/2,2642,A28,2799
+1749,Airthings Masters Prelim,chess24.com INT,2022.02.19,3.7,"Praggnanandhaa,R",Ding Liren,0-1,2799,C50,2612
+1750,Airthings Masters Prelim,chess24.com INT,2022.02.19,4.2,Ding Liren,"Le, Quang Liem",1-0,2709,D37,2799
+1751,Airthings Masters Prelim,chess24.com INT,2022.02.20,5.8,"Hansen,Eric",Ding Liren,1/2-1/2,2799,B51,2606
+1752,Airthings Masters Prelim,chess24.com INT,2022.02.20,6.1,"Artemiev,V",Ding Liren,0-1,2799,A22,2700
+1753,Airthings Masters Prelim,chess24.com INT,2022.02.20,7.8,Ding Liren,"Duda,J",1/2-1/2,2760,D41,2799
+1754,Airthings Masters Prelim,chess24.com INT,2022.02.20,8.2,"Aronian,L",Ding Liren,1-0,2799,C59,2772
+1755,Airthings Masters Prelim,chess24.com INT,2022.02.21,9.7,Ding Liren,"Mamedyarov,S",1/2-1/2,2767,D06,2799
+1756,Airthings Masters Prelim,chess24.com INT,2022.02.21,10.3,"Giri,A",Ding Liren,1-0,2799,A07,2772
+1757,Airthings Masters Prelim,chess24.com INT,2022.02.21,11.6,Ding Liren,"Carlsen,M",1/2-1/2,2865,E60,2799
+1758,Airthings Masters Prelim,chess24.com INT,2022.02.21,12.4,"Abdusattorov,Nodirbek",Ding Liren,1/2-1/2,2799,A28,2651
+1759,Airthings Masters Prelim,chess24.com INT,2022.02.22,13.5,Ding Liren,"Esipenko,Andrey",0-1,2714,A28,2799
+1760,Airthings Masters Prelim,chess24.com INT,2022.02.22,14.5,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2799,C84,2773
+1761,Airthings Masters Prelim,chess24.com INT,2022.02.22,15.4,Ding Liren,"Kosteniuk,A",1-0,2516,A34,2799
+1762,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.14,"Artemiev,V",Ding Liren,1-0,2799,A06,2700
+1763,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.11,Ding Liren,"Artemiev,V",1-0,2700,D35,2799
+1764,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.13,Ding Liren,"Artemiev,V",0-1,2700,D43,2799
+1765,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.12,"Artemiev,V",Ding Liren,1/2-1/2,2799,E32,2700
+1766,Charity Cup Prelim,chess24.com INT,2022.03.19,1.2,Ding Liren,"Harikrishna,P",1-0,2716,A08,2799
+1767,Charity Cup Prelim,chess24.com INT,2022.03.19,2.8,"Hansen,Eric",Ding Liren,0-1,2799,C50,2606
+1768,Charity Cup Prelim,chess24.com INT,2022.03.19,3.1,Ding Liren,"Niemann,Hans Moke",0-1,2642,A20,2799
+1769,Charity Cup Prelim,chess24.com INT,2022.03.19,4.8,Ding Liren,"Carlsen,M",1-0,2864,E60,2799
+1770,Charity Cup Prelim,chess24.com INT,2022.03.20,5.2,"Navara,D",Ding Liren,1/2-1/2,2799,D39,2700
+1771,Charity Cup Prelim,chess24.com INT,2022.03.20,6.7,Ding Liren,"Rapport,R",0-1,2762,A41,2799
+1772,Charity Cup Prelim,chess24.com INT,2022.03.20,7.3,"Lei,Tingjie",Ding Liren,0-1,2799,C41,2535
+1773,Charity Cup Prelim,chess24.com INT,2022.03.20,8.6,Ding Liren,"Praggnanandhaa,R",0-1,2619,A08,2799
+1774,Charity Cup Prelim,chess24.com INT,2022.03.21,9.4,"Van Foreest,Jorden",Ding Liren,1-0,2799,C58,2714
+1775,Charity Cup Prelim,chess24.com INT,2022.03.21,10.5,Ding Liren,"Anton Guijarro,D",1/2-1/2,2694,A07,2799
+1776,Charity Cup Prelim,chess24.com INT,2022.03.21,11.5,"Jones,G",Ding Liren,0-1,2799,C41,2672
+1777,Charity Cup Prelim,chess24.com INT,2022.03.21,12.4,Ding Liren,"Le, Quang Liem",1-0,2709,A07,2799
+1778,Charity Cup Prelim,chess24.com INT,2022.03.22,13.6,"Ju,Wenjun",Ding Liren,1/2-1/2,2799,D30,2560
+1779,Charity Cup Prelim,chess24.com INT,2022.03.22,14.3,Ding Liren,"Vidit,S",1/2-1/2,2723,D37,2799
+1780,Charity Cup Prelim,chess24.com INT,2022.03.22,15.7,"Duda,J",Ding Liren,1/2-1/2,2799,D38,2750
+1781,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.12,"Van Foreest,Jorden",Ding Liren,1/2-1/2,2799,C11,2714
+1782,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.13,Ding Liren,"Van Foreest,Jorden",1-0,2714,D43,2799
+1783,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.11,Ding Liren,"Van Foreest,Jorden",1-0,2714,D26,2799
+1784,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.23,"Carlsen,M",Ding Liren,1-0,2799,E10,2864
+1785,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.22,Ding Liren,"Carlsen,M",1/2-1/2,2864,D32,2799
+1786,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.11,"Carlsen,M",Ding Liren,1/2-1/2,2799,A00,2864
+1787,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.24,Ding Liren,"Carlsen,M",0-1,2864,D43,2799
+1788,China HangZhou GM 2022,Hangzhou CHN,2022.03.27,1.1,Ding Liren,"Li,Di",1-0,2579,A28,2799
+1789,China HangZhou GM 2022,Hangzhou CHN,2022.03.28,2.2,Ding Liren,"Xu,Xiangyu",1-0,2564,E60,2799
+1790,China HangZhou GM 2022,Hangzhou CHN,2022.03.28,3.2,"Bai,Jinshi",Ding Liren,0-1,2799,D38,2593
+1791,China HangZhou GM 2022,Hangzhou CHN,2022.03.29,4.1,"Li,Di",Ding Liren,0-1,2799,D38,2579
+1792,China HangZhou GM 2022,Hangzhou CHN,2022.03.30,5.2,"Xu,Xiangyu",Ding Liren,1/2-1/2,2799,D38,2564
+1793,China HangZhou GM 2022,Hangzhou CHN,2022.03.30,6.2,Ding Liren,"Bai,Jinshi",1-0,2593,D32,2799
+1794,China HangZhou GM 2022,Hangzhou CHN,2022.03.31,7.1,Ding Liren,"Li,Di",1-0,2579,D02,2799
+1795,China HangZhou GM 2022,Hangzhou CHN,2022.04.01,8.2,Ding Liren,"Xu,Xiangyu",1-0,2564,A10,2799
+1796,China HangZhou GM 2022,Hangzhou CHN,2022.04.01,9.2,"Bai,Jinshi",Ding Liren,1/2-1/2,2799,D45,2593
+1797,China HangZhou GM 2022,Hangzhou CHN,2022.04.02,10.1,"Li,Di",Ding Liren,1/2-1/2,2799,D43,2579
+1798,China HangZhou GM 2022,Hangzhou CHN,2022.04.03,11.2,"Xu,Xiangyu",Ding Liren,0-1,2799,E10,2564
+1799,China HangZhou GM 2022,Hangzhou CHN,2022.04.03,12.2,Ding Liren,"Bai,Jinshi",1-0,2593,A30,2799
+1800,China HangZhou GM Match,Hangzhou CHN,2022.04.05,1.1,Wei Yi,Ding Liren,1/2-1/2,2799,D45,2729
+1801,China HangZhou GM Match,Hangzhou CHN,2022.04.06,2.1,Ding Liren,Wei Yi,1/2-1/2,2729,E06,2799
+1802,China HangZhou GM Match,Hangzhou CHN,2022.04.07,3.1,Wei Yi,Ding Liren,1/2-1/2,2799,D37,2729
+1803,China HangZhou GM Match,Hangzhou CHN,2022.04.08,4.1,Ding Liren,Wei Yi,1/2-1/2,2729,E06,2799
+1804,China HangZhou GM Match,Hangzhou CHN,2022.04.09,5.1,Wei Yi,Ding Liren,1/2-1/2,2799,E15,2729
+1805,China HangZhou GM Match,Hangzhou CHN,2022.04.10,6.1,Ding Liren,Wei Yi,1-0,2729,E06,2799
+1806,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.14,1.1,Ding Liren,Ma Qun,1/2-1/2,2645,C67,2799
+1807,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.15,2.3,Ding Liren,"Xu,Xiangyu",1-0,2564,E46,2799
+1808,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.16,3.1,Wei Yi,Ding Liren,1/2-1/2,2799,C48,2729
+1809,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.17,4.2,Bu Xiangzhi,Ding Liren,1/2-1/2,2799,D38,2708
+1810,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.18,5.2,Ding Liren,Zhang Zhong,1-0,2640,D26,2799
+1811,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.21,7.1,"Xu,Xiangyu",Ding Liren,1/2-1/2,2799,E35,2564
+1812,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.22,8.1,Ding Liren,Wei Yi,1/2-1/2,2729,D41,2799
+1813,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.23,9.1,Zhang Zhong,Ding Liren,0-1,2799,B52,2640
+1814,CHN Team Asian Games Q2,Hangzhou CHN,2022.04.24,10.3,Ding Liren,Bu Xiangzhi,1/2-1/2,2708,C67,2799
+1815,Chessable Masters Prelim,chess24.com INT,2022.05.19,1.7,Ding Liren,"Van Foreest,Jorden",1-0,2715,A06,2806
+1816,Chessable Masters Prelim,chess24.com INT,2022.05.19,2.3,"Mishra,Abhimanyu",Ding Liren,0-1,2806,B12,2535
+1817,Chessable Masters Prelim,chess24.com INT,2022.05.19,3.6,Ding Liren,"Shankland,S",1/2-1/2,2718,A04,2806
+1818,Chessable Masters Prelim,chess24.com INT,2022.05.19,4.4,"Vidit,S",Ding Liren,1/2-1/2,2806,E32,2723
+1819,Chessable Masters Prelim,chess24.com INT,2022.05.20,5.5,Ding Liren,Wei Yi,1/2-1/2,2727,A14,2806
+1820,Chessable Masters Prelim,chess24.com INT,2022.05.20,6.5,"Giri,A",Ding Liren,1/2-1/2,2806,D35,2761
+1821,Chessable Masters Prelim,chess24.com INT,2022.05.20,7.4,Ding Liren,"Tari,A",1/2-1/2,2654,A22,2806
+1822,Chessable Masters Prelim,chess24.com INT,2022.05.20,8.6,"Grandelius,N",Ding Liren,1/2-1/2,2806,C84,2635
+1823,Chessable Masters Prelim,chess24.com INT,2022.05.21,9.3,Ding Liren,"Praggnanandhaa,R",1-0,2642,E51,2806
+1824,Chessable Masters Prelim,chess24.com INT,2022.05.21,10.7,"Harikrishna,P",Ding Liren,0-1,2806,B22,2705
+1825,Chessable Masters Prelim,chess24.com INT,2022.05.21,11.2,Ding Liren,"Jones,G",1-0,2669,E73,2806
+1826,Chessable Masters Prelim,chess24.com INT,2022.05.21,12.8,"Anton Guijarro,D",Ding Liren,1/2-1/2,2806,B50,2691
+1827,Chessable Masters Prelim,chess24.com INT,2022.05.22,13.1,Ding Liren,"Carlsen,M",1/2-1/2,2864,E60,2806
+1828,Chessable Masters Prelim,chess24.com INT,2022.05.22,14.8,Ding Liren,"Hansen,Eric",1/2-1/2,2606,A34,2806
+1829,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.14,Ding Liren,"Mamedyarov,S",1/2-1/2,2759,A15,2806
+1830,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.11,"Mamedyarov,S",Ding Liren,0-1,2806,D38,2759
+1831,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.12,Ding Liren,"Mamedyarov,S",1-0,2759,D85,2806
+1832,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.13,"Mamedyarov,S",Ding Liren,1-0,2806,D41,2759
+1833,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.12,Ding Liren,"Carlsen,M",1/2-1/2,2864,E53,2806
+1834,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.13,"Carlsen,M",Ding Liren,1/2-1/2,2806,A07,2864
+1835,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.14,Ding Liren,"Carlsen,M",1-0,2864,D11,2806
+1836,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.11,"Carlsen,M",Ding Liren,1/2-1/2,2806,A07,2864
+1837,Chessable Masters KO 2022,chess24.com INT,2022.05.25,3.12,Ding Liren,"Praggnanandhaa,R",0-1,2642,A29,2806
+1838,Chessable Masters KO 2022,chess24.com INT,2022.05.25,3.11,"Praggnanandhaa,R",Ding Liren,0-1,2806,D35,2642
+1839,Chessable Masters KO 2022,chess24.com INT,2022.05.25,3.13,"Praggnanandhaa,R",Ding Liren,0-1,2806,D52,2642
+1840,Chessable Masters KO 2022,chess24.com INT,2022.05.25,3.14,Ding Liren,"Praggnanandhaa,R",1/2-1/2,2642,E10,2806
+1841,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.23,Ding Liren,"Praggnanandhaa,R",1/2-1/2,2642,A28,2806
+1842,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.24,"Praggnanandhaa,R",Ding Liren,1/2-1/2,2806,A47,2642
+1843,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.22,"Praggnanandhaa,R",Ding Liren,1-0,2806,D41,2642
+1844,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.21,Ding Liren,"Praggnanandhaa,R",1/2-1/2,2642,D41,2806
+1845,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.31,"Praggnanandhaa,R",Ding Liren,1/2-1/2,2806,D38,2642
+1846,Chessable Masters KO 2022,chess24.com INT,2022.05.27,3.32,Ding Liren,"Praggnanandhaa,R",1-0,2642,E46,2806
+1847,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.2,Ding Liren,"Nepomniachtchi,I",0-1,2766,A20,2806
+1848,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.4,"Duda,J",Ding Liren,1/2-1/2,2806,C50,2750
+1849,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.1,Ding Liren,"Rapport,R",1/2-1/2,2764,D86,2806
+1850,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.4,Ding Liren,"Caruana,F",1/2-1/2,2783,D38,2806
+1851,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.2,"Radjabov,T",Ding Liren,1/2-1/2,2806,E00,2753
+1852,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.3,"Nakamura,Hi",Ding Liren,1/2-1/2,2806,C50,2760
+1853,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2793,A20,2806
+1854,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.2,"Nepomniachtchi,I",Ding Liren,1/2-1/2,2806,C47,2766
+1855,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.4,Ding Liren,"Duda,J",1-0,2750,A13,2806
+1856,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.1,"Rapport,R",Ding Liren,0-1,2806,C77,2764
+1857,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.4,"Caruana,F",Ding Liren,0-1,2806,C88,2783
+1858,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.2,Ding Liren,"Radjabov,T",0-1,2753,E48,2806
+1859,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.3,"Firouzja,Alireza",Ding Liren,1/2-1/2,2806,C47,2793
+1860,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.3,Ding Liren,"Nakamura,Hi",1-0,2760,D40,2806
+1861,Chess.com RCC Winners,chess.com INT,2022.08.18,1.2,Ding Liren,"Xiong,Jeffery",1-0,2690,A13,2808
+1862,Chess.com RCC Winners,chess.com INT,2022.08.18,1.3,Ding Liren,"Xiong,Jeffery",1/2-1/2,2690,D35,2808
+1863,Chess.com RCC Winners,chess.com INT,2022.08.18,1.1,"Xiong,Jeffery",Ding Liren,1-0,2808,A22,2690
+1864,Chess.com RCC Losers,chess.com INT,2022.08.19,1.1,"Martinez Alcantara,Jose Eduardo",Ding Liren,1/2-1/2,2808,C67,2591
+1865,Chess.com RCC Losers,chess.com INT,2022.08.19,1.2,Ding Liren,"Martinez Alcantara,Jose Eduardo",1-0,2591,A37,2808
+1866,Chess.com RCC Losers,chess.com INT,2022.08.19,2.2,"Abdusattorov,Nodirbek",Ding Liren,0-1,2808,C50,2677
+1867,Chess.com RCC Losers,chess.com INT,2022.08.19,2.1,Ding Liren,"Abdusattorov,Nodirbek",1-0,2677,D35,2808
+1868,Chess.com RCC Losers,chess.com INT,2022.08.20,3.2,"Maghsoodloo,Parham",Ding Liren,1/2-1/2,2808,C58,2701
+1869,Chess.com RCC Losers,chess.com INT,2022.08.20,3.1,Ding Liren,"Maghsoodloo,Parham",1-0,2701,A37,2808
+1870,Chess.com RCC Losers,chess.com INT,2022.08.20,4.2,Ding Liren,"So,W",1/2-1/2,2773,A30,2808
+1871,Chess.com RCC Losers,chess.com INT,2022.08.20,4.3,"So,W",Ding Liren,1-0,2808,C50,2773
+1872,?,?,????.??.??,?,?,?,1/2-1/2,,,
