@@ -1,4 +1,4 @@
-!pip install chessdata
+# !pip install chessdata
 from pathlib import Path
 from chessdata.etf import pgn2df
 path = Path("../")
