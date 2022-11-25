@@ -1,217 +1,216 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-1962,?,?,????.??.??,?,?,?,1-0,,,
-3829,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.5,"Anand,V","Artemiev,V",1/2-1/2,2731,B12,2758
-3830,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.7,"So,W","Anand,V",1-0,2758,C53,2765
-3831,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.3,"Anand,V","Giri,A",1/2-1/2,2768,C65,2758
-3832,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
-3833,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.3,"Anand,V","Xiong,Jeffery",1-0,2712,C19,2758
-3834,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.3,"Van Foreest,Jorden","Anand,V",1/2-1/2,2758,C48,2644
-3835,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.1,"Anand,V","Carlsen,M",1/2-1/2,2872,B31,2758
-3836,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.6,"Caruana,F","Anand,V",1-0,2758,D38,2822
-3837,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.3,"Anand,V","Dubov,Daniil",1/2-1/2,2683,B31,2758
-3838,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.2,"Anand,V","Vitiugov,N",1/2-1/2,2747,C53,2758
-3839,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.3,"Firouzja,Alireza","Anand,V",0-1,2758,E20,2723
-3840,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.7,"Anand,V","Kovalev,Vl",1/2-1/2,2660,C61,2758
-3841,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.3,"Duda,J","Anand,V",1/2-1/2,2758,A18,2758
-3842,Bundesliga 2019-20,Lingen GER,2020.02.23,8.5,"Fressinet,L","Anand,V",1/2-1/2,2757,D38,2633
-3843,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.3,"Anand,V","Nakamura,Hi",1/2-1/2,2736,D37,2753
-3844,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.2,"Radjabov,T","Anand,V",1/2-1/2,2753,D38,2765
-3845,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.2,"Anand,V","Vachier Lagrave,M",1/2-1/2,2778,D12,2753
-3846,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,Ding Liren,"Anand,V",1/2-1/2,2753,D35,2791
-3847,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.1,"Anand,V","Nepomniachtchi,I",1-0,2784,D85,2753
-3848,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.3,"Nakamura,Hi","Anand,V",1/2-1/2,2753,D35,2736
-3849,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.2,"Anand,V","Radjabov,T",1-0,2765,E97,2753
-3850,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.2,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,D35,2778
-3851,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.2,"Svidler,P","Anand,V",1/2-1/2,2753,A08,2723
-3852,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.3,"Anand,V","Svidler,P",1/2-1/2,2723,C50,2753
-3853,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.4,"Svidler,P","Anand,V",1-0,2753,A08,2723
-3854,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.1,"Anand,V","Svidler,P",1/2-1/2,2723,D80,2753
-3855,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.3,"Carlsen,M","Anand,V",1/2-1/2,2753,D38,2863
-3856,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.4,"Anand,V","Carlsen,M",0-1,2863,C65,2753
-3857,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.1,"Carlsen,M","Anand,V",1/2-1/2,2753,E26,2863
-3858,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.2,"Anand,V","Carlsen,M",1/2-1/2,2863,C64,2753
-3859,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.1,"Anand,V","Kramnik,V",0-1,2753,C11,2753
-3860,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.3,"Anand,V","Kramnik,V",1/2-1/2,2753,C50,2753
-3861,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.2,"Kramnik,V","Anand,V",1-0,2753,A08,2753
-3862,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.3,"Giri,A","Anand,V",1/2-1/2,2753,E01,2764
-3863,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.1,"Giri,A","Anand,V",1/2-1/2,2753,A13,2764
-3864,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.5,"Anand,V","Giri,A",0-1,2764,C53,2753
-3865,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.4,"Anand,V","Giri,A",1/2-1/2,2764,C67,2753
-3866,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.2,"Anand,V","Giri,A",1/2-1/2,2764,B92,2753
-3867,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.5,"Leko,P","Anand,V",1-0,2753,C50,2663
-3868,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.1,"Anand,V","Leko,P",1-0,2663,C50,2753
-3869,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.2,"Leko,P","Anand,V",1/2-1/2,2753,C50,2663
-3870,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.3,"Anand,V","Leko,P",1/2-1/2,2663,C65,2753
-3871,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.4,"Leko,P","Anand,V",1-0,2753,C50,2663
-3872,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.4,"Nepomniachtchi,I","Anand,V",0-1,2753,B47,2784
-3873,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.3,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
-3874,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.5,"Nepomniachtchi,I","Anand,V",1-0,2753,A06,2784
-3875,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.1,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
-3876,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.2,"Nepomniachtchi,I","Anand,V",1-0,2753,C24,2784
-3877,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.2,"Anand,V","Gelfand,B",1-0,2676,B30,2753
-3878,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.1,"Gelfand,B","Anand,V",0-1,2753,E10,2676
-3879,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.3,"Gelfand,B","Anand,V",1/2-1/2,2753,E10,2676
-3880,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.2,Ding Liren,"Anand,V",1/2-1/2,2753,A08,2791
-3881,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.3,"Anand,V",Ding Liren,0-1,2791,B90,2753
-3882,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.1,"Anand,V",Ding Liren,0-1,2791,B90,2753
-3883,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.1,"Ivanchuk,V","Anand,V",1/2-1/2,2753,D38,2678
-3884,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.4,"Anand,V","Ivanchuk,V",1/2-1/2,2678,C84,2753
-3885,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.3,"Ivanchuk,V","Anand,V",1/2-1/2,2753,E51,2678
-3886,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.5,"Anand,V","Ivanchuk,V",1/2-1/2,2678,D37,2753
-3887,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.2,"Anand,V","Ivanchuk,V",1/2-1/2,2678,C84,2753
-3888,Online Olym Top DivA 2020,chess.com INT,2020.08.21,3.5,"Anand,V","Abdusattorov,Nodirbek",1/2-1/2,2627,D32,2753
-3889,Online Olym Top DivA 2020,chess.com INT,2020.08.22,4.2,"Megaranto,S","Anand,V",1/2-1/2,2753,D02,2550
-3890,Online Olym Top DivA 2020,chess.com INT,2020.08.22,5.4,"Anand,V","Maghsoodloo,Parham",0-1,2676,B32,2753
-3891,Online Olym Top DivA 2020,chess.com INT,2020.08.23,7.3,"Anand,V","Pantsulaia,L",1/2-1/2,2553,B10,2753
-3892,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.11,"Anand,V","Aronian,L",1/2-1/2,2773,C42,2753
-3893,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.12,"Duda,J","Anand,V",0-1,2753,E48,2753
-3894,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.11,"Anand,V","Duda,J",0-1,2753,B90,2753
-3895,Online Olym KO Stage 2020,chess.com INT,2020.08.30,4.2,"Nepomniachtchi,I","Anand,V",1/2-1/2,2753,C50,2784
-3896,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.3,"Anand,V","Van Foreest,Jorden",1-0,2688,B47,2753
-3897,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.4,"Vachier Lagrave,M","Anand,V",1-0,2753,B12,2749
-3898,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.2,"Anand,V","Nepomniachtchi,I",1/2-1/2,2792,B46,2753
-3899,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.5,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D38,2782
-3900,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
-3901,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.5,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
-3902,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
-3903,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.4,"Anand,V","Saric,Iv",1/2-1/2,2653,B40,2753
-3904,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.3,"Giri,A","Anand,V",1-0,2753,D02,2776
-3905,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.1,"Giri,A","Anand,V",1-0,2753,C53,2776
-3906,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
-3907,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.1,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,C67,2749
-3908,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.1,"Anand,V","Kasparov,G",1-0,2812,B96,2753
-3909,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.1,"Nepomniachtchi,I","Anand,V",1-0,2753,A33,2792
-3910,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
-3911,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.1,"Van Foreest,Jorden","Anand,V",0-1,2753,C53,2688
-3912,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.1,"Anand,V","Mamedyarov,S",1/2-1/2,2782,C50,2753
-3913,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.1,"Grischuk,A","Anand,V",1/2-1/2,2753,A35,2778
-3914,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.1,"Anand,V","Giri,A",1/2-1/2,2776,C50,2753
-3915,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
-3916,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.1,"Anand,V","Vachier Lagrave,M",1/2-1/2,2749,B90,2753
-3917,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.1,"Kasparov,G","Anand,V",0-1,2753,D38,2812
-3918,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.1,"Anand,V","Nepomniachtchi,I",1-0,2792,B46,2753
-3919,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.1,"Korobov,A","Anand,V",0-1,2753,E53,2683
-3920,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.1,"Anand,V","Van Foreest,Jorden",1-0,2688,C53,2753
-3921,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.1,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D37,2782
-3922,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.1,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
-3923,Online Olym Top DivB 2021,chess.com INT,2021.09.08,1.4,"Anand,V","Adly,A",1-0,2619,B12,2753
-3924,Online Olym Top DivB 2021,chess.com INT,2021.09.08,2.3,"Bacrot,E","Anand,V",1/2-1/2,2753,A35,2658
-3925,Online Olym Top DivB 2021,chess.com INT,2021.09.09,5.2,"Anand,V","Radjabov,T",1/2-1/2,2763,C50,2753
-3926,Online Olym Top DivB 2021,chess.com INT,2021.09.09,6.5,"Aleksandrov,A","Anand,V",0-1,2753,E54,2525
-3927,Online Olym Top DivB 2021,chess.com INT,2021.09.10,7.1,"Anand,V","Erdos,V",1-0,2622,C78,2753
-3928,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.22,"Anand,V","Ivanchuk,V",1/2-1/2,2678,B27,2753
-3929,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.21,"Ivanchuk,V","Anand,V",1/2-1/2,2753,C53,2678
-3930,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.1,"Anand,V","Xiong,Jeffery",1-0,2700,B12,2753
-3931,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.2,"Xiong,Jeffery","Anand,V",1-0,2753,A30,2700
-3932,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Malakhov,V","Anand,V",1/2-1/2,2757,A06,2665
-3933,Bundesliga 2019-20,Berlin GER,2021.10.15,11.3,"Anand,V","Nestorovic,N",1-0,2458,C88,2757
-3934,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Anand,V","Heimann,An",1-0,2617,C65,2757
-3935,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Anand,V","Ponomariov,R",1/2-1/2,2648,C65,2757
-3936,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.3,"Anand,V","Mamedov,Rau",0-1,2656,B31,2751
-3937,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Anand,V","Mamedov,Rau",1-0,2656,B76,2751
-3938,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Mamedov,Rau","Anand,V",1-0,2751,C54,2656
-3939,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Anand,V","Rapport,R",1/2-1/2,2763,C18,2751
-3940,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Rapport,R","Anand,V",1-0,2751,C44,2763
-3941,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Navara,D","Anand,V",1/2-1/2,2751,B47,2697
-3942,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Anand,V","Navara,D",0-1,2697,B90,2751
-3943,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Anand,V","Karjakin,Sergey",0-1,2743,C53,2751
-3944,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
-3945,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Mamedyarov,S","Anand,V",0-1,2751,D38,2767
-3946,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,A45,2767
-3947,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
-3948,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Anand,V","Caruana,F",0-1,2792,C93,2751
-3949,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Caruana,F","Anand,V",1/2-1/2,2751,C67,2792
-3950,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Asadli,Vugar","Anand,V",1-0,2751,C02,2579
-3951,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B12,2751
-3952,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.2,"Anand,V","Mamedov,Rau",1/2-1/2,2656,C24,2751
-3953,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.2,"Rapport,R","Anand,V",1-0,2751,C44,2763
-3954,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.4,"Anand,V","Navara,D",1/2-1/2,2697,B51,2751
-3955,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.4,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
-3956,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.3,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
-3957,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.2,"Anand,V","Caruana,F",0-1,2792,C72,2751
-3958,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.1,"Asadli,Vugar","Anand,V",1/2-1/2,2751,B48,2579
-3959,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.1,"Mamedov,Rau","Anand,V",1/2-1/2,2751,C53,2656
-3960,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.3,"Anand,V","Rapport,R",1/2-1/2,2763,C10,2751
-3961,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.1,"Navara,D","Anand,V",0-1,2751,A06,2697
-3962,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.1,"Anand,V","Karjakin,Sergey",1/2-1/2,2743,B04,2751
-3963,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,E35,2767
-3964,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.3,"Caruana,F","Anand,V",1-0,2751,C65,2792
-3965,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.4,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B15,2751
-3966,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.06,1.94,"Thorisson,Bjartur","Anand,Vignesh",0-1,1829,B90,1292
-3967,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,2.55,"Anand,Vignesh","Kull,F",0-1,2138,A19,1829
-3968,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,3.84,"Briem,Gudrun Fanney","Anand,Vignesh",0-1,1829,D80,1364
-3969,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.08,4.49,"Anand,Vignesh","Jaksland,T",1/2-1/2,2203,A19,1829
-3970,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.09,5.56,"Cramling Bellon,Anna","Anand,Vignesh",1-0,1829,D85,2057
-3971,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,6.56,"Anand,Vignesh","Garbuz,Vitaliy",1/2-1/2,2142,D31,1829
-3972,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,7.56,"Heer,S","Anand,Vignesh",0-1,1829,D78,2067
-3973,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.11,8.44,"Anand,Vignesh","Decosse,J",1-0,2160,C41,1829
-3974,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.12,9.29,"Large,P","Anand,Vignesh",1/2-1/2,1829,A48,2293
-3975,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.2,"Anand,V","Wojtaszek,R",1-0,2696,C84,2751
-3976,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.5,"So,W","Anand,V",0-1,2751,E48,2776
-3977,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.1,"Anand,V","Korobov,A",1-0,2671,C02,2751
-3978,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B33,2751
-3979,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.2,"Aronian,L","Anand,V",0-1,2751,C24,2765
-3980,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
-3981,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.3,"Gavrilescu,David","Anand,V",0-1,2751,C45,2518
-3982,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.3,"Anand,V","Caruana,F",1/2-1/2,2786,C42,2751
-3983,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.4,"Rapport,R","Anand,V",1-0,2751,C46,2776
-3984,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
-3985,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.4,"Korobov,A","Anand,V",1/2-1/2,2751,A33,2671
-3986,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.2,"Anand,V","Gavrilescu,David",0-1,2518,C11,2751
-3987,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.5,"Shevchenko,Kirill","Anand,V",0-1,2751,C42,2644
-3988,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.1,"Anand,V","Aronian,L",1/2-1/2,2765,C67,2751
-3989,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.5,"Anand,V","So,W",1-0,2776,C65,2751
-3990,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.2,"Caruana,F","Anand,V",1-0,2751,C42,2786
-3991,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.4,"Anand,V","Rapport,R",1/2-1/2,2776,B51,2751
-3992,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.3,"Wojtaszek,R","Anand,V",1/2-1/2,2751,D38,2696
-3993,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
-3994,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.4,"Anand,V","Korobov,A",0-1,2671,B30,2751
-3995,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.2,"Gavrilescu,David","Anand,V",1/2-1/2,2751,C45,2518
-3996,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B50,2751
-3997,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.1,"Aronian,L","Anand,V",1-0,2751,C49,2765
-3998,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.5,"So,W","Anand,V",1/2-1/2,2751,E04,2776
-3999,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.2,"Anand,V","Caruana,F",1/2-1/2,2786,B52,2751
-4000,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.4,"Rapport,R","Anand,V",0-1,2751,C44,2776
-4001,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.3,"Anand,V","Wojtaszek,R",1-0,2696,B50,2751
-4002,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.4,"Anand,V","Tari,A",1-0,2654,A15,2751
-4003,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.3,"So,W","Anand,V",1/2-1/2,2751,C53,2776
-4004,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.3,"Anand,V","Topalov,V",1-0,2730,B67,2751
-4005,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.4,"Radjabov,T","Anand,V",1/2-1/2,2751,D38,2753
-4006,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.2,"Anand,V","Giri,A",0-1,2761,B90,2751
-4007,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.5,Wang Hao,"Anand,V",1/2-1/2,2751,C67,2744
-4008,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
-4009,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.5,"Anand,V","Mamedyarov,S",1/2-1/2,2759,C80,2751
-4010,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.2,"Vachier Lagrave,M","Anand,V",1-0,2751,C54,2750
-4011,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.4,"Anand,V","Vachier Lagrave,M",1-0,2750,B52,2751
-4012,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.4,"Topalov,V","Anand,V",0-1,2751,D20,2730
-4013,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1/2-1/2,2744,B33,2751
-4014,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1-0,2744,B31,2751
-4015,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1-0,2751,A36,2776
-4016,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1/2-1/2,2751,A37,2776
-4017,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
-4018,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
-4019,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A01,2761
-4020,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A30,2761
-4021,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1/2-1/2,2753,C53,2751
-4022,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1-0,2753,C53,2751
-4023,National Open 2022,Las Vegas USA,2022.06.08,1.18,"Mei,Austin","Anand,Vignesh",1/2-1/2,1948,B90,2346
-4024,National Open 2022,Las Vegas USA,2022.06.09,2.20,"Anand,Vignesh","Kavutskiy,K",0-1,2406,E94,1948
-4025,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.4,"Anand,V","Mamedyarov,S",0-1,2759,C42,2751
-4026,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",1/2-1/2,2751,C83,2654
-4027,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",0-1,2751,C50,2654
-4028,35th Leon GM 2022,Leon ESP,2022.07.08,1.1,"Santos Latasa,J","Anand,V",1-0,2756,C83,2675
-4029,35th Leon GM 2022,Leon ESP,2022.07.08,1.2,"Anand,V","Santos Latasa,J",1-0,2675,C78,2756
-4030,35th Leon GM 2022,Leon ESP,2022.07.08,1.3,"Santos Latasa,J","Anand,V",1/2-1/2,2756,E04,2675
-4031,35th Leon GM 2022,Leon ESP,2022.07.08,1.4,"Anand,V","Santos Latasa,J",1-0,2675,C83,2756
-4032,35th Leon GM 2022,Leon ESP,2022.07.10,2.3,"Gelfand,B","Anand,V",1-0,2756,E04,2668
-4033,35th Leon GM 2022,Leon ESP,2022.07.10,2.6,"Gelfand,B","Anand,V",1-0,2756,D11,2668
-4034,35th Leon GM 2022,Leon ESP,2022.07.10,2.1,"Gelfand,B","Anand,V",0-1,2756,E04,2668
-4035,35th Leon GM 2022,Leon ESP,2022.07.10,2.5,"Anand,V","Gelfand,B",0-1,2668,B30,2756
-4036,35th Leon GM 2022,Leon ESP,2022.07.10,2.4,"Anand,V","Gelfand,B",1-0,2668,B30,2756
-4037,35th Leon GM 2022,Leon ESP,2022.07.10,2.2,"Anand,V","Gelfand,B",0-1,2668,B30,2756
-4038,NC World Masters 2022,Dortmund GER,2022.07.19,2.1,"Adams,Mi","Anand,V",1/2-1/2,2756,A30,2696
-4039,NC World Masters 2022,Dortmund GER,2022.07.20,3.1,"Anand,V","Fridman,D",1-0,2599,C65,2756
-4040,NC World Masters 2022,Dortmund GER,2022.07.21,1.1,"Kollars,Dmitrij","Anand,V",1/2-1/2,2756,A30,2648
-4041,NC World Masters 2022,Dortmund GER,2022.07.22,4.1,"Anand,V","Kollars,Dmitrij",1/2-1/2,2648,D32,2756
-4042,NC World Masters 2022,Dortmund GER,2022.07.23,5.1,"Fridman,D","Anand,V",1/2-1/2,2756,A05,2599
-4043,NC World Masters 2022,Dortmund GER,2022.07.24,6.1,"Anand,V","Adams,Mi",1/2-1/2,2696,D35,2756
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.5,"Anand,V","Artemiev,V",1/2-1/2,2731,B12,2758
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.7,"So,W","Anand,V",1-0,2758,C53,2765
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.3,"Anand,V","Giri,A",1/2-1/2,2768,C65,2758
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.3,"Anand,V","Xiong,Jeffery",1-0,2712,C19,2758
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.3,"Van Foreest,Jorden","Anand,V",1/2-1/2,2758,C48,2644
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.1,"Anand,V","Carlsen,M",1/2-1/2,2872,B31,2758
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.6,"Caruana,F","Anand,V",1-0,2758,D38,2822
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.3,"Anand,V","Dubov,Daniil",1/2-1/2,2683,B31,2758
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.2,"Anand,V","Vitiugov,N",1/2-1/2,2747,C53,2758
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.3,"Firouzja,Alireza","Anand,V",0-1,2758,E20,2723
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.7,"Anand,V","Kovalev,Vl",1/2-1/2,2660,C61,2758
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.3,"Duda,J","Anand,V",1/2-1/2,2758,A18,2758
+13,Bundesliga 2019-20,Lingen GER,2020.02.23,8.5,"Fressinet,L","Anand,V",1/2-1/2,2757,D38,2633
+14,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.3,"Anand,V","Nakamura,Hi",1/2-1/2,2736,D37,2753
+15,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.2,"Radjabov,T","Anand,V",1/2-1/2,2753,D38,2765
+16,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.2,"Anand,V","Vachier Lagrave,M",1/2-1/2,2778,D12,2753
+17,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,Ding Liren,"Anand,V",1/2-1/2,2753,D35,2791
+18,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.1,"Anand,V","Nepomniachtchi,I",1-0,2784,D85,2753
+19,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.3,"Nakamura,Hi","Anand,V",1/2-1/2,2753,D35,2736
+20,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.2,"Anand,V","Radjabov,T",1-0,2765,E97,2753
+21,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.2,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,D35,2778
+22,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.2,"Svidler,P","Anand,V",1/2-1/2,2753,A08,2723
+23,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.3,"Anand,V","Svidler,P",1/2-1/2,2723,C50,2753
+24,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.4,"Svidler,P","Anand,V",1-0,2753,A08,2723
+25,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.1,"Anand,V","Svidler,P",1/2-1/2,2723,D80,2753
+26,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.3,"Carlsen,M","Anand,V",1/2-1/2,2753,D38,2863
+27,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.4,"Anand,V","Carlsen,M",0-1,2863,C65,2753
+28,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.1,"Carlsen,M","Anand,V",1/2-1/2,2753,E26,2863
+29,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.2,"Anand,V","Carlsen,M",1/2-1/2,2863,C64,2753
+30,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.1,"Anand,V","Kramnik,V",0-1,2753,C11,2753
+31,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.3,"Anand,V","Kramnik,V",1/2-1/2,2753,C50,2753
+32,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.2,"Kramnik,V","Anand,V",1-0,2753,A08,2753
+33,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.3,"Giri,A","Anand,V",1/2-1/2,2753,E01,2764
+34,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.1,"Giri,A","Anand,V",1/2-1/2,2753,A13,2764
+35,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.5,"Anand,V","Giri,A",0-1,2764,C53,2753
+36,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.4,"Anand,V","Giri,A",1/2-1/2,2764,C67,2753
+37,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.2,"Anand,V","Giri,A",1/2-1/2,2764,B92,2753
+38,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.5,"Leko,P","Anand,V",1-0,2753,C50,2663
+39,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.1,"Anand,V","Leko,P",1-0,2663,C50,2753
+40,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.2,"Leko,P","Anand,V",1/2-1/2,2753,C50,2663
+41,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.3,"Anand,V","Leko,P",1/2-1/2,2663,C65,2753
+42,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.4,"Leko,P","Anand,V",1-0,2753,C50,2663
+43,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.4,"Nepomniachtchi,I","Anand,V",0-1,2753,B47,2784
+44,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.3,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
+45,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.5,"Nepomniachtchi,I","Anand,V",1-0,2753,A06,2784
+46,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.1,"Anand,V","Nepomniachtchi,I",1/2-1/2,2784,B90,2753
+47,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.2,"Nepomniachtchi,I","Anand,V",1-0,2753,C24,2784
+48,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.2,"Anand,V","Gelfand,B",1-0,2676,B30,2753
+49,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.1,"Gelfand,B","Anand,V",0-1,2753,E10,2676
+50,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.3,"Gelfand,B","Anand,V",1/2-1/2,2753,E10,2676
+51,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.2,Ding Liren,"Anand,V",1/2-1/2,2753,A08,2791
+52,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.3,"Anand,V",Ding Liren,0-1,2791,B90,2753
+53,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.1,"Anand,V",Ding Liren,0-1,2791,B90,2753
+54,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.1,"Ivanchuk,V","Anand,V",1/2-1/2,2753,D38,2678
+55,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.4,"Anand,V","Ivanchuk,V",1/2-1/2,2678,C84,2753
+56,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.3,"Ivanchuk,V","Anand,V",1/2-1/2,2753,E51,2678
+57,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.5,"Anand,V","Ivanchuk,V",1/2-1/2,2678,D37,2753
+58,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.2,"Anand,V","Ivanchuk,V",1/2-1/2,2678,C84,2753
+59,Online Olym Top DivA 2020,chess.com INT,2020.08.21,3.5,"Anand,V","Abdusattorov,Nodirbek",1/2-1/2,2627,D32,2753
+60,Online Olym Top DivA 2020,chess.com INT,2020.08.22,4.2,"Megaranto,S","Anand,V",1/2-1/2,2753,D02,2550
+61,Online Olym Top DivA 2020,chess.com INT,2020.08.22,5.4,"Anand,V","Maghsoodloo,Parham",0-1,2676,B32,2753
+62,Online Olym Top DivA 2020,chess.com INT,2020.08.23,7.3,"Anand,V","Pantsulaia,L",1/2-1/2,2553,B10,2753
+63,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.11,"Anand,V","Aronian,L",1/2-1/2,2773,C42,2753
+64,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.12,"Duda,J","Anand,V",0-1,2753,E48,2753
+65,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.11,"Anand,V","Duda,J",0-1,2753,B90,2753
+66,Online Olym KO Stage 2020,chess.com INT,2020.08.30,4.2,"Nepomniachtchi,I","Anand,V",1/2-1/2,2753,C50,2784
+67,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.3,"Anand,V","Van Foreest,Jorden",1-0,2688,B47,2753
+68,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.4,"Vachier Lagrave,M","Anand,V",1-0,2753,B12,2749
+69,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.2,"Anand,V","Nepomniachtchi,I",1/2-1/2,2792,B46,2753
+70,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.5,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D38,2782
+71,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
+72,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.5,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
+73,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
+74,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.4,"Anand,V","Saric,Iv",1/2-1/2,2653,B40,2753
+75,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.3,"Giri,A","Anand,V",1-0,2753,D02,2776
+76,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.1,"Giri,A","Anand,V",1-0,2753,C53,2776
+77,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
+78,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.1,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,C67,2749
+79,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.1,"Anand,V","Kasparov,G",1-0,2812,B96,2753
+80,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.1,"Nepomniachtchi,I","Anand,V",1-0,2753,A33,2792
+81,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.1,"Anand,V","Korobov,A",1-0,2683,C11,2753
+82,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.1,"Van Foreest,Jorden","Anand,V",0-1,2753,C53,2688
+83,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.1,"Anand,V","Mamedyarov,S",1/2-1/2,2782,C50,2753
+84,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.1,"Grischuk,A","Anand,V",1/2-1/2,2753,A35,2778
+85,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.1,"Anand,V","Giri,A",1/2-1/2,2776,C50,2753
+86,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
+87,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.1,"Anand,V","Vachier Lagrave,M",1/2-1/2,2749,B90,2753
+88,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.1,"Kasparov,G","Anand,V",0-1,2753,D38,2812
+89,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.1,"Anand,V","Nepomniachtchi,I",1-0,2792,B46,2753
+90,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.1,"Korobov,A","Anand,V",0-1,2753,E53,2683
+91,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.1,"Anand,V","Van Foreest,Jorden",1-0,2688,C53,2753
+92,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.1,"Mamedyarov,S","Anand,V",1/2-1/2,2753,D37,2782
+93,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.1,"Anand,V","Grischuk,A",1/2-1/2,2778,C67,2753
+94,Online Olym Top DivB 2021,chess.com INT,2021.09.08,1.4,"Anand,V","Adly,A",1-0,2619,B12,2753
+95,Online Olym Top DivB 2021,chess.com INT,2021.09.08,2.3,"Bacrot,E","Anand,V",1/2-1/2,2753,A35,2658
+96,Online Olym Top DivB 2021,chess.com INT,2021.09.09,5.2,"Anand,V","Radjabov,T",1/2-1/2,2763,C50,2753
+97,Online Olym Top DivB 2021,chess.com INT,2021.09.09,6.5,"Aleksandrov,A","Anand,V",0-1,2753,E54,2525
+98,Online Olym Top DivB 2021,chess.com INT,2021.09.10,7.1,"Anand,V","Erdos,V",1-0,2622,C78,2753
+99,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.22,"Anand,V","Ivanchuk,V",1/2-1/2,2678,B27,2753
+100,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.21,"Ivanchuk,V","Anand,V",1/2-1/2,2753,C53,2678
+101,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.1,"Anand,V","Xiong,Jeffery",1-0,2700,B12,2753
+102,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.2,"Xiong,Jeffery","Anand,V",1-0,2753,A30,2700
+103,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Malakhov,V","Anand,V",1/2-1/2,2757,A06,2665
+104,Bundesliga 2019-20,Berlin GER,2021.10.15,11.3,"Anand,V","Nestorovic,N",1-0,2458,C88,2757
+105,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Anand,V","Heimann,An",1-0,2617,C65,2757
+106,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Anand,V","Ponomariov,R",1/2-1/2,2648,C65,2757
+107,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.3,"Anand,V","Mamedov,Rau",0-1,2656,B31,2751
+108,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Anand,V","Mamedov,Rau",1-0,2656,B76,2751
+109,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Mamedov,Rau","Anand,V",1-0,2751,C54,2656
+110,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Anand,V","Rapport,R",1/2-1/2,2763,C18,2751
+111,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Rapport,R","Anand,V",1-0,2751,C44,2763
+112,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Navara,D","Anand,V",1/2-1/2,2751,B47,2697
+113,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Anand,V","Navara,D",0-1,2697,B90,2751
+114,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Anand,V","Karjakin,Sergey",0-1,2743,C53,2751
+115,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+116,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Mamedyarov,S","Anand,V",0-1,2751,D38,2767
+117,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,A45,2767
+118,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+119,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Anand,V","Caruana,F",0-1,2792,C93,2751
+120,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Caruana,F","Anand,V",1/2-1/2,2751,C67,2792
+121,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Asadli,Vugar","Anand,V",1-0,2751,C02,2579
+122,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B12,2751
+123,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.2,"Anand,V","Mamedov,Rau",1/2-1/2,2656,C24,2751
+124,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.2,"Rapport,R","Anand,V",1-0,2751,C44,2763
+125,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.4,"Anand,V","Navara,D",1/2-1/2,2697,B51,2751
+126,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.4,"Karjakin,Sergey","Anand,V",1/2-1/2,2751,C65,2743
+127,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.3,"Anand,V","Mamedyarov,S",1/2-1/2,2767,C77,2751
+128,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.2,"Anand,V","Caruana,F",0-1,2792,C72,2751
+129,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.1,"Asadli,Vugar","Anand,V",1/2-1/2,2751,B48,2579
+130,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.1,"Mamedov,Rau","Anand,V",1/2-1/2,2751,C53,2656
+131,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.3,"Anand,V","Rapport,R",1/2-1/2,2763,C10,2751
+132,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.1,"Navara,D","Anand,V",0-1,2751,A06,2697
+133,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.1,"Anand,V","Karjakin,Sergey",1/2-1/2,2743,B04,2751
+134,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.2,"Mamedyarov,S","Anand,V",1/2-1/2,2751,E35,2767
+135,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.3,"Caruana,F","Anand,V",1-0,2751,C65,2792
+136,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.4,"Anand,V","Asadli,Vugar",1/2-1/2,2579,B15,2751
+137,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.06,1.94,"Thorisson,Bjartur","Anand,Vignesh",0-1,1829,B90,1292
+138,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,2.55,"Anand,Vignesh","Kull,F",0-1,2138,A19,1829
+139,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.07,3.84,"Briem,Gudrun Fanney","Anand,Vignesh",0-1,1829,D80,1364
+140,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.08,4.49,"Anand,Vignesh","Jaksland,T",1/2-1/2,2203,A19,1829
+141,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.09,5.56,"Cramling Bellon,Anna","Anand,Vignesh",1-0,1829,D85,2057
+142,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,6.56,"Anand,Vignesh","Garbuz,Vitaliy",1/2-1/2,2142,D31,1829
+143,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.10,7.56,"Heer,S","Anand,Vignesh",0-1,1829,D78,2067
+144,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.11,8.44,"Anand,Vignesh","Decosse,J",1-0,2160,C41,1829
+145,Kvika Reykjavik Open 2022,Reykjavik ISL,2022.04.12,9.29,"Large,P","Anand,Vignesh",1/2-1/2,1829,A48,2293
+146,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.2,"Anand,V","Wojtaszek,R",1-0,2696,C84,2751
+147,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.5,"So,W","Anand,V",0-1,2751,E48,2776
+148,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.1,"Anand,V","Korobov,A",1-0,2671,C02,2751
+149,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B33,2751
+150,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.2,"Aronian,L","Anand,V",0-1,2751,C24,2765
+151,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
+152,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.3,"Gavrilescu,David","Anand,V",0-1,2751,C45,2518
+153,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.3,"Anand,V","Caruana,F",1/2-1/2,2786,C42,2751
+154,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.4,"Rapport,R","Anand,V",1-0,2751,C46,2776
+155,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
+156,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.4,"Korobov,A","Anand,V",1/2-1/2,2751,A33,2671
+157,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.2,"Anand,V","Gavrilescu,David",0-1,2518,C11,2751
+158,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.5,"Shevchenko,Kirill","Anand,V",0-1,2751,C42,2644
+159,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.1,"Anand,V","Aronian,L",1/2-1/2,2765,C67,2751
+160,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.5,"Anand,V","So,W",1-0,2776,C65,2751
+161,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.2,"Caruana,F","Anand,V",1-0,2751,C42,2786
+162,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.4,"Anand,V","Rapport,R",1/2-1/2,2776,B51,2751
+163,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.3,"Wojtaszek,R","Anand,V",1/2-1/2,2751,D38,2696
+164,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
+165,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.4,"Anand,V","Korobov,A",0-1,2671,B30,2751
+166,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.2,"Gavrilescu,David","Anand,V",1/2-1/2,2751,C45,2518
+167,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.5,"Anand,V","Shevchenko,Kirill",1-0,2644,B50,2751
+168,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.1,"Aronian,L","Anand,V",1-0,2751,C49,2765
+169,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.5,"So,W","Anand,V",1/2-1/2,2751,E04,2776
+170,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.2,"Anand,V","Caruana,F",1/2-1/2,2786,B52,2751
+171,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.4,"Rapport,R","Anand,V",0-1,2751,C44,2776
+172,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.3,"Anand,V","Wojtaszek,R",1-0,2696,B50,2751
+173,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.4,"Anand,V","Tari,A",1-0,2654,A15,2751
+174,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.3,"So,W","Anand,V",1/2-1/2,2751,C53,2776
+175,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.3,"Anand,V","Topalov,V",1-0,2730,B67,2751
+176,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.4,"Radjabov,T","Anand,V",1/2-1/2,2751,D38,2753
+177,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.2,"Anand,V","Giri,A",0-1,2761,B90,2751
+178,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.5,Wang Hao,"Anand,V",1/2-1/2,2751,C67,2744
+179,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
+180,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.5,"Anand,V","Mamedyarov,S",1/2-1/2,2759,C80,2751
+181,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.2,"Vachier Lagrave,M","Anand,V",1-0,2751,C54,2750
+182,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.4,"Anand,V","Vachier Lagrave,M",1-0,2750,B52,2751
+183,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.4,"Topalov,V","Anand,V",0-1,2751,D20,2730
+184,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1/2-1/2,2744,B33,2751
+185,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1-0,2744,B31,2751
+186,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1-0,2751,A36,2776
+187,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.2,"So,W","Anand,V",1/2-1/2,2751,A37,2776
+188,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
+189,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
+190,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A01,2761
+191,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.3,"Giri,A","Anand,V",1/2-1/2,2751,A30,2761
+192,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1/2-1/2,2753,C53,2751
+193,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1-0,2753,C53,2751
+194,National Open 2022,Las Vegas USA,2022.06.08,1.18,"Mei,Austin","Anand,Vignesh",1/2-1/2,1948,B90,2346
+195,National Open 2022,Las Vegas USA,2022.06.09,2.20,"Anand,Vignesh","Kavutskiy,K",0-1,2406,E94,1948
+196,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.4,"Anand,V","Mamedyarov,S",0-1,2759,C42,2751
+197,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",1/2-1/2,2751,C83,2654
+198,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.5,"Tari,A","Anand,V",0-1,2751,C50,2654
+199,35th Leon GM 2022,Leon ESP,2022.07.08,1.1,"Santos Latasa,J","Anand,V",1-0,2756,C83,2675
+200,35th Leon GM 2022,Leon ESP,2022.07.08,1.2,"Anand,V","Santos Latasa,J",1-0,2675,C78,2756
+201,35th Leon GM 2022,Leon ESP,2022.07.08,1.3,"Santos Latasa,J","Anand,V",1/2-1/2,2756,E04,2675
+202,35th Leon GM 2022,Leon ESP,2022.07.08,1.4,"Anand,V","Santos Latasa,J",1-0,2675,C83,2756
+203,35th Leon GM 2022,Leon ESP,2022.07.10,2.3,"Gelfand,B","Anand,V",1-0,2756,E04,2668
+204,35th Leon GM 2022,Leon ESP,2022.07.10,2.6,"Gelfand,B","Anand,V",1-0,2756,D11,2668
+205,35th Leon GM 2022,Leon ESP,2022.07.10,2.1,"Gelfand,B","Anand,V",0-1,2756,E04,2668
+206,35th Leon GM 2022,Leon ESP,2022.07.10,2.5,"Anand,V","Gelfand,B",0-1,2668,B30,2756
+207,35th Leon GM 2022,Leon ESP,2022.07.10,2.4,"Anand,V","Gelfand,B",1-0,2668,B30,2756
+208,35th Leon GM 2022,Leon ESP,2022.07.10,2.2,"Anand,V","Gelfand,B",0-1,2668,B30,2756
+209,NC World Masters 2022,Dortmund GER,2022.07.19,2.1,"Adams,Mi","Anand,V",1/2-1/2,2756,A30,2696
+210,NC World Masters 2022,Dortmund GER,2022.07.20,3.1,"Anand,V","Fridman,D",1-0,2599,C65,2756
+211,NC World Masters 2022,Dortmund GER,2022.07.21,1.1,"Kollars,Dmitrij","Anand,V",1/2-1/2,2756,A30,2648
+212,NC World Masters 2022,Dortmund GER,2022.07.22,4.1,"Anand,V","Kollars,Dmitrij",1/2-1/2,2648,D32,2756
+213,NC World Masters 2022,Dortmund GER,2022.07.23,5.1,"Fridman,D","Anand,V",1/2-1/2,2756,A05,2599
+214,NC World Masters 2022,Dortmund GER,2022.07.24,6.1,"Anand,V","Adams,Mi",1/2-1/2,2696,D35,2756

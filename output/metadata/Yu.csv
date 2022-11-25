@@ -1,187 +1,187 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-1580,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.3,"Van Foreest,Jorden",Yu Yangyi,1-0,2726,B40,2644
-1581,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.1,Yu Yangyi,"Carlsen,M",1/2-1/2,2872,B90,2726
-1582,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.7,"Caruana,F",Yu Yangyi,1-0,2726,C43,2822
-1583,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
-1584,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2726,D02,2747
-1585,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.5,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2723,B90,2726
-1586,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.7,"Kovalev,Vl",Yu Yangyi,1/2-1/2,2726,C84,2660
-1587,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.3,Yu Yangyi,"Duda,J",0-1,2758,B35,2726
-1588,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.2,"Artemiev,V",Yu Yangyi,1/2-1/2,2726,D77,2731
-1589,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.7,Yu Yangyi,"So,W",1/2-1/2,2765,C47,2726
-1590,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.2,"Giri,A",Yu Yangyi,1/2-1/2,2726,C42,2768
-1591,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.6,"Dubov,Daniil",Yu Yangyi,1-0,2726,D43,2683
-1592,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.7,Yu Yangyi,"Xiong,Jeffery",1/2-1/2,2712,A57,2726
-1593,PRO League Group Stage,chess.com INT,2020.02.12,6,Yu Yangyi,"Solak,D",1/2-1/2,2594,A06,2709
-1594,PRO League Group Stage,chess.com INT,2020.02.12,6,Yu Yangyi,"Can,E",1/2-1/2,2600,B78,2709
-1595,PRO League Group Stage,chess.com INT,2020.02.12,6,"Dastan,B",Yu Yangyi,1/2-1/2,2709,D00,2572
-1596,PRO League Group Stage,chess.com INT,2020.02.12,6,"Yilmaz,M",Yu Yangyi,1-0,2709,D45,2607
-1597,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,Yu Yangyi,"Abdusattorov,Nodirbek",1-0,2627,E48,2709
-1598,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Naroditsky,D",Yu Yangyi,1/2-1/2,2709,C42,2621
-1599,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,Yu Yangyi,"Oparin,G",1-0,2652,D31,2709
-1600,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Swiercz,D",Yu Yangyi,1/2-1/2,2709,D02,2649
-1601,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Tomczak,J",Yu Yangyi,1/2-1/2,2709,C42,2605
-1602,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Yu Yangyi,"Mons,L",1-0,2543,A45,2709
-1603,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Yu Yangyi,"Korobov,A",1-0,2688,D45,2709
-1604,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Braun,A",Yu Yangyi,0-1,2709,D45,2609
-1605,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.2,Yu Yangyi,"Amin,B",1-0,2686,E92,2709
-1606,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.3,"Giri,A",Yu Yangyi,0-1,2709,C42,2764
-1607,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.1,Yu Yangyi,"Karjakin,Sergey",1/2-1/2,2752,C47,2709
-1608,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,Yu Yangyi,"Harikrishna,P",1/2-1/2,2719,D36,2709
-1609,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.2,"Dominguez Perez,L",Yu Yangyi,0-1,2709,C43,2758
-1610,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.2,"Amin,B",Yu Yangyi,1/2-1/2,2709,A07,2686
-1611,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.3,Yu Yangyi,"Duda,J",1-0,2753,E46,2709
-1612,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.3,"Adhiban,Baskaran",Yu Yangyi,0-1,2709,A32,2659
-1613,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.2,Yu Yangyi,"So,W",0-1,2770,C67,2709
-1614,Online Nations Cup Final,chess.com INT,2020.05.10,1.3,Yu Yangyi,"So,W",1-0,2770,D38,2709
-1615,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.5,Yu Yangyi,"So,W",0-1,2770,D35,2709
-1616,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.3,"Karjakin,Sergey",Yu Yangyi,1-0,2709,D02,2752
-1617,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.4,Yu Yangyi,"Dubov,Daniil",1-0,2699,D35,2709
-1618,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.4,"Firouzja,Alireza",Yu Yangyi,1/2-1/2,2709,C42,2728
-1619,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.3,Yu Yangyi,"Carlsen,M",1-0,2863,D45,2709
-1620,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.5,"Aronian,L",Yu Yangyi,1-0,2709,A30,2773
-1621,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.2,Yu Yangyi,Ding Liren,1-0,2791,D97,2709
-1622,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.6,"Nakamura,Hi",Yu Yangyi,1/2-1/2,2709,C42,2736
-1623,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.1,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D36,2709
-1624,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.6,Yu Yangyi,Wei Yi,1-0,2732,D97,2709
-1625,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.2,"Duda,J",Yu Yangyi,1/2-1/2,2709,C42,2753
-1626,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.11,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
-1627,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.13,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
-1628,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.14,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
-1629,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.12,Ding Liren,Yu Yangyi,1/2-1/2,2709,A20,2791
-1630,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.15,Yu Yangyi,Ding Liren,1-0,2791,C58,2709
-1631,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.23,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
-1632,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.24,Yu Yangyi,Ding Liren,1/2-1/2,2791,C58,2709
-1633,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.21,Ding Liren,Yu Yangyi,1-0,2709,D27,2791
-1634,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.22,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
-1635,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.35,Yu Yangyi,Ding Liren,1/2-1/2,2791,A45,2709
-1636,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.34,Ding Liren,Yu Yangyi,1/2-1/2,2709,D20,2791
-1637,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.33,Yu Yangyi,Ding Liren,0-1,2791,E49,2709
-1638,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.31,Yu Yangyi,Ding Liren,1/2-1/2,2791,E49,2709
-1639,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.32,Ding Liren,Yu Yangyi,0-1,2709,D25,2791
-1640,Online Olym Top DivA 2020,chess.com INT,2020.08.21,1.4,"Vokhidov,Shamsiddin",Yu Yangyi,0-1,2709,C42,2512
-1641,Online Olym Top DivA 2020,chess.com INT,2020.08.21,2.3,Yu Yangyi,"Priasmoro,Novendra",1-0,2502,E91,2709
-1642,Online Olym Top DivA 2020,chess.com INT,2020.08.22,4.4,"Bilguun,Sumiya",Yu Yangyi,1/2-1/2,2709,C42,2454
-1643,Online Olym Top DivA 2020,chess.com INT,2020.08.23,8.5,"Kudakwashe,Sibanda",Yu Yangyi,0-1,2709,E00,2065
-1644,Online Olym Top DivA 2020,chess.com INT,2020.08.23,9.2,Yu Yangyi,"Harikrishna,P",1/2-1/2,2732,E36,2709
-1645,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.12,Yu Yangyi,"Korobov,A",1/2-1/2,2688,E21,2709
-1646,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.3,Yu Yangyi,"Caruana,F",1/2-1/2,2842,D37,2709
-1647,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.2,Yu Yangyi,"Xiong,Jeffery",1/2-1/2,2709,E21,2709
-1648,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.1,"So,W",Yu Yangyi,1/2-1/2,2709,C42,2770
-1649,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.4,"Dominguez Perez,L",Yu Yangyi,1/2-1/2,2709,C42,2758
-1650,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.1,"Saric,Iv",Yu Yangyi,0-1,2709,C42,2646
-1651,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.2,Yu Yangyi,"Tari,A",1-0,2634,A45,2709
-1652,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.3,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D37,2709
-1653,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.4,"Giri,A",Yu Yangyi,1/2-1/2,2709,A20,2763
-1654,11th Hainan Danzhou GM,chess.com INT,2020.12.03,1.4,Yu Yangyi,"Giri,A",1/2-1/2,2764,D37,2709
-1655,11th Hainan Danzhou GM,chess.com INT,2020.12.03,2.2,"Topalov,V",Yu Yangyi,1/2-1/2,2709,D11,2735
-1656,11th Hainan Danzhou GM,chess.com INT,2020.12.04,3.3,Yu Yangyi,"Rapport,R",0-1,2759,E32,2709
-1657,11th Hainan Danzhou GM,chess.com INT,2020.12.04,4.3,Wei Yi,Yu Yangyi,1/2-1/2,2709,C47,2732
-1658,11th Hainan Danzhou GM,chess.com INT,2020.12.05,5.2,Yu Yangyi,Ding Liren,1/2-1/2,2791,E15,2709
-1659,11th Hainan Danzhou GM,chess.com INT,2020.12.05,6.4,"Grischuk,A",Yu Yangyi,1/2-1/2,2709,D43,2777
-1660,11th Hainan Danzhou GM,chess.com INT,2020.12.05,7.1,Yu Yangyi,Wang Hao,1-0,2763,D20,2709
-1661,11th Hainan Danzhou GM,chess.com INT,2020.12.07,8.4,"Giri,A",Yu Yangyi,1/2-1/2,2709,D16,2764
-1662,11th Hainan Danzhou GM,chess.com INT,2020.12.07,9.2,Yu Yangyi,"Topalov,V",1/2-1/2,2735,D19,2709
-1663,11th Hainan Danzhou GM,chess.com INT,2020.12.07,10.3,"Rapport,R",Yu Yangyi,1-0,2709,B14,2759
-1664,11th Hainan Danzhou GM,chess.com INT,2020.12.08,11.3,Yu Yangyi,Wei Yi,1-0,2732,D35,2709
-1665,11th Hainan Danzhou GM,chess.com INT,2020.12.08,12.2,Ding Liren,Yu Yangyi,1-0,2709,D45,2791
-1666,11th Hainan Danzhou GM,chess.com INT,2020.12.09,13.4,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D37,2709
-1667,11th Hainan Danzhou GM,chess.com INT,2020.12.09,14.1,Wang Hao,Yu Yangyi,1-0,2709,D12,2763
-1668,ch-CHN 2020,Xinghua CHN,2020.12.19,1.6,Zhao Jun,Yu Yangyi,1/2-1/2,2709,D37,2638
-1669,ch-CHN 2020,Xinghua CHN,2020.12.20,2.1,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D35,2573
-1670,ch-CHN 2020,Xinghua CHN,2020.12.21,3.6,Yu Yangyi,Wen Yang,1-0,2594,A13,2709
-1671,ch-CHN 2020,Xinghua CHN,2020.12.22,4.2,"Zhang,Rui",Yu Yangyi,0-1,2709,B15,1658
-1672,ch-CHN 2020,Xinghua CHN,2020.12.23,5.5,Yu Yangyi,Ju Wenjun,1/2-1/2,2560,A28,2709
-1673,ch-CHN 2020,Xinghua CHN,2020.12.24,6.3,"Huang,Renjie",Yu Yangyi,1/2-1/2,2709,B30,2422
-1674,ch-CHN 2020,Xinghua CHN,2020.12.25,7.4,Yu Yangyi,"Lin,Yi",1-0,2408,C43,2709
-1675,ch-CHN 2020,Xinghua CHN,2020.12.27,8.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
-1676,ch-CHN 2020,Xinghua CHN,2020.12.28,9.3,Yu Yangyi,Wei Yi,1-0,2732,D85,2709
-1677,ch-CHN 2020,Xinghua CHN,2020.12.29,10.5,Lu Shanglei,Yu Yangyi,1/2-1/2,2709,C24,2615
-1678,ch-CHN 2020,Xinghua CHN,2020.12.30,11.2,Yu Yangyi,"Xu,Yinglun",1/2-1/2,2554,D41,2709
-1679,Shenzhen Evening Rapid,chess.com INT,2021.04.29,1.1,Yu Yangyi,"Duda,J",1-0,2729,E41,2709
-1680,Shenzhen Evening Rapid,chess.com INT,2021.04.29,2.2,Yu Yangyi,Wei Yi,1/2-1/2,2732,E21,2709
-1681,Shenzhen Evening Rapid,chess.com INT,2021.04.29,3.2,"Rapport,R",Yu Yangyi,0-1,2709,A14,2763
-1682,Shenzhen Evening Rapid,chess.com INT,2021.04.30,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D38,2729
-1683,Shenzhen Evening Rapid,chess.com INT,2021.04.30,5.2,Wei Yi,Yu Yangyi,0-1,2709,E06,2732
-1684,Shenzhen Evening Rapid,chess.com INT,2021.04.30,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,C47,2709
-1685,Shenzhen Evening Blitz,chess.com INT,2021.05.01,1.1,Yu Yangyi,"Duda,J",0-1,2729,D11,2709
-1686,Shenzhen Evening Blitz,chess.com INT,2021.05.01,2.2,Yu Yangyi,Wei Yi,1/2-1/2,2732,E21,2709
-1687,Shenzhen Evening Blitz,chess.com INT,2021.05.01,3.2,"Rapport,R",Yu Yangyi,1/2-1/2,2709,D33,2763
-1688,Shenzhen Evening Blitz,chess.com INT,2021.05.01,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D37,2729
-1689,Shenzhen Evening Blitz,chess.com INT,2021.05.01,5.2,Wei Yi,Yu Yangyi,0-1,2709,E01,2732
-1690,Shenzhen Evening Blitz,chess.com INT,2021.05.01,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,B06,2709
-1691,ch-CHN 2021,Xinghua CHN,2021.05.07,1.2,Yu Yangyi,"Li,Di",1/2-1/2,2561,A13,2709
-1692,ch-CHN 2021,Xinghua CHN,2021.05.08,2.6,Zhao Jun,Yu Yangyi,1-0,2709,B30,2638
-1693,ch-CHN 2021,Xinghua CHN,2021.05.09,3.1,Yu Yangyi,Lu Shanglei,1/2-1/2,2615,E28,2709
-1694,ch-CHN 2021,Xinghua CHN,2021.05.09,4.6,Yu Yangyi,"Xu,Zhihang",1/2-1/2,2506,C50,2709
-1695,ch-CHN 2021,Xinghua CHN,2021.05.10,5.2,"Xu,Yi",Yu Yangyi,0-1,2709,B30,2527
-1696,ch-CHN 2021,Xinghua CHN,2021.05.11,6.5,Yu Yangyi,"Xu,Yinglun",1-0,2554,A07,2709
-1697,ch-CHN 2021,Xinghua CHN,2021.05.12,7.3,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D38,2573
-1698,ch-CHN 2021,Xinghua CHN,2021.05.12,8.4,Yu Yangyi,"Liu,Yan",1-0,2524,A45,2709
-1699,ch-CHN 2021,Xinghua CHN,2021.05.13,9.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
-1700,ch-CHN 2021,Xinghua CHN,2021.05.14,10.3,Yu Yangyi,Wei Yi,1-0,2732,A18,2709
-1701,ch-CHN 2021,Xinghua CHN,2021.05.15,11.5,Ju Wenjun,Yu Yangyi,1-0,2709,C55,2560
-1702,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,Yu Yangyi,"Kadric,D",1-0,2564,A20,2705
-1703,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Kadric,D",Yu Yangyi,0-1,2705,B23,2564
-1704,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Tabatabaei,M",Yu Yangyi,1-0,2705,C50,2613
-1705,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2613,C77,2705
-1706,Online Olym Top DivA 2021,chess.com INT,2021.09.08,1.4,Yu Yangyi,"Ly,Mo",1-0,2484,E51,2704
-1707,Online Olym Top DivA 2021,chess.com INT,2021.09.09,5.5,Yu Yangyi,"Mastrovasilis,D",1-0,2615,D31,2704
-1708,Online Olym Top DivA 2021,chess.com INT,2021.09.10,7.4,"Petriashvili,Nikoloz",Yu Yangyi,1/2-1/2,2704,D38,2432
-1709,Online Olym Top DivA 2021,chess.com INT,2021.09.10,9.3,"Gabuzyan,H",Yu Yangyi,1-0,2704,C42,2583
-1710,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.41,"Wojtaszek,R",Yu Yangyi,1/2-1/2,2704,E11,2698
-1711,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.42,Yu Yangyi,"Wojtaszek,R",1-0,2698,E47,2704
-1712,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.1,"Artemiev,V",Yu Yangyi,1/2-1/2,2704,A14,2699
-1713,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.2,Yu Yangyi,"Artemiev,V",1/2-1/2,2699,D37,2704
-1714,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.4,Yu Yangyi,Ding Liren,0-1,2799,D35,2704
-1715,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.2,Wei Yi,Yu Yangyi,1-0,2704,E11,2725
-1716,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.3,Yu Yangyi,"Ju,Wenjun",1-0,2560,C50,2704
-1717,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.3,"Topalov,V",Yu Yangyi,1-0,2704,D32,2730
-1718,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.2,Yu Yangyi,Bu Xiangzhi,1/2-1/2,2705,D19,2704
-1719,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2704,D10,2727
-1720,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.1,Yu Yangyi,"Rapport,R",1-0,2760,B08,2704
-1721,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.11,Yu Yangyi,"Keymer,Vincent",1/2-1/2,2630,B12,2704
-1722,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.18,Zhou Jianchao,Yu Yangyi,0-1,2704,D38,2629
-1723,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.6,Yu Yangyi,"Bluebaum,M",1-0,2640,A13,2704
-1724,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.1,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2770,D19,2704
-1725,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.2,"Tari,A",Yu Yangyi,1/2-1/2,2704,C42,2646
-1726,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.4,"Sevian,Samuel",Yu Yangyi,1/2-1/2,2704,D00,2654
-1727,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.6,Yu Yangyi,"Deac,Bogdan-Daniel",1/2-1/2,2643,C65,2704
-1728,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.9,"Sarana,A",Yu Yangyi,1/2-1/2,2704,D38,2649
-1729,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.8,Yu Yangyi,"Najer,E",1-0,2654,A20,2704
-1730,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.4,"Shirov,A",Yu Yangyi,1/2-1/2,2704,B23,2659
-1731,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.3,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2763,B90,2704
-1732,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.1,Yu Yangyi,"Mamedyarov,S",1/2-1/2,2767,C45,2713
-1733,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.2,"Predke,A",Yu Yangyi,1/2-1/2,2713,C43,2682
-1734,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.2,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2761,D87,2713
-1735,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.1,"Mamedyarov,S",Yu Yangyi,1/2-1/2,2713,D38,2767
-1736,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.2,"Vachier Lagrave,M",Yu Yangyi,1/2-1/2,2713,C43,2761
-1737,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.2,Yu Yangyi,"Predke,A",0-1,2682,C92,2713
-1738,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.22,1.1,"Giri,A",Yu Yangyi,1/2-1/2,2713,C43,2771
-1739,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.23,2.1,"Vitiugov,N",Yu Yangyi,1/2-1/2,2713,B52,2726
-1740,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.24,3.1,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2623,D58,2713
-1741,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.25,4.1,Yu Yangyi,"Giri,A",1/2-1/2,2771,D97,2713
-1742,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.27,5.1,"Tabatabaei,M",Yu Yangyi,1/2-1/2,2713,D38,2623
-1743,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.28,6.1,Yu Yangyi,"Vitiugov,N",1/2-1/2,2726,C88,2713
-1744,St Louis Summer A,Saint Louis USA,2022.06.02,1.2,Yu Yangyi,"Gledura,B",1/2-1/2,2644,D20,2710
-1745,St Louis Summer A,Saint Louis USA,2022.06.03,2.5,"Oparin,G",Yu Yangyi,0-1,2710,D19,2685
-1746,St Louis Summer A,Saint Louis USA,2022.06.04,3.1,Yu Yangyi,"Robson,R",1/2-1/2,2684,E53,2710
-1747,St Louis Summer A,Saint Louis USA,2022.06.05,4.5,Yu Yangyi,"Smirin,I",1-0,2603,B43,2710
-1748,St Louis Summer A,Saint Louis USA,2022.06.06,5.1,"Theodorou,Nikolas",Yu Yangyi,1/2-1/2,2710,E06,2567
-1749,St Louis Summer A,Saint Louis USA,2022.06.07,6.3,Yu Yangyi,"Sevian,Samuel",1/2-1/2,2703,C83,2710
-1750,St Louis Summer A,Saint Louis USA,2022.06.08,7.4,"Mishra,Abhimanyu",Yu Yangyi,1/2-1/2,2710,B40,2535
-1751,St Louis Summer A,Saint Louis USA,2022.06.09,8.4,Yu Yangyi,"Hakobyan,Aram",1-0,2615,D37,2710
-1752,St Louis Summer A,Saint Louis USA,2022.06.10,9.3,"Bjerre,Jonas Buhl",Yu Yangyi,0-1,2710,E06,2610
-1753,55th Biel Master Open,Biel SUI,2022.07.13,1.1,"Kolbus,D",Yu Yangyi,0-1,2720,E15,2285
-1754,55th Biel Master Open,Biel SUI,2022.07.14,2.1,Yu Yangyi,"Pavlovic,Milos",1/2-1/2,2461,D35,2720
-1755,55th Biel Master Open,Biel SUI,2022.07.15,3.9,"Gaehwiler,G",Yu Yangyi,0-1,2720,E68,2420
-1756,55th Biel Master Open,Biel SUI,2022.07.16,4.3,Yu Yangyi,"Azarov,S",1/2-1/2,2566,E48,2720
-1757,55th Biel Master Open,Biel SUI,2022.07.18,5.5,"Erdos,V",Yu Yangyi,1/2-1/2,2720,B40,2586
-1758,55th Biel Master Open,Biel SUI,2022.07.19,6.6,Yu Yangyi,"Iniyan,P",0-1,2533,C65,2720
-1759,55th Biel Master Open,Biel SUI,2022.07.20,7.15,"Stijve,Theo",Yu Yangyi,0-1,2720,C41,2394
-1760,55th Biel Master Open,Biel SUI,2022.07.21,8.9,Yu Yangyi,"Prraneeth,Vuppala",1/2-1/2,2457,A13,2720
-1761,55th Biel Master Open,Biel SUI,2022.07.22,9.8,"Pranav,Anand",Yu Yangyi,0-1,2720,D90,2463
-1762,TCh-TUR Super League 2022,Ankara TUR,2022.08.18,3.1,Yu Yangyi,"Esen,B",1-0,2476,D45,2708
-1763,TCh-TUR Super League 2022,Ankara TUR,2022.08.19,4.5,"Lobanov,Sergei",Yu Yangyi,0-1,2708,B46,2531
-1764,TCh-TUR Super League 2022,Ankara TUR,2022.08.20,5.2,Yu Yangyi,"Abdusattorov,Nodirbek",1/2-1/2,2677,D27,2708
-1765,TCh-TUR Super League 2022,Ankara TUR,2022.08.21,6.4,"Mammadov,Z",Yu Yangyi,0-1,2708,B22,2391
+0,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.3,"Van Foreest,Jorden",Yu Yangyi,1-0,2726,B40,2644
+1,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.1,Yu Yangyi,"Carlsen,M",1/2-1/2,2872,B90,2726
+2,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.7,"Caruana,F",Yu Yangyi,1-0,2726,C43,2822
+3,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.2,Yu Yangyi,"Anand,V",1/2-1/2,2758,D38,2726
+4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2726,D02,2747
+5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.5,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2723,B90,2726
+6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.7,"Kovalev,Vl",Yu Yangyi,1/2-1/2,2726,C84,2660
+7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.3,Yu Yangyi,"Duda,J",0-1,2758,B35,2726
+8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.2,"Artemiev,V",Yu Yangyi,1/2-1/2,2726,D77,2731
+9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.7,Yu Yangyi,"So,W",1/2-1/2,2765,C47,2726
+10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.2,"Giri,A",Yu Yangyi,1/2-1/2,2726,C42,2768
+11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.6,"Dubov,Daniil",Yu Yangyi,1-0,2726,D43,2683
+12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.7,Yu Yangyi,"Xiong,Jeffery",1/2-1/2,2712,A57,2726
+13,PRO League Group Stage,chess.com INT,2020.02.12,6,Yu Yangyi,"Solak,D",1/2-1/2,2594,A06,2709
+14,PRO League Group Stage,chess.com INT,2020.02.12,6,Yu Yangyi,"Can,E",1/2-1/2,2600,B78,2709
+15,PRO League Group Stage,chess.com INT,2020.02.12,6,"Dastan,B",Yu Yangyi,1/2-1/2,2709,D00,2572
+16,PRO League Group Stage,chess.com INT,2020.02.12,6,"Yilmaz,M",Yu Yangyi,1-0,2709,D45,2607
+17,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,Yu Yangyi,"Abdusattorov,Nodirbek",1-0,2627,E48,2709
+18,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Naroditsky,D",Yu Yangyi,1/2-1/2,2709,C42,2621
+19,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,Yu Yangyi,"Oparin,G",1-0,2652,D31,2709
+20,PRO League KO Stage 2020,chess.com INT,2020.03.05,1,"Swiercz,D",Yu Yangyi,1/2-1/2,2709,D02,2649
+21,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Tomczak,J",Yu Yangyi,1/2-1/2,2709,C42,2605
+22,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Yu Yangyi,"Mons,L",1-0,2543,A45,2709
+23,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,Yu Yangyi,"Korobov,A",1-0,2688,D45,2709
+24,PRO League KO Stage 2020,chess.com INT,2020.03.09,2,"Braun,A",Yu Yangyi,0-1,2709,D45,2609
+25,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.2,Yu Yangyi,"Amin,B",1-0,2686,E92,2709
+26,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.3,"Giri,A",Yu Yangyi,0-1,2709,C42,2764
+27,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.1,Yu Yangyi,"Karjakin,Sergey",1/2-1/2,2752,C47,2709
+28,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,Yu Yangyi,"Harikrishna,P",1/2-1/2,2719,D36,2709
+29,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.2,"Dominguez Perez,L",Yu Yangyi,0-1,2709,C43,2758
+30,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.2,"Amin,B",Yu Yangyi,1/2-1/2,2709,A07,2686
+31,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.3,Yu Yangyi,"Duda,J",1-0,2753,E46,2709
+32,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.3,"Adhiban,Baskaran",Yu Yangyi,0-1,2709,A32,2659
+33,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.2,Yu Yangyi,"So,W",0-1,2770,C67,2709
+34,Online Nations Cup Final,chess.com INT,2020.05.10,1.3,Yu Yangyi,"So,W",1-0,2770,D38,2709
+35,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.5,Yu Yangyi,"So,W",0-1,2770,D35,2709
+36,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.3,"Karjakin,Sergey",Yu Yangyi,1-0,2709,D02,2752
+37,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.4,Yu Yangyi,"Dubov,Daniil",1-0,2699,D35,2709
+38,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.4,"Firouzja,Alireza",Yu Yangyi,1/2-1/2,2709,C42,2728
+39,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.3,Yu Yangyi,"Carlsen,M",1-0,2863,D45,2709
+40,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.5,"Aronian,L",Yu Yangyi,1-0,2709,A30,2773
+41,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.2,Yu Yangyi,Ding Liren,1-0,2791,D97,2709
+42,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.6,"Nakamura,Hi",Yu Yangyi,1/2-1/2,2709,C42,2736
+43,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.1,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D36,2709
+44,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.6,Yu Yangyi,Wei Yi,1-0,2732,D97,2709
+45,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.2,"Duda,J",Yu Yangyi,1/2-1/2,2709,C42,2753
+46,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.11,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+47,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.13,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+48,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.14,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
+49,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.12,Ding Liren,Yu Yangyi,1/2-1/2,2709,A20,2791
+50,Lindores Abbey Final 8,chess24.com INT,2020.05.23,1.15,Yu Yangyi,Ding Liren,1-0,2791,C58,2709
+51,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.23,Ding Liren,Yu Yangyi,1/2-1/2,2709,D27,2791
+52,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.24,Yu Yangyi,Ding Liren,1/2-1/2,2791,C58,2709
+53,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.21,Ding Liren,Yu Yangyi,1-0,2709,D27,2791
+54,Lindores Abbey Final 8,chess24.com INT,2020.05.25,1.22,Yu Yangyi,Ding Liren,1/2-1/2,2791,E46,2709
+55,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.35,Yu Yangyi,Ding Liren,1/2-1/2,2791,A45,2709
+56,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.34,Ding Liren,Yu Yangyi,1/2-1/2,2709,D20,2791
+57,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.33,Yu Yangyi,Ding Liren,0-1,2791,E49,2709
+58,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.31,Yu Yangyi,Ding Liren,1/2-1/2,2791,E49,2709
+59,Lindores Abbey Final 8,chess24.com INT,2020.05.27,1.32,Ding Liren,Yu Yangyi,0-1,2709,D25,2791
+60,Online Olym Top DivA 2020,chess.com INT,2020.08.21,1.4,"Vokhidov,Shamsiddin",Yu Yangyi,0-1,2709,C42,2512
+61,Online Olym Top DivA 2020,chess.com INT,2020.08.21,2.3,Yu Yangyi,"Priasmoro,Novendra",1-0,2502,E91,2709
+62,Online Olym Top DivA 2020,chess.com INT,2020.08.22,4.4,"Bilguun,Sumiya",Yu Yangyi,1/2-1/2,2709,C42,2454
+63,Online Olym Top DivA 2020,chess.com INT,2020.08.23,8.5,"Kudakwashe,Sibanda",Yu Yangyi,0-1,2709,E00,2065
+64,Online Olym Top DivA 2020,chess.com INT,2020.08.23,9.2,Yu Yangyi,"Harikrishna,P",1/2-1/2,2732,E36,2709
+65,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.12,Yu Yangyi,"Korobov,A",1/2-1/2,2688,E21,2709
+66,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.3,Yu Yangyi,"Caruana,F",1/2-1/2,2842,D37,2709
+67,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.2,Yu Yangyi,"Xiong,Jeffery",1/2-1/2,2709,E21,2709
+68,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.1,"So,W",Yu Yangyi,1/2-1/2,2709,C42,2770
+69,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.4,"Dominguez Perez,L",Yu Yangyi,1/2-1/2,2709,C42,2758
+70,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.1,"Saric,Iv",Yu Yangyi,0-1,2709,C42,2646
+71,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.2,Yu Yangyi,"Tari,A",1-0,2634,A45,2709
+72,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.3,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D37,2709
+73,PRO League KO Stage 2020,chess.com INT,2020.09.26,4.4,"Giri,A",Yu Yangyi,1/2-1/2,2709,A20,2763
+74,11th Hainan Danzhou GM,chess.com INT,2020.12.03,1.4,Yu Yangyi,"Giri,A",1/2-1/2,2764,D37,2709
+75,11th Hainan Danzhou GM,chess.com INT,2020.12.03,2.2,"Topalov,V",Yu Yangyi,1/2-1/2,2709,D11,2735
+76,11th Hainan Danzhou GM,chess.com INT,2020.12.04,3.3,Yu Yangyi,"Rapport,R",0-1,2759,E32,2709
+77,11th Hainan Danzhou GM,chess.com INT,2020.12.04,4.3,Wei Yi,Yu Yangyi,1/2-1/2,2709,C47,2732
+78,11th Hainan Danzhou GM,chess.com INT,2020.12.05,5.2,Yu Yangyi,Ding Liren,1/2-1/2,2791,E15,2709
+79,11th Hainan Danzhou GM,chess.com INT,2020.12.05,6.4,"Grischuk,A",Yu Yangyi,1/2-1/2,2709,D43,2777
+80,11th Hainan Danzhou GM,chess.com INT,2020.12.05,7.1,Yu Yangyi,Wang Hao,1-0,2763,D20,2709
+81,11th Hainan Danzhou GM,chess.com INT,2020.12.07,8.4,"Giri,A",Yu Yangyi,1/2-1/2,2709,D16,2764
+82,11th Hainan Danzhou GM,chess.com INT,2020.12.07,9.2,Yu Yangyi,"Topalov,V",1/2-1/2,2735,D19,2709
+83,11th Hainan Danzhou GM,chess.com INT,2020.12.07,10.3,"Rapport,R",Yu Yangyi,1-0,2709,B14,2759
+84,11th Hainan Danzhou GM,chess.com INT,2020.12.08,11.3,Yu Yangyi,Wei Yi,1-0,2732,D35,2709
+85,11th Hainan Danzhou GM,chess.com INT,2020.12.08,12.2,Ding Liren,Yu Yangyi,1-0,2709,D45,2791
+86,11th Hainan Danzhou GM,chess.com INT,2020.12.09,13.4,Yu Yangyi,"Grischuk,A",1/2-1/2,2777,D37,2709
+87,11th Hainan Danzhou GM,chess.com INT,2020.12.09,14.1,Wang Hao,Yu Yangyi,1-0,2709,D12,2763
+88,ch-CHN 2020,Xinghua CHN,2020.12.19,1.6,Zhao Jun,Yu Yangyi,1/2-1/2,2709,D37,2638
+89,ch-CHN 2020,Xinghua CHN,2020.12.20,2.1,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D35,2573
+90,ch-CHN 2020,Xinghua CHN,2020.12.21,3.6,Yu Yangyi,Wen Yang,1-0,2594,A13,2709
+91,ch-CHN 2020,Xinghua CHN,2020.12.22,4.2,"Zhang,Rui",Yu Yangyi,0-1,2709,B15,1658
+92,ch-CHN 2020,Xinghua CHN,2020.12.23,5.5,Yu Yangyi,Ju Wenjun,1/2-1/2,2560,A28,2709
+93,ch-CHN 2020,Xinghua CHN,2020.12.24,6.3,"Huang,Renjie",Yu Yangyi,1/2-1/2,2709,B30,2422
+94,ch-CHN 2020,Xinghua CHN,2020.12.25,7.4,Yu Yangyi,"Lin,Yi",1-0,2408,C43,2709
+95,ch-CHN 2020,Xinghua CHN,2020.12.27,8.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
+96,ch-CHN 2020,Xinghua CHN,2020.12.28,9.3,Yu Yangyi,Wei Yi,1-0,2732,D85,2709
+97,ch-CHN 2020,Xinghua CHN,2020.12.29,10.5,Lu Shanglei,Yu Yangyi,1/2-1/2,2709,C24,2615
+98,ch-CHN 2020,Xinghua CHN,2020.12.30,11.2,Yu Yangyi,"Xu,Yinglun",1/2-1/2,2554,D41,2709
+99,Shenzhen Evening Rapid,chess.com INT,2021.04.29,1.1,Yu Yangyi,"Duda,J",1-0,2729,E41,2709
+100,Shenzhen Evening Rapid,chess.com INT,2021.04.29,2.2,Yu Yangyi,Wei Yi,1/2-1/2,2732,E21,2709
+101,Shenzhen Evening Rapid,chess.com INT,2021.04.29,3.2,"Rapport,R",Yu Yangyi,0-1,2709,A14,2763
+102,Shenzhen Evening Rapid,chess.com INT,2021.04.30,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D38,2729
+103,Shenzhen Evening Rapid,chess.com INT,2021.04.30,5.2,Wei Yi,Yu Yangyi,0-1,2709,E06,2732
+104,Shenzhen Evening Rapid,chess.com INT,2021.04.30,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,C47,2709
+105,Shenzhen Evening Blitz,chess.com INT,2021.05.01,1.1,Yu Yangyi,"Duda,J",0-1,2729,D11,2709
+106,Shenzhen Evening Blitz,chess.com INT,2021.05.01,2.2,Yu Yangyi,Wei Yi,1/2-1/2,2732,E21,2709
+107,Shenzhen Evening Blitz,chess.com INT,2021.05.01,3.2,"Rapport,R",Yu Yangyi,1/2-1/2,2709,D33,2763
+108,Shenzhen Evening Blitz,chess.com INT,2021.05.01,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D37,2729
+109,Shenzhen Evening Blitz,chess.com INT,2021.05.01,5.2,Wei Yi,Yu Yangyi,0-1,2709,E01,2732
+110,Shenzhen Evening Blitz,chess.com INT,2021.05.01,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,B06,2709
+111,ch-CHN 2021,Xinghua CHN,2021.05.07,1.2,Yu Yangyi,"Li,Di",1/2-1/2,2561,A13,2709
+112,ch-CHN 2021,Xinghua CHN,2021.05.08,2.6,Zhao Jun,Yu Yangyi,1-0,2709,B30,2638
+113,ch-CHN 2021,Xinghua CHN,2021.05.09,3.1,Yu Yangyi,Lu Shanglei,1/2-1/2,2615,E28,2709
+114,ch-CHN 2021,Xinghua CHN,2021.05.09,4.6,Yu Yangyi,"Xu,Zhihang",1/2-1/2,2506,C50,2709
+115,ch-CHN 2021,Xinghua CHN,2021.05.10,5.2,"Xu,Yi",Yu Yangyi,0-1,2709,B30,2527
+116,ch-CHN 2021,Xinghua CHN,2021.05.11,6.5,Yu Yangyi,"Xu,Yinglun",1-0,2554,A07,2709
+117,ch-CHN 2021,Xinghua CHN,2021.05.12,7.3,"Xu,Xiangyu",Yu Yangyi,0-1,2709,D38,2573
+118,ch-CHN 2021,Xinghua CHN,2021.05.12,8.4,Yu Yangyi,"Liu,Yan",1-0,2524,A45,2709
+119,ch-CHN 2021,Xinghua CHN,2021.05.13,9.4,"Bai,Jinshi",Yu Yangyi,1/2-1/2,2709,D38,2618
+120,ch-CHN 2021,Xinghua CHN,2021.05.14,10.3,Yu Yangyi,Wei Yi,1-0,2732,A18,2709
+121,ch-CHN 2021,Xinghua CHN,2021.05.15,11.5,Ju Wenjun,Yu Yangyi,1-0,2709,C55,2560
+122,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,Yu Yangyi,"Kadric,D",1-0,2564,A20,2705
+123,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Kadric,D",Yu Yangyi,0-1,2705,B23,2564
+124,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Tabatabaei,M",Yu Yangyi,1-0,2705,C50,2613
+125,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2613,C77,2705
+126,Online Olym Top DivA 2021,chess.com INT,2021.09.08,1.4,Yu Yangyi,"Ly,Mo",1-0,2484,E51,2704
+127,Online Olym Top DivA 2021,chess.com INT,2021.09.09,5.5,Yu Yangyi,"Mastrovasilis,D",1-0,2615,D31,2704
+128,Online Olym Top DivA 2021,chess.com INT,2021.09.10,7.4,"Petriashvili,Nikoloz",Yu Yangyi,1/2-1/2,2704,D38,2432
+129,Online Olym Top DivA 2021,chess.com INT,2021.09.10,9.3,"Gabuzyan,H",Yu Yangyi,1-0,2704,C42,2583
+130,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.41,"Wojtaszek,R",Yu Yangyi,1/2-1/2,2704,E11,2698
+131,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.42,Yu Yangyi,"Wojtaszek,R",1-0,2698,E47,2704
+132,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.1,"Artemiev,V",Yu Yangyi,1/2-1/2,2704,A14,2699
+133,Online Olym KO Stage 2021,chess.com INT,2021.09.14,2.2,Yu Yangyi,"Artemiev,V",1/2-1/2,2699,D37,2704
+134,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.4,Yu Yangyi,Ding Liren,0-1,2799,D35,2704
+135,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.2,Wei Yi,Yu Yangyi,1-0,2704,E11,2725
+136,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.3,Yu Yangyi,"Ju,Wenjun",1-0,2560,C50,2704
+137,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.3,"Topalov,V",Yu Yangyi,1-0,2704,D32,2730
+138,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.2,Yu Yangyi,Bu Xiangzhi,1/2-1/2,2705,D19,2704
+139,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2704,D10,2727
+140,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.1,Yu Yangyi,"Rapport,R",1-0,2760,B08,2704
+141,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.11,Yu Yangyi,"Keymer,Vincent",1/2-1/2,2630,B12,2704
+142,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.18,Zhou Jianchao,Yu Yangyi,0-1,2704,D38,2629
+143,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.6,Yu Yangyi,"Bluebaum,M",1-0,2640,A13,2704
+144,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.1,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2770,D19,2704
+145,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.2,"Tari,A",Yu Yangyi,1/2-1/2,2704,C42,2646
+146,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.4,"Sevian,Samuel",Yu Yangyi,1/2-1/2,2704,D00,2654
+147,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.6,Yu Yangyi,"Deac,Bogdan-Daniel",1/2-1/2,2643,C65,2704
+148,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.9,"Sarana,A",Yu Yangyi,1/2-1/2,2704,D38,2649
+149,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.8,Yu Yangyi,"Najer,E",1-0,2654,A20,2704
+150,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.4,"Shirov,A",Yu Yangyi,1/2-1/2,2704,B23,2659
+151,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.3,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2763,B90,2704
+152,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.1,Yu Yangyi,"Mamedyarov,S",1/2-1/2,2767,C45,2713
+153,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.2,"Predke,A",Yu Yangyi,1/2-1/2,2713,C43,2682
+154,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.2,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2761,D87,2713
+155,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.1,"Mamedyarov,S",Yu Yangyi,1/2-1/2,2713,D38,2767
+156,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.2,"Vachier Lagrave,M",Yu Yangyi,1/2-1/2,2713,C43,2761
+157,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.2,Yu Yangyi,"Predke,A",0-1,2682,C92,2713
+158,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.22,1.1,"Giri,A",Yu Yangyi,1/2-1/2,2713,C43,2771
+159,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.23,2.1,"Vitiugov,N",Yu Yangyi,1/2-1/2,2713,B52,2726
+160,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.24,3.1,Yu Yangyi,"Tabatabaei,M",1/2-1/2,2623,D58,2713
+161,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.25,4.1,Yu Yangyi,"Giri,A",1/2-1/2,2771,D97,2713
+162,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.27,5.1,"Tabatabaei,M",Yu Yangyi,1/2-1/2,2713,D38,2623
+163,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.28,6.1,Yu Yangyi,"Vitiugov,N",1/2-1/2,2726,C88,2713
+164,St Louis Summer A,Saint Louis USA,2022.06.02,1.2,Yu Yangyi,"Gledura,B",1/2-1/2,2644,D20,2710
+165,St Louis Summer A,Saint Louis USA,2022.06.03,2.5,"Oparin,G",Yu Yangyi,0-1,2710,D19,2685
+166,St Louis Summer A,Saint Louis USA,2022.06.04,3.1,Yu Yangyi,"Robson,R",1/2-1/2,2684,E53,2710
+167,St Louis Summer A,Saint Louis USA,2022.06.05,4.5,Yu Yangyi,"Smirin,I",1-0,2603,B43,2710
+168,St Louis Summer A,Saint Louis USA,2022.06.06,5.1,"Theodorou,Nikolas",Yu Yangyi,1/2-1/2,2710,E06,2567
+169,St Louis Summer A,Saint Louis USA,2022.06.07,6.3,Yu Yangyi,"Sevian,Samuel",1/2-1/2,2703,C83,2710
+170,St Louis Summer A,Saint Louis USA,2022.06.08,7.4,"Mishra,Abhimanyu",Yu Yangyi,1/2-1/2,2710,B40,2535
+171,St Louis Summer A,Saint Louis USA,2022.06.09,8.4,Yu Yangyi,"Hakobyan,Aram",1-0,2615,D37,2710
+172,St Louis Summer A,Saint Louis USA,2022.06.10,9.3,"Bjerre,Jonas Buhl",Yu Yangyi,0-1,2710,E06,2610
+173,55th Biel Master Open,Biel SUI,2022.07.13,1.1,"Kolbus,D",Yu Yangyi,0-1,2720,E15,2285
+174,55th Biel Master Open,Biel SUI,2022.07.14,2.1,Yu Yangyi,"Pavlovic,Milos",1/2-1/2,2461,D35,2720
+175,55th Biel Master Open,Biel SUI,2022.07.15,3.9,"Gaehwiler,G",Yu Yangyi,0-1,2720,E68,2420
+176,55th Biel Master Open,Biel SUI,2022.07.16,4.3,Yu Yangyi,"Azarov,S",1/2-1/2,2566,E48,2720
+177,55th Biel Master Open,Biel SUI,2022.07.18,5.5,"Erdos,V",Yu Yangyi,1/2-1/2,2720,B40,2586
+178,55th Biel Master Open,Biel SUI,2022.07.19,6.6,Yu Yangyi,"Iniyan,P",0-1,2533,C65,2720
+179,55th Biel Master Open,Biel SUI,2022.07.20,7.15,"Stijve,Theo",Yu Yangyi,0-1,2720,C41,2394
+180,55th Biel Master Open,Biel SUI,2022.07.21,8.9,Yu Yangyi,"Prraneeth,Vuppala",1/2-1/2,2457,A13,2720
+181,55th Biel Master Open,Biel SUI,2022.07.22,9.8,"Pranav,Anand",Yu Yangyi,0-1,2720,D90,2463
+182,TCh-TUR Super League 2022,Ankara TUR,2022.08.18,3.1,Yu Yangyi,"Esen,B",1-0,2476,D45,2708
+183,TCh-TUR Super League 2022,Ankara TUR,2022.08.19,4.5,"Lobanov,Sergei",Yu Yangyi,0-1,2708,B46,2531
+184,TCh-TUR Super League 2022,Ankara TUR,2022.08.20,5.2,Yu Yangyi,"Abdusattorov,Nodirbek",1/2-1/2,2677,D27,2708
+185,TCh-TUR Super League 2022,Ankara TUR,2022.08.21,6.4,"Mammadov,Z",Yu Yangyi,0-1,2708,B22,2391
