@@ -10,380 +10,237 @@
 8,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.19,5.1,"Rapport,R","Van Foreest,Lucas",1/2-1/2,2531,A07,2760
 9,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.19,6.2,"Rapport,R","Koch,T1",1-0,2461,E11,2760
 10,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.20,7.1,"Korobov,A","Rapport,R",1/2-1/2,2760,D35,2688
-11,11th Hainan Danzhou GM,chess.com INT,2020.12.03,1.2,Ding Liren,"Rapport,R",0-1,2759,E11,2791
-12,11th Hainan Danzhou GM,chess.com INT,2020.12.03,2.3,"Rapport,R","Grischuk,A",1/2-1/2,2777,A35,2759
-13,11th Hainan Danzhou GM,chess.com INT,2020.12.04,3.3,Yu Yangyi,"Rapport,R",0-1,2759,E32,2709
-14,11th Hainan Danzhou GM,chess.com INT,2020.12.04,4.2,"Rapport,R","Giri,A",1/2-1/2,2764,D10,2759
-15,11th Hainan Danzhou GM,chess.com INT,2020.12.05,5.4,"Topalov,V","Rapport,R",1/2-1/2,2759,C67,2735
-16,11th Hainan Danzhou GM,chess.com INT,2020.12.05,6.1,Wang Hao,"Rapport,R",1/2-1/2,2759,C67,2763
-17,11th Hainan Danzhou GM,chess.com INT,2020.12.05,7.4,"Rapport,R",Wei Yi,1/2-1/2,2732,D53,2759
-18,11th Hainan Danzhou GM,chess.com INT,2020.12.07,8.2,"Rapport,R",Ding Liren,1/2-1/2,2791,A22,2759
-19,11th Hainan Danzhou GM,chess.com INT,2020.12.07,9.3,"Grischuk,A","Rapport,R",1/2-1/2,2759,C53,2777
-20,11th Hainan Danzhou GM,chess.com INT,2020.12.07,10.3,"Rapport,R",Yu Yangyi,1-0,2709,B14,2759
-21,11th Hainan Danzhou GM,chess.com INT,2020.12.08,11.2,"Giri,A","Rapport,R",1/2-1/2,2759,E17,2764
-22,11th Hainan Danzhou GM,chess.com INT,2020.12.08,12.4,"Rapport,R","Topalov,V",1-0,2735,A04,2759
-23,11th Hainan Danzhou GM,chess.com INT,2020.12.09,13.1,"Rapport,R",Wang Hao,1/2-1/2,2763,A07,2759
-24,11th Hainan Danzhou GM,chess.com INT,2020.12.09,14.4,Wei Yi,"Rapport,R",1/2-1/2,2759,C67,2732
-25,TCh-AUT 2021,Austria AUT,2021.01.22,1.1,"Shengelia,D","Rapport,R",0-1,2759,D35,2543
-26,TCh-AUT 2021,Austria AUT,2021.01.23,2.2,"Rapport,R","Markus,Rob",1-0,2592,A53,2759
-27,TCh-AUT 2021,Austria AUT,2021.01.23,3.2,"Dragnev,Valentin","Rapport,R",1/2-1/2,2759,B08,2564
-28,TCh-AUT 2021,Austria AUT,2021.01.24,4.1,"Rapport,R","Horvath,Dominik",1-0,2446,E60,2759
-29,TCh-AUT 2021,Austria AUT,2021.03.12,5.3,"Haba,P","Rapport,R",0-1,2759,C02,2439
-30,TCh-AUT 2021,Austria AUT,2021.03.14,7.3,"Rapport,R","Abasov,N",1/2-1/2,2668,B25,2759
-31,European Online CC GpA,Tornelo INT,2021.03.27,1.1,"Rapport,R","Horvath,Las1",1-0,2183,E70,2763
-32,European Online CC GpA,Tornelo INT,2021.03.27,2.5,"Rapport,R","Artemiev,V",1/2-1/2,2709,D27,2763
-33,European Online CC GpA,Tornelo INT,2021.03.27,3.2,"Deac,Bogdan-Daniel","Rapport,R",1/2-1/2,2763,C53,2625
-34,European Online CC GpA,Tornelo INT,2021.03.27,4.4,"Rapport,R","Hera,I",1-0,2610,A36,2763
-35,European Online CC GpA,Tornelo INT,2021.03.28,5.3,"Jakubowski,K","Rapport,R",0-1,2763,C48,2497
-36,European Online CC GpA,Tornelo INT,2021.03.28,6.3,"Rapport,R","Zavgorodniy,S",1-0,2418,A55,2763
-37,European Online CC GpA,Tornelo INT,2021.03.28,7.4,"Valdes Escobar,A","Rapport,R",0-1,2763,A10,2355
-38,European Online CC GpA,Tornelo INT,2021.03.28,8.2,"Rapport,R","Celik,Hasan Huseyin",1-0,2360,B13,2763
-39,European Online CC GpA,Tornelo INT,2021.03.28,9.5,"Finek,Vaclav","Rapport,R",0-1,2763,A84,2361
-40,European Online CC PlayC,Tornelo INT,2021.03.29,1.1,"Rapport,R","Matlakov,M",1-0,2688,A11,2763
-41,European Online CC PlayC,Tornelo INT,2021.03.29,2.1,"Rapport,R","Tomashevsky,E",1/2-1/2,2706,A13,2763
-42,European Online CC PlayC,Tornelo INT,2021.03.29,3.1,"Rapport,R","McShane,L",1/2-1/2,2674,A34,2763
-43,European Online CC PlayC,Tornelo INT,2021.03.29,4.1,"Azarov,S","Rapport,R",1/2-1/2,2763,C67,2604
-44,European Online CC PlayC,Tornelo INT,2021.03.29,5.1,"Rapport,R","Moranda,W",0-1,2618,A13,2763
-45,Shenzhen Evening Rapid,chess.com INT,2021.04.29,1.2,Wei Yi,"Rapport,R",1/2-1/2,2763,C67,2732
-46,Shenzhen Evening Rapid,chess.com INT,2021.04.29,2.1,"Duda,J","Rapport,R",0-1,2763,E32,2729
-47,Shenzhen Evening Rapid,chess.com INT,2021.04.29,3.2,"Rapport,R",Yu Yangyi,0-1,2709,A14,2763
-48,Shenzhen Evening Rapid,chess.com INT,2021.04.30,4.2,"Rapport,R",Wei Yi,1/2-1/2,2732,A13,2763
-49,Shenzhen Evening Rapid,chess.com INT,2021.04.30,5.1,"Rapport,R","Duda,J",1/2-1/2,2729,A14,2763
-50,Shenzhen Evening Rapid,chess.com INT,2021.04.30,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,C47,2709
-51,Shenzhen Evening Blitz,chess.com INT,2021.05.01,1.2,Wei Yi,"Rapport,R",1-0,2763,C67,2732
-52,Shenzhen Evening Blitz,chess.com INT,2021.05.01,2.1,"Duda,J","Rapport,R",1-0,2763,E12,2729
-53,Shenzhen Evening Blitz,chess.com INT,2021.05.01,3.2,"Rapport,R",Yu Yangyi,1/2-1/2,2709,D33,2763
-54,Shenzhen Evening Blitz,chess.com INT,2021.05.01,4.2,"Rapport,R",Wei Yi,1-0,2732,A10,2763
-55,Shenzhen Evening Blitz,chess.com INT,2021.05.01,5.1,"Rapport,R","Duda,J",1/2-1/2,2729,A15,2763
-56,Shenzhen Evening Blitz,chess.com INT,2021.05.01,6.2,Yu Yangyi,"Rapport,R",1/2-1/2,2763,B06,2709
-57,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.5,"Bacrot,E","Rapport,R",1-0,2763,B10,2678
-58,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.1,"So,W","Rapport,R",1-0,2763,E41,2770
-59,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.4,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,A05,2763
-60,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.2,"Aronian,L","Rapport,R",1/2-1/2,2763,A47,2781
-61,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,D02,2763
-62,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2763,B45,2759
-63,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.3,"Rapport,R","Svidler,P",1-0,2714,E60,2763
-64,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.4,"Radjabov,T","Rapport,R",1/2-1/2,2763,E12,2765
-65,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.2,"Rapport,R","Caruana,F",1/2-1/2,2820,A08,2763
-66,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2763,B40,2792
-67,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.1,"Rapport,R","Aronian,L",1/2-1/2,2781,A07,2763
-68,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.1,"Caruana,F","Rapport,R",1/2-1/2,2763,B40,2820
-69,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.1,"Rapport,R","Kramnik,V",1-0,2753,A05,2763
-70,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.1,"Radjabov,T","Rapport,R",1/2-1/2,2763,A15,2765
-71,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.1,"Rapport,R","Firouzja,Alireza",0-1,2759,A04,2763
-72,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.1,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2763,C02,2760
-73,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.1,"Rapport,R","So,W",1/2-1/2,2770,A07,2763
-74,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.1,"Svidler,P","Rapport,R",1-0,2763,B40,2714
-75,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.1,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D38,2763
-76,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.1,"Aronian,L","Rapport,R",1-0,2763,A48,2781
-77,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.1,"Rapport,R","Caruana,F",1-0,2820,A08,2763
-78,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.1,"Kramnik,V","Rapport,R",1/2-1/2,2763,B40,2753
-79,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.1,"Rapport,R","Radjabov,T",1-0,2765,A07,2763
-80,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.1,"Firouzja,Alireza","Rapport,R",0-1,2763,B40,2759
-81,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.1,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,A15,2763
-82,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.1,"Rapport,R","Svidler,P",1/2-1/2,2714,A04,2763
-83,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.1,"Shankland,S","Rapport,R",0-1,2763,E06,2709
-84,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.1,"Rapport,R","Nakamura,Hi",1/2-1/2,2736,E32,2763
-85,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.1,"Dominguez Perez,L","Rapport,R",1-0,2763,C53,2758
-86,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.5,"Rapport,R","Svidler,P",1/2-1/2,2714,A20,2763
-87,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.4,"So,W","Rapport,R",1/2-1/2,2763,C50,2772
-88,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.3,"Rapport,R","Le, Quang Liem",1/2-1/2,2709,A07,2763
-89,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.2,"Caruana,F","Rapport,R",0-1,2763,B40,2806
-90,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.3,"Rapport,R","Xiong,Jeffery",1-0,2710,A07,2763
-91,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.5,"Mamedyarov,S","Rapport,R",1/2-1/2,2763,E17,2782
-92,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.1,"Xiong,Jeffery","Rapport,R",1-0,2763,A47,2710
-93,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.4,"Rapport,R","Shankland,S",1/2-1/2,2709,A07,2763
-94,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.2,"So,W","Rapport,R",1/2-1/2,2763,C53,2772
-95,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.2,"Rapport,R","Svidler,P",0-1,2714,A04,2763
-96,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.4,"Dominguez Perez,L","Rapport,R",0-1,2763,C53,2758
-97,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.1,"Rapport,R","Mamedyarov,S",1/2-1/2,2782,A15,2763
-98,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.5,"Le, Quang Liem","Rapport,R",1-0,2763,A47,2709
-99,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.4,"Rapport,R","Caruana,F",1/2-1/2,2806,A08,2763
-100,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2763,E32,2736
-101,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.3,"Rapport,R","Xiong,Jeffery",1/2-1/2,2710,A04,2763
-102,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.2,"Shankland,S","Rapport,R",0-1,2763,E92,2709
-103,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.1,"Svidler,P","Rapport,R",0-1,2763,B01,2714
-104,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.3,"Rapport,R","Dominguez Perez,L",0-1,2758,A05,2763
-105,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.3,"Mamedyarov,S","Rapport,R",0-1,2763,E61,2782
-106,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.2,"Rapport,R","Le, Quang Liem",0-1,2709,A07,2763
-107,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.2,"Caruana,F","Rapport,R",1/2-1/2,2763,E19,2806
-108,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.3,"Xiong,Jeffery","Rapport,R",1/2-1/2,2763,E38,2710
-109,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2751,A04,2763
-110,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.2,"Mamedyarov,S","Rapport,R",1-0,2763,D49,2782
-111,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.3,"Rapport,R","Svidler,P",1-0,2714,A07,2763
-112,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.5,"So,W","Rapport,R",1/2-1/2,2763,C67,2772
-113,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.4,"Shankland,S","Rapport,R",1/2-1/2,2763,C45,2709
-114,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.1,"Rapport,R","Dominguez Perez,L",1/2-1/2,2758,D23,2763
-115,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.3,"Swiercz,D","Rapport,R",1/2-1/2,2763,D02,2655
-116,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.26,9.5,"Rapport,R","Caruana,F",1/2-1/2,2806,B44,2763
-117,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.2,"Tari,A","Rapport,R",0-1,2760,C15,2642
-118,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B48,2758
-119,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B01,2758
-120,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,E94,2760
-121,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,A08,2760
-122,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.2,"Rapport,R","Firouzja,Alireza",1-0,2754,D90,2760
-123,9th Norway Armageddon,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1-0,2760,B01,2792
-124,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2760,D02,2792
-125,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.3,"Rapport,R","Tari,A",1-0,2642,D32,2760
-126,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.2,"Rapport,R","Karjakin,Sergey",1-0,2758,E21,2760
-127,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.1,"Carlsen,M","Rapport,R",1-0,2760,C65,2855
-128,9th Norway Armageddon,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",0-1,2792,A06,2760
-129,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D30,2760
-130,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.2,"Firouzja,Alireza","Rapport,R",1-0,2760,B30,2754
-131,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.1,"Topalov,V","Rapport,R",1-0,2760,A85,2730
-132,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.1,"Rapport,R",Ding Liren,1/2-1/2,2799,A06,2760
-133,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.1,Bu Xiangzhi,"Rapport,R",1/2-1/2,2760,D02,2705
-134,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.1,"Rapport,R",Wei Yi,0-1,2725,A06,2760
-135,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.1,"Vitiugov,N","Rapport,R",1-0,2760,B08,2727
-136,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.1,"Rapport,R","Ju,Wenjun",1/2-1/2,2560,A00,2760
-137,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.1,Yu Yangyi,"Rapport,R",1-0,2760,B08,2704
-138,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Kovalenko,I","Rapport,R",1/2-1/2,2752,C65,2647
-139,Bundesliga 2019-20,Berlin GER,2021.10.14,10.5,"Rapport,R","Vandenbussche,T",1-0,2440,C00,2752
-140,Bundesliga 2019-20,Berlin GER,2021.10.15,12.4,"Bogner,S","Rapport,R",1/2-1/2,2752,C18,2572
-141,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Rapport,R","Krasenkow,M",1/2-1/2,2610,D97,2752
-142,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Rapport,R","Braun,A",1/2-1/2,2600,E21,2752
-143,Bundesliga 2019-20,Berlin GER,2021.10.17,15.4,"Bodrozic,T","Rapport,R",0-1,2752,B30,2363
-144,chess.com Speed 2021,chess.com INT,2021.11.10,1.44,"Rapport,R","Sarana,A",1-0,2656,B00,2763
-145,chess.com Speed 2021,chess.com INT,2021.11.10,1.18,"Sarana,A","Rapport,R",1-0,2763,E61,2656
-146,chess.com Speed 2021,chess.com INT,2021.11.10,1.43,"Sarana,A","Rapport,R",0-1,2763,C10,2656
-147,chess.com Speed 2021,chess.com INT,2021.11.10,1.42,"Rapport,R","Sarana,A",1-0,2656,B51,2763
-148,chess.com Speed 2021,chess.com INT,2021.11.10,1.41,"Sarana,A","Rapport,R",1-0,2763,A45,2656
-149,chess.com Speed 2021,chess.com INT,2021.11.10,1.19,"Rapport,R","Sarana,A",0-1,2656,B23,2763
-150,chess.com Speed 2021,chess.com INT,2021.11.10,1.38,"Rapport,R","Sarana,A",1/2-1/2,2656,C41,2763
-151,chess.com Speed 2021,chess.com INT,2021.11.10,1.37,"Sarana,A","Rapport,R",1/2-1/2,2763,E73,2656
-152,chess.com Speed 2021,chess.com INT,2021.11.10,1.36,"Rapport,R","Sarana,A",1/2-1/2,2656,A00,2763
-153,chess.com Speed 2021,chess.com INT,2021.11.10,1.35,"Sarana,A","Rapport,R",1-0,2763,D15,2656
-154,chess.com Speed 2021,chess.com INT,2021.11.10,1.34,"Rapport,R","Sarana,A",1/2-1/2,2656,C41,2763
-155,chess.com Speed 2021,chess.com INT,2021.11.10,1.33,"Sarana,A","Rapport,R",1-0,2763,B01,2656
-156,chess.com Speed 2021,chess.com INT,2021.11.10,1.32,"Rapport,R","Sarana,A",1-0,2656,B23,2763
-157,chess.com Speed 2021,chess.com INT,2021.11.10,1.31,"Sarana,A","Rapport,R",1-0,2763,E73,2656
-158,chess.com Speed 2021,chess.com INT,2021.11.10,1.29,"Rapport,R","Sarana,A",1-0,2656,B25,2763
-159,chess.com Speed 2021,chess.com INT,2021.11.10,1.11,"Rapport,R","Sarana,A",1/2-1/2,2656,A45,2763
-160,chess.com Speed 2021,chess.com INT,2021.11.10,1.12,"Sarana,A","Rapport,R",0-1,2763,E73,2656
-161,chess.com Speed 2021,chess.com INT,2021.11.10,1.13,"Rapport,R","Sarana,A",0-1,2656,A45,2763
-162,chess.com Speed 2021,chess.com INT,2021.11.10,1.14,"Sarana,A","Rapport,R",1-0,2763,C53,2656
-163,chess.com Speed 2021,chess.com INT,2021.11.10,1.15,"Rapport,R","Sarana,A",1-0,2656,D02,2763
-164,chess.com Speed 2021,chess.com INT,2021.11.10,1.16,"Sarana,A","Rapport,R",0-1,2763,E73,2656
-165,chess.com Speed 2021,chess.com INT,2021.11.10,1.17,"Rapport,R","Sarana,A",1-0,2656,B25,2763
-166,chess.com Speed 2021,chess.com INT,2021.11.10,1.28,"Sarana,A","Rapport,R",0-1,2763,E73,2656
-167,chess.com Speed 2021,chess.com INT,2021.11.10,1.24,"Rapport,R","Sarana,A",0-1,2656,B20,2763
-168,chess.com Speed 2021,chess.com INT,2021.11.10,1.21,"Sarana,A","Rapport,R",0-1,2763,C18,2656
-169,chess.com Speed 2021,chess.com INT,2021.11.10,1.22,"Rapport,R","Sarana,A",0-1,2656,B23,2763
-170,chess.com Speed 2021,chess.com INT,2021.11.10,1.23,"Sarana,A","Rapport,R",1-0,2763,A84,2656
-171,chess.com Speed 2021,chess.com INT,2021.11.10,1.24,"Sarana,A","Rapport,R",0-1,2763,E65,2656
-172,chess.com Speed 2021,chess.com INT,2021.11.10,1.25,"Rapport,R","Sarana,A",1-0,2656,B25,2763
-173,chess.com Speed 2021,chess.com INT,2021.11.10,1.26,"Sarana,A","Rapport,R",1/2-1/2,2763,C15,2656
-174,chess.com Speed 2021,chess.com INT,2021.11.10,1.27,"Rapport,R","Sarana,A",1/2-1/2,2656,B07,2763
-175,chess.com Speed 2021,chess.com INT,2021.12.02,2.33,"Nihal,Sarin","Rapport,R",1/2-1/2,2763,A07,2650
-176,chess.com Speed 2021,chess.com INT,2021.12.02,2.29,"Rapport,R","Nihal,Sarin",0-1,2650,C32,2763
-177,chess.com Speed 2021,chess.com INT,2021.12.02,2.31,"Nihal,Sarin","Rapport,R",1/2-1/2,2763,A05,2650
-178,chess.com Speed 2021,chess.com INT,2021.12.02,2.32,"Rapport,R","Nihal,Sarin",0-1,2650,C48,2763
-179,chess.com Speed 2021,chess.com INT,2021.12.02,2.28,"Nihal,Sarin","Rapport,R",1/2-1/2,2763,C03,2650
-180,chess.com Speed 2021,chess.com INT,2021.12.02,2.27,"Rapport,R","Nihal,Sarin",0-1,2650,D32,2763
-181,chess.com Speed 2021,chess.com INT,2021.12.02,2.34,"Rapport,R","Nihal,Sarin",0-1,2650,C32,2763
-182,chess.com Speed 2021,chess.com INT,2021.12.02,2.35,"Nihal,Sarin","Rapport,R",1-0,2763,A07,2650
-183,chess.com Speed 2021,chess.com INT,2021.12.02,2.36,"Rapport,R","Nihal,Sarin",1-0,2650,B06,2763
-184,chess.com Speed 2021,chess.com INT,2021.12.02,2.37,"Nihal,Sarin","Rapport,R",1-0,2763,A05,2650
-185,chess.com Speed 2021,chess.com INT,2021.12.02,2.39,"Nihal,Sarin","Rapport,R",1-0,2763,A04,2650
-186,chess.com Speed 2021,chess.com INT,2021.12.02,2.38,"Rapport,R","Nihal,Sarin",0-1,2650,C20,2763
-187,chess.com Speed 2021,chess.com INT,2021.12.02,2.310,"Rapport,R","Nihal,Sarin",1/2-1/2,2650,E46,2763
-188,chess.com Speed 2021,chess.com INT,2021.12.02,2.21,"Rapport,R","Nihal,Sarin",1/2-1/2,2650,C28,2763
-189,chess.com Speed 2021,chess.com INT,2021.12.02,2.18,"Nihal,Sarin","Rapport,R",1/2-1/2,2763,A46,2650
-190,chess.com Speed 2021,chess.com INT,2021.12.02,2.14,"Nihal,Sarin","Rapport,R",1-0,2763,A05,2650
-191,chess.com Speed 2021,chess.com INT,2021.12.02,2.15,"Rapport,R","Nihal,Sarin",1/2-1/2,2650,C24,2763
-192,chess.com Speed 2021,chess.com INT,2021.12.02,2.26,"Nihal,Sarin","Rapport,R",0-1,2763,A91,2650
-193,chess.com Speed 2021,chess.com INT,2021.12.02,2.25,"Rapport,R","Nihal,Sarin",1-0,2650,D40,2763
-194,chess.com Speed 2021,chess.com INT,2021.12.02,2.24,"Nihal,Sarin","Rapport,R",1-0,2763,A40,2650
-195,chess.com Speed 2021,chess.com INT,2021.12.02,2.23,"Rapport,R","Nihal,Sarin",0-1,2650,D00,2763
-196,chess.com Speed 2021,chess.com INT,2021.12.02,2.22,"Nihal,Sarin","Rapport,R",1-0,2763,A48,2650
-197,chess.com Speed 2021,chess.com INT,2021.12.02,2.16,"Nihal,Sarin","Rapport,R",1/2-1/2,2763,A05,2650
-198,chess.com Speed 2021,chess.com INT,2021.12.02,2.11,"Rapport,R","Nihal,Sarin",0-1,2650,A45,2763
-199,chess.com Speed 2021,chess.com INT,2021.12.02,2.12,"Nihal,Sarin","Rapport,R",0-1,2763,A46,2650
-200,chess.com Speed 2021,chess.com INT,2021.12.02,2.13,"Rapport,R","Nihal,Sarin",1/2-1/2,2650,C77,2763
-201,chess.com Speed 2021,chess.com INT,2021.12.02,2.17,"Rapport,R","Nihal,Sarin",1/2-1/2,2650,C42,2763
-202,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Karjakin,Sergey","Rapport,R",0-1,2763,C18,2743
-203,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Rapport,R","Karjakin,Sergey",1-0,2743,B51,2763
-204,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Anand,V","Rapport,R",1/2-1/2,2763,C18,2751
-205,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Rapport,R","Anand,V",1-0,2751,C44,2763
-206,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Rapport,R","Caruana,F",1-0,2792,C42,2763
-207,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Caruana,F","Rapport,R",1-0,2763,C18,2792
-208,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.3,"Rapport,R","Caruana,F",0-1,2792,C42,2763
-209,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Rapport,R","Asadli,Vugar",1/2-1/2,2579,B10,2763
-210,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Asadli,Vugar","Rapport,R",0-1,2763,C15,2579
-211,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Rapport,R","Mamedov,Rau",1-0,2656,B67,2763
-212,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Mamedov,Rau","Rapport,R",0-1,2763,C02,2656
-213,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
-214,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,C44,2763
-215,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Rapport,R","Navara,D",1-0,2697,C44,2763
-216,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Navara,D","Rapport,R",1/2-1/2,2763,A84,2697
-217,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.4,"Karjakin,Sergey","Rapport,R",0-1,2763,E94,2743
-218,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.2,"Rapport,R","Anand,V",1-0,2751,C44,2763
-219,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.2,"Caruana,F","Rapport,R",1/2-1/2,2763,A40,2792
-220,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.2,"Rapport,R","Asadli,Vugar",1-0,2579,B15,2763
-221,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.2,"Mamedov,Rau","Rapport,R",0-1,2763,C03,2656
-222,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.3,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
-223,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.2,"Rapport,R","Navara,D",0-1,2697,C44,2763
-224,7th Gashimov Mem TB,Baku AZE,2021.12.23,1,"Caruana,F","Rapport,R",1-0,2763,A40,2792
-225,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.2,"Rapport,R","Karjakin,Sergey",1/2-1/2,2743,C84,2763
-226,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.3,"Anand,V","Rapport,R",1/2-1/2,2763,C10,2751
-227,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.3,"Rapport,R","Caruana,F",1/2-1/2,2792,C47,2763
-228,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.3,"Asadli,Vugar","Rapport,R",1/2-1/2,2763,C02,2579
-229,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.3,"Rapport,R","Mamedov,Rau",0-1,2656,B30,2763
-230,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.3,"Navara,D","Rapport,R",0-1,2763,A40,2697
-231,World Rapid 2021,Warsaw POL,2021.12.26,1.10,"Moroni,L","Rapport,R",0-1,2763,A91,2575
-232,World Rapid 2021,Warsaw POL,2021.12.26,2.7,"Rapport,R","Bartel,Mat",1-0,2616,C02,2763
-233,World Rapid 2021,Warsaw POL,2021.12.26,3.5,"Gareev,T","Rapport,R",1-0,2763,A84,2573
-234,World Rapid 2021,Warsaw POL,2021.12.26,4.15,"Rapport,R","Van Foreest,Jorden",1/2-1/2,2702,C44,2763
-235,World Rapid 2021,Warsaw POL,2021.12.26,5.16,"Rapport,R","Muradli,Mahammad",1-0,2503,B23,2763
-236,World Rapid 2021,Warsaw POL,2021.12.27,6.12,"Matlakov,M","Rapport,R",1/2-1/2,2763,E60,2674
-237,World Rapid 2021,Warsaw POL,2021.12.27,7.10,"Rapport,R","Dreev,A",1-0,2623,B13,2763
-238,World Rapid 2021,Warsaw POL,2021.12.27,8.8,"Anton Guijarro,D","Rapport,R",1/2-1/2,2763,E92,2693
-239,World Rapid 2021,Warsaw POL,2021.12.27,9.8,"Rapport,R","Amin,B",0-1,2680,C44,2763
-240,World Rapid 2021,Warsaw POL,2021.12.28,10.13,"Rapport,R","Volokitin,And",1/2-1/2,2677,B50,2763
-241,World Rapid 2021,Warsaw POL,2021.12.28,11.16,"Predke,A","Rapport,R",0-1,2763,E61,2682
-242,World Rapid 2021,Warsaw POL,2021.12.28,12.11,"Hovhannisyan,R","Rapport,R",0-1,2763,C18,2643
-243,World Rapid 2021,Warsaw POL,2021.12.28,13.7,"Rapport,R","Shevchenko,Kirill",1-0,2655,B50,2763
-244,World Blitz 2021,Warsaw POL,2021.12.29,1.13,"Jumabayev,R","Rapport,R",1/2-1/2,2763,A48,2631
-245,World Blitz 2021,Warsaw POL,2021.12.29,2.41,"Rapport,R","Yuffa,D",1-0,2567,B04,2763
-246,World Blitz 2021,Warsaw POL,2021.12.29,3.20,"Dudin,Gleb","Rapport,R",1-0,2763,E73,2474
-247,World Blitz 2021,Warsaw POL,2021.12.29,4.33,"Rapport,R","Holm,Kristian Stuvik",1-0,2464,B24,2763
-248,World Blitz 2021,Warsaw POL,2021.12.29,5.20,"Demidov,M","Rapport,R",1-0,2763,A46,2556
-249,World Blitz 2021,Warsaw POL,2021.12.29,6.41,"Rapport,R","Demchenko,A",1-0,2654,C44,2763
-250,World Blitz 2021,Warsaw POL,2021.12.29,7.25,"Harsha,B","Rapport,R",1-0,2763,E92,2489
-251,World Blitz 2021,Warsaw POL,2021.12.29,8.39,"Rapport,R","Mikhalevski,V",1-0,2562,C44,2763
-252,World Blitz 2021,Warsaw POL,2021.12.29,9.27,"Indjic,A","Rapport,R",0-1,2763,A40,2623
-253,World Blitz 2021,Warsaw POL,2021.12.29,10.18,"Rapport,R","Cheparinov,I",1-0,2664,C44,2763
-254,World Blitz 2021,Warsaw POL,2021.12.29,11.15,"Moroni,L","Rapport,R",1-0,2763,A84,2575
-255,World Blitz 2021,Warsaw POL,2021.12.29,12.19,"Rapport,R","Sanal,V",1/2-1/2,2601,C44,2763
-256,World Blitz 2021,Warsaw POL,2021.12.30,13.20,"Michalik,P","Rapport,R",1-0,2763,B72,2568
-257,World Blitz 2021,Warsaw POL,2021.12.30,14.31,"Rapport,R","Sadhwani,Raunak",1-0,2616,C44,2763
-258,World Blitz 2021,Warsaw POL,2021.12.30,15.21,"Asadli,Vugar","Rapport,R",1-0,2763,B23,2579
-259,World Blitz 2021,Warsaw POL,2021.12.30,16.31,"Rapport,R","Santos Latasa,J",0-1,2639,C44,2763
-260,World Blitz 2021,Warsaw POL,2021.12.30,17.41,"Matlakov,M","Rapport,R",1-0,2763,A46,2674
-261,World Blitz 2021,Warsaw POL,2021.12.30,18.50,"Rapport,R","Mitrabha,G",1-0,2509,B15,2763
-262,World Blitz 2021,Warsaw POL,2021.12.30,19.42,"Tazbir,M","Rapport,R",1-0,2763,A30,2508
-263,World Blitz 2021,Warsaw POL,2021.12.30,20.51,"Rapport,R","Kadric,D",1-0,2572,B00,2763
-264,World Blitz 2021,Warsaw POL,2021.12.30,21.42,"Saric,Iv","Rapport,R",0-1,2763,B70,2669
-265,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.5,"Duda,J","Rapport,R",1-0,2763,D02,2760
-266,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.4,"Rapport,R","Van Foreest,Jorden",1-0,2702,D11,2763
-267,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.7,"Grandelius,N","Rapport,R",0-1,2763,B47,2672
-268,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.4,"Shankland,S","Rapport,R",1/2-1/2,2763,C43,2708
-269,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.5,"Rapport,R","Praggnanandhaa,R",1-0,2612,E32,2763
-270,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.1,"Carlsen,M","Rapport,R",1-0,2763,E04,2865
-271,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,B40,2763
-272,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.4,"Karjakin,Sergey","Rapport,R",1/2-1/2,2763,C02,2743
-273,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.2,"Rapport,R","Vidit,S",1/2-1/2,2727,A45,2763
-274,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.5,"Caruana,F","Rapport,R",0-1,2763,A19,2792
-275,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.2,"Esipenko,Andrey","Rapport,R",1/2-1/2,2763,C65,2714
-276,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.04,1.2,"Wojtaszek,R","Rapport,R",1-0,2763,A40,2686
-277,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.05,2.2,"Rapport,R","Fedoseev,Vl3",1-0,2704,E32,2763
-278,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.06,3.1,"Oparin,G","Rapport,R",1/2-1/2,2763,B63,2681
-279,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.07,4.2,"Rapport,R","Wojtaszek,R",1/2-1/2,2686,E00,2763
-280,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.09,5.1,"Rapport,R","Oparin,G",1/2-1/2,2681,D40,2763
-281,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.10,6.2,"Fedoseev,Vl3","Rapport,R",0-1,2763,D02,2704
-282,FIDE GP 1 Pool B TB,Berlin GER,2022.02.11,1,"Wojtaszek,R","Rapport,R",0-1,2763,A41,2686
-283,FIDE GP 1 Pool B TB,Berlin GER,2022.02.11,2,"Rapport,R","Wojtaszek,R",1/2-1/2,2686,B51,2763
-284,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.2,"Rapport,R","Nakamura,Hi",1/2-1/2,2736,A07,2763
-285,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.1,"Nakamura,Hi","Rapport,R",1-0,2763,D36,2736
-286,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.01,1.1,"Rapport,R","Fedoseev,Vl3",1/2-1/2,2704,E32,2763
-287,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.02,2.2,"Shirov,A","Rapport,R",1/2-1/2,2763,C43,2704
-288,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.03,3.2,"Rapport,R","Vidit,S",1-0,2727,E48,2763
-289,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.04,4.1,"Fedoseev,Vl3","Rapport,R",1/2-1/2,2763,C42,2704
-290,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.06,5.2,"Vidit,S","Rapport,R",0-1,2763,C02,2727
-291,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.07,6.2,"Rapport,R","Shirov,A",1/2-1/2,2704,A33,2763
-292,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.09,1.1,"Rapport,R","Vachier Lagrave,M",1-0,2761,D87,2762
-293,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.10,1.2,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2762,C72,2761
-294,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.12,2.1,"Andreikin,D","Rapport,R",1/2-1/2,2762,C47,2724
-295,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.13,2.2,"Rapport,R","Andreikin,D",1-0,2724,D31,2762
-296,Charity Cup Prelim,chess24.com INT,2022.03.19,1.5,"Rapport,R","Ju,Wenjun",1-0,2560,C44,2762
-297,Charity Cup Prelim,chess24.com INT,2022.03.19,2.5,"Vidit,S","Rapport,R",1-0,2762,C97,2723
-298,Charity Cup Prelim,chess24.com INT,2022.03.19,3.4,"Rapport,R","Duda,J",1/2-1/2,2750,C44,2762
-299,Charity Cup Prelim,chess24.com INT,2022.03.19,4.6,"Harikrishna,P","Rapport,R",1/2-1/2,2762,C99,2716
-300,Charity Cup Prelim,chess24.com INT,2022.03.20,5.3,"Rapport,R","Hansen,Eric",1-0,2606,A00,2762
-301,Charity Cup Prelim,chess24.com INT,2022.03.20,6.7,Ding Liren,"Rapport,R",0-1,2762,A41,2799
-302,Charity Cup Prelim,chess24.com INT,2022.03.20,7.2,"Rapport,R","Carlsen,M",0-1,2864,B24,2762
-303,Charity Cup Prelim,chess24.com INT,2022.03.20,8.8,"Navara,D","Rapport,R",1/2-1/2,2762,A95,2700
-304,Charity Cup Prelim,chess24.com INT,2022.03.21,9.1,"Rapport,R","Niemann,Hans Moke",1-0,2642,C44,2762
-305,Charity Cup Prelim,chess24.com INT,2022.03.21,10.8,"Rapport,R","Lei,Tingjie",1-0,2535,C44,2762
-306,Charity Cup Prelim,chess24.com INT,2022.03.21,11.2,"Praggnanandhaa,R","Rapport,R",1/2-1/2,2762,A40,2619
-307,Charity Cup Prelim,chess24.com INT,2022.03.21,12.7,"Rapport,R","Van Foreest,Jorden",0-1,2714,C44,2762
-308,Charity Cup Prelim,chess24.com INT,2022.03.22,13.3,"Anton Guijarro,D","Rapport,R",1-0,2762,B00,2694
-309,Charity Cup Prelim,chess24.com INT,2022.03.22,14.6,"Rapport,R","Jones,G",1/2-1/2,2672,A01,2762
-310,Charity Cup Prelim,chess24.com INT,2022.03.22,15.4,"Le, Quang Liem","Rapport,R",1/2-1/2,2762,E92,2709
-311,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.2,"Aronian,L","Rapport,R",1/2-1/2,2776,D17,2765
-312,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.4,"Mamedyarov,S","Rapport,R",1/2-1/2,2776,C10,2759
-313,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.3,"Rapport,R","Deac,Bogdan-Daniel",0-1,2671,E46,2776
-314,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2776,B45,2804
-315,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.5,"Rapport,R","Dominguez Perez,L",1/2-1/2,2753,C20,2776
-316,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.1,"So,W","Rapport,R",1/2-1/2,2776,D45,2776
-317,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.5,"Rapport,R","Vachier Lagrave,M",0-1,2750,D26,2776
-318,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.4,"Caruana,F","Rapport,R",1/2-1/2,2776,B40,2786
-319,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.5,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2773,E32,2776
-320,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.3,"Shevchenko,Kirill","Rapport,R",0-1,2776,C02,2644
-321,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.3,"Rapport,R","Aronian,L",1/2-1/2,2765,B50,2776
-322,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.4,"Duda,J","Rapport,R",1-0,2776,E98,2750
-323,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.2,"Rapport,R","Gavrilescu,David",1-0,2518,C00,2776
-324,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.5,"Caruana,F","Rapport,R",0-1,2776,C18,2786
-325,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.1,"Korobov,A","Rapport,R",0-1,2776,E94,2671
-326,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.5,"Rapport,R","Wojtaszek,R",1-0,2696,B50,2776
-327,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.2,"So,W","Rapport,R",1-0,2776,E94,2776
-328,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.4,"Rapport,R","Anand,V",1-0,2751,C46,2776
-329,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.5,"Caruana,F","Rapport,R",1-0,2776,E73,2786
-330,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.1,"Aronian,L","Rapport,R",1-0,2776,E73,2765
-331,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.5,"Rapport,R","Wojtaszek,R",0-1,2696,B23,2776
-332,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.2,"Duda,J","Rapport,R",1/2-1/2,2776,A61,2750
-333,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.4,"Rapport,R","Korobov,A",1-0,2671,B23,2776
-334,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.3,"Gavrilescu,David","Rapport,R",0-1,2776,B51,2518
-335,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.3,"Rapport,R","Shevchenko,Kirill",1/2-1/2,2644,B23,2776
-336,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.4,"Anand,V","Rapport,R",1/2-1/2,2776,B51,2751
-337,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.2,"Rapport,R","So,W",0-1,2776,C46,2776
-338,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.5,"Rapport,R","Caruana,F",0-1,2786,B23,2776
-339,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.1,"Rapport,R","Aronian,L",0-1,2765,B78,2776
-340,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.5,"Wojtaszek,R","Rapport,R",0-1,2776,A70,2696
-341,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.2,"Rapport,R","Duda,J",0-1,2750,C46,2776
-342,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.4,"Korobov,A","Rapport,R",1-0,2776,A61,2671
-343,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.3,"Rapport,R","Gavrilescu,David",1-0,2518,A00,2776
-344,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.3,"Shevchenko,Kirill","Rapport,R",0-1,2776,B22,2644
-345,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.4,"Rapport,R","Anand,V",0-1,2751,C44,2776
-346,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.2,"So,W","Rapport,R",1-0,2776,A40,2776
-347,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.1,"Duda,J","Rapport,R",1/2-1/2,2764,B44,2750
-348,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.1,"Rapport,R","Firouzja,Alireza",1/2-1/2,2793,B53,2764
-349,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.1,Ding Liren,"Rapport,R",1/2-1/2,2764,D86,2806
-350,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.1,"Rapport,R","Nakamura,Hi",1/2-1/2,2760,C65,2764
-351,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.1,"Caruana,F","Rapport,R",1/2-1/2,2764,B46,2783
-352,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.1,"Radjabov,T","Rapport,R",1/2-1/2,2764,B46,2753
-353,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.1,"Rapport,R","Nepomniachtchi,I",0-1,2766,C42,2764
-354,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.1,"Rapport,R","Duda,J",1-0,2750,C46,2764
-355,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.1,"Firouzja,Alireza","Rapport,R",1-0,2764,C65,2793
-356,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.1,"Rapport,R",Ding Liren,0-1,2806,C77,2764
-357,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2764,B33,2760
-358,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.1,"Rapport,R","Caruana,F",1/2-1/2,2783,C65,2764
-359,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2764,B67,2766
-360,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.1,"Rapport,R","Radjabov,T",0-1,2753,C65,2764
-361,Bundesliga 2021-22,Berlin GER,2022.07.07,11.7,"Rapport,R","Svane,R",1/2-1/2,2637,C77,2762
-362,Bundesliga 2021-22,Berlin GER,2022.07.08,12.7,"Rapport,R","Bjerre,Jonas Buhl",1-0,2601,C20,2762
-363,Bundesliga 2021-22,Berlin GER,2022.07.09,13.7,"Rapport,R","Bluebaum,M",1/2-1/2,2642,C42,2762
-364,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Rapport,R","Kryvoruchko,Y",1-0,2683,A07,2762
-365,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,1.3,"Dominguez Perez,L","Rapport,R",1/2-1/2,2764,B60,2754
-366,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,2.6,"Rapport,R","Duda,J",1/2-1/2,2750,C42,2764
-367,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,3.4,"Mamedyarov,S","Rapport,R",1-0,2764,E61,2759
-368,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,4.5,"Rapport,R","Erigaisi,Arjun",1-0,2689,C50,2764
-369,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,5.5,"Ju,Wenjun","Rapport,R",1-0,2764,E16,2560
-370,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,6.4,"Rapport,R","Giri,A",1/2-1/2,2760,B20,2764
-371,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,7.6,"Xiong,Jeffery","Rapport,R",0-1,2764,B51,2691
-372,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,8.3,"Rapport,R","Tari,A",1-0,2672,A03,2764
-373,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,9.7,"Sevian,Samuel","Rapport,R",1/2-1/2,2764,B60,2684
-374,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,10.2,"Rapport,R","Aronian,L",1/2-1/2,2775,B23,2764
-375,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,12.1,"Niemann,Hans Moke","Rapport,R",0-1,2764,B51,2688
-376,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,13.8,"Rapport,R","Wojtaszek,R",1/2-1/2,2708,B23,2764
-377,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,14.2,"Shankland,S","Rapport,R",0-1,2764,B61,2720
-378,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,15.7,"Rapport,R",Wei Yi,1-0,2727,B51,2764
-379,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.14,"Rapport,R","Xiong,Jeffery",1/2-1/2,2691,B50,2764
-380,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.13,"Xiong,Jeffery","Rapport,R",0-1,2764,E16,2691
-381,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.12,"Rapport,R","Xiong,Jeffery",0-1,2691,B50,2764
-382,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.21,"Xiong,Jeffery","Rapport,R",0-1,2764,E73,2691
-383,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.22,"Rapport,R","Xiong,Jeffery",1-0,2691,B15,2764
-384,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.11,"Xiong,Jeffery","Rapport,R",1/2-1/2,2764,A50,2691
-385,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.12,"Rapport,R",Wei Yi,0-1,2727,B51,2764
-386,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.11,Wei Yi,"Rapport,R",1/2-1/2,2764,B42,2727
-387,?,?,????.??.??,?,?,?,1-0,,,
+11,TCh-AUT 2021,Austria AUT,2021.01.22,1.1,"Shengelia,D","Rapport,R",0-1,2759,D35,2543
+12,TCh-AUT 2021,Austria AUT,2021.01.23,2.2,"Rapport,R","Markus,Rob",1-0,2592,A53,2759
+13,TCh-AUT 2021,Austria AUT,2021.01.23,3.2,"Dragnev,Valentin","Rapport,R",1/2-1/2,2759,B08,2564
+14,TCh-AUT 2021,Austria AUT,2021.01.24,4.1,"Rapport,R","Horvath,Dominik",1-0,2446,E60,2759
+15,TCh-AUT 2021,Austria AUT,2021.03.12,5.3,"Haba,P","Rapport,R",0-1,2759,C02,2439
+16,TCh-AUT 2021,Austria AUT,2021.03.14,7.3,"Rapport,R","Abasov,N",1/2-1/2,2668,B25,2759
+17,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.5,"Bacrot,E","Rapport,R",1-0,2763,B10,2678
+18,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.1,"So,W","Rapport,R",1-0,2763,E41,2770
+19,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.4,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,A05,2763
+20,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.2,"Aronian,L","Rapport,R",1/2-1/2,2763,A47,2781
+21,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,D02,2763
+22,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2763,B45,2759
+23,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.3,"Rapport,R","Svidler,P",1-0,2714,E60,2763
+24,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.4,"Radjabov,T","Rapport,R",1/2-1/2,2763,E12,2765
+25,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.2,"Rapport,R","Caruana,F",1/2-1/2,2820,A08,2763
+26,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2763,B40,2792
+27,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.1,"Rapport,R","Aronian,L",1/2-1/2,2781,A07,2763
+28,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.1,"Caruana,F","Rapport,R",1/2-1/2,2763,B40,2820
+29,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.1,"Rapport,R","Kramnik,V",1-0,2753,A05,2763
+30,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.1,"Radjabov,T","Rapport,R",1/2-1/2,2763,A15,2765
+31,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.1,"Rapport,R","Firouzja,Alireza",0-1,2759,A04,2763
+32,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.1,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2763,C02,2760
+33,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.1,"Rapport,R","So,W",1/2-1/2,2770,A07,2763
+34,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.1,"Svidler,P","Rapport,R",1-0,2763,B40,2714
+35,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.1,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D38,2763
+36,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.1,"Aronian,L","Rapport,R",1-0,2763,A48,2781
+37,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.1,"Rapport,R","Caruana,F",1-0,2820,A08,2763
+38,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.1,"Kramnik,V","Rapport,R",1/2-1/2,2763,B40,2753
+39,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.1,"Rapport,R","Radjabov,T",1-0,2765,A07,2763
+40,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.1,"Firouzja,Alireza","Rapport,R",0-1,2763,B40,2759
+41,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.1,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,A15,2763
+42,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.1,"Rapport,R","Svidler,P",1/2-1/2,2714,A04,2763
+43,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.1,"Shankland,S","Rapport,R",0-1,2763,E06,2709
+44,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.1,"Rapport,R","Nakamura,Hi",1/2-1/2,2736,E32,2763
+45,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.1,"Dominguez Perez,L","Rapport,R",1-0,2763,C53,2758
+46,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.5,"Rapport,R","Svidler,P",1/2-1/2,2714,A20,2763
+47,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.4,"So,W","Rapport,R",1/2-1/2,2763,C50,2772
+48,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.3,"Rapport,R","Le, Quang Liem",1/2-1/2,2709,A07,2763
+49,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.2,"Caruana,F","Rapport,R",0-1,2763,B40,2806
+50,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.3,"Rapport,R","Xiong,Jeffery",1-0,2710,A07,2763
+51,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.5,"Mamedyarov,S","Rapport,R",1/2-1/2,2763,E17,2782
+52,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.1,"Xiong,Jeffery","Rapport,R",1-0,2763,A47,2710
+53,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.4,"Rapport,R","Shankland,S",1/2-1/2,2709,A07,2763
+54,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.2,"So,W","Rapport,R",1/2-1/2,2763,C53,2772
+55,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.2,"Rapport,R","Svidler,P",0-1,2714,A04,2763
+56,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.4,"Dominguez Perez,L","Rapport,R",0-1,2763,C53,2758
+57,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.1,"Rapport,R","Mamedyarov,S",1/2-1/2,2782,A15,2763
+58,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.5,"Le, Quang Liem","Rapport,R",1-0,2763,A47,2709
+59,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.4,"Rapport,R","Caruana,F",1/2-1/2,2806,A08,2763
+60,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2763,E32,2736
+61,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.3,"Rapport,R","Xiong,Jeffery",1/2-1/2,2710,A04,2763
+62,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.2,"Shankland,S","Rapport,R",0-1,2763,E92,2709
+63,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.1,"Svidler,P","Rapport,R",0-1,2763,B01,2714
+64,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.3,"Rapport,R","Dominguez Perez,L",0-1,2758,A05,2763
+65,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.3,"Mamedyarov,S","Rapport,R",0-1,2763,E61,2782
+66,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.2,"Rapport,R","Le, Quang Liem",0-1,2709,A07,2763
+67,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.2,"Caruana,F","Rapport,R",1/2-1/2,2763,E19,2806
+68,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.3,"Xiong,Jeffery","Rapport,R",1/2-1/2,2763,E38,2710
+69,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2751,A04,2763
+70,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.2,"Mamedyarov,S","Rapport,R",1-0,2763,D49,2782
+71,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.3,"Rapport,R","Svidler,P",1-0,2714,A07,2763
+72,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.5,"So,W","Rapport,R",1/2-1/2,2763,C67,2772
+73,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.4,"Shankland,S","Rapport,R",1/2-1/2,2763,C45,2709
+74,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.1,"Rapport,R","Dominguez Perez,L",1/2-1/2,2758,D23,2763
+75,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.3,"Swiercz,D","Rapport,R",1/2-1/2,2763,D02,2655
+76,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.26,9.5,"Rapport,R","Caruana,F",1/2-1/2,2806,B44,2763
+77,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.2,"Tari,A","Rapport,R",0-1,2760,C15,2642
+78,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B48,2758
+79,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.3,"Karjakin,Sergey","Rapport,R",1/2-1/2,2760,B01,2758
+80,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,E94,2760
+81,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,A08,2760
+82,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.2,"Rapport,R","Firouzja,Alireza",1-0,2754,D90,2760
+83,9th Norway Armageddon,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1-0,2760,B01,2792
+84,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.2,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2760,D02,2792
+85,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.3,"Rapport,R","Tari,A",1-0,2642,D32,2760
+86,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.2,"Rapport,R","Karjakin,Sergey",1-0,2758,E21,2760
+87,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.1,"Carlsen,M","Rapport,R",1-0,2760,C65,2855
+88,9th Norway Armageddon,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",0-1,2792,A06,2760
+89,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.2,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2792,D30,2760
+90,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.2,"Firouzja,Alireza","Rapport,R",1-0,2760,B30,2754
+91,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Kovalenko,I","Rapport,R",1/2-1/2,2752,C65,2647
+92,Bundesliga 2019-20,Berlin GER,2021.10.14,10.5,"Rapport,R","Vandenbussche,T",1-0,2440,C00,2752
+93,Bundesliga 2019-20,Berlin GER,2021.10.15,12.4,"Bogner,S","Rapport,R",1/2-1/2,2752,C18,2572
+94,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Rapport,R","Krasenkow,M",1/2-1/2,2610,D97,2752
+95,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Rapport,R","Braun,A",1/2-1/2,2600,E21,2752
+96,Bundesliga 2019-20,Berlin GER,2021.10.17,15.4,"Bodrozic,T","Rapport,R",0-1,2752,B30,2363
+97,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Karjakin,Sergey","Rapport,R",0-1,2763,C18,2743
+98,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Rapport,R","Karjakin,Sergey",1-0,2743,B51,2763
+99,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Anand,V","Rapport,R",1/2-1/2,2763,C18,2751
+100,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Rapport,R","Anand,V",1-0,2751,C44,2763
+101,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Rapport,R","Caruana,F",1-0,2792,C42,2763
+102,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Caruana,F","Rapport,R",1-0,2763,C18,2792
+103,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.3,"Rapport,R","Caruana,F",0-1,2792,C42,2763
+104,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Rapport,R","Asadli,Vugar",1/2-1/2,2579,B10,2763
+105,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Asadli,Vugar","Rapport,R",0-1,2763,C15,2579
+106,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Rapport,R","Mamedov,Rau",1-0,2656,B67,2763
+107,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Mamedov,Rau","Rapport,R",0-1,2763,C02,2656
+108,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
+109,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,C44,2763
+110,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Rapport,R","Navara,D",1-0,2697,C44,2763
+111,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Navara,D","Rapport,R",1/2-1/2,2763,A84,2697
+112,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.4,"Karjakin,Sergey","Rapport,R",0-1,2763,E94,2743
+113,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.2,"Rapport,R","Anand,V",1-0,2751,C44,2763
+114,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.2,"Caruana,F","Rapport,R",1/2-1/2,2763,A40,2792
+115,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.2,"Rapport,R","Asadli,Vugar",1-0,2579,B15,2763
+116,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.2,"Mamedov,Rau","Rapport,R",0-1,2763,C03,2656
+117,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.3,"Mamedyarov,S","Rapport,R",1-0,2763,E63,2767
+118,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.2,"Rapport,R","Navara,D",0-1,2697,C44,2763
+119,7th Gashimov Mem TB,Baku AZE,2021.12.23,1,"Caruana,F","Rapport,R",1-0,2763,A40,2792
+120,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.2,"Rapport,R","Karjakin,Sergey",1/2-1/2,2743,C84,2763
+121,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.3,"Anand,V","Rapport,R",1/2-1/2,2763,C10,2751
+122,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.3,"Rapport,R","Caruana,F",1/2-1/2,2792,C47,2763
+123,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.3,"Asadli,Vugar","Rapport,R",1/2-1/2,2763,C02,2579
+124,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.3,"Rapport,R","Mamedov,Rau",0-1,2656,B30,2763
+125,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.3,"Navara,D","Rapport,R",0-1,2763,A40,2697
+126,World Rapid 2021,Warsaw POL,2021.12.26,1.10,"Moroni,L","Rapport,R",0-1,2763,A91,2575
+127,World Rapid 2021,Warsaw POL,2021.12.26,2.7,"Rapport,R","Bartel,Mat",1-0,2616,C02,2763
+128,World Rapid 2021,Warsaw POL,2021.12.26,3.5,"Gareev,T","Rapport,R",1-0,2763,A84,2573
+129,World Rapid 2021,Warsaw POL,2021.12.26,4.15,"Rapport,R","Van Foreest,Jorden",1/2-1/2,2702,C44,2763
+130,World Rapid 2021,Warsaw POL,2021.12.26,5.16,"Rapport,R","Muradli,Mahammad",1-0,2503,B23,2763
+131,World Rapid 2021,Warsaw POL,2021.12.27,6.12,"Matlakov,M","Rapport,R",1/2-1/2,2763,E60,2674
+132,World Rapid 2021,Warsaw POL,2021.12.27,7.10,"Rapport,R","Dreev,A",1-0,2623,B13,2763
+133,World Rapid 2021,Warsaw POL,2021.12.27,8.8,"Anton Guijarro,D","Rapport,R",1/2-1/2,2763,E92,2693
+134,World Rapid 2021,Warsaw POL,2021.12.27,9.8,"Rapport,R","Amin,B",0-1,2680,C44,2763
+135,World Rapid 2021,Warsaw POL,2021.12.28,10.13,"Rapport,R","Volokitin,And",1/2-1/2,2677,B50,2763
+136,World Rapid 2021,Warsaw POL,2021.12.28,11.16,"Predke,A","Rapport,R",0-1,2763,E61,2682
+137,World Rapid 2021,Warsaw POL,2021.12.28,12.11,"Hovhannisyan,R","Rapport,R",0-1,2763,C18,2643
+138,World Rapid 2021,Warsaw POL,2021.12.28,13.7,"Rapport,R","Shevchenko,Kirill",1-0,2655,B50,2763
+139,World Blitz 2021,Warsaw POL,2021.12.29,1.13,"Jumabayev,R","Rapport,R",1/2-1/2,2763,A48,2631
+140,World Blitz 2021,Warsaw POL,2021.12.29,2.41,"Rapport,R","Yuffa,D",1-0,2567,B04,2763
+141,World Blitz 2021,Warsaw POL,2021.12.29,3.20,"Dudin,Gleb","Rapport,R",1-0,2763,E73,2474
+142,World Blitz 2021,Warsaw POL,2021.12.29,4.33,"Rapport,R","Holm,Kristian Stuvik",1-0,2464,B24,2763
+143,World Blitz 2021,Warsaw POL,2021.12.29,5.20,"Demidov,M","Rapport,R",1-0,2763,A46,2556
+144,World Blitz 2021,Warsaw POL,2021.12.29,6.41,"Rapport,R","Demchenko,A",1-0,2654,C44,2763
+145,World Blitz 2021,Warsaw POL,2021.12.29,7.25,"Harsha,B","Rapport,R",1-0,2763,E92,2489
+146,World Blitz 2021,Warsaw POL,2021.12.29,8.39,"Rapport,R","Mikhalevski,V",1-0,2562,C44,2763
+147,World Blitz 2021,Warsaw POL,2021.12.29,9.27,"Indjic,A","Rapport,R",0-1,2763,A40,2623
+148,World Blitz 2021,Warsaw POL,2021.12.29,10.18,"Rapport,R","Cheparinov,I",1-0,2664,C44,2763
+149,World Blitz 2021,Warsaw POL,2021.12.29,11.15,"Moroni,L","Rapport,R",1-0,2763,A84,2575
+150,World Blitz 2021,Warsaw POL,2021.12.29,12.19,"Rapport,R","Sanal,V",1/2-1/2,2601,C44,2763
+151,World Blitz 2021,Warsaw POL,2021.12.30,13.20,"Michalik,P","Rapport,R",1-0,2763,B72,2568
+152,World Blitz 2021,Warsaw POL,2021.12.30,14.31,"Rapport,R","Sadhwani,Raunak",1-0,2616,C44,2763
+153,World Blitz 2021,Warsaw POL,2021.12.30,15.21,"Asadli,Vugar","Rapport,R",1-0,2763,B23,2579
+154,World Blitz 2021,Warsaw POL,2021.12.30,16.31,"Rapport,R","Santos Latasa,J",0-1,2639,C44,2763
+155,World Blitz 2021,Warsaw POL,2021.12.30,17.41,"Matlakov,M","Rapport,R",1-0,2763,A46,2674
+156,World Blitz 2021,Warsaw POL,2021.12.30,18.50,"Rapport,R","Mitrabha,G",1-0,2509,B15,2763
+157,World Blitz 2021,Warsaw POL,2021.12.30,19.42,"Tazbir,M","Rapport,R",1-0,2763,A30,2508
+158,World Blitz 2021,Warsaw POL,2021.12.30,20.51,"Rapport,R","Kadric,D",1-0,2572,B00,2763
+159,World Blitz 2021,Warsaw POL,2021.12.30,21.42,"Saric,Iv","Rapport,R",0-1,2763,B70,2669
+160,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.5,"Duda,J","Rapport,R",1-0,2763,D02,2760
+161,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.4,"Rapport,R","Van Foreest,Jorden",1-0,2702,D11,2763
+162,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.7,"Grandelius,N","Rapport,R",0-1,2763,B47,2672
+163,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.4,"Shankland,S","Rapport,R",1/2-1/2,2763,C43,2708
+164,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.5,"Rapport,R","Praggnanandhaa,R",1-0,2612,E32,2763
+165,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.1,"Carlsen,M","Rapport,R",1-0,2763,E04,2865
+166,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.2,"Rapport,R","Mamedyarov,S",1/2-1/2,2767,B40,2763
+167,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.4,"Karjakin,Sergey","Rapport,R",1/2-1/2,2763,C02,2743
+168,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.2,"Rapport,R","Vidit,S",1/2-1/2,2727,A45,2763
+169,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.5,"Caruana,F","Rapport,R",0-1,2763,A19,2792
+170,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.2,"Esipenko,Andrey","Rapport,R",1/2-1/2,2763,C65,2714
+171,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.04,1.2,"Wojtaszek,R","Rapport,R",1-0,2763,A40,2686
+172,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.05,2.2,"Rapport,R","Fedoseev,Vl3",1-0,2704,E32,2763
+173,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.06,3.1,"Oparin,G","Rapport,R",1/2-1/2,2763,B63,2681
+174,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.07,4.2,"Rapport,R","Wojtaszek,R",1/2-1/2,2686,E00,2763
+175,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.09,5.1,"Rapport,R","Oparin,G",1/2-1/2,2681,D40,2763
+176,FIDE Grand Prix 1 Pool B,Berlin GER,2022.02.10,6.2,"Fedoseev,Vl3","Rapport,R",0-1,2763,D02,2704
+177,FIDE GP 1 Pool B TB,Berlin GER,2022.02.11,1,"Wojtaszek,R","Rapport,R",0-1,2763,A41,2686
+178,FIDE GP 1 Pool B TB,Berlin GER,2022.02.11,2,"Rapport,R","Wojtaszek,R",1/2-1/2,2686,B51,2763
+179,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.2,"Rapport,R","Nakamura,Hi",1/2-1/2,2736,A07,2763
+180,FIDE Grand Prix 1 Playoff,Berlin GER,2022.02.14,1.1,"Nakamura,Hi","Rapport,R",1-0,2763,D36,2736
+181,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.01,1.1,"Rapport,R","Fedoseev,Vl3",1/2-1/2,2704,E32,2763
+182,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.02,2.2,"Shirov,A","Rapport,R",1/2-1/2,2763,C43,2704
+183,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.03,3.2,"Rapport,R","Vidit,S",1-0,2727,E48,2763
+184,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.04,4.1,"Fedoseev,Vl3","Rapport,R",1/2-1/2,2763,C42,2704
+185,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.06,5.2,"Vidit,S","Rapport,R",0-1,2763,C02,2727
+186,FIDE Grand Prix 2 Pool C,Belgrade SRB,2022.03.07,6.2,"Rapport,R","Shirov,A",1/2-1/2,2704,A33,2763
+187,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.09,1.1,"Rapport,R","Vachier Lagrave,M",1-0,2761,D87,2762
+188,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.10,1.2,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2762,C72,2761
+189,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.12,2.1,"Andreikin,D","Rapport,R",1/2-1/2,2762,C47,2724
+190,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.13,2.2,"Rapport,R","Andreikin,D",1-0,2724,D31,2762
+191,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.2,"Aronian,L","Rapport,R",1/2-1/2,2776,D17,2765
+192,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.4,"Mamedyarov,S","Rapport,R",1/2-1/2,2776,C10,2759
+193,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.3,"Rapport,R","Deac,Bogdan-Daniel",0-1,2671,E46,2776
+194,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2776,B45,2804
+195,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.5,"Rapport,R","Dominguez Perez,L",1/2-1/2,2753,C20,2776
+196,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.1,"So,W","Rapport,R",1/2-1/2,2776,D45,2776
+197,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.5,"Rapport,R","Vachier Lagrave,M",0-1,2750,D26,2776
+198,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.4,"Caruana,F","Rapport,R",1/2-1/2,2776,B40,2786
+199,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.5,"Rapport,R","Nepomniachtchi,I",1/2-1/2,2773,E32,2776
+200,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.3,"Shevchenko,Kirill","Rapport,R",0-1,2776,C02,2644
+201,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.3,"Rapport,R","Aronian,L",1/2-1/2,2765,B50,2776
+202,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.4,"Duda,J","Rapport,R",1-0,2776,E98,2750
+203,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.2,"Rapport,R","Gavrilescu,David",1-0,2518,C00,2776
+204,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.5,"Caruana,F","Rapport,R",0-1,2776,C18,2786
+205,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.1,"Korobov,A","Rapport,R",0-1,2776,E94,2671
+206,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.5,"Rapport,R","Wojtaszek,R",1-0,2696,B50,2776
+207,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.2,"So,W","Rapport,R",1-0,2776,E94,2776
+208,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.4,"Rapport,R","Anand,V",1-0,2751,C46,2776
+209,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.5,"Caruana,F","Rapport,R",1-0,2776,E73,2786
+210,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.1,"Aronian,L","Rapport,R",1-0,2776,E73,2765
+211,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.5,"Rapport,R","Wojtaszek,R",0-1,2696,B23,2776
+212,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.2,"Duda,J","Rapport,R",1/2-1/2,2776,A61,2750
+213,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.4,"Rapport,R","Korobov,A",1-0,2671,B23,2776
+214,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.3,"Gavrilescu,David","Rapport,R",0-1,2776,B51,2518
+215,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.3,"Rapport,R","Shevchenko,Kirill",1/2-1/2,2644,B23,2776
+216,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.4,"Anand,V","Rapport,R",1/2-1/2,2776,B51,2751
+217,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.2,"Rapport,R","So,W",0-1,2776,C46,2776
+218,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.5,"Rapport,R","Caruana,F",0-1,2786,B23,2776
+219,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.1,"Rapport,R","Aronian,L",0-1,2765,B78,2776
+220,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.5,"Wojtaszek,R","Rapport,R",0-1,2776,A70,2696
+221,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.2,"Rapport,R","Duda,J",0-1,2750,C46,2776
+222,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.4,"Korobov,A","Rapport,R",1-0,2776,A61,2671
+223,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.3,"Rapport,R","Gavrilescu,David",1-0,2518,A00,2776
+224,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.3,"Shevchenko,Kirill","Rapport,R",0-1,2776,B22,2644
+225,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.4,"Rapport,R","Anand,V",0-1,2751,C44,2776
+226,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.2,"So,W","Rapport,R",1-0,2776,A40,2776
+227,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.1,"Duda,J","Rapport,R",1/2-1/2,2764,B44,2750
+228,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.1,"Rapport,R","Firouzja,Alireza",1/2-1/2,2793,B53,2764
+229,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.1,Ding Liren,"Rapport,R",1/2-1/2,2764,D86,2806
+230,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.1,"Rapport,R","Nakamura,Hi",1/2-1/2,2760,C65,2764
+231,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.1,"Caruana,F","Rapport,R",1/2-1/2,2764,B46,2783
+232,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.1,"Radjabov,T","Rapport,R",1/2-1/2,2764,B46,2753
+233,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.1,"Rapport,R","Nepomniachtchi,I",0-1,2766,C42,2764
+234,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.1,"Rapport,R","Duda,J",1-0,2750,C46,2764
+235,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.1,"Firouzja,Alireza","Rapport,R",1-0,2764,C65,2793
+236,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.1,"Rapport,R",Ding Liren,0-1,2806,C77,2764
+237,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.1,"Nakamura,Hi","Rapport,R",1/2-1/2,2764,B33,2760
+238,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.1,"Rapport,R","Caruana,F",1/2-1/2,2783,C65,2764
+239,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.1,"Nepomniachtchi,I","Rapport,R",1/2-1/2,2764,B67,2766
+240,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.1,"Rapport,R","Radjabov,T",0-1,2753,C65,2764
+241,Bundesliga 2021-22,Berlin GER,2022.07.07,11.7,"Rapport,R","Svane,R",1/2-1/2,2637,C77,2762
+242,Bundesliga 2021-22,Berlin GER,2022.07.08,12.7,"Rapport,R","Bjerre,Jonas Buhl",1-0,2601,C20,2762
+243,Bundesliga 2021-22,Berlin GER,2022.07.09,13.7,"Rapport,R","Bluebaum,M",1/2-1/2,2642,C42,2762
+244,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Rapport,R","Kryvoruchko,Y",1-0,2683,A07,2762

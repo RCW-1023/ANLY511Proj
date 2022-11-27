@@ -14,618 +14,101 @@
 12,82nd Tata Steel GpB,Wijk aan Zee NED,2020.01.26,13.4,"Eljanov,P","L'Ami,E",1/2-1/2,2606,C88,2650
 13,TCh-ISR 2020,Israel ISR,2020.02.07,5.5,"Lomasov,Semyon","Eljanov,P",0-1,2650,C45,2546
 14,TCh-ISR 2020,Israel ISR,2020.02.08,6.5,"Eljanov,P","Nabaty,T",1-0,2644,A07,2650
-15,PRO League Group Stage,chess.com INT,2020.02.12,6,"Eljanov,P","Mihok,O",1-0,2558,B47,2656
-16,PRO League Group Stage,chess.com INT,2020.02.12,6,"Kozak,Adam","Eljanov,P",1-0,2656,A07,2523
-17,PRO League Group Stage,chess.com INT,2020.02.12,6,"Predojevic,B","Eljanov,P",1-0,2656,B13,2603
-18,PRO League Group Stage,chess.com INT,2020.02.12,6,"Eljanov,P","Banusz,T",0-1,2624,A09,2656
-19,TCh-ISR 2020,Israel ISR,2020.02.14,7.6,"Eljanov,P","Rodshtein,M",1-0,2628,B13,2650
-20,TCh-ISR 2020,Israel ISR,2020.02.15,8.6,"Rechlis,G","Eljanov,P",0-1,2650,A07,2498
-21,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,1,"Saravana,Kr","Eljanov,P",1/2-1/2,2672,B18,2312
-22,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,2,"Eljanov,P","Vidyarthi,Vyom",1-0,2090,C53,2672
-23,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,3,"Eljanov,P","Margvelashvili,G",1-0,2523,E17,2672
-24,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,4,"Sadhwani,Raunak","Eljanov,P",0-1,2672,C26,2545
-25,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,5,"Eljanov,P","He,Anthony",1-0,2337,D76,2672
-26,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,6,"Harsha,B","Eljanov,P",1-0,2672,D37,2509
-27,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,7,"Eljanov,P","Quesada Perez,Yu",1-0,2598,E10,2672
-28,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,8,"Eljanov,P","Drygalov,Andrey",1-0,2495,D78,2672
-29,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,9,"Bortnyk,Olexandr","Eljanov,P",0-1,2672,C24,2598
-30,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,10,"Livaic,Leon","Eljanov,P",1/2-1/2,2672,E12,2507
-31,PNWCC Online Blitz JP 8,chess.com INT,2020.05.02,11,"Eljanov,P","Mamedov,Rau",1/2-1/2,2654,B36,2672
-32,Titled Tuesday 5th May,chess.com INT,2020.05.05,3,"Romanov,E","Eljanov,P",0-1,2672,A46,2599
-33,Titled Tuesday 5th May,chess.com INT,2020.05.05,4,"Eljanov,P","Gabrielian,A",1-0,2463,E68,2672
-34,Titled Tuesday 5th May,chess.com INT,2020.05.05,5,"Barsegyan,H","Eljanov,P",0-1,2672,D02,2463
-35,Titled Tuesday 5th May,chess.com INT,2020.05.05,6,"Eljanov,P","Fakhrutdinov,Timur",0-1,2501,D78,2672
-36,Titled Tuesday 5th May,chess.com INT,2020.05.05,7,"Triapishko,Alexandr","Eljanov,P",1-0,2672,A07,2506
-37,Titled Tuesday 5th May,chess.com INT,2020.05.05,8,"Eljanov,P","Kozionov,Kirill",0-1,2470,E63,2672
-38,Titled Tuesday 5th May,chess.com INT,2020.05.05,9,"Galyas,M","Eljanov,P",1-0,2672,A15,2476
-39,Titled Tuesday 5th May,chess.com INT,2020.05.05,10,"Eljanov,P","Aakanksha,Hagawane",1-0,2238,D76,2672
-40,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,2,"Sairam,Pranav","Eljanov,P",0-1,2672,B13,1810
-41,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,3,"Eljanov,P","Lugovskoy,M",1-0,2420,A07,2672
-42,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,4,"Eljanov,P","Oganian,M",1-0,2441,A13,2672
-43,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,5,"Gabrielian,A","Eljanov,P",0-1,2672,B18,2463
-44,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,6,"Fedoseev,Vl3","Eljanov,P",1-0,2672,C26,2678
-45,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,7,"Eljanov,P","Bosiocic,Mari",0-1,2625,E62,2672
-46,PNWCC Online Blitz JP 9,chess.com INT,2020.05.09,9,"Khanin,S","Eljanov,P",1-0,2672,C50,2482
-47,Gladiators May 5th 2020,chess.com INT,2020.05.10,1,"Ponomariov,R","Eljanov,P",1-0,2672,C29,2631
-48,Gladiators May 5th 2020,chess.com INT,2020.05.10,2,"Eljanov,P","Ponomariov,R",0-1,2631,A04,2672
-49,Gladiators May 5th 2020,chess.com INT,2020.05.10,3,"Ponomariov,R","Eljanov,P",0-1,2672,A03,2631
-50,Gladiators May 5th 2020,chess.com INT,2020.05.10,4,"Eljanov,P","Ponomariov,R",1/2-1/2,2631,A04,2672
-51,Gladiators May 5th 2020,chess.com INT,2020.05.10,5,"Ponomariov,R","Eljanov,P",1-0,2672,D02,2631
-52,Gladiators May 5th 2020,chess.com INT,2020.05.10,6,"Eljanov,P","Ponomariov,R",0-1,2631,A04,2672
-53,Gladiators May 5th 2020,chess.com INT,2020.05.10,7,"Ponomariov,R","Eljanov,P",1-0,2672,B10,2631
-54,Gladiators May 14th 2020,chess.com INT,2020.05.14,1,"Eljanov,P","Efimenko,Z",1/2-1/2,2602,E62,2672
-55,Gladiators May 14th 2020,chess.com INT,2020.05.14,2,"Efimenko,Z","Eljanov,P",0-1,2672,A07,2602
-56,Gladiators May 14th 2020,chess.com INT,2020.05.14,3,"Eljanov,P","Efimenko,Z",0-1,2602,A21,2672
-57,Gladiators May 14th 2020,chess.com INT,2020.05.14,4,"Efimenko,Z","Eljanov,P",0-1,2672,A06,2602
-58,Gladiators May 14th 2020,chess.com INT,2020.05.14,5,"Eljanov,P","Efimenko,Z",1-0,2602,A41,2672
-59,Gladiators May 14th 2020,chess.com INT,2020.05.14,6,"Efimenko,Z","Eljanov,P",0-1,2672,A07,2602
-60,Gladiators May 14th 2020,chess.com INT,2020.05.14,7,"Eljanov,P","Efimenko,Z",1-0,2602,A42,2672
-61,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,1,"Venkat,Raghav","Eljanov,P",0-1,2672,D38,2167
-62,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,3,"Fridman,D","Eljanov,P",1/2-1/2,2672,A46,2615
-63,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,4,"Eljanov,P","Shahinyan,D",0-1,2456,A88,2672
-64,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,5,"Polivanov,A","Eljanov,P",1-0,2672,B12,2452
-65,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,6,"Eljanov,P","Osmak,Iulija",1-0,2438,A07,2672
-66,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,7,"Eljanov,P","Rathnakaran,K",1-0,2314,C02,2672
-67,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,8,"Moradiabadi,E","Eljanov,P",1-0,2672,E11,2555
-68,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,9,"Eljanov,P","Penagalapati,Abhinav",1-0,1802,A07,2672
-69,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,10,"Kuzubov,Y","Eljanov,P",1/2-1/2,2672,D10,2643
-70,UKR vs RUS LCWL blitz 5+2 2020,chess.com INT,2020.05.17,1.7,"Eljanov,P","Gordyk,L",1-0,2166,B06,2672
-71,UKR vs RUS LCWL blitz 5+2 2020,chess.com INT,2020.05.17,2.7,"Gordyk,L","Eljanov,P",1/2-1/2,2672,C47,2166
-72,Gladiators May 18th-22nd,chess.com INT,2020.05.18,1,"Eljanov,P","Kuzubov,Y",1/2-1/2,2643,C24,2672
-73,Gladiators May 18th-22nd,chess.com INT,2020.05.18,2,"Kuzubov,Y","Eljanov,P",0-1,2672,E06,2643
-74,Gladiators May 18th-22nd,chess.com INT,2020.05.18,3,"Eljanov,P","Kuzubov,Y",1/2-1/2,2643,B30,2672
-75,Gladiators May 18th-22nd,chess.com INT,2020.05.18,4,"Kuzubov,Y","Eljanov,P",1-0,2672,A07,2643
-76,Gladiators May 18th-22nd,chess.com INT,2020.05.18,5,"Eljanov,P","Kuzubov,Y",0-1,2643,C42,2672
-77,Gladiators May 18th-22nd,chess.com INT,2020.05.18,6,"Kuzubov,Y","Eljanov,P",1/2-1/2,2672,D55,2643
-78,Gladiators May 18th-22nd,chess.com INT,2020.05.18,7,"Eljanov,P","Kuzubov,Y",0-1,2643,B30,2672
-79,Gladiators May 18th-22nd,chess.com INT,2020.05.18,8,"Kuzubov,Y","Eljanov,P",0-1,2672,E46,2643
-80,Gladiators May 18th-22nd,chess.com INT,2020.05.18,9,"Eljanov,P","Kuzubov,Y",0-1,2643,C42,2672
-81,Gladiators May 18th-22nd,chess.com INT,2020.05.20,1,"Efimenko,Z","Eljanov,P",1/2-1/2,2672,C65,2602
-82,Gladiators May 18th-22nd,chess.com INT,2020.05.20,2,"Eljanov,P","Efimenko,Z",0-1,2602,A41,2672
-83,Gladiators May 18th-22nd,chess.com INT,2020.05.20,3,"Efimenko,Z","Eljanov,P",1-0,2672,B18,2602
-84,Gladiators May 18th-22nd,chess.com INT,2020.05.20,4,"Eljanov,P","Efimenko,Z",1-0,2602,A41,2672
-85,Gladiators May 18th-22nd,chess.com INT,2020.05.20,5,"Efimenko,Z","Eljanov,P",0-1,2672,B18,2602
-86,Gladiators May 18th-22nd,chess.com INT,2020.05.20,6,"Eljanov,P","Efimenko,Z",0-1,2602,A41,2672
-87,Gladiators May 18th-22nd,chess.com INT,2020.05.20,7,"Efimenko,Z","Eljanov,P",0-1,2672,C65,2602
-88,Gladiators May 18th-22nd,chess.com INT,2020.05.20,8,"Eljanov,P","Efimenko,Z",1-0,2602,A41,2672
-89,Gladiators May 18th-22nd,chess.com INT,2020.05.20,9,"Efimenko,Z","Eljanov,P",1/2-1/2,2672,C65,2602
-90,Gladiators May 18th-22nd,chess.com INT,2020.05.20,10,"Eljanov,P","Efimenko,Z",0-1,2602,A40,2672
-91,Gladiators May 18th-22nd,chess.com INT,2020.05.20,11,"Efimenko,Z","Eljanov,P",1/2-1/2,2672,B18,2602
-92,Gladiators May 18th-22nd,chess.com INT,2020.05.20,12,"Eljanov,P","Efimenko,Z",1-0,2602,A41,2672
-93,Titled Tuesday 26th May,chess.com INT,2020.05.26,2,"Valdes Escobar,A","Eljanov,P",0-1,2672,A28,2355
-94,Titled Tuesday 26th May,chess.com INT,2020.05.26,3,"Eljanov,P","Sredojevic,I",1/2-1/2,2239,E62,2672
-95,Titled Tuesday 26th May,chess.com INT,2020.05.26,4,"Eljanov,P","Obgolts,Erik",1-0,2376,E62,2672
-96,Titled Tuesday 26th May,chess.com INT,2020.05.26,5,"Liascovich,L","Eljanov,P",1-0,2672,A46,2418
-97,Titled Tuesday 26th May,chess.com INT,2020.05.26,6,"Nguyen,Quoc Hy","Eljanov,P",1-0,2672,A46,2242
-98,Titled Tuesday 26th May,chess.com INT,2020.05.26,7,"Eljanov,P","Koc,P",1-0,2346,A04,2672
-99,Titled Tuesday 26th May,chess.com INT,2020.05.26,9,"Efimenko,Z","Eljanov,P",0-1,2672,A07,2602
-100,Titled Tuesday 26th May,chess.com INT,2020.05.26,10,"Eljanov,P","Bernadskiy,V",0-1,2629,A04,2672
-101,Gladiators May 27th-28th,chess.com INT,2020.05.27,1,"Korobov,A","Eljanov,P",1/2-1/2,2672,E12,2688
-102,Gladiators May 27th-28th,chess.com INT,2020.05.27,2,"Eljanov,P","Korobov,A",0-1,2688,B30,2672
-103,Gladiators May 27th-28th,chess.com INT,2020.05.27,3,"Korobov,A","Eljanov,P",1/2-1/2,2672,E12,2688
-104,Gladiators May 27th-28th,chess.com INT,2020.05.27,4,"Eljanov,P","Korobov,A",0-1,2688,B51,2672
-105,Gladiators May 27th-28th,chess.com INT,2020.05.27,5,"Korobov,A","Eljanov,P",1-0,2672,D10,2688
-106,Gladiators May 27th-28th,chess.com INT,2020.05.27,6,"Eljanov,P","Korobov,A",0-1,2688,B52,2672
-107,Gladiators May 27th-28th,chess.com INT,2020.05.27,7,"Korobov,A","Eljanov,P",0-1,2672,E21,2688
-108,Gladiators May 27th-28th,chess.com INT,2020.05.27,8,"Eljanov,P","Korobov,A",1-0,2688,B51,2672
-109,Gladiators May 27th-28th,chess.com INT,2020.05.27,9,"Korobov,A","Eljanov,P",1-0,2672,A40,2688
-110,Euro Online +2300 Day 1,chess.com INT,2020.05.29,1,"Eljanov,P","Runic,Z",1-0,2348,B31,2672
-111,Euro Online +2300 Day 1,chess.com INT,2020.05.29,2,"Sarana,A","Eljanov,P",1-0,2672,E16,2654
-112,Euro Online +2300 Day 1,chess.com INT,2020.05.29,3,"Dordzhieva,D","Eljanov,P",0-1,2672,A07,2354
-113,Euro Online +2300 Day 1,chess.com INT,2020.05.29,4,"Eljanov,P","Vogel,Roven",0-1,2456,C53,2672
-114,Euro Online +2300 Day 1,chess.com INT,2020.05.29,5,"Wagner,De","Eljanov,P",0-1,2672,C60,2581
-115,Euro Online +2300 Day 1,chess.com INT,2020.05.29,6,"Eljanov,P","Studer,N",0-1,2580,B31,2672
-116,Titled Tuesday 2nd June,chess.com INT,2020.06.02,1,"Kotrotsos,V","Eljanov,P",0-1,2672,E26,2306
-117,Titled Tuesday 2nd June,chess.com INT,2020.06.02,3,"Lazavik,Denis","Eljanov,P",0-1,2672,E12,2424
-118,Titled Tuesday 2nd June,chess.com INT,2020.06.02,4,"Eljanov,P","Gretarsson,He",0-1,2401,A07,2672
-119,Titled Tuesday 2nd June,chess.com INT,2020.06.02,5,"Eljanov,P","Sorkin,I",0-1,2383,A04,2672
-120,Titled Tuesday 2nd June,chess.com INT,2020.06.02,6,"Ogloblin,N","Eljanov,P",0-1,2672,E12,2346
-121,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,1,"Eljanov,P","Zhukova,N",1-0,2328,C53,2672
-122,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,2,"Aleksandrov,A","Eljanov,P",1/2-1/2,2672,E41,2608
-123,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,3,"Eljanov,P","Jumabayev,R",0-1,2654,B52,2672
-124,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,4,"Belous,V","Eljanov,P",1-0,2672,A29,2524
-125,Titled Tuesday 9th June,chess.com INT,2020.06.09,3,"Gordyk,L","Eljanov,P",1/2-1/2,2672,B10,2166
-126,Titled Tuesday 9th June,chess.com INT,2020.06.09,4,"Eljanov,P","Volovich,Vasily",1-0,2177,C02,2672
-127,Titled Tuesday 9th June,chess.com INT,2020.06.09,5,"Eljanov,P","Andreikin,D",0-1,2726,A04,2672
-128,Titled Tuesday 9th June,chess.com INT,2020.06.09,6,"Lettieri,G","Eljanov,P",0-1,2672,C92,2435
-129,Titled Tuesday 9th June,chess.com INT,2020.06.09,7,"Eljanov,P","Bernadskiy,V",0-1,2629,B31,2672
-130,Titled Tuesday 9th June,chess.com INT,2020.06.09,8,"Ghimpu,Samuel-Timotei","Eljanov,P",1-0,2672,A06,2302
-131,Titled Tuesday 9th June,chess.com INT,2020.06.09,9,"Eljanov,P","Weetik,V",1-0,2423,B13,2672
-132,Titled Tuesday 9th June,chess.com INT,2020.06.09,10,"Pon,M","Eljanov,P",0-1,2672,C50,2185
-133,Titled Tuesday 16th June,chess.com INT,2020.06.16,1,"Eljanov,P","Ohanyan,Emin",0-1,2291,C55,2672
-134,Titled Tuesday 16th June,chess.com INT,2020.06.16,4,"Eljanov,P","Cerveny,M",0-1,2386,B52,2672
-135,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,1,"Chen,Ryo","Eljanov,P",0-1,2672,C77,2085
-136,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,2,"Eljanov,P","Hakobyan,Aram",0-1,2588,B13,2672
-137,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,3,"Aditya,Mittal","Eljanov,P",0-1,2672,A05,2438
-138,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,4,"Erigaisi,Arjun","Eljanov,P",1/2-1/2,2672,E06,2559
-139,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,5,"Eljanov,P","Khanin,S",1/2-1/2,2482,C53,2672
-140,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,6,"Eljanov,P",Le Quang Liem,0-1,2709,B31,2672
-141,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,7,"Aleksandrov,A","Eljanov,P",0-1,2672,E42,2608
-142,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,8,"Eljanov,P","Deac,Bogdan-Daniel",0-1,2625,C48,2672
-143,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,9,"Polivanov,A","Eljanov,P",0-1,2672,C48,2452
-144,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,10,"Eljanov,P","Fedoseev,Vl3",0-1,2678,C55,2672
-145,PNWCC Online Blitz JP 14,lichess.org INT,2020.06.20,11,"Eljanov,P","Tanenbaum,Zachary",1-0,2137,C55,2672
-146,Gladiators July 3rd 2020,chess.com INT,2020.07.03,1,"Kuzubov,Y","Eljanov,P",1-0,2672,E16,2643
-147,Gladiators July 3rd 2020,chess.com INT,2020.07.03,2,"Eljanov,P","Kuzubov,Y",0-1,2643,C42,2672
-148,Gladiators July 3rd 2020,chess.com INT,2020.07.03,3,"Kuzubov,Y","Eljanov,P",1-0,2672,E17,2643
-149,Gladiators July 3rd 2020,chess.com INT,2020.07.03,4,"Eljanov,P","Kuzubov,Y",1-0,2643,C24,2672
-150,Gladiators July 3rd 2020,chess.com INT,2020.07.03,5,"Kuzubov,Y","Eljanov,P",1-0,2672,E16,2643
-151,Gladiators July 3rd 2020,chess.com INT,2020.07.03,6,"Eljanov,P","Kuzubov,Y",0-1,2643,B30,2672
-152,Gladiators July 3rd 2020,chess.com INT,2020.07.03,7,"Kuzubov,Y","Eljanov,P",0-1,2672,E17,2643
-153,Gladiators July 3rd 2020,chess.com INT,2020.07.03,8,"Eljanov,P","Kuzubov,Y",0-1,2643,B30,2672
-154,Gladiators July 3rd 2020,chess.com INT,2020.07.03,9,"Kuzubov,Y","Eljanov,P",0-1,2672,E17,2643
-155,Gladiators July 3rd 2020,chess.com INT,2020.07.03,10,"Eljanov,P","Kuzubov,Y",1/2-1/2,2643,B30,2672
-156,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Maiti,Milind","Eljanov,P",0-1,2672,E35,2068
-157,Titled Tuesday 7th July,chess.com INT,2020.07.07,2,"Eljanov,P","Ovetchkin,R",0-1,2518,B13,2672
-158,Titled Tuesday 7th July,chess.com INT,2020.07.07,3,"Vetokhin,Savva","Eljanov,P",0-1,2672,A45,2349
-159,Titled Tuesday 7th July,chess.com INT,2020.07.07,5,"Kalavannan,Koby","Eljanov,P",0-1,2672,E19,2324
-160,Titled Tuesday 7th July,chess.com INT,2020.07.07,6,"Eljanov,P","Molina,Rob",1-0,2434,B13,2672
-161,Titled Tuesday 7th July,chess.com INT,2020.07.07,7,"Eljanov,P","Vishnu,P",0-1,2476,B51,2672
-162,Titled Tuesday 7th July,chess.com INT,2020.07.07,8,"Rishi,S","Eljanov,P",0-1,2672,D37,2461
-163,Titled Tuesday 7th July,chess.com INT,2020.07.07,9,"Eljanov,P","Balakrishnan,Praveen",0-1,2498,B13,2672
-164,Titled Tuesday 7th July,chess.com INT,2020.07.07,10,"Eljanov,P","Gumularz,Szymon",0-1,2513,C53,2672
-165,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,1,"Eljanov,P","Padmini,R",1-0,2370,C55,2672
-166,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Elgersma,Onno","Eljanov,P",0-1,2672,B11,2298
-167,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,2,"Das,Say","Eljanov,P",1-0,2672,C65,2431
-168,Titled Tuesday 14th July,chess.com INT,2020.07.14,2,"Eljanov,P","Ezat,M",0-1,2401,B10,2672
-169,Titled Tuesday 14th July,chess.com INT,2020.07.14,3,"Yakimova,Mariya","Eljanov,P",0-1,2672,E00,2269
-170,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,3,"Eljanov,P","Herrera Reyes,J",1-0,2304,B41,2672
-171,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,4,"Kowalczyk,P","Eljanov,P",0-1,2672,A45,2339
-172,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Eljanov,P","Leiva,G",1-0,2391,B10,2672
-173,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Javakhadze,Z","Eljanov,P",0-1,2672,A07,2454
-174,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,5,"Dhulipalla,Bala Chandra Prasad","Eljanov,P",1-0,2672,A45,2441
-175,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,6,"Eljanov,P","Henderson de La Fuente,Lance",0-1,2491,B49,2672
-176,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Eljanov,P","Henderson de La Fuente,Lance",1/2-1/2,2491,B47,2672
-177,Titled Tuesday 14th July,chess.com INT,2020.07.14,7,"Ardelean,Ge","Eljanov,P",0-1,2672,A45,2488
-178,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,7,"Eswaran,Ashritha","Eljanov,P",0-1,2672,B18,2244
-179,Titled Tuesday 14th July,chess.com INT,2020.07.14,8,"Eljanov,P","Nakamura,Hi",0-1,2736,A07,2672
-180,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,8,"Eljanov,P","Bethke,Richard",1-0,2332,B52,2672
-181,Titled Tuesday 14th July,chess.com INT,2020.07.14,9,"Gabdrakhmanov,Azat","Eljanov,P",0-1,2672,C65,2328
-182,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,9,"Eljanov,P","Efimenko,Z",1/2-1/2,2602,A42,2672
-183,Titled Tuesday 14th July,chess.com INT,2020.07.14,10,"Eljanov,P","Panarin,M",1/2-1/2,2562,B44,2672
-184,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,10,"Arencibia,A","Eljanov,P",0-1,2672,B12,2148
-185,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,1,"Vakhidov,T","Eljanov,P",0-1,2672,A28,2401
-186,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,2,"Eljanov,P","Murzin,Volodar",1-0,2465,B10,2672
-187,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,3,"Matinian,N","Eljanov,P",1/2-1/2,2672,B12,2475
-188,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,4,"Eljanov,P","Paravyan,D",1-0,2653,C02,2672
-189,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,5,"Sarana,A","Eljanov,P",0-1,2672,E16,2654
-190,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,6,"Eljanov,P","Fedoseev,Vl3",0-1,2678,D12,2672
-191,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,7,"He,Anthony","Eljanov,P",1/2-1/2,2672,B11,2337
-192,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,8,"Eljanov,P","Jobava,Ba",1/2-1/2,2603,B40,2672
-193,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,9,"Rychagov,A","Eljanov,P",1-0,2672,E12,2545
-194,PNWCC Online Blitz JP 17,lichess.org INT,2020.07.18,10,"Eljanov,P","Oparin,G",1/2-1/2,2652,C55,2672
-195,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Eljanov,P","Kavyev,Ruslan",1-0,2327,B51,2672
-196,Titled Tuesday 21st July,chess.com INT,2020.07.21,2,"Siddharth,Jagadeesh","Eljanov,P",0-1,2672,E12,2320
-197,Titled Tuesday 21st July,chess.com INT,2020.07.21,3,"Eljanov,P","Caspi,I",0-1,2489,B01,2672
-198,Titled Tuesday 21st July,chess.com INT,2020.07.21,4,"Proudian,Armen","Eljanov,P",1-0,2672,B18,2427
-199,Titled Tuesday 21st July,chess.com INT,2020.07.21,5,"Eljanov,P","Lammens,Tim",1/2-1/2,2250,B40,2672
-200,Titled Tuesday 21st July,chess.com INT,2020.07.21,6,"Nayem,Haque","Eljanov,P",0-1,2672,B13,2031
-201,Titled Tuesday 21st July,chess.com INT,2020.07.21,7,"Eljanov,P","Valdes,Le",0-1,2402,B09,2672
-202,Titled Tuesday 21st July,chess.com INT,2020.07.21,8,"Shvedova,Alexandra","Eljanov,P",1/2-1/2,2672,B18,1994
-203,Titled Tuesday 21st July,chess.com INT,2020.07.21,9,"Swicarz,M","Eljanov,P",0-1,2672,A28,2325
-204,Titled Tuesday 21st July,chess.com INT,2020.07.21,10,"Eljanov,P","Kakabayev,Mergen",1-0,2285,C84,2672
-205,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.4,"Bodnaruk,A","Eljanov,P",1-0,2672,E46,2411
-206,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.1,"Eljanov,P","Bodnaruk,A",0-1,2411,E04,2672
-207,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.2,"Bodnaruk,A","Eljanov,P",1/2-1/2,2672,E54,2411
-208,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.3,"Eljanov,P","Bodnaruk,A",1/2-1/2,2411,E04,2672
-209,Titled Tue 11th Aug,chess.com INT,2020.08.11,1,"Chitlange,Sakshi","Eljanov,P",0-1,2672,E12,2167
-210,Titled Tue 11th Aug,chess.com INT,2020.08.11,2,"Eljanov,P","Budrewicz,K",1-0,2227,B45,2672
-211,Titled Tue 11th Aug,chess.com INT,2020.08.11,3,"Kozionov,Kirill","Eljanov,P",1-0,2672,A01,2470
-212,Titled Tue 11th Aug,chess.com INT,2020.08.11,4,"Eljanov,P","Aldokhin,I",0-1,2413,B41,2672
-213,Titled Tue 11th Aug,chess.com INT,2020.08.11,6,"Eljanov,P","Glavina,P",1-0,2412,B31,2672
-214,Titled Tue 11th Aug,chess.com INT,2020.08.11,7,"Eljanov,P","Tsvetkov,Andrey",1-0,2358,B92,2672
-215,Titled Tue 11th Aug,chess.com INT,2020.08.11,8,"Rustemov,A","Eljanov,P",1/2-1/2,2672,E12,2525
-216,Titled Tue 11th Aug,chess.com INT,2020.08.11,9,"Rychagov,A","Eljanov,P",0-1,2672,E12,2545
-217,Titled Tue 11th Aug,chess.com INT,2020.08.11,10,"Eljanov,P","Piesik,P",0-1,2418,B06,2672
-218,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,1,"Spata,G","Eljanov,P",0-1,2672,A06,2257
-219,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,2,"Eljanov,P","Suvorov,Alexander",1-0,2313,B40,2672
-220,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,3,"Bujisho,B","Eljanov,P",1/2-1/2,2672,C26,2290
-221,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,4,"Eljanov,P","Shuvalova,Polina",0-1,2454,A05,2672
-222,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,5,"Eljanov,P","Khumalo,Keith",0-1,2117,C00,2672
-223,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,1,"Eljanov,P","De Borba,Guilherme",1-0,2279,B80,2672
-224,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,2,"Wagh,Suyog","Eljanov,P",0-1,2672,A07,2246
-225,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,6,"Eljanov,P","Erigaisi,Arjun",1-0,2559,A07,2672
-226,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,7,"Svidler,P","Eljanov,P",1-0,2672,A15,2723
-227,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,8,"Eljanov,P","Matinian,N",1-0,2475,A42,2672
-228,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,9,Le Tuan Minh,"Eljanov,P",1-0,2672,A46,2501
-229,Titled Tuesday 15th Sept,chess.com INT,2020.09.15,10,"Eljanov,P","Azaladze,S",1-0,2439,C53,2672
-230,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,1,"Eljanov,P","Plotnikov,P",0-1,2297,C50,2672
-231,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,2,"Hoffmann,As","Eljanov,P",0-1,2672,A45,2185
-232,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,3,"Eljanov,P","Blackman,J",1-0,2192,B92,2672
-233,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,4,"Hnydiuk,A","Eljanov,P",1-0,2672,C45,2411
-234,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,5,"Koellner,Ruben Gideon","Eljanov,P",1-0,2672,A45,2330
-235,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,1,"Balabayeva,Xeniya","Eljanov,P",0-1,2672,C49,2146
-236,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,3,"Eljanov,P","Pantzar,Milton",1-0,2424,B10,2672
-237,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,4,"Eljanov,P","Al Tarbosh,W",1-0,2230,C02,2672
-238,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,5,"Stany,G","Eljanov,P",0-1,2672,C65,2522
-239,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,6,"Barria Zuniga,D","Eljanov,P",0-1,2672,E17,2341
-240,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,7,"Eljanov,P","Sadhwani,Raunak",1/2-1/2,2545,C50,2672
-241,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,8,"Eljanov,P","Abdusattorov,Nodirbek",0-1,2627,C53,2672
-242,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,9,"Derjabin,I","Eljanov,P",0-1,2672,E24,2333
-243,Titled Tuesday 29th Sept,chess.com INT,2020.09.29,10,"Eljanov,P","Goryachkina,A",1-0,2582,C02,2672
-244,Titled Tuesday 6th Oct,chess.com INT,2020.10.06,1,"Eljanov,P","Saya,Ethan",1-0,2219,C02,2672
-245,Titled Tuesday 6th Oct,chess.com INT,2020.10.06,2,"Hnydiuk,A","Eljanov,P",0-1,2672,E00,2407
-246,Titled Tuesday 6th Oct,chess.com INT,2020.10.06,3,"Eljanov,P","Henderson de La Fuente,Lance",1-0,2491,B40,2672
-247,Titled Tuesday 6th Oct,chess.com INT,2020.10.06,4,"Sapunov,E","Eljanov,P",1-0,2672,D37,2461
-248,Titled Tuesday 6th Oct,chess.com INT,2020.10.06,5,"Eljanov,P","Erdogdu,M",0-1,2396,B84,2672
-249,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,1,"Mitusov,Semen","Eljanov,P",0-1,2672,C53,2306
-250,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,3,"Manu,David Suthandram R","Eljanov,P",1-0,2672,C50,2360
-251,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,4,"Eljanov,P","Korchmar,V",1-0,2451,B52,2672
-252,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,5,"Berdayes Ason,Dylan Isidro","Eljanov,P",0-1,2672,C50,2445
-253,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,6,"Eljanov,P","Svane,Frederik",1-0,2421,E17,2672
-254,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,7,"Sanikidze,T","Eljanov,P",1/2-1/2,2672,D38,2458
-255,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,8,"Eljanov,P","Leszko,Bence",1-0,2315,A04,2672
-256,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,9,"Kazakouski,Valery","Eljanov,P",1-0,2672,E17,2473
-257,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,10,"Eljanov,P","Tristan,L",1-0,2535,B01,2672
-258,PNWCC Super G60 2020,chess.com INT,2020.10.17,1.3,"He,Anthony","Eljanov,P",0-1,2672,B11,2337
-259,PNWCC Super G60 2020,chess.com INT,2020.10.17,2.1,"Eljanov,P","Rychagov,A",1/2-1/2,2545,D02,2672
-260,PNWCC Super G60 2020,chess.com INT,2020.10.17,3.5,"Leiva,G","Eljanov,P",0-1,2672,A62,2391
-261,PNWCC Super G60 2020,chess.com INT,2020.10.18,4.1,"Eljanov,P","Fridman,D",1/2-1/2,2601,C49,2672
-262,PNWCC Super G60 2020,chess.com INT,2020.10.18,5.3,"Prohaszka,P2","Eljanov,P",0-1,2672,A05,2592
-263,PNWCC Super G60 2020,chess.com INT,2020.10.18,6.2,"Eljanov,P","Bernadskiy,V",1/2-1/2,2629,B28,2672
-264,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,3,"Bordi,K","Eljanov,P",0-1,2672,A45,2288
-265,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,5,"Eljanov,P","Rakotomaharo,Fy Antenaina",1/2-1/2,2422,B40,2672
-266,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,6,"Piesik,P","Eljanov,P",0-1,2672,A07,2396
-267,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,7,"Trimitzios,Petros","Eljanov,P",1/2-1/2,2672,C24,2353
-268,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,8,"Eljanov,P","Shkapenko,P",1-0,2424,A17,2672
-269,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,9,"Eljanov,P","Obregon,A",1-0,2525,A17,2672
-270,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,10,"Obgolts,Erik","Eljanov,P",0-1,2672,A46,2376
-271,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,11,"Eljanov,P","Martinez Alcantara,Jose Eduardo",1-0,2620,B92,2672
-272,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,1,"Eljanov,P","Kulkarni,R",1-0,2321,B40,2672
-273,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,2,"Rohith,Krishna S","Eljanov,P",0-1,2672,D02,2304
-274,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,3,"Eljanov,P","Shubin,Kirill",1/2-1/2,2429,A15,2672
-275,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,4,"Nitin,S","Eljanov,P",1-0,2672,B18,2381
-276,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,5,"Eljanov,P","Aditya,Mittal",1-0,2438,B51,2672
-277,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,6,"Shkapenko,P","Eljanov,P",1/2-1/2,2672,C54,2424
-278,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,7,"Eljanov,P","Petkov,Momchil",1-0,2366,B06,2672
-279,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,8,"Bordi,K","Eljanov,P",0-1,2672,A45,2288
-280,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,9,"Eljanov,P","Sapunov,E",0-1,2461,B52,2672
-281,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,10,"Eljanov,P","Arabidze,M",1-0,2437,B40,2672
-282,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,11,"Sankalp,Gupta","Eljanov,P",1-0,2672,B11,2429
-283,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,1,"Eljanov,P","Muetsch,Annmarie",1-0,2236,B31,2672
-284,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,2,"Gatineau,Yovann","Eljanov,P",0-1,2672,A45,2423
-285,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,3,"Eljanov,P","Sochacki,C",0-1,2469,A05,2672
-286,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,4,"Gurevich,D","Eljanov,P",1-0,2672,E47,2399
-287,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,6,"Baches Garcia,G","Eljanov,P",0-1,2672,B13,2329
-288,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,7,"Eljanov,P","Spyropoulos,Nikolaos",0-1,2425,C55,2672
-289,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,8,"Eljanov,P","Zhukova,N",1-0,2336,C53,2672
-290,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,9,"Sveshnikov,V","Eljanov,P",1/2-1/2,2672,B13,2418
-291,FEDA Int Scheveningen,Los Cancajos ESP,2020.11.30,1.3,"Eljanov,P","Salgado Lopez,I",1/2-1/2,2593,C53,2672
-292,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.01,2.2,"Santos Latasa,J","Eljanov,P",0-1,2672,A21,2600
-293,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.02,3.3,"Eljanov,P","Anton Guijarro,D",1/2-1/2,2675,D38,2672
-294,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.03,4.3,"Vazquez Igarza,R","Eljanov,P",1/2-1/2,2672,E10,2556
-295,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.04,5.3,"Eljanov,P","Santos Ruiz,Miguel",1/2-1/2,2581,D78,2672
-296,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.05,6.3,"Salgado Lopez,I","Eljanov,P",1/2-1/2,2672,A07,2593
-297,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.06,7.3,"Eljanov,P","Santos Latasa,J",1/2-1/2,2600,C42,2672
-298,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.07,8.3,"Anton Guijarro,D","Eljanov,P",1/2-1/2,2672,E46,2675
-299,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.08,9.3,"Eljanov,P","Vazquez Igarza,R",1-0,2556,B47,2672
-300,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.09,10.3,"Santos Ruiz,Miguel","Eljanov,P",1/2-1/2,2672,E32,2581
-301,PNWCC WOW Open,chess.com INT,2020.12.26,1.8,"Eljanov,P","He,Anthony",1-0,2337,A21,2672
-302,PNWCC WOW Open,chess.com INT,2020.12.26,2.7,"Iskandarov,M","Eljanov,P",0-1,2672,B10,2535
-303,PNWCC WOW Open,chess.com INT,2020.12.27,4.2,"Eljanov,P","Pantsulaia,L",1/2-1/2,2553,A77,2672
-304,PNWCC WOW Open,chess.com INT,2020.12.27,5.4,"Kryakvin,D","Eljanov,P",0-1,2672,E10,2577
-305,PNWCC WOW Open,chess.com INT,2020.12.28,7.1,"Eljanov,P","Petrosyan,M",1-0,2628,A07,2672
-306,PNWCC WOW Open,chess.com INT,2020.12.28,8.2,"Kovalenko,I","Eljanov,P",1-0,2672,C65,2643
-307,PNWCC WOW Open,chess.com INT,2020.12.28,9.3,"Eljanov,P","Hong,Andrew",1/2-1/2,2449,C53,2672
-308,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,1,"Issabayev,D","Eljanov,P",0-1,2672,B15,2235
-309,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,2,"Eljanov,P","Do Valle Cardoso,Lucas",1-0,2308,A28,2672
-310,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,3,"Kovalev,De","Eljanov,P",1-0,2672,D02,2487
-311,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,4,"Eljanov,P","Samunenkov,Ihor",1-0,2209,A46,2672
-312,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,5,"Al Tarbosh,W","Eljanov,P",0-1,2672,A46,2189
-313,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,6,"Eljanov,P","Seo,Jung Min",1/2-1/2,2453,A28,2672
-314,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,7,"Bharath,Subramaniyam H","Eljanov,P",1-0,2672,B15,2437
-315,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,2,"Eljanov,P","Ronka,E",1-0,2303,A07,2672
-316,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,3,"Arnold,Max","Eljanov,P",0-1,2672,B10,2305
-317,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,4,"Eljanov,P","Spalir,J",1-0,2390,A07,2672
-318,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,5,"Goryachkina,A","Eljanov,P",1/2-1/2,2672,C56,2593
-319,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,6,"Eljanov,P","Chernobay,A",1-0,2490,C02,2672
-320,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,7,"Bharath,Subramaniyam H","Eljanov,P",0-1,2672,B18,2437
-321,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,8,"Eljanov,P","Kosteniuk,A",0-1,2474,E17,2672
-322,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,1,"Eljanov,P","Rangel,D",1-0,2210,E62,2672
-323,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,2,"Suvorov,Alexander","Eljanov,P",0-1,2672,E46,2353
-324,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,3,"Eljanov,P","Sonis,Francesco",1-0,2483,D73,2672
-325,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,4,"Tsyhanchuk,S","Eljanov,P",0-1,2672,B12,2322
-326,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,5,"Eljanov,P","Gavrilescu,David",1-0,2476,A07,2672
-327,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,6,"Quparadze,G","Eljanov,P",1/2-1/2,2672,C49,2463
-328,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,7,"Eljanov,P","Tabatabaei,M",0-1,2629,A13,2672
-329,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,8,"Tin,Jingyao","Eljanov,P",0-1,2672,E19,2487
-330,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,9,Le Quang Liem,"Eljanov,P",1-0,2672,A15,2709
-331,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,10,"Eljanov,P","Molina,Rob",1-0,2434,A07,2672
-332,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,11,"Postny,E","Eljanov,P",0-1,2672,A09,2605
-333,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,1,"Spyropoulos,Nikolaos","Eljanov,P",0-1,2672,A46,2425
-334,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,2,"Eljanov,P","Korchmar,V",1-0,2451,A37,2672
-335,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,3,"Mirzoev,A","Eljanov,P",1-0,2672,E12,2430
-336,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,5,"Omelja,A","Eljanov,P",1-0,2672,E32,2499
-337,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,6,"Eljanov,P","Gaboyan,S",1-0,2211,A15,2672
-338,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,7,"Pantzar,Milton","Eljanov,P",0-1,2672,A22,2421
-339,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,8,"Eljanov,P","Manafov,Vugar",1-0,2236,E62,2672
-340,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,9,"Golubka,P","Eljanov,P",1-0,2672,B12,2471
-341,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,11,"Riehle,Marco","Eljanov,P",0-1,2672,B10,2347
-342,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,1,"Van Dael,Siem","Eljanov,P",1/2-1/2,2672,B18,2292
-343,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,2,"Eljanov,P","Safin,Robert",1-0,2283,B40,2672
-344,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,3,"Smirnov,Alexandr","Eljanov,P",0-1,2672,B12,2136
-345,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,4,"Eljanov,P","Costachi,M",0-1,2471,C53,2672
-346,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,5,"Arabidze,M","Eljanov,P",0-1,2672,E12,2437
-347,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,6,"Eljanov,P","Macovei,Andrei",1-0,2453,A05,2672
-348,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,7,"Nenezic,M","Eljanov,P",1/2-1/2,2672,E46,2532
-349,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,8,"Eljanov,P","Shahade,G",0-1,2476,C50,2672
-350,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,9,"Papp,Levente","Eljanov,P",1-0,2672,A22,2394
-351,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,10,"Eljanov,P","Orantes Taboada,Francisco",1-0,2261,A15,2672
-352,Bogdanovich Mem Final,lichess.org INT,2021.02.13,1,"Bazakutsa,Svyatoslav","Eljanov,P",0-1,2672,A28,2050
-353,Bogdanovich Mem Final,lichess.org INT,2021.02.13,2,"Eljanov,P","Borsuk,K",1-0,2413,A15,2672
-354,Bogdanovich Mem Final,lichess.org INT,2021.02.13,3,"Baltag,I","Eljanov,P",0-1,2672,B10,2393
-355,Bogdanovich Mem Final,lichess.org INT,2021.02.13,4,"Eljanov,P","Smirnov,P",0-1,2544,A14,2672
-356,Bogdanovich Mem Final,lichess.org INT,2021.02.13,5,"Maximov,D","Eljanov,P",1-0,2672,B10,2497
-357,Bogdanovich Mem Final,lichess.org INT,2021.02.13,6,"Eljanov,P","Polivanov,A",0-1,2454,A04,2672
-358,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,1,"Eljanov,P","Lysiak Poltorak,M",1-0,2126,A45,2672
-359,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,2,"Tregubov,P","Eljanov,P",0-1,2672,B10,2560
-360,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,3,"Eljanov,P","Proudian,Armen",1-0,2427,C53,2672
-361,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,4,"Real de Azua,E","Eljanov,P",1-0,2672,E52,2440
-362,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,5,"Eljanov,P","Romanov,E",1-0,2599,D25,2672
-363,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,6,"Sapunov,E","Eljanov,P",0-1,2672,A17,2461
-364,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,7,"Artemiev,V","Eljanov,P",1-0,2672,A06,2709
-365,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,8,"Eljanov,P","Shahade,G",1/2-1/2,2476,C50,2672
-366,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,9,"Manafov,Vugar","Eljanov,P",0-1,2672,A07,2236
-367,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,10,"Eljanov,P","Boyer,Mahel",0-1,2333,B00,2672
-368,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,1,"Bouget,A","Eljanov,P",1/2-1/2,2672,E51,2247
-369,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,2,"Eljanov,P","Winterberg,L",1/2-1/2,2389,C02,2672
-370,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,3,"Budiarti,Farah Yumna","Eljanov,P",1-0,2672,A46,2040
-371,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,1,"Eljanov,P","Shtyka,S",1-0,2175,B31,2672
-372,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,2,"Sellitti,F","Eljanov,P",0-1,2672,B13,2176
-373,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,3,"Eljanov,P","Pinheiro,I",1-0,2320,A37,2672
-374,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,4,"Molenda,Marcin","Eljanov,P",0-1,2672,E18,2349
-375,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,5,"Eljanov,P","Quparadze,G",0-1,2463,E11,2672
-376,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,6,"Posthuma,Joshua","Eljanov,P",0-1,2672,E00,2291
-377,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,7,"Eljanov,P","Moroni,L",1/2-1/2,2552,B06,2672
-378,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,8,"Andreikin,D","Eljanov,P",1-0,2672,A00,2725
-379,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,9,"Eljanov,P","Real de Azua,E",0-1,2440,C53,2672
-380,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,10,"Stoleriu,George","Eljanov,P",0-1,2672,A00,2349
-381,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,11,"Eljanov,P","Szpar,Milosz",1-0,2416,B31,2672
-382,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,3,"Gschnitzer,Adrian","Eljanov,P",0-1,2672,B12,2413
-383,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,4,"Eljanov,P","Palchuk,Andrii",1-0,2177,D78,2672
-384,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,5,"De Silva,L M S T","Eljanov,P",1/2-1/2,2672,B18,2085
-385,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,6,"Eljanov,P","Erdogdu,M",1-0,2396,D00,2672
-386,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,7,"Eljanov,P","Godzwon,Iwo",1-0,2375,A37,2672
-387,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,8,"Zhigalko,S","Eljanov,P",0-1,2672,B12,2572
-388,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,9,"Bluebaum,M","Eljanov,P",1-0,2672,A46,2670
-389,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,10,"Eljanov,P","Ponikarovsky,A",0-1,1929,B28,2672
-390,Titled Tuesday 16th Mar,chess.com INT,2021.03.16,11,"Molina,Rob","Eljanov,P",1/2-1/2,2672,B13,2434
-391,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,2,"Trent,L","Eljanov,P",0-1,2672,A45,2399
-392,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,3,"Eljanov,P","Vaishali,R",0-1,2393,A20,2672
-393,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,4,"Eljanov,P","Krishnan,V",1-0,2228,B30,2672
-394,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,5,"Ozkan,E","Eljanov,P",0-1,2672,A46,2147
-395,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,6,"Maksimovic,Bojan","Eljanov,P",1-0,2672,A00,2416
-396,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,7,"Eljanov,P","Oliveira,Si",1-0,2321,C53,2672
-397,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,8,"Tin,Jingyao","Eljanov,P",1-0,2672,E42,2487
-398,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,9,"Eljanov,P","Barp,Alberto",0-1,2361,C50,2672
-399,European Online CC GpH,Tornelo INT,2021.03.27,1.1,"Agdelen,Huseyin Can","Eljanov,P",0-1,2672,B11,2206
-400,European Online CC GpH,Tornelo INT,2021.03.27,2.5,"Braun,A","Eljanov,P",1/2-1/2,2672,E20,2609
-401,European Online CC GpH,Tornelo INT,2021.03.27,3.2,"Eljanov,P","Asadli,Vugar",1/2-1/2,2572,D12,2672
-402,European Online CC GpH,Tornelo INT,2021.03.27,4.4,"Mihok,O","Eljanov,P",0-1,2672,B18,2547
-403,European Online CC GpH,Tornelo INT,2021.03.28,5.3,"Eljanov,P","Olsen,Filip Boe",1-0,2379,B23,2672
-404,European Online CC GpH,Tornelo INT,2021.03.28,6.3,"Bromann,T","Eljanov,P",0-1,2672,D01,2392
-405,European Online CC GpH,Tornelo INT,2021.03.28,7.4,"Eljanov,P","Sabuk,P",0-1,2366,A46,2672
-406,European Online CC PlayB,Tornelo INT,2021.03.29,1.3,"Mammadzada,G","Eljanov,P",0-1,2672,B15,2443
-407,European Online CC PlayB,Tornelo INT,2021.03.29,2.2,"Eljanov,P","Lagarde,Max",0-1,2640,A80,2672
-408,European Online CC PlayB,Tornelo INT,2021.03.29,3.2,"Vidit,S","Eljanov,P",1-0,2672,E12,2726
-409,European Online CC PlayB,Tornelo INT,2021.03.29,4.3,"Eljanov,P","Guseinov,G",0-1,2665,E94,2672
-410,European Online CC PlayB,Tornelo INT,2021.03.29,5.1,"Donchenko,Alexa","Eljanov,P",0-1,2672,A07,2659
-411,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,1,"Eljanov,P","Klenburg,M",1/2-1/2,2346,E68,2672
-412,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,2,"Dordzhieva,D","Eljanov,P",0-1,2672,D02,2334
-413,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,3,"Eljanov,P","Aradhya,Garg",1/2-1/2,2198,A07,2672
-414,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,4,"Eljanov,P","Gurevich,D",1/2-1/2,2399,D37,2672
-415,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,5,"Rodchenkov,S","Eljanov,P",1-0,2672,B13,2346
-416,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,6,"Suvorov,Luca","Eljanov,P",0-1,2672,A58,2279
-417,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,8,"Valdes Escobar,A","Eljanov,P",0-1,2672,A04,2355
-418,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,9,"Eljanov,P","Borsuk,K",1-0,2413,A15,2672
-419,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,10,"Maksimovic,Bojan","Eljanov,P",0-1,2672,B15,2416
-420,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,11,"Tomashevsky,E","Eljanov,P",1-0,2672,A46,2706
-421,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,1,"Golizadeh,A","Eljanov,P",0-1,2672,B15,2455
-422,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,2,"Eljanov,P","Sawlin,L",1-0,2385,D02,2672
-423,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,3,"Srihari,L R","Eljanov,P",0-1,2672,A45,2414
-424,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,4,"Eljanov,P","Mirzoev,A",1-0,2430,D02,2672
-425,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,5,"Eljanov,P","Najer,E",0-1,2648,A46,2672
-426,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,6,"Tristan,L","Eljanov,P",1-0,2672,A45,2535
-427,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,7,"Eljanov,P","Valdes,Le",1-0,2402,A55,2672
-428,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,8,"Eljanov,P","Sadovsky,Artem",1-0,2408,B06,2672
-429,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,10,"Eljanov,P","Nikologorskiy,K",1-0,2413,D02,2672
-430,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,11,"Abrashkin,B","Eljanov,P",0-1,2672,E20,2407
-431,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,1,"Estrada Nieto,J","Eljanov,P",0-1,2672,B15,2280
-432,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,2,"Eljanov,P","Postny,E",1-0,2587,C55,2672
-433,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,3,"Ozen,Bahadir","Eljanov,P",0-1,2672,A07,2369
-434,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,4,"Eljanov,P","Sjugirov,S",1-0,2663,E17,2672
-435,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,5,"Xiong,Jeffery","Eljanov,P",0-1,2672,E01,2709
-436,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,6,"Eljanov,P",Yang Kaiqi,1/2-1/2,2481,D11,2672
-437,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,7,"Eljanov,P","He,Anthony",1-0,2337,D30,2672
-438,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,8,"Petrosyan,M","Eljanov,P",0-1,2672,A28,2625
-439,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,9,"Jobava,Ba","Eljanov,P",1-0,2672,A45,2603
-440,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,10,"Eljanov,P","Ter Sahakyan,S",0-1,2645,A07,2672
-441,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,11,"Aditya,Mittal","Eljanov,P",0-1,2672,E20,2438
-442,PNWCC Online Blitz JP 23,chess.com INT,2021.04.11,12,"Eljanov,P","Rychagov,A",1/2-1/2,2545,C02,2672
-443,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,1,"Meissner,F","Eljanov,P",0-1,2672,B10,2362
-444,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,2,"Eljanov,P","Zarnicki,P",0-1,2514,A48,2672
-445,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,3,"Eljanov,P","Adelman,C",1/2-1/2,2268,C41,2672
-446,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,4,"Chabris,C","Eljanov,P",0-1,2672,B12,2125
-447,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,5,Yang Kaiqi,"Eljanov,P",0-1,2672,B13,2481
-448,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,6,"Eljanov,P","Gusarov,G",1-0,2354,B10,2672
-449,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,7,"Erdogdu,M","Eljanov,P",1/2-1/2,2672,B10,2396
-450,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,8,"Eljanov,P","Tristan,L",0-1,2535,D02,2672
-451,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,1,"Eljanov,P","Meissner,F",1-0,2362,A40,2672
-452,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,2,"Mortazavi,A","Eljanov,P",0-1,2672,B10,2333
-453,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,3,"Eljanov,P","Solon,N",1-0,2306,D02,2672
-454,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,4,"Dang,H","Eljanov,P",1-0,2672,E18,2350
-455,TCh-UKR 2021,Lviv UKR,2021.05.09,4.1,"Eljanov,P","Oleksiyenko,Mykhaylo",1/2-1/2,2585,C65,2672
-456,TCh-UKR 2021,Lviv UKR,2021.05.10,5.1,"Volokitin,And","Eljanov,P",1/2-1/2,2672,C53,2650
-457,European Hybrid Qual 2021,Tornelo INT,2021.05.26,2.1,"Gumularz,Szymon","Eljanov,P",1/2-1/2,2672,A07,2517
-458,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.3,"Eljanov,P","Gumularz,Szymon",0-1,2517,E32,2672
-459,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.4,"Gumularz,Szymon","Eljanov,P",1-0,2672,E42,2517
-460,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.2,"Eljanov,P","Gumularz,Szymon",1/2-1/2,2517,A22,2672
-461,Titled Tuesday 15th June,chess.com INT,2021.06.15,1,"Suvorov,Luca","Eljanov,P",0-1,2671,D31,2279
-462,Titled Tuesday 15th June,chess.com INT,2021.06.15,2,"Eljanov,P","Maltsevskaya,Aleksandra",1-0,2390,A20,2671
-463,Titled Tuesday 15th June,chess.com INT,2021.06.15,3,"Tejedor Fuente,Enrique","Eljanov,P",1/2-1/2,2671,A00,2440
-464,Titled Tuesday 15th June,chess.com INT,2021.06.15,5,"Eljanov,P","Sarana,A",0-1,2640,D78,2671
-465,Titled Tuesday 15th June,chess.com INT,2021.06.15,6,"Morefield,Jason","Eljanov,P",0-1,2671,E18,2227
-466,Titled Tuesday 15th June,chess.com INT,2021.06.15,7,"Eljanov,P","Sargsyan,Anna M.",1-0,2397,A11,2671
-467,Titled Tuesday 15th June,chess.com INT,2021.06.15,8,"Kollars,Dmitrij","Eljanov,P",0-1,2671,A28,2607
-468,Titled Tuesday 15th June,chess.com INT,2021.06.15,9,"Eljanov,P","Praggnanandhaa,R",0-1,2608,E68,2671
-469,Titled Tuesday 15th June,chess.com INT,2021.06.15,10,"Savitskiy,S","Eljanov,P",0-1,2671,B15,2437
-470,Titled Tuesday 15th June,chess.com INT,2021.06.15,11,"Eljanov,P","Sjugirov,S",0-1,2661,A37,2671
-471,Titled Tuesday 22nd June,chess.com INT,2021.06.22,1,"Tanaka,Taira Tyler","Eljanov,P",0-1,2671,A07,2099
-472,Titled Tuesday 22nd June,chess.com INT,2021.06.22,2,"Eljanov,P","Mortazavi,A",1-0,2333,B10,2671
-473,Titled Tuesday 22nd June,chess.com INT,2021.06.22,3,"Rojas Alarcon,J","Eljanov,P",1-0,2671,A22,2397
-474,Titled Tuesday 22nd June,chess.com INT,2021.06.22,4,"Eljanov,P","Hemant,S2",0-1,2356,B52,2671
-475,Germany Grand Prix 2021,Dortmund GER,2021.07.13,1.3,"Heimann,An","Eljanov,P",0-1,2671,C77,2599
-476,Germany Grand Prix 2021,Dortmund GER,2021.07.14,2.4,"Eljanov,P","Keymer,Vincent",1-0,2591,B23,2671
-477,Germany Grand Prix 2021,Dortmund GER,2021.07.14,3.3,"Meier,Geo","Eljanov,P",1/2-1/2,2671,C69,2628
-478,Germany Grand Prix 2021,Dortmund GER,2021.07.15,4.3,"Eljanov,P","Bartel,Mat",1-0,2626,C50,2671
-479,Germany Grand Prix 2021,Dortmund GER,2021.07.15,5.4,"Fridman,D","Eljanov,P",1/2-1/2,2671,E17,2608
-480,Germany Grand Prix 2021,Dortmund GER,2021.07.16,6.2,"Eljanov,P","Ponomariov,R",1/2-1/2,2631,C84,2671
-481,Germany Grand Prix 2021,Dortmund GER,2021.07.17,7.5,"Kollars,Dmitrij","Eljanov,P",1-0,2671,C47,2607
-482,Germany Grand Prix 2021,Dortmund GER,2021.07.17,8.1,"Kamsky,G","Eljanov,P",1/2-1/2,2671,A46,2658
-483,Germany Grand Prix 2021,Dortmund GER,2021.07.18,9.5,"Eljanov,P","Kasimdzhanov,R",1-0,2662,A06,2671
-484,TCh-POR Div1 2021,Peniche POR,2021.07.19,1.4,"Del Rio de Angelis,S","Eljanov,P",0-1,2671,E40,2515
-485,TCh-POR Div1 2021,Peniche POR,2021.07.20,3.5,"Erigaisi,Arjun","Eljanov,P",1/2-1/2,2671,E04,2567
-486,TCh-POR Div1 2021,Peniche POR,2021.07.21,4.1,"Peng,Li Min","Eljanov,P",1/2-1/2,2671,D35,2474
-487,TCh-POR Div1 2021,Peniche POR,2021.07.22,5.5,"Eljanov,P","Dardha,Daniel",1-0,2520,D33,2671
-488,TCh-POR Div1 2021,Peniche POR,2021.07.23,7.4,"Eljanov,P","Delgado Ramirez,N",1/2-1/2,2622,E20,2671
-489,TCh-POR Div1 2021,Peniche POR,2021.07.24,8.3,"Plazuelo Pascual,Juan","Eljanov,P",1/2-1/2,2671,D53,2462
-490,TCh-POR Div1 2021,Peniche POR,2021.07.25,9.3,"Eljanov,P","Ferreira,Jor1",1/2-1/2,2521,D35,2671
-491,54th Biel Master Open,Biel SUI,2021.07.26,1.2,"Papadiamandis,Elliot","Eljanov,P",0-1,2671,B15,2363
-492,54th Biel Master Open,Biel SUI,2021.07.27,2.2,"Eljanov,P","Korpa,B",1-0,2536,A14,2671
-493,54th Biel Master Open,Biel SUI,2021.07.28,3.2,"Fedorchuk,S","Eljanov,P",1/2-1/2,2671,C84,2598
-494,54th Biel Master Open,Biel SUI,2021.07.29,4.2,"Eljanov,P","Wagner,De",1/2-1/2,2572,E60,2671
-495,54th Biel Master Open,Biel SUI,2021.07.30,5.4,"Raja,H","Eljanov,P",0-1,2671,B14,2484
-496,54th Biel Master Open,Biel SUI,2021.08.01,6.2,"Eljanov,P","Praggnanandhaa,R",1-0,2608,B30,2671
-497,54th Biel Master Open,Biel SUI,2021.08.02,7.1,"Eljanov,P","Karthikeyan,M2",1/2-1/2,2606,B51,2671
-498,54th Biel Master Open,Biel SUI,2021.08.03,8.2,"Chigaev,M","Eljanov,P",1/2-1/2,2671,A11,2630
-499,54th Biel Master Open,Biel SUI,2021.08.04,9.2,"Salem,AR","Eljanov,P",1-0,2671,E24,2682
-500,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,1,"Eljanov,P","Van der Werf,M",1-0,2393,D31,2677
-501,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,2,"Aldokhin,I","Eljanov,P",0-1,2677,B10,2413
-502,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,3,"Eljanov,P","Levitskiy,Andrey",1-0,2354,A37,2677
-503,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,4,"Eljanov,P","Mikhailovsky,Vladimir",0-1,2197,A07,2677
-504,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,5,"Florescu,C","Eljanov,P",0-1,2677,D45,2293
-505,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,6,"Eljanov,P","Polivanov,A",1-0,2454,A89,2677
-506,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,7,"Stany,G","Eljanov,P",0-1,2677,B12,2522
-507,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,8,"Eljanov,P","Andreikin,D",0-1,2724,A05,2677
-508,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,9,"Eljanov,P","Leitao,R",0-1,2592,A14,2677
-509,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,1,"Eljanov,P","Sagripanti,M",1/2-1/2,2188,A21,2680
-510,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,2,"Nazari,Arad","Eljanov,P",1/2-1/2,2680,B10,2298
-511,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,3,"Eljanov,P","Grigorian,Sp",1-0,2455,A13,2680
-512,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,4,"Jacobson,Aaron","Eljanov,P",0-1,2680,B13,2276
-513,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,5,"Eljanov,P","Sargsyan,Anna M.",1-0,2402,A11,2680
-514,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,6,"Eljanov,P","De Silva,L M S T",1-0,2085,A20,2680
-515,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,7,"Sadhwani,Raunak","Eljanov,P",1-0,2680,D02,2603
-516,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,8,"Eljanov,P","Zarubitski,Viachaslau",1-0,2416,A11,2680
-517,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,9,"Suleymanli,Aydin","Eljanov,P",1-0,2680,E25,2536
-518,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,10,"Eljanov,P","Nozdrachev,L",0-1,2370,B10,2680
-519,4th Sharjah Masters 2021,Sharjah UAE,2021.09.17,1.3,"Sindarov,Javokhir","Eljanov,P",1/2-1/2,2680,C45,2571
-520,4th Sharjah Masters 2021,Sharjah UAE,2021.09.18,2.14,"Eljanov,P","Harutyunian,T",1-0,2573,C50,2680
-521,4th Sharjah Masters 2021,Sharjah UAE,2021.09.19,3.5,"Martirosyan,Haik M.","Eljanov,P",1/2-1/2,2680,D27,2636
-522,4th Sharjah Masters 2021,Sharjah UAE,2021.09.20,4.6,"Eljanov,P","Delgado Ramirez,N",1-0,2588,B90,2680
-523,4th Sharjah Masters 2021,Sharjah UAE,2021.09.21,5.3,"Erigaisi,Arjun","Eljanov,P",1/2-1/2,2680,D27,2626
-524,4th Sharjah Masters 2021,Sharjah UAE,2021.09.22,6.5,"Eljanov,P","Ganguly,S",1-0,2630,E68,2680
-525,4th Sharjah Masters 2021,Sharjah UAE,2021.09.23,7.1,"Eljanov,P","Tabatabaei,M",1-0,2624,E60,2680
-526,4th Sharjah Masters 2021,Sharjah UAE,2021.09.24,8.1,"Narayanan,SL","Eljanov,P",1/2-1/2,2680,D27,2632
-527,4th Sharjah Masters 2021,Sharjah UAE,2021.09.25,9.1,"Eljanov,P","Mchedlishvili,M",1/2-1/2,2571,C42,2680
-528,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.11,1.4,"Salgado Lopez,I","Eljanov,P",1/2-1/2,2691,C67,2604
-529,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.12,2.2,"Eljanov,P","Kuzubov,Y",1/2-1/2,2624,A07,2691
-530,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.13,3.3,"Maghsoodloo,Parham","Eljanov,P",1/2-1/2,2691,A36,2701
-531,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.14,4.3,"Eljanov,P","Howell,D",1-0,2658,B12,2691
-532,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.15,5.2,"Oparin,G","Eljanov,P",1-0,2691,A06,2654
-533,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.16,6.4,"Eljanov,P","Shirov,A",0-1,2659,C53,2691
-534,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.17,7.1,"Naiditsch,A","Eljanov,P",0-1,2691,C53,2660
-535,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.16,"Yilmaz,M","Eljanov,P",1/2-1/2,2691,D20,2626
-536,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.21,"Eljanov,P","Ponomariov,R",0-1,2631,A07,2691
-537,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.40,"Martirosyan,Haik M.","Eljanov,P",1/2-1/2,2691,D52,2624
-538,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.37,"Eljanov,P","Antipov,M2",1-0,2619,A37,2691
-539,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.27,"Yakubboev,Nodirbek","Eljanov,P",1/2-1/2,2691,C26,2621
-540,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.27,"Eljanov,P","Brkic,A",1-0,2621,B51,2691
-541,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.18,"Tabatabaei,M","Eljanov,P",1/2-1/2,2691,C67,2639
-542,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.19,"Eljanov,P","Hovhannisyan,R",1-0,2622,C50,2691
-543,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.10,"Sasikiran,K","Eljanov,P",1-0,2691,C67,2640
-544,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.18,"Eljanov,P","Saric,Iv",1/2-1/2,2644,A09,2691
-545,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.18,"Swiercz,D","Eljanov,P",1/2-1/2,2691,C65,2647
-546,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,1.5,"Romanov,E","Eljanov,P",0-1,2683,C65,2566
-547,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,2.2,"Eljanov,P","Socko,B",1/2-1/2,2642,A30,2683
-548,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,3.2,"Eljanov,P","Amin,B",1/2-1/2,2680,C50,2683
-549,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,4.5,"Harutyunian,T","Eljanov,P",0-1,2683,E06,2552
-550,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,5.2,"Eljanov,P","Salem,AR",1-0,2690,B51,2683
-551,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,6.1,"Eljanov,P","Maghsoodloo,Parham",1-0,2701,E04,2683
-552,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,7.1,"Fedoseev,Vl3","Eljanov,P",1-0,2683,A13,2704
-553,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,8.3,"Jumabayev,R","Eljanov,P",1/2-1/2,2683,D11,2631
-554,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,9.2,"Fridman,D","Eljanov,P",1/2-1/2,2683,E06,2626
-555,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,1.8,"Eljanov,P","Harutyunian,T",1-0,2552,C50,2683
-556,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,2.3,"Romanov,E","Eljanov,P",0-1,2683,A46,2566
-557,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,3.2,"Eljanov,P","Sadhwani,Raunak",1-0,2616,B06,2683
-558,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,4.1,"Socko,B","Eljanov,P",1-0,2683,E12,2642
-559,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,5.2,"Eljanov,P","Fedoseev,Vl3",0-1,2704,B51,2683
-560,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,6.5,"Jumabayev,R","Eljanov,P",0-1,2683,D45,2631
-561,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,7.3,"Eljanov,P","Van Wely,L",1/2-1/2,2612,B40,2683
-562,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,8.3,"Eljanov,P","Fridman,D",1/2-1/2,2626,A13,2683
-563,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,9.4,"Bellahcene,B","Eljanov,P",1-0,2683,B12,2512
-564,Titled Tuesday 18th Jan,chess.com INT,2022.01.18,1,"Dauner,Benedikt","Eljanov,P",1-0,2683,D02,2331
-565,Titled Tuesday 18th Jan,chess.com INT,2022.01.18,2,"Eljanov,P","Prydun,Andriy",1-0,2165,B10,2683
-566,Titled Tuesday 18th Jan,chess.com INT,2022.01.18,3,"Romanchuk,V","Eljanov,P",0-1,2683,E46,2266
-567,Titled Tuesday 18th Jan,chess.com INT,2022.01.18,4,"Eljanov,P","Suder,Jakub",0-1,2349,B40,2683
-568,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,1,"Eljanov,P","Skytte,R",1-0,2376,A45,2683
-569,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,2,"Vusatiuk,V","Eljanov,P",0-1,2683,E46,2307
-570,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,3,"Koelle,Tobias","Eljanov,P",0-1,2683,E17,2380
-571,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,4,"Eljanov,P","Shevchenko,Kirill",0-1,2652,E68,2683
-572,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,5,"Atakhan,Abtin","Eljanov,P",1-0,2683,D02,2357
-573,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,6,"Eljanov,P","Risteski,Emil",1-0,2363,A55,2683
-574,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,7,"Seul,G","Eljanov,P",0-1,2683,B12,2377
-575,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,8,"Eljanov,P","Sargsyan,Anna M.",1-0,2380,A11,2683
-576,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,9,"Artemenko,O","Eljanov,P",0-1,2683,D00,2246
-577,Titled Tuesday 25th Jan,chess.com INT,2022.01.25,10,"Eljanov,P","Michelakos,P",0-1,2280,A37,2683
-578,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,1,"Bettalli,Francesco","Eljanov,P",1-0,2683,A45,2302
-579,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.02.12,9.3,"Eljanov,P","Dragnev,Valentin",1/2-1/2,2543,A16,2691
-580,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.02.13,10.3,"Saric,Iv","Eljanov,P",1/2-1/2,2691,C53,2644
-581,Bundesliga 2021-22,Munich GER,2022.04.30,5.2,"Vogel,Roven","Eljanov,P",1/2-1/2,2681,E04,2447
-582,Bundesliga 2021-22,Munich GER,2022.05.01,6.1,"Eljanov,P","Rozentalis,E",1-0,2539,E17,2681
-583,Solidarity FRA-UKR Match,Tornelo INT,2022.05.14,1.1,"Fressinet,L","Eljanov,P",1/2-1/2,2681,B10,2630
-584,Solidarity FRA-UKR Match,Tornelo INT,2022.05.14,2.1,"Eljanov,P","Fressinet,L",1-0,2630,E64,2681
-585,Titled Tue 31st May Early,chess.com INT,2022.05.31,1,"Eljanov,P","Girinath,P",0-1,2361,A13,2681
-586,Titled Tue 31st May Late,chess.com INT,2022.05.31,1,"Mickiewicz,P","Eljanov,P",0-1,2681,B15,2302
-587,Titled Tue 31st May Late,chess.com INT,2022.05.31,2,"Eljanov,P","Avazkhonov,Alikhon",1-0,1538,B90,2681
-588,Titled Tue 31st May Early,chess.com INT,2022.05.31,2,"Leschinsky,Gary","Eljanov,P",0-1,2681,D15,1955
-589,Titled Tue 31st May Late,chess.com INT,2022.05.31,3,"Eljanov,P","Xiong,Jeffery",1/2-1/2,2688,A34,2681
-590,Titled Tue 31st May Early,chess.com INT,2022.05.31,3,"Eljanov,P","Gracia Alvarez,Gerardo Antonio",1-0,2237,A37,2681
-591,Titled Tue 31st May Early,chess.com INT,2022.05.31,4,"Eljanov,P","Sjoberg,Isak",1-0,2308,A04,2681
-592,Titled Tue 31st May Late,chess.com INT,2022.05.31,4,"Terry,R","Eljanov,P",1-0,2681,A45,2504
-593,Titled Tue 31st May Early,chess.com INT,2022.05.31,5,"Kamsky,G","Eljanov,P",0-1,2681,A46,2661
-594,Titled Tue 31st May Late,chess.com INT,2022.05.31,5,"Eljanov,P","Batsiashvili,N",1-0,2463,D32,2681
-595,Titled Tue 31st May Early,chess.com INT,2022.05.31,6,"Eljanov,P","Donchenko,Alexa",0-1,2599,D02,2681
-596,Titled Tue 31st May Late,chess.com INT,2022.05.31,6,"Paravyan,D","Eljanov,P",1-0,2681,B12,2617
-597,Titled Tue 31st May Late,chess.com INT,2022.05.31,7,"Eljanov,P","Ozsakallioglu,Okan",1-0,2312,B40,2681
-598,Titled Tue 31st May Early,chess.com INT,2022.05.31,7,"Nasir,Zehn","Eljanov,P",0-1,2681,D00,2057
-599,Titled Tue 31st May Late,chess.com INT,2022.05.31,8,"Romanchuk,V","Eljanov,P",1/2-1/2,2681,E46,2266
-600,Titled Tue 31st May Early,chess.com INT,2022.05.31,8,"Svane,Frederik","Eljanov,P",0-1,2681,B13,2501
-601,Titled Tue 31st May Late,chess.com INT,2022.05.31,9,"Eljanov,P","Lomaia,Diana",1-0,1846,A50,2681
-602,Titled Tue 31st May Early,chess.com INT,2022.05.31,9,"Eljanov,P","Durarbayli,V",0-1,2638,E17,2681
-603,Titled Tue 31st May Early,chess.com INT,2022.05.31,10,"Swiercz,D","Eljanov,P",1-0,2681,B12,2665
-604,Titled Tue 31st May Late,chess.com INT,2022.05.31,10,"Swiercz,D","Eljanov,P",1/2-1/2,2681,B12,2665
-605,Titled Tue 31st May Late,chess.com INT,2022.05.31,11,"Eljanov,P","Trost,Edvin",0-1,2366,A28,2681
-606,Titled Tue 31st May Early,chess.com INT,2022.05.31,11,"Eljanov,P","Janaszak,Daw",1-0,2334,E64,2681
-607,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,1,"Toncheva,Nadya","Eljanov,P",0-1,2681,B15,2228
-608,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,2,"Eljanov,P","Suder,Jakub",1-0,2320,B45,2681
-609,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,3,"Eljanov,P","Krstulovic,Alex",1-0,2413,B40,2681
-610,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,4,"Oparin,G","Eljanov,P",1-0,2681,E10,2683
-611,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,5,"Eljanov,P","Leiva,G",1-0,2389,B92,2681
-612,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,6,"Martinez Alcantara,Jose Eduardo","Eljanov,P",1/2-1/2,2681,B12,2591
-613,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,7,"Tari,A","Eljanov,P",1-0,2681,B12,2672
-614,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,8,"Eljanov,P","Jaracz,P",1/2-1/2,2467,B51,2681
-615,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,9,"Sargsyan,Anna M.","Eljanov,P",0-1,2681,A85,2378
-616,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,10,"Melikyan,Gnel","Eljanov,P",0-1,2681,B12,2140
-617,Titled Tue 5th Jul Late,chess.com INT,2022.07.05,11,"Eljanov,P","Rustemov,A",0-1,2525,C02,2681
-618,Deutschland Grand Prix,Dortmund GER,2022.07.17,1.2,"Eljanov,P","Svane,R",1-0,2649,C50,2681
-619,Deutschland Grand Prix,Dortmund GER,2022.07.18,2.3,"L'Ami,E","Eljanov,P",0-1,2681,E10,2634
-620,Deutschland Grand Prix,Dortmund GER,2022.07.20,4.3,"Eljanov,P","Deac,Bogdan-Daniel",1/2-1/2,2692,A06,2681
-621,Deutschland Grand Prix,Dortmund GER,2022.07.22,5.1,"McShane,L","Eljanov,P",1/2-1/2,2681,C67,2649
-622,Deutschland Grand Prix,Dortmund GER,2022.07.23,6.2,"Eljanov,P","Bluebaum,M",1-0,2673,A07,2681
-623,Deutschland Grand Prix,Dortmund GER,2022.07.24,7.2,"Navara,D","Eljanov,P",1/2-1/2,2681,D35,2688
-624,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,1,"So,W","Eljanov,P",1-0,2695,C50,2773
-625,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,2,"Eljanov,P","Adams,Mi",0-1,2697,A07,2695
-626,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,3,"Hansen,Eric","Eljanov,P",1-0,2695,C64,2606
-627,Titled Tue 16th Aug Late,chess.com INT,2022.08.16,1,"Mendez Fortes,E","Eljanov,P",1-0,2695,B15,2250
-628,Titled Tue 16th Aug Late,chess.com INT,2022.08.16,2,"Eljanov,P","Pires,M",1-0,2262,A02,2695
-629,Titled Tue 16th Aug Late,chess.com INT,2022.08.16,3,"Goncalves,Davi Sulzbacher","Eljanov,P",1-0,2695,D15,2282
+15,FEDA Int Scheveningen,Los Cancajos ESP,2020.11.30,1.3,"Eljanov,P","Salgado Lopez,I",1/2-1/2,2593,C53,2672
+16,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.01,2.2,"Santos Latasa,J","Eljanov,P",0-1,2672,A21,2600
+17,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.02,3.3,"Eljanov,P","Anton Guijarro,D",1/2-1/2,2675,D38,2672
+18,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.03,4.3,"Vazquez Igarza,R","Eljanov,P",1/2-1/2,2672,E10,2556
+19,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.04,5.3,"Eljanov,P","Santos Ruiz,Miguel",1/2-1/2,2581,D78,2672
+20,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.05,6.3,"Salgado Lopez,I","Eljanov,P",1/2-1/2,2672,A07,2593
+21,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.06,7.3,"Eljanov,P","Santos Latasa,J",1/2-1/2,2600,C42,2672
+22,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.07,8.3,"Anton Guijarro,D","Eljanov,P",1/2-1/2,2672,E46,2675
+23,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.08,9.3,"Eljanov,P","Vazquez Igarza,R",1-0,2556,B47,2672
+24,FEDA Int Scheveningen,Los Cancajos ESP,2020.12.09,10.3,"Santos Ruiz,Miguel","Eljanov,P",1/2-1/2,2672,E32,2581
+25,TCh-UKR 2021,Lviv UKR,2021.05.09,4.1,"Eljanov,P","Oleksiyenko,Mykhaylo",1/2-1/2,2585,C65,2672
+26,TCh-UKR 2021,Lviv UKR,2021.05.10,5.1,"Volokitin,And","Eljanov,P",1/2-1/2,2672,C53,2650
+27,European Hybrid Qual 2021,Tornelo INT,2021.05.26,2.1,"Gumularz,Szymon","Eljanov,P",1/2-1/2,2672,A07,2517
+28,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.3,"Eljanov,P","Gumularz,Szymon",0-1,2517,E32,2672
+29,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.4,"Gumularz,Szymon","Eljanov,P",1-0,2672,E42,2517
+30,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.2,"Eljanov,P","Gumularz,Szymon",1/2-1/2,2517,A22,2672
+31,Germany Grand Prix 2021,Dortmund GER,2021.07.13,1.3,"Heimann,An","Eljanov,P",0-1,2671,C77,2599
+32,Germany Grand Prix 2021,Dortmund GER,2021.07.14,2.4,"Eljanov,P","Keymer,Vincent",1-0,2591,B23,2671
+33,Germany Grand Prix 2021,Dortmund GER,2021.07.14,3.3,"Meier,Geo","Eljanov,P",1/2-1/2,2671,C69,2628
+34,Germany Grand Prix 2021,Dortmund GER,2021.07.15,4.3,"Eljanov,P","Bartel,Mat",1-0,2626,C50,2671
+35,Germany Grand Prix 2021,Dortmund GER,2021.07.15,5.4,"Fridman,D","Eljanov,P",1/2-1/2,2671,E17,2608
+36,Germany Grand Prix 2021,Dortmund GER,2021.07.16,6.2,"Eljanov,P","Ponomariov,R",1/2-1/2,2631,C84,2671
+37,Germany Grand Prix 2021,Dortmund GER,2021.07.17,7.5,"Kollars,Dmitrij","Eljanov,P",1-0,2671,C47,2607
+38,Germany Grand Prix 2021,Dortmund GER,2021.07.17,8.1,"Kamsky,G","Eljanov,P",1/2-1/2,2671,A46,2658
+39,Germany Grand Prix 2021,Dortmund GER,2021.07.18,9.5,"Eljanov,P","Kasimdzhanov,R",1-0,2662,A06,2671
+40,TCh-POR Div1 2021,Peniche POR,2021.07.19,1.4,"Del Rio de Angelis,S","Eljanov,P",0-1,2671,E40,2515
+41,TCh-POR Div1 2021,Peniche POR,2021.07.20,3.5,"Erigaisi,Arjun","Eljanov,P",1/2-1/2,2671,E04,2567
+42,TCh-POR Div1 2021,Peniche POR,2021.07.21,4.1,"Peng,Li Min","Eljanov,P",1/2-1/2,2671,D35,2474
+43,TCh-POR Div1 2021,Peniche POR,2021.07.22,5.5,"Eljanov,P","Dardha,Daniel",1-0,2520,D33,2671
+44,TCh-POR Div1 2021,Peniche POR,2021.07.23,7.4,"Eljanov,P","Delgado Ramirez,N",1/2-1/2,2622,E20,2671
+45,TCh-POR Div1 2021,Peniche POR,2021.07.24,8.3,"Plazuelo Pascual,Juan","Eljanov,P",1/2-1/2,2671,D53,2462
+46,TCh-POR Div1 2021,Peniche POR,2021.07.25,9.3,"Eljanov,P","Ferreira,Jor1",1/2-1/2,2521,D35,2671
+47,54th Biel Master Open,Biel SUI,2021.07.26,1.2,"Papadiamandis,Elliot","Eljanov,P",0-1,2671,B15,2363
+48,54th Biel Master Open,Biel SUI,2021.07.27,2.2,"Eljanov,P","Korpa,B",1-0,2536,A14,2671
+49,54th Biel Master Open,Biel SUI,2021.07.28,3.2,"Fedorchuk,S","Eljanov,P",1/2-1/2,2671,C84,2598
+50,54th Biel Master Open,Biel SUI,2021.07.29,4.2,"Eljanov,P","Wagner,De",1/2-1/2,2572,E60,2671
+51,54th Biel Master Open,Biel SUI,2021.07.30,5.4,"Raja,H","Eljanov,P",0-1,2671,B14,2484
+52,54th Biel Master Open,Biel SUI,2021.08.01,6.2,"Eljanov,P","Praggnanandhaa,R",1-0,2608,B30,2671
+53,54th Biel Master Open,Biel SUI,2021.08.02,7.1,"Eljanov,P","Karthikeyan,M2",1/2-1/2,2606,B51,2671
+54,54th Biel Master Open,Biel SUI,2021.08.03,8.2,"Chigaev,M","Eljanov,P",1/2-1/2,2671,A11,2630
+55,54th Biel Master Open,Biel SUI,2021.08.04,9.2,"Salem,AR","Eljanov,P",1-0,2671,E24,2682
+56,4th Sharjah Masters 2021,Sharjah UAE,2021.09.17,1.3,"Sindarov,Javokhir","Eljanov,P",1/2-1/2,2680,C45,2571
+57,4th Sharjah Masters 2021,Sharjah UAE,2021.09.18,2.14,"Eljanov,P","Harutyunian,T",1-0,2573,C50,2680
+58,4th Sharjah Masters 2021,Sharjah UAE,2021.09.19,3.5,"Martirosyan,Haik M.","Eljanov,P",1/2-1/2,2680,D27,2636
+59,4th Sharjah Masters 2021,Sharjah UAE,2021.09.20,4.6,"Eljanov,P","Delgado Ramirez,N",1-0,2588,B90,2680
+60,4th Sharjah Masters 2021,Sharjah UAE,2021.09.21,5.3,"Erigaisi,Arjun","Eljanov,P",1/2-1/2,2680,D27,2626
+61,4th Sharjah Masters 2021,Sharjah UAE,2021.09.22,6.5,"Eljanov,P","Ganguly,S",1-0,2630,E68,2680
+62,4th Sharjah Masters 2021,Sharjah UAE,2021.09.23,7.1,"Eljanov,P","Tabatabaei,M",1-0,2624,E60,2680
+63,4th Sharjah Masters 2021,Sharjah UAE,2021.09.24,8.1,"Narayanan,SL","Eljanov,P",1/2-1/2,2680,D27,2632
+64,4th Sharjah Masters 2021,Sharjah UAE,2021.09.25,9.1,"Eljanov,P","Mchedlishvili,M",1/2-1/2,2571,C42,2680
+65,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.11,1.4,"Salgado Lopez,I","Eljanov,P",1/2-1/2,2691,C67,2604
+66,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.12,2.2,"Eljanov,P","Kuzubov,Y",1/2-1/2,2624,A07,2691
+67,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.13,3.3,"Maghsoodloo,Parham","Eljanov,P",1/2-1/2,2691,A36,2701
+68,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.14,4.3,"Eljanov,P","Howell,D",1-0,2658,B12,2691
+69,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.15,5.2,"Oparin,G","Eljanov,P",1-0,2691,A06,2654
+70,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.16,6.4,"Eljanov,P","Shirov,A",0-1,2659,C53,2691
+71,TCh-ESP Div Honor 2021,Toledo ESP,2021.10.17,7.1,"Naiditsch,A","Eljanov,P",0-1,2691,C53,2660
+72,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.16,"Yilmaz,M","Eljanov,P",1/2-1/2,2691,D20,2626
+73,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.21,"Eljanov,P","Ponomariov,R",0-1,2631,A07,2691
+74,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.40,"Martirosyan,Haik M.","Eljanov,P",1/2-1/2,2691,D52,2624
+75,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.37,"Eljanov,P","Antipov,M2",1-0,2619,A37,2691
+76,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.27,"Yakubboev,Nodirbek","Eljanov,P",1/2-1/2,2691,C26,2621
+77,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.27,"Eljanov,P","Brkic,A",1-0,2621,B51,2691
+78,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.18,"Tabatabaei,M","Eljanov,P",1/2-1/2,2691,C67,2639
+79,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.19,"Eljanov,P","Hovhannisyan,R",1-0,2622,C50,2691
+80,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.10,"Sasikiran,K","Eljanov,P",1-0,2691,C67,2640
+81,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.18,"Eljanov,P","Saric,Iv",1/2-1/2,2644,A09,2691
+82,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.18,"Swiercz,D","Eljanov,P",1/2-1/2,2691,C65,2647
+83,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,1.5,"Romanov,E","Eljanov,P",0-1,2683,C65,2566
+84,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,2.2,"Eljanov,P","Socko,B",1/2-1/2,2642,A30,2683
+85,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.12,3.2,"Eljanov,P","Amin,B",1/2-1/2,2680,C50,2683
+86,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,4.5,"Harutyunian,T","Eljanov,P",0-1,2683,E06,2552
+87,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,5.2,"Eljanov,P","Salem,AR",1-0,2690,B51,2683
+88,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.13,6.1,"Eljanov,P","Maghsoodloo,Parham",1-0,2701,E04,2683
+89,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,7.1,"Fedoseev,Vl3","Eljanov,P",1-0,2683,A13,2704
+90,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,8.3,"Jumabayev,R","Eljanov,P",1/2-1/2,2683,D11,2631
+91,27th Abu Dhabi Masters,Abu Dhabi UAE,2021.12.14,9.2,"Fridman,D","Eljanov,P",1/2-1/2,2683,E06,2626
+92,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,1.8,"Eljanov,P","Harutyunian,T",1-0,2552,C50,2683
+93,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,2.3,"Romanov,E","Eljanov,P",0-1,2683,A46,2566
+94,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,3.2,"Eljanov,P","Sadhwani,Raunak",1-0,2616,B06,2683
+95,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,4.1,"Socko,B","Eljanov,P",1-0,2683,E12,2642
+96,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,5.2,"Eljanov,P","Fedoseev,Vl3",0-1,2704,B51,2683
+97,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,6.5,"Jumabayev,R","Eljanov,P",0-1,2683,D45,2631
+98,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,7.3,"Eljanov,P","Van Wely,L",1/2-1/2,2612,B40,2683
+99,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,8.3,"Eljanov,P","Fridman,D",1/2-1/2,2626,A13,2683
+100,27th Abu Dhabi Mast Blitz,Abu Dhabi UAE,2021.12.15,9.4,"Bellahcene,B","Eljanov,P",1-0,2683,B12,2512
+101,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.02.12,9.3,"Eljanov,P","Dragnev,Valentin",1/2-1/2,2543,A16,2691
+102,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.02.13,10.3,"Saric,Iv","Eljanov,P",1/2-1/2,2691,C53,2644
+103,Bundesliga 2021-22,Munich GER,2022.04.30,5.2,"Vogel,Roven","Eljanov,P",1/2-1/2,2681,E04,2447
+104,Bundesliga 2021-22,Munich GER,2022.05.01,6.1,"Eljanov,P","Rozentalis,E",1-0,2539,E17,2681
+105,Solidarity FRA-UKR Match,Tornelo INT,2022.05.14,1.1,"Fressinet,L","Eljanov,P",1/2-1/2,2681,B10,2630
+106,Solidarity FRA-UKR Match,Tornelo INT,2022.05.14,2.1,"Eljanov,P","Fressinet,L",1-0,2630,E64,2681
+107,Deutschland Grand Prix,Dortmund GER,2022.07.17,1.2,"Eljanov,P","Svane,R",1-0,2649,C50,2681
+108,Deutschland Grand Prix,Dortmund GER,2022.07.18,2.3,"L'Ami,E","Eljanov,P",0-1,2681,E10,2634
+109,Deutschland Grand Prix,Dortmund GER,2022.07.20,4.3,"Eljanov,P","Deac,Bogdan-Daniel",1/2-1/2,2692,A06,2681
+110,Deutschland Grand Prix,Dortmund GER,2022.07.22,5.1,"McShane,L","Eljanov,P",1/2-1/2,2681,C67,2649
+111,Deutschland Grand Prix,Dortmund GER,2022.07.23,6.2,"Eljanov,P","Bluebaum,M",1-0,2673,A07,2681
+112,Deutschland Grand Prix,Dortmund GER,2022.07.24,7.2,"Navara,D","Eljanov,P",1/2-1/2,2681,D35,2688

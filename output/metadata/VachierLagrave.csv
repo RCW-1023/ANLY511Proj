@@ -1,993 +1,284 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-0,PRO League Group Stage,chess.com INT,2020.01.09,1,"Klekowski,M","Vachier Lagrave,M",0-1,2770,A22,2515
-1,PRO League Group Stage,chess.com INT,2020.01.09,1,"Vachier Lagrave,M","Piorun,K",0-1,2611,D38,2770
-2,PRO League Group Stage,chess.com INT,2020.01.09,1,"Socko,B","Vachier Lagrave,M",1/2-1/2,2770,E60,2619
-3,PRO League Group Stage,chess.com INT,2020.01.09,1,"Vachier Lagrave,M","Bartel,Mat",1-0,2639,A00,2770
-4,PRO League Group Stage,chess.com INT,2020.01.15,2,"Vachier Lagrave,M","Narayanan,Sri",1/2-1/2,2535,A28,2770
-5,PRO League Group Stage,chess.com INT,2020.01.15,2,"Vachier Lagrave,M","Hauge,Lars Oskar",1-0,2493,A04,2770
-6,PRO League Group Stage,chess.com INT,2020.01.15,2,"Niemann,Hans Moke","Vachier Lagrave,M",0-1,2770,D80,2465
-7,PRO League Group Stage,chess.com INT,2020.01.15,2,"Hammer,J","Vachier Lagrave,M",0-1,2770,A10,2628
-8,Gibraltar Masters 2020,Caleta ENG,2020.01.21,1.2,"Vachier Lagrave,M","Sukandar,I",1-0,2402,B35,2770
-9,Gibraltar Masters 2020,Caleta ENG,2020.01.22,2.2,"Flom,Gabriel","Vachier Lagrave,M",1/2-1/2,2770,D85,2510
-10,Gibraltar Masters 2020,Caleta ENG,2020.01.23,3.18,"Vachier Lagrave,M","Baron,Ta",1-0,2529,A37,2770
-11,Gibraltar Masters 2020,Caleta ENG,2020.01.24,4.4,"Vaibhav,S","Vachier Lagrave,M",1/2-1/2,2770,B92,2593
-12,Gibraltar Masters 2020,Caleta ENG,2020.01.25,5.8,"Vachier Lagrave,M","Sanal,V",1/2-1/2,2569,C77,2770
-13,Gibraltar Masters 2020,Caleta ENG,2020.01.26,6.9,"Vachier Lagrave,M","Peralta,Fe",1-0,2574,C02,2770
-14,Gibraltar Masters 2020,Caleta ENG,2020.01.27,7.4,"Karthikeyan,M2","Vachier Lagrave,M",1/2-1/2,2770,B90,2606
-15,Gibraltar Masters 2020,Caleta ENG,2020.01.28,8.5,"Basso,Pier Luigi","Vachier Lagrave,M",1/2-1/2,2770,D92,2600
-16,Gibraltar Masters 2020,Caleta ENG,2020.01.29,9.6,"Vachier Lagrave,M","Can,E",1-0,2600,B51,2770
-17,Gibraltar Masters 2020,Caleta ENG,2020.01.30,10.3,"Vachier Lagrave,M","Maghsoodloo,Parham",1-0,2674,D38,2770
-18,Bundesliga 2019-20,Kiel GER,2020.02.09,6.5,"Svane,R","Vachier Lagrave,M",1/2-1/2,2777,A34,2594
-19,PRO League Group Stage,chess.com INT,2020.02.13,6,"Diaz Camallonga,C","Vachier Lagrave,M",0-1,2770,B51,2474
-20,PRO League Group Stage,chess.com INT,2020.02.13,6,"Herrera Reyes,J","Vachier Lagrave,M",0-1,2770,A07,2304
-21,PRO League Group Stage,chess.com INT,2020.02.13,6,"Vachier Lagrave,M","Forcen Esteban,D",1-0,2548,A17,2770
-22,PRO League Group Stage,chess.com INT,2020.02.13,6,"Vachier Lagrave,M","Martinez Reyes,P",1-0,2407,C03,2770
-23,PRO League Group Stage,chess.com INT,2020.02.17,7,"Vachier Lagrave,M","Dvirnyy,D",1-0,2485,C01,2770
-24,PRO League Group Stage,chess.com INT,2020.02.17,7,"Gilevych,Artem","Vachier Lagrave,M",0-1,2770,A04,2415
-25,PRO League Group Stage,chess.com INT,2020.02.17,7,"Vachier Lagrave,M","Valsecchi,A",1-0,2512,C51,2770
-26,PRO League Group Stage,chess.com INT,2020.02.17,7,"Brunello,S","Vachier Lagrave,M",1/2-1/2,2770,A50,2536
-27,PRO League KO Stage 2020,chess.com INT,2020.03.04,1,"Moranda,W","Vachier Lagrave,M",1/2-1/2,2767,D92,2605
-28,PRO League KO Stage 2020,chess.com INT,2020.03.04,1,"Vachier Lagrave,M","Guseinov,G",1-0,2665,B30,2767
-29,PRO League KO Stage 2020,chess.com INT,2020.03.04,1,"Vachier Lagrave,M","Fedoseev,Vl3",1/2-1/2,2678,A07,2767
-30,PRO League KO Stage TB 2020,chess.com INT,2020.03.04,1.1.6,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C53,2767
-31,PRO League KO Stage 2020,chess.com INT,2020.03.04,1,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2767,B51,2736
-32,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.1,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2842,C78,2767
-33,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.4,"Vachier Lagrave,M",Ding Liren,1-0,2805,C88,2767
-34,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.2,"Giri,A","Vachier Lagrave,M",1/2-1/2,2767,D85,2763
-35,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.3,"Vachier Lagrave,M","Grischuk,A",1/2-1/2,2777,C67,2767
-36,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.3,"Alekseenko,K","Vachier Lagrave,M",1/2-1/2,2767,B90,2698
-37,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2767,D87,2762
-38,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2774,C19,2767
-39,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.3,"Vachier Lagrave,M","Giri,A",1/2-1/2,2764,B30,2778
-40,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.4,"Giri,A","Vachier Lagrave,M",1/2-1/2,2778,E06,2764
-41,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.1,"Vachier Lagrave,M","Giri,A",1-0,2764,E32,2778
-42,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.2,"Giri,A","Vachier Lagrave,M",0-1,2778,D43,2764
-43,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.5,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,C42,2778
-44,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.3,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2778,B24,2784
-45,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2778,A11,2784
-46,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.4,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,B51,2778
-47,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.2,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2784,C19,2778
-48,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,D14,2791
-49,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E35,2778
-50,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.3,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E35,2778
-51,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.5,Ding Liren,"Vachier Lagrave,M",1-0,2778,D15,2791
-52,Carlsen Inv Prelim,chess24.com INT,2020.04.23,3.2,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,D12,2791
-53,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.2,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2863,E60,2778
-54,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.4,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2863,D11,2778
-55,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.3,"Carlsen,M","Vachier Lagrave,M",1-0,2778,D10,2863
-56,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2778,B54,2863
-57,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.3,"Vachier Lagrave,M","Firouzja,Alireza",0-1,2728,E39,2778
-58,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.2,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,D12,2728
-59,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.4,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,D13,2728
-60,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.1,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,E39,2778
-61,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.3,"Caruana,F","Vachier Lagrave,M",1-0,2778,A88,2835
-62,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2835,D31,2778
-63,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.1,"Caruana,F","Vachier Lagrave,M",1-0,2778,D12,2835
-64,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.4,"Vachier Lagrave,M","Caruana,F",1-0,2835,A00,2778
-65,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2778,A45,2736
-66,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,A08,2778
-67,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,A45,2778
-68,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2778,A45,2736
-69,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.5,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C50,2778
-70,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.1,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2784,B90,2778
-71,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.3,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,E32,2778
-72,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.2,"Anand,V","Vachier Lagrave,M",1/2-1/2,2778,D12,2753
-73,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.2,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,D37,2778
-74,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2778,D43,2765
-75,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2778,B12,2784
-76,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.3,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2778,A06,2791
-77,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.2,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,D35,2778
-78,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.2,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2778,D10,2736
-79,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.3,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,D37,2778
-80,Titled Tuesday 12th May,chess.com INT,2020.05.12,2,"Pozo Vera,S","Vachier Lagrave,M",0-1,2778,D20,2414
-81,Titled Tuesday 12th May,chess.com INT,2020.05.12,3,"Vachier Lagrave,M","Costachi,M",1-0,2471,C44,2778
-82,Titled Tuesday 12th May,chess.com INT,2020.05.12,5,"Vachier Lagrave,M","Ramirez,Alej",0-1,2567,A45,2778
-83,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.11,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2778,E71,2728
-84,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.12,"Vachier Lagrave,M","Firouzja,Alireza",0-1,2728,A14,2778
-85,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.13,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2778,E71,2728
-86,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.14,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,A06,2778
-87,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.21,"Vachier Lagrave,M","Caruana,F",0-1,2835,A28,2778
-88,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.22,"Caruana,F","Vachier Lagrave,M",0-1,2778,A45,2835
-89,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.21,"Vachier Lagrave,M","Grischuk,A",0-1,2777,A06,2778
-90,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.22,"Grischuk,A","Vachier Lagrave,M",0-1,2778,B27,2777
-91,Titled Tuesday 26th May,chess.com INT,2020.05.26,1,"Seul,G","Vachier Lagrave,M",0-1,2778,B13,2372
-92,Titled Tuesday 26th May,chess.com INT,2020.05.26,3,"Preotu,Razvan","Vachier Lagrave,M",0-1,2778,B11,2487
-93,Titled Tuesday 26th May,chess.com INT,2020.05.26,4,"Vachier Lagrave,M","Postny,E",1-0,2600,A06,2778
-94,Titled Tuesday 26th May,chess.com INT,2020.05.26,5,"Bocharov,D","Vachier Lagrave,M",1/2-1/2,2778,A20,2524
-95,Titled Tuesday 26th May,chess.com INT,2020.05.26,6,"Vachier Lagrave,M","Bologan,V",0-1,2574,A45,2778
-96,Titled Tuesday 2nd June,chess.com INT,2020.06.02,1,"Vachier Lagrave,M","Kadam,Om Manish",1-0,2114,A48,2778
-97,Titled Tuesday 2nd June,chess.com INT,2020.06.02,2,"Danielian,E","Vachier Lagrave,M",0-1,2778,D02,2407
-98,Titled Tuesday 2nd June,chess.com INT,2020.06.02,3,"Vachier Lagrave,M","Beerdsen,Thomas",1-0,2479,A20,2778
-99,Titled Tuesday 2nd June,chess.com INT,2020.06.02,4,"Fier,A","Vachier Lagrave,M",1-0,2778,E91,2560
-100,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.5,"So,W","Vachier Lagrave,M",1-0,2778,D11,2770
-101,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.4,"Vachier Lagrave,M","So,W",0-1,2770,E34,2778
-102,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.3,"So,W","Vachier Lagrave,M",1/2-1/2,2778,D12,2770
-103,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.2,"Vachier Lagrave,M","So,W",1/2-1/2,2770,E32,2778
-104,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.6,"Vachier Lagrave,M","So,W",1/2-1/2,2770,A28,2778
-105,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.1,"So,W","Vachier Lagrave,M",1/2-1/2,2778,D12,2770
-106,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.12,"So,W","Vachier Lagrave,M",1-0,2778,B00,2770
-107,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.9,"Vachier Lagrave,M","So,W",1-0,2770,A06,2778
-108,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.8,"So,W","Vachier Lagrave,M",1/2-1/2,2778,D12,2770
-109,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.7,"Vachier Lagrave,M","So,W",1/2-1/2,2770,A08,2778
-110,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.10,"So,W","Vachier Lagrave,M",1/2-1/2,2778,E92,2770
-111,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.11,"Vachier Lagrave,M","So,W",0-1,2770,C50,2778
-112,Titled Tuesday 9th June,chess.com INT,2020.06.09,1,"Jian,Alex","Vachier Lagrave,M",0-1,2778,E34,2089
-113,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,1.1,"Vachier Lagrave,M","Abdusattorov,Nodirbek",1-0,2627,D00,2778
-114,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,2.2,Le Tuan Minh,"Vachier Lagrave,M",0-1,2778,A48,2501
-115,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,2.1,"Vachier Lagrave,M",Le Tuan Minh,1/2-1/2,2501,A05,2778
-116,Titled Tuesday 9th June,chess.com INT,2020.06.09,2,"Vachier Lagrave,M","Golubev,M",1-0,2461,A48,2778
-117,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,3.2,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2728,A14,2778
-118,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,3.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,E71,2728
-119,Titled Tuesday 9th June,chess.com INT,2020.06.09,3,"Mendonca,Leon Luke","Vachier Lagrave,M",0-1,2778,A04,2452
-120,Titled Tuesday 9th June,chess.com INT,2020.06.09,4,"Petrosyan,M","Vachier Lagrave,M",0-1,2778,D12,2607
-121,Titled Tuesday 9th June,chess.com INT,2020.06.09,5,"Vachier Lagrave,M","Clarke,B",1-0,2429,A15,2778
-122,Titled Tuesday 9th June,chess.com INT,2020.06.09,6,"Dubov,Daniil","Vachier Lagrave,M",0-1,2778,A04,2699
-123,Titled Tuesday 9th June,chess.com INT,2020.06.09,7,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,D27,2778
-124,Titled Tuesday 9th June,chess.com INT,2020.06.09,8,"Vachier Lagrave,M","Kovalev,Vl",1/2-1/2,2648,A14,2778
-125,Titled Tuesday 9th June,chess.com INT,2020.06.09,9,"Savchenko,B","Vachier Lagrave,M",0-1,2778,B20,2564
-126,Titled Tuesday 9th June,chess.com INT,2020.06.09,10,"Vachier Lagrave,M","Melkumyan,H",1-0,2663,E68,2778
-127,Chessable Masters GpB,chess24.com INT,2020.06.21,1.3,"Vachier Lagrave,M","Giri,A",1/2-1/2,2764,A03,2778
-128,Chessable Masters GpB,chess24.com INT,2020.06.21,2.2,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2778,D12,2765
-129,Chessable Masters GpB,chess24.com INT,2020.06.21,3.2,"Vachier Lagrave,M","Caruana,F",1-0,2835,D11,2778
-130,Chessable Masters GpB,chess24.com INT,2020.06.21,4.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,A20,2778
-131,Chessable Masters GpB,chess24.com INT,2020.06.21,5.3,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2778,C84,2784
-132,Chessable Masters GpB,chess24.com INT,2020.06.23,6.3,"Giri,A","Vachier Lagrave,M",1/2-1/2,2778,D45,2764
-133,Chessable Masters GpB,chess24.com INT,2020.06.23,7.2,"Vachier Lagrave,M","Radjabov,T",0-1,2765,A15,2778
-134,Chessable Masters GpB,chess24.com INT,2020.06.23,8.2,"Caruana,F","Vachier Lagrave,M",1-0,2778,D10,2835
-135,Chessable Masters GpB,chess24.com INT,2020.06.23,9.1,Ding Liren,"Vachier Lagrave,M",1-0,2778,A40,2791
-136,Chessable Masters GpB,chess24.com INT,2020.06.23,10.3,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,E48,2778
-137,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Batsiashvili,N","Vachier Lagrave,M",0-1,2778,A50,2457
-138,Titled Tuesday 7th July,chess.com INT,2020.07.07,3,"Bykhovsky,An ISR","Vachier Lagrave,M",0-1,2778,D52,2496
-139,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Vachier Lagrave,M","Zufic,M",0-1,2366,D02,2778
-140,Titled Tuesday 14th July,chess.com INT,2020.07.14,2,"Arvind,C","Vachier Lagrave,M",0-1,2778,A41,2124
-141,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Cunha,Lucas Aguiar","Vachier Lagrave,M",0-1,2778,B01,2290
-142,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Vachier Lagrave,M","Chan Yi Ren,D",1-0,2316,A05,2778
-143,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Vachier Lagrave,M","Mchedlishvili,M",0-1,2570,A01,2778
-144,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Vlassov,N","Vachier Lagrave,M",0-1,2778,B12,2352
-145,Titled Tue 21st Jul Final,chess.com INT,2020.07.21,1.1,"Vachier Lagrave,M","Moskalenko,A",1-0,2515,A46,2778
-146,Titled Tue 21st Jul Final,chess.com INT,2020.07.21,2.1,"Martirosyan,Haik M.","Vachier Lagrave,M",1-0,2778,D43,2617
-147,Titled Tuesday 21st July,chess.com INT,2020.07.21,2,"Vachier Lagrave,M","David,Alexandru",1-0,2428,A04,2778
-148,Titled Tue 21st Jul Final,chess.com INT,2020.07.21,2.2,"Vachier Lagrave,M","Martirosyan,Haik M.",1-0,2617,A20,2778
-149,Titled Tue 21st Jul Final,chess.com INT,2020.07.21,2.3,"Martirosyan,Haik M.","Vachier Lagrave,M",1-0,2778,D55,2617
-150,Titled Tuesday 21st July,chess.com INT,2020.07.21,3,"Manu,David Suthandram R","Vachier Lagrave,M",1/2-1/2,2778,C50,2360
-151,Titled Tuesday 21st July,chess.com INT,2020.07.21,4,"Vachier Lagrave,M","Aitbayev,A",1-0,2457,B07,2778
-152,Titled Tuesday 21st July,chess.com INT,2020.07.21,5,"Sanal,V","Vachier Lagrave,M",0-1,2778,A12,2581
-153,Titled Tuesday 21st July,chess.com INT,2020.07.21,6,"Vachier Lagrave,M","Zubov,A UKR",1-0,2589,A05,2778
-154,Titled Tuesday 21st July,chess.com INT,2020.07.21,7,"Oparin,G","Vachier Lagrave,M",0-1,2778,A07,2652
-155,Titled Tuesday 21st July,chess.com INT,2020.07.21,8,"Vachier Lagrave,M","Sarana,A",1-0,2654,D27,2778
-156,Titled Tuesday 21st July,chess.com INT,2020.07.21,9,"Vachier Lagrave,M","Abdusattorov,Nodirbek",1/2-1/2,2627,A05,2778
-157,Titled Tuesday 21st July,chess.com INT,2020.07.21,10,"Gadimbayli,Abdulla","Vachier Lagrave,M",1/2-1/2,2778,B10,2470
-158,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,1,"Vachier Lagrave,M","Vlassov,N",1-0,2352,B00,2778
-159,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,1,"Vachier Lagrave,M","Vlassov,N",1-0,2352,A45,2778
-160,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,2,"Sipila,V","Vachier Lagrave,M",0-1,2778,A25,2402
-161,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,2,"Bodnaruk,A","Vachier Lagrave,M",0-1,2778,B12,2411
-162,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,3,"Vachier Lagrave,M","Mendonca,Leon Luke",1-0,2472,A05,2778
-163,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,3,"Vachier Lagrave,M","Mchedlishvili,M",1-0,2570,B08,2778
-164,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,4,"Kobo,Ori","Vachier Lagrave,M",1-0,2778,A06,2449
-165,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,4,"Vachier Lagrave,M","Boruchovsky,A",1/2-1/2,2541,A00,2778
-166,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,5,"Holt,C","Vachier Lagrave,M",0-1,2778,D43,2549
-167,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,5,"Vachier Lagrave,M","Awatramani,Janak",1-0,2213,A40,2778
-168,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,6,"Vachier Lagrave,M","Esipenko,Andrey",1-0,2682,D58,2778
-169,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,6,"Ter Sahakyan,S","Vachier Lagrave,M",0-1,2778,B10,2640
-170,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,7,"Anton Guijarro,D","Vachier Lagrave,M",0-1,2778,A04,2688
-171,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,7,"Vachier Lagrave,M","Melkumyan,H",1-0,2663,D76,2778
-172,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,8,"Alekseenko,K","Vachier Lagrave,M",0-1,2778,A45,2696
-173,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,8,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2778,B13,2736
-174,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,9,"Vachier Lagrave,M","Indjic,A",0-1,2618,A20,2778
-175,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,9,"Vachier Lagrave,M","Moskalenko,A",1/2-1/2,2515,E04,2778
-176,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,10,"Vastrukhin,O","Vachier Lagrave,M",1-0,2778,A04,2401
-177,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,10,"Khanin,S","Vachier Lagrave,M",1/2-1/2,2778,B01,2482
-178,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,1.1,"Karthikeyan,M2","Vachier Lagrave,M",1/2-1/2,2778,B15,2606
-179,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,1.2,"Karthikeyan,M2","Vachier Lagrave,M",0-1,2778,B15,2606
-180,Titled Tue 11th Aug,chess.com INT,2020.08.11,1,"Djokic,Mihailo","Vachier Lagrave,M",0-1,2778,C11,2232
-181,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,2.1,"Vachier Lagrave,M","Svidler,P",1-0,2723,D85,2778
-182,Titled Tue 11th Aug,chess.com INT,2020.08.11,2,"Vachier Lagrave,M","Matinian,N",1-0,2475,A48,2778
-183,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,2.2,"Svidler,P","Vachier Lagrave,M",1/2-1/2,2778,A20,2723
-184,Titled Tue 11th Aug,chess.com INT,2020.08.11,3,"Yanchenko,R","Vachier Lagrave,M",1/2-1/2,2778,D02,2467
-185,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,3.2,"Vachier Lagrave,M","Chigaev,M",1-0,2588,B08,2778
-186,Titled Tue 11th Aug Final,chess.com INT,2020.08.11,3.1,"Chigaev,M","Vachier Lagrave,M",0-1,2778,B10,2588
-187,Titled Tue 11th Aug,chess.com INT,2020.08.11,4,"Vachier Lagrave,M","Fawzy,Adham",1-0,2467,A04,2778
-188,Titled Tue 11th Aug,chess.com INT,2020.08.11,5,"Sorokin,Aleksey","Vachier Lagrave,M",0-1,2778,E06,2521
-189,Titled Tue 11th Aug,chess.com INT,2020.08.11,6,"Vachier Lagrave,M","Jobava,Ba",1-0,2603,A11,2778
-190,Titled Tue 11th Aug,chess.com INT,2020.08.11,7,"Vachier Lagrave,M","Sjugirov,S",1-0,2675,B30,2778
-191,Titled Tue 11th Aug,chess.com INT,2020.08.11,8,"Abdusattorov,Nodirbek","Vachier Lagrave,M",1-0,2778,B13,2627
-192,Titled Tue 11th Aug,chess.com INT,2020.08.11,9,"Vachier Lagrave,M","Harikrishnan,A",1-0,2429,A05,2778
-193,Titled Tue 11th Aug,chess.com INT,2020.08.11,10,"Vachier Lagrave,M","Gadimbayli,Abdulla",1-0,2470,A11,2778
-194,Titled Tue 18th Aug,chess.com INT,2020.08.18,1,"Vachier Lagrave,M","Perez Rodriguez,L",1-0,2324,C28,2778
-195,Titled Tue 18th Aug,chess.com INT,2020.08.18,3,"Vachier Lagrave,M","Lazavik,Denis",0-1,2424,D12,2778
-196,Titled Tue 18th Aug,chess.com INT,2020.08.18,4,"Volovich,Vasily","Vachier Lagrave,M",0-1,2778,B10,2177
-197,Titled Tue 18th Aug,chess.com INT,2020.08.18,5,"Vachier Lagrave,M","Barseghyan,Armen Ar.",1-0,2362,B30,2778
-198,Titled Tue 18th Aug,chess.com INT,2020.08.18,6,"Abdrlauf,Elham","Vachier Lagrave,M",0-1,2778,B15,2373
-199,Titled Tue 18th Aug,chess.com INT,2020.08.18,7,"Vachier Lagrave,M","Korobov,A",1-0,2688,A15,2778
-200,Titled Tue 18th Aug,chess.com INT,2020.08.18,8,"Kuzubov,Y","Vachier Lagrave,M",0-1,2778,D10,2643
-201,Titled Tue 18th Aug,chess.com INT,2020.08.18,9,"Vachier Lagrave,M","Grachev,B",0-1,2612,D31,2778
-202,Titled Tue 18th Aug,chess.com INT,2020.08.18,10,"Belous,V","Vachier Lagrave,M",0-1,2778,A22,2524
-203,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,1,"Vachier Lagrave,M","Sawlin,L",1-0,2385,D31,2778
-204,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,2,"Korovin,Mikhail","Vachier Lagrave,M",0-1,2778,A06,2339
-205,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,3,"Vachier Lagrave,M","Arjun,Kalyan",1/2-1/2,2477,A11,2778
-206,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,4,"Sonis,Francesco","Vachier Lagrave,M",0-1,2778,A41,2481
-207,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,5,"Vachier Lagrave,M","Nagy,Ga1",1-0,2494,A15,2778
-208,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,6,"Gadimbayli,Abdulla","Vachier Lagrave,M",1-0,2778,B30,2470
-209,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.16,1.1,"Vachier Lagrave,M","Heimann,An",1-0,2617,C82,2778
-210,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.17,2.2,"Huschenbeth,N","Vachier Lagrave,M",0-1,2778,B51,2612
-211,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.18,4.1,"Vachier Lagrave,M","Tari,A",1-0,2630,D41,2778
-212,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.19,5.1,"McShane,L","Vachier Lagrave,M",1/2-1/2,2778,A33,2680
-213,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.20,7.1,"Malakhov,V","Vachier Lagrave,M",1/2-1/2,2778,B51,2669
-214,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,1,"Brunner,N","Vachier Lagrave,M",0-1,2778,D31,2428
-215,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,2,"Vachier Lagrave,M","Tsvetkov,Andrey",1-0,2358,A02,2778
-216,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,3,"Di Berardino,D","Vachier Lagrave,M",0-1,2778,B14,2471
-217,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,4,"Vachier Lagrave,M","Christiansen,Johan-Sebastian",1-0,2617,A20,2778
-218,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,5,"Kovalev,Vl","Vachier Lagrave,M",0-1,2778,B10,2648
-219,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,6,"Vachier Lagrave,M","Holt,C",1-0,2549,A06,2778
-220,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,7,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,A06,2778
-221,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,8,"Demidov,M","Vachier Lagrave,M",1/2-1/2,2778,A04,2519
-222,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,9,"Vachier Lagrave,M","Deac,Bogdan-Daniel",1/2-1/2,2625,A07,2778
-223,Titled Tuesday 22nd Sept,chess.com INT,2020.09.22,10,"Vastrukhin,O","Vachier Lagrave,M",1-0,2778,A07,2401
-224,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.2,"Oparin,G","Vachier Lagrave,M",0-1,2778,D78,2652
-225,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.3,"Vachier Lagrave,M","Oparin,G",1-0,2652,A45,2778
-226,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.4,"Oparin,G","Vachier Lagrave,M",1-0,2778,A88,2652
-227,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.6,"Oparin,G","Vachier Lagrave,M",0-1,2778,A36,2652
-228,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.5,"Vachier Lagrave,M","Oparin,G",1/2-1/2,2652,A45,2778
-229,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.1,"Vachier Lagrave,M","Oparin,G",1-0,2652,D58,2778
-230,Chess24 Banter Final 2020,chess24.com INT,2020.09.23,1.7,"Vachier Lagrave,M","Oparin,G",1-0,2652,A05,2778
-231,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.2,"So,W","Vachier Lagrave,M",1/2-1/2,2778,B12,2770
-232,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.3,"Vachier Lagrave,M","So,W",1/2-1/2,2770,A07,2778
-233,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.9,"Vachier Lagrave,M","So,W",0-1,2770,C53,2778
-234,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.1,"Vachier Lagrave,M","So,W",1/2-1/2,2770,A08,2778
-235,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.4,"So,W","Vachier Lagrave,M",1/2-1/2,2778,B01,2770
-236,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.5,"Vachier Lagrave,M","So,W",1-0,2770,C44,2778
-237,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.6,"So,W","Vachier Lagrave,M",0-1,2778,C65,2770
-238,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.7,"Vachier Lagrave,M","So,W",0-1,2770,D37,2778
-239,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.8,"So,W","Vachier Lagrave,M",1-0,2778,C65,2770
-240,Chess24 Banter Final 2020,chess24.com INT,2020.09.24,2.10,"So,W","Vachier Lagrave,M",1-0,2778,B54,2770
-241,Speed Chess Super Swiss,chess.com INT,2020.10.03,1,"Csonka,B","Vachier Lagrave,M",0-1,2784,E32,2498
-242,Speed Chess Super Swiss,chess.com INT,2020.10.03,2,"Vachier Lagrave,M","Sankalp,Gupta",1-0,2429,A13,2784
-243,Speed Chess Super Swiss,chess.com INT,2020.10.03,3,"Gordievsky,D","Vachier Lagrave,M",0-1,2784,A05,2559
-244,Speed Chess Super Swiss,chess.com INT,2020.10.03,4,"Vachier Lagrave,M","Praggnanandhaa,R",1-0,2608,A05,2784
-245,Speed Chess Super Swiss,chess.com INT,2020.10.03,5,"Kobalia,M","Vachier Lagrave,M",0-1,2784,B13,2614
-246,Speed Chess Super Swiss,chess.com INT,2020.10.03,6,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B10,2736
-247,Speed Chess Super Swiss,chess.com INT,2020.10.03,7,"Vachier Lagrave,M","Piorun,K",1-0,2615,E62,2784
-248,Speed Chess Super Swiss,chess.com INT,2020.10.03,8,"Vachier Lagrave,M","Esipenko,Andrey",1/2-1/2,2682,A06,2784
-249,Speed Chess Super Swiss,chess.com INT,2020.10.03,9,"Andreikin,D","Vachier Lagrave,M",1/2-1/2,2784,B10,2726
-250,Speed Chess Super Swiss,chess.com INT,2020.10.03,10,"Vachier Lagrave,M","Artemiev,V",1/2-1/2,2716,B11,2784
-251,Speed Chess Super Swiss,chess.com INT,2020.10.03,11,"Karjakin,Sergey","Vachier Lagrave,M",0-1,2784,B12,2752
-252,Speed Chess Super Swiss,chess.com INT,2020.10.03,12,"Vachier Lagrave,M","Grischuk,A",1/2-1/2,2777,E68,2784
-253,Speed Chess Super Swiss,chess.com INT,2020.10.03,13,"Martinez Alcantara,Jose Eduardo","Vachier Lagrave,M",0-1,2784,B13,2620
-254,Speed Chess Super Swiss,chess.com INT,2020.10.03,14,"Vachier Lagrave,M","Smirnov,P",0-1,2544,A14,2784
-255,Speed Chess Super Swiss,chess.com INT,2020.10.03,15,"Erigaisi,Arjun","Vachier Lagrave,M",0-1,2784,E06,2559
-256,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.6,"Vachier Lagrave,M","Grischuk,A",1/2-1/2,2777,A48,2778
-257,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.5,"Grischuk,A","Vachier Lagrave,M",1-0,2778,A15,2777
-258,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.4,"Vachier Lagrave,M","Grischuk,A",0-1,2777,E97,2778
-259,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.3,"Grischuk,A","Vachier Lagrave,M",1-0,2778,A15,2777
-260,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.7,"Grischuk,A","Vachier Lagrave,M",1-0,2778,A15,2777
-261,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.2,"Vachier Lagrave,M","Grischuk,A",1-0,2777,A37,2778
-262,Speed Super Swiss KO 2020,chess.com INT,2020.10.04,1.1,"Grischuk,A","Vachier Lagrave,M",1/2-1/2,2778,D02,2777
-263,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,1,"Manukyan,SaV","Vachier Lagrave,M",0-1,2784,D49,2253
-264,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,2,"Vachier Lagrave,M","Nitish,Belurkar",1/2-1/2,2351,B07,2784
-265,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,3,"Meissner,F","Vachier Lagrave,M",0-1,2784,C01,2362
-266,Titled Tuesday 13th Oct,chess.com INT,2020.10.13,4,"Vachier Lagrave,M","Mons,L",1-0,2530,A04,2784
-267,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,1,"Vachier Lagrave,M","Swicarz,M",1-0,2341,A04,2784
-268,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,2,"Shetty,A","Vachier Lagrave,M",0-1,2784,A11,2437
-269,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,3,"Vachier Lagrave,M","Visakh,N R",1-0,2516,D37,2784
-270,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,4,"Vachier Lagrave,M","Kovalenko,I",1-0,2654,A04,2784
-271,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,5,"Chigaev,M","Vachier Lagrave,M",0-1,2784,B13,2598
-272,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,6,"Moussard,J","Vachier Lagrave,M",1/2-1/2,2784,A07,2626
-273,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,7,"Vachier Lagrave,M","Bortnyk,Olexandr",1-0,2598,A15,2784
-274,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,8,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,A45,2784
-275,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,9,"Quparadze,G","Vachier Lagrave,M",1/2-1/2,2784,B15,2463
-276,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,10,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2784,D35,2770
-277,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,11,"Vachier Lagrave,M","Sorokin,Aleksey",1-0,2521,B10,2784
-278,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,2,"Starozhilov,L","Vachier Lagrave,M",0-1,2784,B30,2318
-279,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,3,"Vachier Lagrave,M","Kvon,A",0-1,2519,A10,2784
-280,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,4,"Krutko,A","Vachier Lagrave,M",0-1,2784,C41,2397
-281,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,5,"Vachier Lagrave,M","Salimova,Nurgyul",1-0,2384,A01,2784
-282,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,6,"Vachier Lagrave,M","Onischuk,V",1-0,2633,B07,2784
-283,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,7,Nguyen Ngoc Truong Son,"Vachier Lagrave,M",1-0,2784,B15,2641
-284,chess.com Speed 2020,chess.com INT,2020.11.01,1.32,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,A39,2620
-285,chess.com Speed 2020,chess.com INT,2020.11.01,1.33,"Vachier Lagrave,M","Nihal,Sarin",0-1,2620,B10,2784
-286,chess.com Speed 2020,chess.com INT,2020.11.01,1.36,"Nihal,Sarin","Vachier Lagrave,M",0-1,2784,A01,2620
-287,chess.com Speed 2020,chess.com INT,2020.11.01,1.34,"Nihal,Sarin","Vachier Lagrave,M",1-0,2784,A01,2620
-288,chess.com Speed 2020,chess.com INT,2020.11.01,1.35,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,B10,2784
-289,chess.com Speed 2020,chess.com INT,2020.11.01,1.31,"Vachier Lagrave,M","Nihal,Sarin",1/2-1/2,2620,C84,2784
-290,chess.com Speed 2020,chess.com INT,2020.11.01,1.37,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,B06,2784
-291,chess.com Speed 2020,chess.com INT,2020.11.01,1.38,"Nihal,Sarin","Vachier Lagrave,M",1-0,2784,A33,2620
-292,chess.com Speed 2020,chess.com INT,2020.11.01,1.39,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,D00,2784
-293,chess.com Speed 2020,chess.com INT,2020.11.01,1.310,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,A05,2620
-294,chess.com Speed 2020,chess.com INT,2020.11.01,1.17,"Vachier Lagrave,M","Nihal,Sarin",1/2-1/2,2620,C84,2784
-295,chess.com Speed 2020,chess.com INT,2020.11.01,1.12,"Nihal,Sarin","Vachier Lagrave,M",0-1,2784,D52,2620
-296,chess.com Speed 2020,chess.com INT,2020.11.01,1.24,"Vachier Lagrave,M","Nihal,Sarin",0-1,2620,B10,2784
-297,chess.com Speed 2020,chess.com INT,2020.11.01,1.25,"Nihal,Sarin","Vachier Lagrave,M",1-0,2784,D00,2620
-298,chess.com Speed 2020,chess.com INT,2020.11.01,1.11,"Vachier Lagrave,M","Nihal,Sarin",0-1,2620,C84,2784
-299,chess.com Speed 2020,chess.com INT,2020.11.01,1.13,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,C84,2784
-300,chess.com Speed 2020,chess.com INT,2020.11.01,1.29,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,D00,2620
-301,chess.com Speed 2020,chess.com INT,2020.11.01,1.28,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,B10,2784
-302,chess.com Speed 2020,chess.com INT,2020.11.01,1.27,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,E15,2620
-303,chess.com Speed 2020,chess.com INT,2020.11.01,1.26,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,A07,2784
-304,chess.com Speed 2020,chess.com INT,2020.11.01,1.15,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,A13,2784
-305,chess.com Speed 2020,chess.com INT,2020.11.01,1.14,"Nihal,Sarin","Vachier Lagrave,M",1-0,2784,D52,2620
-306,chess.com Speed 2020,chess.com INT,2020.11.01,1.23,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,D27,2620
-307,chess.com Speed 2020,chess.com INT,2020.11.01,1.22,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,C84,2784
-308,chess.com Speed 2020,chess.com INT,2020.11.01,1.21,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,D27,2620
-309,chess.com Speed 2020,chess.com INT,2020.11.01,1.19,"Vachier Lagrave,M","Nihal,Sarin",1-0,2620,B10,2784
-310,chess.com Speed 2020,chess.com INT,2020.11.01,1.18,"Nihal,Sarin","Vachier Lagrave,M",0-1,2784,D27,2620
-311,chess.com Speed 2020,chess.com INT,2020.11.01,1.16,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2784,D43,2620
-312,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,1,"Sliwicka,Alicja","Vachier Lagrave,M",0-1,2784,B15,2311
-313,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,2,"Vachier Lagrave,M","Mokshanov,A",1-0,2454,A07,2784
-314,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,3,"Rustemov,A","Vachier Lagrave,M",1/2-1/2,2784,E60,2525
-315,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,4,"Gogolev,A","Vachier Lagrave,M",0-1,2784,A14,2306
-316,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,5,"Vachier Lagrave,M","Kuzubov,Y",1-0,2641,A45,2784
-317,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,6,"Vachier Lagrave,M","Korobov,A",1-0,2683,A15,2784
-318,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,7,"Yilmaz,M","Vachier Lagrave,M",1/2-1/2,2784,E91,2630
-319,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,8,"Vachier Lagrave,M","Jobava,Ba",1/2-1/2,2603,A06,2784
-320,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,9,"Navara,D","Vachier Lagrave,M",0-1,2784,E91,2697
-321,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,10,"Vachier Lagrave,M","Lintchevski,D",1-0,2555,D00,2784
-322,Titled Tuesday 10th Nov,chess.com INT,2020.11.10,11,"Sadhwani,Raunak","Vachier Lagrave,M",1/2-1/2,2784,B90,2545
-323,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,1,"Ezat,M","Vachier Lagrave,M",0-1,2784,E73,2408
-324,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,2,"Vachier Lagrave,M","Igambergenov,A",1-0,2420,D78,2784
-325,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,3,"Gritsenko,N","Vachier Lagrave,M",1-0,2784,B12,2309
-326,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,4,"Vachier Lagrave,M","Vajda,Le",1-0,2534,D00,2784
-327,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,5,"Wieczorek,O","Vachier Lagrave,M",0-1,2784,B15,2498
-328,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,6,"Vachier Lagrave,M","Aveskulov,V",1-0,2529,A05,2784
-329,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,7,"Vachier Lagrave,M","Shirov,A",1-0,2662,A11,2784
-330,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,8,"Onischuk,V","Vachier Lagrave,M",0-1,2784,B15,2633
-331,Titled Tuesday 17th Nov,chess.com INT,2020.11.17,9,"Vachier Lagrave,M","Jobava,Ba",0-1,2603,A06,2784
-332,Skilling Open Prelim,chess24.com INT,2020.11.22,1.1,"Giri,A","Vachier Lagrave,M",1/2-1/2,2784,B62,2764
-333,Skilling Open Prelim,chess24.com INT,2020.11.22,2.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C67,2784
-334,Skilling Open Prelim,chess24.com INT,2020.11.22,3.1,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2784,B69,2752
-335,Skilling Open Prelim,chess24.com INT,2020.11.22,4.1,"Vachier Lagrave,M","Radjabov,T",0-1,2765,B30,2784
-336,Skilling Open Prelim,chess24.com INT,2020.11.22,5.1,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,B68,2736
-337,Skilling Open Prelim,chess24.com INT,2020.11.23,6.1,"Vachier Lagrave,M","Anton Guijarro,D",1-0,2675,C81,2784
-338,Skilling Open Prelim,chess24.com INT,2020.11.23,7.1,Le Quang Liem,"Vachier Lagrave,M",0-1,2784,B91,2709
-339,Skilling Open Prelim,chess24.com INT,2020.11.23,8.1,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B10,2784
-340,Skilling Open Prelim,chess24.com INT,2020.11.23,9.1,"Vidit,S","Vachier Lagrave,M",1/2-1/2,2784,D85,2726
-341,Skilling Open Prelim,chess24.com INT,2020.11.23,10.1,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C65,2784
-342,Skilling Open Prelim,chess24.com INT,2020.11.24,11.1,"So,W","Vachier Lagrave,M",1/2-1/2,2784,D85,2770
-343,Skilling Open Prelim,chess24.com INT,2020.11.24,12.1,"Vachier Lagrave,M","Duda,J",1-0,2743,C42,2784
-344,Skilling Open Prelim,chess24.com INT,2020.11.24,13.1,"Svidler,P","Vachier Lagrave,M",1-0,2784,B90,2723
-345,Skilling Open Prelim,chess24.com INT,2020.11.24,14.1,"Vachier Lagrave,M",Ding Liren,1/2-1/2,2791,B90,2784
-346,Skilling Open Prelim,chess24.com INT,2020.11.24,15.1,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2784,B51,2784
-347,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.13,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C76,2784
-348,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.12,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,D82,2736
-349,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.11,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C67,2784
-350,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.14,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,A45,2736
-351,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.22,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C50,2784
-352,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.23,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B90,2736
-353,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.21,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B90,2736
-354,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.33,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C50,2784
-355,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.32,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,A45,2736
-356,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.31,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C50,2784
-357,chess.com Speed 2020,chess.com INT,2020.12.02,2.26,"Aronian,L","Vachier Lagrave,M",1-0,2784,B50,2781
-358,chess.com Speed 2020,chess.com INT,2020.12.02,2.27,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C67,2784
-359,chess.com Speed 2020,chess.com INT,2020.12.02,2.25,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C53,2784
-360,chess.com Speed 2020,chess.com INT,2020.12.02,2.24,"Aronian,L","Vachier Lagrave,M",0-1,2784,A01,2781
-361,chess.com Speed 2020,chess.com INT,2020.12.02,2.28,"Aronian,L","Vachier Lagrave,M",1-0,2784,B50,2781
-362,chess.com Speed 2020,chess.com INT,2020.12.02,2.29,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C53,2784
-363,chess.com Speed 2020,chess.com INT,2020.12.02,2.210,"Aronian,L","Vachier Lagrave,M",1-0,2784,B50,2781
-364,chess.com Speed 2020,chess.com INT,2020.12.02,2.11,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C50,2784
-365,chess.com Speed 2020,chess.com INT,2020.12.02,2.31,"Vachier Lagrave,M","Aronian,L",1-0,2781,C53,2784
-366,chess.com Speed 2020,chess.com INT,2020.12.02,2.32,"Aronian,L","Vachier Lagrave,M",0-1,2784,B50,2781
-367,chess.com Speed 2020,chess.com INT,2020.12.02,2.33,"Vachier Lagrave,M","Aronian,L",0-1,2781,C50,2784
-368,chess.com Speed 2020,chess.com INT,2020.12.02,2.23,"Vachier Lagrave,M","Aronian,L",1-0,2781,C50,2784
-369,chess.com Speed 2020,chess.com INT,2020.12.02,2.22,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2784,A48,2781
-370,chess.com Speed 2020,chess.com INT,2020.12.02,2.21,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C53,2784
-371,chess.com Speed 2020,chess.com INT,2020.12.02,2.18,"Aronian,L","Vachier Lagrave,M",0-1,2784,A48,2781
-372,chess.com Speed 2020,chess.com INT,2020.12.02,2.17,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,A18,2784
-373,chess.com Speed 2020,chess.com INT,2020.12.02,2.16,"Aronian,L","Vachier Lagrave,M",1-0,2784,B50,2781
-374,chess.com Speed 2020,chess.com INT,2020.12.02,2.15,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C67,2784
-375,chess.com Speed 2020,chess.com INT,2020.12.02,2.13,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C50,2784
-376,chess.com Speed 2020,chess.com INT,2020.12.02,2.34,"Aronian,L","Vachier Lagrave,M",0-1,2784,B50,2781
-377,chess.com Speed 2020,chess.com INT,2020.12.02,2.35,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C67,2784
-378,chess.com Speed 2020,chess.com INT,2020.12.02,2.36,"Aronian,L","Vachier Lagrave,M",1-0,2784,B50,2781
-379,chess.com Speed 2020,chess.com INT,2020.12.02,2.37,"Vachier Lagrave,M","Aronian,L",1-0,2781,C50,2784
-380,chess.com Speed 2020,chess.com INT,2020.12.02,2.38,"Aronian,L","Vachier Lagrave,M",0-1,2784,B50,2781
-381,chess.com Speed 2020,chess.com INT,2020.12.02,2.39,"Vachier Lagrave,M","Aronian,L",0-1,2781,A45,2784
-382,chess.com Speed 2020,chess.com INT,2020.12.02,2.12,"Aronian,L","Vachier Lagrave,M",0-1,2784,A01,2781
-383,chess.com Speed 2020,chess.com INT,2020.12.02,2.14,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2784,A01,2781
-384,chess.com Speed 2020,chess.com INT,2020.12.12,3.22,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B33,2784
-385,chess.com Speed 2020,chess.com INT,2020.12.12,3.34,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,B08,2784
-386,chess.com Speed 2020,chess.com INT,2020.12.12,3.35,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B90,2862
-387,chess.com Speed 2020,chess.com INT,2020.12.12,3.11,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D90,2862
-388,chess.com Speed 2020,chess.com INT,2020.12.12,3.12,"Vachier Lagrave,M","Carlsen,M",0-1,2862,C84,2784
-389,chess.com Speed 2020,chess.com INT,2020.12.12,3.21,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,E60,2862
-390,chess.com Speed 2020,chess.com INT,2020.12.12,3.33,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D90,2862
-391,chess.com Speed 2020,chess.com INT,2020.12.12,3.32,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B40,2784
-392,chess.com Speed 2020,chess.com INT,2020.12.12,3.16,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-393,chess.com Speed 2020,chess.com INT,2020.12.12,3.13,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D90,2862
-394,chess.com Speed 2020,chess.com INT,2020.12.12,3.14,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-395,chess.com Speed 2020,chess.com INT,2020.12.12,3.38,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B06,2784
-396,chess.com Speed 2020,chess.com INT,2020.12.12,3.37,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B12,2862
-397,chess.com Speed 2020,chess.com INT,2020.12.12,3.15,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B50,2862
-398,chess.com Speed 2020,chess.com INT,2020.12.12,3.18,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,B31,2784
-399,chess.com Speed 2020,chess.com INT,2020.12.12,3.23,"Carlsen,M","Vachier Lagrave,M",1-0,2784,E60,2862
-400,chess.com Speed 2020,chess.com INT,2020.12.12,3.17,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B53,2862
-401,chess.com Speed 2020,chess.com INT,2020.12.12,3.36,"Vachier Lagrave,M","Carlsen,M",0-1,2862,B04,2784
-402,chess.com Speed 2020,chess.com INT,2020.12.12,3.31,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B51,2862
-403,chess.com Speed 2020,chess.com INT,2020.12.12,3.128,"Vachier Lagrave,M","Carlsen,M",1-0,2862,C67,2784
-404,chess.com Speed 2020,chess.com INT,2020.12.12,3.27,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B50,2862
-405,chess.com Speed 2020,chess.com INT,2020.12.12,3.26,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-406,chess.com Speed 2020,chess.com INT,2020.12.12,3.25,"Carlsen,M","Vachier Lagrave,M",1-0,2784,E60,2862
-407,chess.com Speed 2020,chess.com INT,2020.12.12,3.24,"Vachier Lagrave,M","Carlsen,M",1-0,2862,C84,2784
-408,chess.com Speed 2020,chess.com INT,2020.12.13,4.39,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,A04,2736
-409,chess.com Speed 2020,chess.com INT,2020.12.13,4.13,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,B50,2736
-410,chess.com Speed 2020,chess.com INT,2020.12.13,4.15,"Nakamura,Hi","Vachier Lagrave,M",0-1,2784,B50,2736
-411,chess.com Speed 2020,chess.com INT,2020.12.13,4.311,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,A47,2736
-412,chess.com Speed 2020,chess.com INT,2020.12.13,4.310,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C25,2784
-413,chess.com Speed 2020,chess.com INT,2020.12.13,4.29,"Nakamura,Hi","Vachier Lagrave,M",0-1,2784,B50,2736
-414,chess.com Speed 2020,chess.com INT,2020.12.13,4.38,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,E10,2784
-415,chess.com Speed 2020,chess.com INT,2020.12.13,4.37,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,A05,2736
-416,chess.com Speed 2020,chess.com INT,2020.12.13,4.36,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C70,2784
-417,chess.com Speed 2020,chess.com INT,2020.12.13,4.35,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,A01,2736
-418,chess.com Speed 2020,chess.com INT,2020.12.13,4.34,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C70,2784
-419,chess.com Speed 2020,chess.com INT,2020.12.13,4.33,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,B35,2736
-420,chess.com Speed 2020,chess.com INT,2020.12.13,4.32,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C50,2784
-421,chess.com Speed 2020,chess.com INT,2020.12.13,4.31,"Nakamura,Hi","Vachier Lagrave,M",0-1,2784,A04,2736
-422,chess.com Speed 2020,chess.com INT,2020.12.13,4.210,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C70,2784
-423,chess.com Speed 2020,chess.com INT,2020.12.13,4.16,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C53,2784
-424,chess.com Speed 2020,chess.com INT,2020.12.13,4.28,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C70,2784
-425,chess.com Speed 2020,chess.com INT,2020.12.13,4.27,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B50,2736
-426,chess.com Speed 2020,chess.com INT,2020.12.13,4.26,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C53,2784
-427,chess.com Speed 2020,chess.com INT,2020.12.13,4.25,"Nakamura,Hi","Vachier Lagrave,M",0-1,2784,B50,2736
-428,chess.com Speed 2020,chess.com INT,2020.12.13,4.24,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C70,2784
-429,chess.com Speed 2020,chess.com INT,2020.12.13,4.23,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B50,2736
-430,chess.com Speed 2020,chess.com INT,2020.12.13,4.22,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C70,2784
-431,chess.com Speed 2020,chess.com INT,2020.12.13,4.21,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,B50,2736
-432,chess.com Speed 2020,chess.com INT,2020.12.13,4.110,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C70,2784
-433,chess.com Speed 2020,chess.com INT,2020.12.13,4.19,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B50,2736
-434,chess.com Speed 2020,chess.com INT,2020.12.13,4.18,"Vachier Lagrave,M","Nakamura,Hi",0-1,2736,C70,2784
-435,chess.com Speed 2020,chess.com INT,2020.12.13,4.17,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B50,2736
-436,chess.com Speed 2020,chess.com INT,2020.12.13,4.11,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B50,2736
-437,chess.com Speed 2020,chess.com INT,2020.12.13,4.12,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C67,2784
-438,chess.com Speed 2020,chess.com INT,2020.12.13,4.14,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C67,2784
-439,Airthings Masters Prelim,chess24.com INT,2020.12.26,1.1,"Harikrishna,P","Vachier Lagrave,M",1/2-1/2,2784,B51,2732
-440,Airthings Masters Prelim,chess24.com INT,2020.12.26,2.1,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,C50,2784
-441,Airthings Masters Prelim,chess24.com INT,2020.12.26,3.1,"Dubov,Daniil","Vachier Lagrave,M",1/2-1/2,2784,A33,2702
-442,Airthings Masters Prelim,chess24.com INT,2020.12.26,4.1,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2784,B90,2784
-443,Airthings Masters Prelim,chess24.com INT,2020.12.27,5.1,"Anton Guijarro,D","Vachier Lagrave,M",1/2-1/2,2784,B51,2675
-444,Airthings Masters Prelim,chess24.com INT,2020.12.27,6.1,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,A18,2784
-445,Airthings Masters Prelim,chess24.com INT,2020.12.27,7.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,A15,2862
-446,Airthings Masters Prelim,chess24.com INT,2020.12.27,8.1,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C88,2784
-447,Airthings Masters Prelim,chess24.com INT,2020.12.28,9.1,"Giri,A","Vachier Lagrave,M",1-0,2784,B89,2764
-448,Airthings Masters Prelim,chess24.com INT,2020.12.28,10.1,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,B30,2784
-449,Airthings Masters Prelim,chess24.com INT,2020.12.28,11.1,"Grischuk,A","Vachier Lagrave,M",0-1,2784,B51,2777
-450,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.14,"So,W","Vachier Lagrave,M",0-1,2784,B90,2770
-451,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.13,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C67,2784
-452,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.12,"So,W","Vachier Lagrave,M",0-1,2784,B90,2770
-453,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.11,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C67,2784
-454,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.31,"Vachier Lagrave,M","So,W",1-0,2770,C67,2784
-455,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.24,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C65,2784
-456,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.33,"So,W","Vachier Lagrave,M",1/2-1/2,2784,A30,2770
-457,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.21,"So,W","Vachier Lagrave,M",1-0,2784,A15,2770
-458,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.32,"So,W","Vachier Lagrave,M",1-0,2784,A15,2770
-459,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.22,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C67,2784
-460,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.13,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C67,2784
-461,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.14,"Aronian,L","Vachier Lagrave,M",1-0,2784,E60,2781
-462,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.12,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2784,A48,2781
-463,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.11,"Vachier Lagrave,M","Aronian,L",0-1,2781,C67,2784
-464,Airthings Masters KO 2020,chess24.com INT,2021.01.01,2.23,"Aronian,L","Vachier Lagrave,M",1-0,2784,D80,2781
-465,Airthings Masters KO 2020,chess24.com INT,2021.01.01,2.22,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C67,2784
-466,Airthings Masters KO 2020,chess24.com INT,2021.01.01,2.21,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2784,D80,2781
-467,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.12,"Dubov,Daniil","Vachier Lagrave,M",1-0,2784,B51,2702
-468,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.14,"Dubov,Daniil","Vachier Lagrave,M",0-1,2784,B51,2702
-469,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.11,"Vachier Lagrave,M","Dubov,Daniil",0-1,2702,C55,2784
-470,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.13,"Vachier Lagrave,M","Dubov,Daniil",1-0,2702,C55,2784
-471,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.23,"Dubov,Daniil","Vachier Lagrave,M",1-0,2784,B52,2702
-472,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.24,"Vachier Lagrave,M","Dubov,Daniil",1-0,2702,C78,2784
-473,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.22,"Vachier Lagrave,M","Dubov,Daniil",1/2-1/2,2702,C55,2784
-474,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.21,"Dubov,Daniil","Vachier Lagrave,M",0-1,2784,B51,2702
-475,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.3,"Harikrishna,P","Vachier Lagrave,M",1/2-1/2,2784,B90,2732
-476,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.2,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B12,2784
-477,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.6,"Esipenko,Andrey","Vachier Lagrave,M",1/2-1/2,2784,B53,2677
-478,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.2,"Vachier Lagrave,M","Anton Guijarro,D",1/2-1/2,2679,C89,2784
-479,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.6,"Grandelius,N","Vachier Lagrave,M",1-0,2784,B97,2663
-480,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.2,"Vachier Lagrave,M","Tari,A",1/2-1/2,2625,D78,2784
-481,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.4,"Caruana,F","Vachier Lagrave,M",1-0,2784,B97,2823
-482,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.4,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2671,C78,2784
-483,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.6,"Giri,A","Vachier Lagrave,M",1-0,2784,B90,2764
-484,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.2,"Vachier Lagrave,M","Donchenko,Alexa",1-0,2668,B12,2784
-485,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.7,"Wojtaszek,R","Vachier Lagrave,M",1/2-1/2,2784,D82,2705
-486,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.6,"Vachier Lagrave,M","Duda,J",1/2-1/2,2743,C42,2784
-487,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.3,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-488,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,1,"Vachier Lagrave,M","Maksimenko,Viktor",1-0,2239,A00,2784
-489,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,2,"Druska,J","Vachier Lagrave,M",0-1,2784,C46,2495
-490,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,3,"Vachier Lagrave,M","Bernadskiy,V",1-0,2619,A01,2784
-491,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,4,"Sanal,V","Vachier Lagrave,M",0-1,2784,D10,2563
-492,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,5,"Vachier Lagrave,M","Kovalenko,I",1/2-1/2,2643,A37,2784
-493,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,6,"Kukhmazov,A","Vachier Lagrave,M",0-1,2784,D43,2442
-494,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,7,"Vachier Lagrave,M","Hansen,Eric",1-0,2606,A06,2784
-495,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,8,"Sarana,A","Vachier Lagrave,M",0-1,2784,B11,2649
-496,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,9,"Vachier Lagrave,M","Abdusattorov,Nodirbek",1-0,2627,D00,2784
-497,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,10,"Nakamura,Hi","Vachier Lagrave,M",1-0,2784,B11,2736
-498,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,11,"Vachier Lagrave,M","Smirnov,P",1-0,2544,A13,2784
-499,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.1,"Vachier Lagrave,M","Dubov,Daniil",1-0,2710,C55,2784
-500,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.8,"Vachier Lagrave,M","So,W",1-0,2770,C65,2784
-501,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.2,"Aronian,L","Vachier Lagrave,M",1-0,2784,B68,2781
-502,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.7,"Vachier Lagrave,M","Bluebaum,M",1/2-1/2,2670,D35,2784
-503,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.3,"Shankland,S","Vachier Lagrave,M",1/2-1/2,2784,D97,2691
-504,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.6,"Vachier Lagrave,M","Dominguez Perez,L",1-0,2758,B40,2784
-505,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.4,"Duda,J","Vachier Lagrave,M",1/2-1/2,2784,D97,2743
-506,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.5,"Vachier Lagrave,M","Grischuk,A",1/2-1/2,2777,C67,2784
-507,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.5,"Giri,A","Vachier Lagrave,M",1-0,2784,B67,2764
-508,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.4,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2789,B51,2784
-509,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.6,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2784,B90,2736
-510,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.3,"Vachier Lagrave,M","Vidit,S",1/2-1/2,2726,C77,2784
-511,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.7,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2784,A05,2765
-512,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,14.2,"Vachier Lagrave,M",Ding Liren,1-0,2791,B90,2784
-513,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.8,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,E60,2862
-514,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.14,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2784,D96,2781
-515,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.12,"Aronian,L","Vachier Lagrave,M",0-1,2784,D96,2781
-516,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.11,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,E39,2784
-517,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.13,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C78,2784
-518,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.24,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,B90,2784
-519,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.23,"Aronian,L","Vachier Lagrave,M",1-0,2784,B90,2781
-520,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.22,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C78,2784
-521,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.21,"Aronian,L","Vachier Lagrave,M",0-1,2784,B90,2781
-522,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.12,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C95,2784
-523,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.13,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-524,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.11,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-525,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.24,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D85,2862
-526,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.22,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B90,2862
-527,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.23,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B30,2784
-528,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.32,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B30,2784
-529,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.33,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-530,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.21,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C88,2784
-531,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.31,"Carlsen,M","Vachier Lagrave,M",1-0,2784,A15,2862
-532,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.12,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A15,2765
-533,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.11,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,B32,2784
-534,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.13,"Vachier Lagrave,M","Radjabov,T",1-0,2765,B32,2784
-535,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.14,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A15,2765
-536,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.21,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A04,2765
-537,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.22,"Vachier Lagrave,M","Radjabov,T",0-1,2765,B32,2784
-538,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,1,"Vachier Lagrave,M","Rozovsky,Daniel",1-0,2085,E11,2784
-539,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,2,"Papasimakopoulos,Alexandros","Vachier Lagrave,M",0-1,2784,A83,2251
-540,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,3,"Vachier Lagrave,M","Sapunov,E",1-0,2461,A45,2784
-541,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,4,"Nagy,Ga1","Vachier Lagrave,M",1/2-1/2,2784,A31,2509
-542,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,5,"Vachier Lagrave,M","Anisimov,P2",0-1,2527,A45,2784
-543,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,1.8,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2759,A07,2758
-544,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,2.2,"Carlsen,M","Vachier Lagrave,M",1-0,2758,A00,2847
-545,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,3.7,"Vachier Lagrave,M","Anton Guijarro,D",1-0,2673,A15,2758
-546,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,4.3,"Grandelius,N","Vachier Lagrave,M",1/2-1/2,2758,B13,2670
-547,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,5.6,"Vachier Lagrave,M","Mamedyarov,S",1-0,2770,C41,2758
-548,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,6.4,"Nepomniachtchi,I","Vachier Lagrave,M",1-0,2758,A01,2789
-549,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,7.5,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,A45,2758
-550,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,8.5,"Radjabov,T","Vachier Lagrave,M",0-1,2758,A04,2765
-551,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,9.4,"Vachier Lagrave,M","Pichot,A",1-0,2630,A45,2758
-552,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,10.6,"So,W","Vachier Lagrave,M",1/2-1/2,2758,D14,2770
-553,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,11.3,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,D02,2758
-554,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,12.7,"Dubov,Daniil","Vachier Lagrave,M",1/2-1/2,2758,E06,2710
-555,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,14.8,"Van Foreest,Jorden","Vachier Lagrave,M",1/2-1/2,2758,B12,2701
-556,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,15.1,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,B90,2758
-557,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.13,"Giri,A","Vachier Lagrave,M",1/2-1/2,2758,B67,2776
-558,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.14,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,B51,2758
-559,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.11,"Giri,A","Vachier Lagrave,M",0-1,2758,B67,2776
-560,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.12,"Vachier Lagrave,M","Giri,A",0-1,2776,B51,2758
-561,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.24,"Giri,A","Vachier Lagrave,M",1-0,2758,B06,2776
-562,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.22,"Giri,A","Vachier Lagrave,M",1-0,2758,B67,2776
-563,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.21,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,B92,2758
-564,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.23,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,B92,2758
-565,European Online CC PlayC,Tornelo INT,2021.03.29,1.1,"Fedoseev,Vl3","Vachier Lagrave,M",1/2-1/2,2758,C78,2687
-566,European Online CC PlayC,Tornelo INT,2021.03.29,3.1,"Howell,D","Vachier Lagrave,M",1/2-1/2,2758,A15,2658
-567,European Online CC PlayC,Tornelo INT,2021.03.29,4.1,"Vachier Lagrave,M","Kovalev,Vl",0-1,2648,A02,2758
-568,European Online CC PlayC,Tornelo INT,2021.03.29,5.1,"Duda,J","Vachier Lagrave,M",1/2-1/2,2758,B11,2729
-569,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.1,"Caruana,F","Vachier Lagrave,M",1-0,2767,B97,2842
-570,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2767,E60,2805
-571,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.2,"Vachier Lagrave,M","Giri,A",1/2-1/2,2763,B33,2767
-572,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.3,"Grischuk,A","Vachier Lagrave,M",1-0,2767,B23,2777
-573,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.3,"Vachier Lagrave,M","Alekseenko,K",1-0,2698,B12,2767
-574,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2767,A15,2774
-575,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.4,"Vachier Lagrave,M",Wang Hao,1-0,2762,C67,2767
-576,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,D37,2760
-577,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.8,"So,W","Vachier Lagrave,M",1/2-1/2,2760,D85,2770
-578,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.1,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2781,C78,2760
-579,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.8,"Vachier Lagrave,M","Pichot,A",1-0,2630,B51,2760
-580,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,15.2,"Giri,A","Vachier Lagrave,M",1/2-1/2,2760,D85,2780
-581,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.14,"So,W","Vachier Lagrave,M",1-0,2760,A70,2770
-582,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.12,"So,W","Vachier Lagrave,M",1/2-1/2,2760,D85,2770
-583,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.13,"Vachier Lagrave,M","So,W",0-1,2770,C67,2760
-584,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.11,"Vachier Lagrave,M","So,W",1/2-1/2,2770,C67,2760
-585,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.22,"Vachier Lagrave,M","So,W",0-1,2770,D02,2760
-586,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.23,"So,W","Vachier Lagrave,M",1/2-1/2,2760,E10,2770
-587,Superbet Classic 2021,Bucharest ROU,2021.06.05,1.3,"Grischuk,A","Vachier Lagrave,M",1/2-1/2,2760,D85,2776
-588,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.5,"Vachier Lagrave,M","Deac,Bogdan-Daniel",0-1,2627,C80,2760
-589,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.5,"Vachier Lagrave,M","Lupulescu,C",1/2-1/2,2656,C11,2760
-590,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.5,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2760,A34,2781
-591,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.4,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2820,C78,2760
-592,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.4,"Giri,A","Vachier Lagrave,M",1-0,2760,A34,2780
-593,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.3,"So,W","Vachier Lagrave,M",1/2-1/2,2760,A34,2770
-594,Superbet Classic 2021,Bucharest ROU,2021.06.14,9.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2770,C47,2760
-595,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.3,"Svidler,P","Vachier Lagrave,M",1-0,2760,C11,2714
-596,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.4,"Vachier Lagrave,M","Radjabov,T",1-0,2765,C65,2760
-597,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.3,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A48,2820
-598,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.3,"Vachier Lagrave,M","Bacrot,E",0-1,2678,A01,2760
-599,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,D02,2763
-600,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,C02,2760
-601,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.5,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2760,E60,2781
-602,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.1,"So,W","Vachier Lagrave,M",1-0,2760,D85,2770
-603,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.5,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,C70,2760
-604,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.4,"Vachier Lagrave,M","Kramnik,V",1-0,2753,A37,2760
-605,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.3,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2760,B40,2759
-606,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.3,"Vachier Lagrave,M","So,W",0-1,2770,A06,2760
-607,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.4,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2760,A01,2792
-608,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.2,"Vachier Lagrave,M","Caruana,F",1-0,2820,C78,2760
-609,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.5,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2760,A04,2765
-610,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.1,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2763,C02,2760
-611,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.5,"Vachier Lagrave,M","Svidler,P",0-1,2714,A10,2760
-612,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.2,"Aronian,L","Vachier Lagrave,M",0-1,2760,A62,2781
-613,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.4,"Kramnik,V","Vachier Lagrave,M",0-1,2760,B90,2753
-614,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.3,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,B30,2760
-615,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.3,"So,W","Vachier Lagrave,M",1-0,2760,A33,2770
-616,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.4,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2792,C11,2760
-617,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.2,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A05,2820
-618,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.5,"Vachier Lagrave,M","Radjabov,T",1-0,2765,A10,2760
-619,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.1,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,A15,2763
-620,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.5,"Svidler,P","Vachier Lagrave,M",1/2-1/2,2760,B23,2714
-621,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.2,"Vachier Lagrave,M","Aronian,L",0-1,2781,C78,2760
-622,TCh-FRA Top 12 2021,Chalons en Champagne FRA,2021.06.28,5.4,"Vachier Lagrave,M","Fressinet,L",1-0,2638,A16,2760
-623,TCh-FRA Top 12 2021,Chalons en Champagne FRA,2021.06.30,7.4,"Grandelius,N","Vachier Lagrave,M",1/2-1/2,2760,C07,2670
-624,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2749,A48,2782
-625,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.4,"Vachier Lagrave,M","Anand,V",1-0,2753,B12,2749
-626,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B11,2749
-627,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.4,"Saric,Iv","Vachier Lagrave,M",1/2-1/2,2749,B52,2653
-628,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.2,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,C42,2749
-629,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.5,"Van Foreest,Jorden","Vachier Lagrave,M",1/2-1/2,2749,B90,2688
-630,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.1,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2749,B92,2683
-631,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.5,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2792,B46,2749
-632,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2782,E70,2749
-633,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.5,"Giri,A","Vachier Lagrave,M",1-0,2749,A33,2776
-634,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.1,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,C67,2749
-635,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.5,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,B92,2749
-636,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.2,"Van Foreest,Jorden","Vachier Lagrave,M",0-1,2749,B23,2688
-637,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.4,"Vachier Lagrave,M","Grischuk,A",1-0,2778,C67,2749
-638,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.3,"Duda,J","Vachier Lagrave,M",1/2-1/2,2749,D85,2738
-639,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.3,"Vachier Lagrave,M","Kasparov,G",1-0,2812,B40,2749
-640,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.4,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2749,D87,2683
-641,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.2,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2749,D85,2782
-642,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.5,"Vachier Lagrave,M","Giri,A",1-0,2776,A29,2749
-643,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.1,"Anand,V","Vachier Lagrave,M",1/2-1/2,2749,B90,2753
-644,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.5,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2749,A33,2792
-645,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.2,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2688,A10,2749
-646,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.4,"Grischuk,A","Vachier Lagrave,M",1/2-1/2,2749,A35,2778
-647,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B10,2749
-648,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.3,"Kasparov,G","Vachier Lagrave,M",0-1,2749,A04,2812
-649,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.4,"Vachier Lagrave,M","Korobov,A",1-0,2683,A45,2749
-650,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Moradiabadi,E","Vachier Lagrave,M",1/2-1/2,2749,B67,2553
-651,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vachier Lagrave,M","Moradiabadi,E",1-0,2553,B40,2749
-652,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,B34,2749
-653,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,B90,2625
-654,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.4,"Paravyan,D","Vachier Lagrave,M",1-0,2749,B67,2625
-655,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.3,"Vachier Lagrave,M","Paravyan,D",1-0,2625,B33,2749
-656,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.9,"Vachier Lagrave,M","Paravyan,D",1-0,2625,B23,2749
-657,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.8,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,A29,2749
-658,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.7,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,B90,2625
-659,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.6,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,B30,2749
-660,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.5,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,C67,2625
-661,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Praggnanandhaa,R","Vachier Lagrave,M",1/2-1/2,2749,D94,2608
-662,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Vachier Lagrave,M","Praggnanandhaa,R",1-0,2608,B40,2749
-663,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
-664,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Vachier Lagrave,M","Karjakin,Sergey",0-1,2757,A45,2749
-665,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
-666,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
-667,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
-668,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.2,"Vachier Lagrave,M","Svidler,P",1-0,2714,E60,2751
-669,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2751,A04,2763
-670,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.3,"Vachier Lagrave,M","Shankland,S",1-0,2709,C53,2751
-671,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.5,"Dominguez Perez,L","Vachier Lagrave,M",1-0,2751,B90,2758
-672,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.2,"Vachier Lagrave,M","Swiercz,D",1-0,2655,C53,2751
-673,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.1,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2751,B90,2806
-674,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.5,"Vachier Lagrave,M","Xiong,Jeffery",1-0,2710,C67,2751
-675,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.4,"Vachier Lagrave,M","So,W",1/2-1/2,2772,C67,2751
-676,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,1.2,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2751,E60,2782
-677,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,2.7,"Vachier Lagrave,M","Artemiev,V",0-1,2704,B12,2751
-678,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,3.3,"Giri,A","Vachier Lagrave,M",1/2-1/2,2751,A34,2776
-679,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,4.6,"Vachier Lagrave,M","Liang,Awonder",1-0,2587,B12,2751
-680,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,5.4,"Aronian,L","Vachier Lagrave,M",1-0,2751,E60,2782
-681,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,6.5,"Vachier Lagrave,M","Van Foreest,Jorden",1-0,2698,C65,2751
-682,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,7.5,"Carlsen,M","Vachier Lagrave,M",1-0,2751,D80,2847
-683,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,8.4,"Vachier Lagrave,M","So,W",1/2-1/2,2772,C50,2751
-684,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,9.6,"Vidit,S","Vachier Lagrave,M",1/2-1/2,2751,A35,2726
-685,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,10.3,"Vachier Lagrave,M","Le, Quang Liem",1-0,2709,C50,2751
-686,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,11.7,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2751,D90,2759
-687,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,12.2,"Vachier Lagrave,M","Naroditsky,D",1-0,2623,E90,2751
-688,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,13.8,"Hansen,Eric","Vachier Lagrave,M",0-1,2751,C11,2606
-689,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,14.1,"Duda,J","Vachier Lagrave,M",1-0,2751,E60,2738
-690,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,15.8,"Vachier Lagrave,M","Dominguez Perez,L",1/2-1/2,2758,C43,2751
-691,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,1,"Msellek,I","Vachier Lagrave,M",0-1,2751,E16,2353
-692,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,2,"Vachier Lagrave,M","Mortazavi,A",0-1,2333,B12,2751
-693,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,3,"Kim,Se","Vachier Lagrave,M",0-1,2751,E59,2295
-694,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,4,"Vachier Lagrave,M","Musovic,A",1-0,2282,D00,2751
-695,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,5,"Csonka,B","Vachier Lagrave,M",0-1,2751,C02,2490
-696,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,6,"Karthikeyan,M2","Vachier Lagrave,M",0-1,2751,B27,2606
-697,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,7,"Vachier Lagrave,M","Wagner,De",1-0,2572,A00,2751
-698,Titled Tuesday 31st Aug,chess.com INT,2021.08.31,8,"Vachier Lagrave,M","Kamsky,G",0-1,2649,D15,2751
-699,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.1,"Aronian,L","Vachier Lagrave,M",1-0,2763,D85,2782
-700,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.2,"Vachier Lagrave,M","Aronian,L",1/2-1/2,2782,C78,2763
-701,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.4,"Vachier Lagrave,M","Aronian,L",1-0,2782,C78,2763
-702,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.5,"Aronian,L","Vachier Lagrave,M",0-1,2763,D85,2782
-703,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.6,"Vachier Lagrave,M","Aronian,L",0-1,2782,B96,2763
-704,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.3,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2763,E60,2782
-705,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.7,"Aronian,L","Vachier Lagrave,M",0-1,2763,C42,2782
-706,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.2,"So,W","Vachier Lagrave,M",1/2-1/2,2763,A20,2778
-707,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.3,"Vachier Lagrave,M","So,W",1-0,2778,C67,2763
-708,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.1,"Vachier Lagrave,M","So,W",1-0,2778,A07,2763
-709,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.4,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C88,2763
-710,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.5,"Carlsen,M","Vachier Lagrave,M",1-0,2763,B56,2855
-711,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.6,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C53,2763
-712,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.3,"Carlsen,M","Vachier Lagrave,M",0-1,2763,B23,2855
-713,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.2,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C88,2763
-714,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.1,"Carlsen,M","Vachier Lagrave,M",1-0,2763,B23,2855
-715,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.2,"Mamedyarov,S","Vachier Lagrave,M",0-1,2763,A48,2762
-716,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2762,C95,2763
-717,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.3,"Vachier Lagrave,M","Mamedyarov,S",0-1,2762,B33,2763
-718,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.4,"Mamedyarov,S","Vachier Lagrave,M",1-0,2763,A48,2762
-719,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.1,"Duda,J","Vachier Lagrave,M",1/2-1/2,2763,B12,2756
-720,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.3,"Duda,J","Vachier Lagrave,M",0-1,2763,B90,2756
-721,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.2,"Vachier Lagrave,M","Duda,J",1-0,2756,B10,2763
-722,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.5,"Vachier Lagrave,M","Artemiev,V",1/2-1/2,2699,B04,2763
-723,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.4,"Vachier Lagrave,M","Artemiev,V",1-0,2699,B12,2763
-724,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.3,"Artemiev,V","Vachier Lagrave,M",1/2-1/2,2763,A28,2699
-725,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.2,"Vachier Lagrave,M","Artemiev,V",0-1,2699,B12,2763
-726,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.1,"Artemiev,V","Vachier Lagrave,M",1/2-1/2,2763,A45,2699
-727,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.6,"Artemiev,V","Vachier Lagrave,M",1-0,2763,A04,2699
-728,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.4,"Nakamura,Hi","Vachier Lagrave,M",1-0,2763,E60,2736
-729,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.2,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2763,E60,2736
-730,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.1,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C67,2763
-731,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.3,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2736,A00,2763
-732,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.5,"Vachier Lagrave,M","Nakamura,Hi",1-0,2736,C50,2763
-733,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.6,"Nakamura,Hi","Vachier Lagrave,M",1-0,2763,D12,2736
-734,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.7,"Nakamura,Hi","Vachier Lagrave,M",1-0,2763,E60,2736
-735,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.2,"Vachier Lagrave,M","Giri,A",1/2-1/2,2777,C42,2763
-736,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.1,"Giri,A","Vachier Lagrave,M",1-0,2763,A33,2777
-737,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.4,"Vachier Lagrave,M","Giri,A",1/2-1/2,2777,C43,2763
-738,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.2,"Radjabov,T","Vachier Lagrave,M",1-0,2763,D38,2763
-739,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.3,"Vachier Lagrave,M","Radjabov,T",0-1,2763,C67,2763
-740,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.1,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2763,C67,2763
-741,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2772,C53,2777
-742,Bundesliga 2019-20,Berlin GER,2021.10.15,11.3,"Papp,Ga","Vachier Lagrave,M",0-1,2777,C07,2589
-743,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Kamsky,G","Vachier Lagrave,M",1/2-1/2,2777,B50,2684
-744,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Inarkiev,E","Vachier Lagrave,M",1/2-1/2,2777,D78,2665
-745,Bundesliga 2019-20,Berlin GER,2021.10.17,15.4,"Vachier Lagrave,M","Oleksiyenko,Mykhaylo",1-0,2594,A14,2777
-746,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.4,"Niemann,Hans Moke","Vachier Lagrave,M",1/2-1/2,2763,A04,2638
-747,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.12,"Vachier Lagrave,M","Tabatabaei,M",1-0,2639,C67,2763
-748,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.4,"Donchenko,Alexa","Vachier Lagrave,M",1/2-1/2,2763,E60,2648
-749,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.6,"Vachier Lagrave,M","Demchenko,A",1-0,2651,C60,2763
-750,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2763,B90,2770
-751,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.3,"Vachier Lagrave,M","Ponkratov,P",1-0,2659,C02,2763
-752,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.2,"Sasikiran,K","Vachier Lagrave,M",1/2-1/2,2763,B90,2640
-753,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.2,"Vachier Lagrave,M","Shirov,A",1/2-1/2,2659,C78,2763
-754,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.2,"Anton Guijarro,D","Vachier Lagrave,M",1/2-1/2,2763,E60,2658
-755,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2800,C88,2763
-756,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.3,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2763,B90,2704
-757,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,1.1,"Bartel,Mat","Vachier Lagrave,M",1/2-1/2,2766,B52,2619
-758,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,2.1,"Vachier Lagrave,M","Bartel,Mat",0-1,2619,A07,2766
-759,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,3.41,"Rogule,L","Vachier Lagrave,M",0-1,2766,A23,2289
-760,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,4.41,"Vachier Lagrave,M","Rogule,L",1-0,2289,A07,2766
-761,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,5.15,"Vokhidov,Shamsiddin","Vachier Lagrave,M",1-0,2766,B12,2521
-762,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,6.15,"Vachier Lagrave,M","Vokhidov,Shamsiddin",1-0,2521,B56,2766
-763,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,7.18,"Vachier Lagrave,M","Kryvoruchko,Y",1-0,2681,A05,2766
-764,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,8.18,"Kryvoruchko,Y","Vachier Lagrave,M",0-1,2766,B10,2681
-765,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,9.8,"Vachier Lagrave,M","Dreev,A",0-1,2635,B10,2766
-766,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,10.8,"Dreev,A","Vachier Lagrave,M",0-1,2766,A85,2635
-767,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,11.7,"Adhiban,Baskaran","Vachier Lagrave,M",1-0,2766,B11,2672
-768,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,12.7,"Vachier Lagrave,M","Adhiban,Baskaran",0-1,2672,C46,2766
-769,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,13.23,"Vachier Lagrave,M","Yilmaz,M",1-0,2626,B20,2766
-770,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,14.23,"Yilmaz,M","Vachier Lagrave,M",0-1,2766,B12,2626
-771,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,15.13,"Vachier Lagrave,M","Movsesian,S",1-0,2618,B04,2766
-772,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,16.13,"Movsesian,S","Vachier Lagrave,M",0-1,2766,B12,2618
-773,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,17.5,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2766,D02,2650
-774,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,18.5,"Vachier Lagrave,M","Nihal,Sarin",1-0,2650,C70,2766
-775,23rd European Teams,Terme Catez SLO,2021.11.12,1.3,"Vachier Lagrave,M","Dragnev,Valentin",1-0,2548,B50,2766
-776,23rd European Teams,Terme Catez SLO,2021.11.13,2.3,"Brkic,A","Vachier Lagrave,M",1/2-1/2,2766,B90,2599
-777,23rd European Teams,Terme Catez SLO,2021.11.14,3.3,"Vachier Lagrave,M","Berkes,F",1/2-1/2,2676,C50,2766
-778,23rd European Teams,Terme Catez SLO,2021.11.15,4.5,"Dastan,B","Vachier Lagrave,M",0-1,2766,D35,2572
-779,23rd European Teams,Terme Catez SLO,2021.11.16,5.3,"Vachier Lagrave,M","Martirosyan,Haik M.",1/2-1/2,2624,C67,2766
-780,23rd European Teams,Terme Catez SLO,2021.11.18,6.5,"Banikas,H","Vachier Lagrave,M",1/2-1/2,2766,D10,2592
-781,23rd European Teams,Terme Catez SLO,2021.11.19,7.4,"Sanikidze,T","Vachier Lagrave,M",1/2-1/2,2766,D38,2458
-782,23rd European Teams,Terme Catez SLO,2021.11.20,8.2,"Vachier Lagrave,M","Dubov,Daniil",1/2-1/2,2714,C55,2766
-783,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2766,A37,2763
-784,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,1,"Vachier Lagrave,M","Zia,Tahsin Tajwar",1-0,2226,A14,2766
-785,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,2,"Kosteniuk,A","Vachier Lagrave,M",0-1,2766,C01,2518
-786,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,3,"Vachier Lagrave,M","Lugovskoy,M",1-0,2423,A01,2766
-787,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,4,"Obregon,A","Vachier Lagrave,M",0-1,2766,A58,2525
-788,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,5,"Vachier Lagrave,M","Babazada,Khazar",1-0,2427,A06,2766
-789,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,6,"Gokerkan,Cem Kaan","Vachier Lagrave,M",1/2-1/2,2766,C11,2444
-790,Titled Tuesday 23rd Nov,chess.com INT,2021.11.23,7,"Svane,R","Vachier Lagrave,M",1-0,2766,A07,2628
-791,chess.com Speed 2021,chess.com INT,2021.11.29,1.21,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2791,C72,2766
-792,chess.com Speed 2021,chess.com INT,2021.11.29,1.34,"Vachier Lagrave,M","Caruana,F",0-1,2791,A32,2766
-793,chess.com Speed 2021,chess.com INT,2021.11.29,1.35,"Caruana,F","Vachier Lagrave,M",1-0,2766,A48,2791
-794,chess.com Speed 2021,chess.com INT,2021.11.29,1.32,"Vachier Lagrave,M","Caruana,F",0-1,2791,E06,2766
-795,chess.com Speed 2021,chess.com INT,2021.11.29,1.28,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2766,B97,2791
-796,chess.com Speed 2021,chess.com INT,2021.11.29,1.27,"Vachier Lagrave,M","Caruana,F",1-0,2791,C55,2766
-797,chess.com Speed 2021,chess.com INT,2021.11.29,1.37,"Caruana,F","Vachier Lagrave,M",0-1,2766,A49,2791
-798,chess.com Speed 2021,chess.com INT,2021.11.29,1.26,"Caruana,F","Vachier Lagrave,M",0-1,2766,C11,2791
-799,chess.com Speed 2021,chess.com INT,2021.11.29,1.24,"Caruana,F","Vachier Lagrave,M",0-1,2766,C11,2791
-800,chess.com Speed 2021,chess.com INT,2021.11.29,1.23,"Vachier Lagrave,M","Caruana,F",0-1,2791,C72,2766
-801,chess.com Speed 2021,chess.com INT,2021.11.29,1.22,"Caruana,F","Vachier Lagrave,M",1-0,2766,B12,2791
-802,chess.com Speed 2021,chess.com INT,2021.11.29,1.33,"Caruana,F","Vachier Lagrave,M",0-1,2766,B23,2791
-803,chess.com Speed 2021,chess.com INT,2021.11.29,1.18,"Caruana,F","Vachier Lagrave,M",1-0,2766,B31,2791
-804,chess.com Speed 2021,chess.com INT,2021.11.29,1.17,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2791,C72,2766
-805,chess.com Speed 2021,chess.com INT,2021.11.29,1.16,"Caruana,F","Vachier Lagrave,M",1-0,2766,A49,2791
-806,chess.com Speed 2021,chess.com INT,2021.11.29,1.15,"Vachier Lagrave,M","Caruana,F",1-0,2791,C72,2766
-807,chess.com Speed 2021,chess.com INT,2021.11.29,1.36,"Vachier Lagrave,M","Caruana,F",0-1,2791,C02,2766
-808,chess.com Speed 2021,chess.com INT,2021.11.29,1.25,"Vachier Lagrave,M","Caruana,F",1-0,2791,C55,2766
-809,chess.com Speed 2021,chess.com INT,2021.11.29,1.31,"Caruana,F","Vachier Lagrave,M",0-1,2766,A49,2791
-810,chess.com Speed 2021,chess.com INT,2021.11.29,1.29,"Vachier Lagrave,M","Caruana,F",1-0,2791,C72,2766
-811,chess.com Speed 2021,chess.com INT,2021.11.29,1.39,"Caruana,F","Vachier Lagrave,M",1-0,2766,A49,2791
-812,chess.com Speed 2021,chess.com INT,2021.11.29,1.38,"Vachier Lagrave,M","Caruana,F",0-1,2791,C11,2766
-813,chess.com Speed 2021,chess.com INT,2021.11.29,1.14,"Caruana,F","Vachier Lagrave,M",1-0,2766,A35,2791
-814,chess.com Speed 2021,chess.com INT,2021.11.29,1.13,"Vachier Lagrave,M","Caruana,F",1-0,2791,A00,2766
-815,chess.com Speed 2021,chess.com INT,2021.11.29,1.11,"Vachier Lagrave,M","Caruana,F",0-1,2791,C72,2766
-816,chess.com Speed 2021,chess.com INT,2021.11.29,1.12,"Caruana,F","Vachier Lagrave,M",0-1,2766,E60,2791
-817,Titled Tuesday 14th Dec,chess.com INT,2021.12.14,1,"Vachier Lagrave,M","Mezentsev,Iv",1-0,2386,D78,2761
-818,Titled Tuesday 14th Dec,chess.com INT,2021.12.14,2,"Horobetz,Graham","Vachier Lagrave,M",0-1,2761,B90,
-819,Titled Tuesday 14th Dec,chess.com INT,2021.12.14,3,"Vachier Lagrave,M","Shkapenko,P",1-0,2424,A17,2761
-820,Titled Tuesday 14th Dec,chess.com INT,2021.12.14,4,"Maly,Al","Vachier Lagrave,M",1-0,2761,D85,2368
-821,World Rapid 2021,Warsaw POL,2021.12.26,1.5,"Vachier Lagrave,M","Durarbayli,V",1/2-1/2,2615,C84,2761
-822,World Rapid 2021,Warsaw POL,2021.12.26,2.31,"Pichot,A","Vachier Lagrave,M",1/2-1/2,2761,C11,2625
-823,World Rapid 2021,Warsaw POL,2021.12.26,3.30,"Samunenkov,Ihor","Vachier Lagrave,M",0-1,2761,A45,2369
-824,World Rapid 2021,Warsaw POL,2021.12.26,4.13,"Vachier Lagrave,M","Quparadze,G",1-0,2477,B40,2761
-825,World Rapid 2021,Warsaw POL,2021.12.26,5.8,"Vidit,S","Vachier Lagrave,M",1/2-1/2,2761,D27,2727
-826,World Rapid 2021,Warsaw POL,2021.12.27,6.10,"Vachier Lagrave,M","Volokitin,And",0-1,2677,A07,2761
-827,World Rapid 2021,Warsaw POL,2021.12.27,7.21,"Theodorou,Nikolas","Vachier Lagrave,M",1/2-1/2,2761,A48,2577
-828,World Rapid 2021,Warsaw POL,2021.12.27,8.21,"Vachier Lagrave,M","Suleymanli,Aydin",1-0,2537,B10,2761
-829,World Rapid 2021,Warsaw POL,2021.12.27,9.15,"Ponkratov,P","Vachier Lagrave,M",1/2-1/2,2761,B90,2641
-830,World Rapid 2021,Warsaw POL,2021.12.28,10.14,"Vachier Lagrave,M","Predke,A",1/2-1/2,2682,C50,2761
-831,World Rapid 2021,Warsaw POL,2021.12.28,11.14,"Puranik,A","Vachier Lagrave,M",0-1,2761,A29,2604
-832,World Rapid 2021,Warsaw POL,2021.12.28,12.9,"Vachier Lagrave,M","Petrosian,TL",1-0,2573,B06,2761
-833,World Rapid 2021,Warsaw POL,2021.12.28,13.5,"Vachier Lagrave,M","Fedoseev,Vl3",1/2-1/2,2704,B12,2761
-834,World Blitz 2021,Warsaw POL,2021.12.29,1.8,"Vachier Lagrave,M","Krasenkow,M",1-0,2576,C43,2761
-835,World Blitz 2021,Warsaw POL,2021.12.29,2.3,"Vastrukhin,O","Vachier Lagrave,M",1/2-1/2,2761,A07,2376
-836,World Blitz 2021,Warsaw POL,2021.12.29,3.16,"Vachier Lagrave,M","Cheparinov,I",1-0,2664,C84,2761
-837,World Blitz 2021,Warsaw POL,2021.12.29,4.6,"Vidit,S","Vachier Lagrave,M",1-0,2761,D27,2727
-838,World Blitz 2021,Warsaw POL,2021.12.29,5.18,"Vachier Lagrave,M","Antipov,M2",1/2-1/2,2615,C67,2761
-839,World Blitz 2021,Warsaw POL,2021.12.29,6.22,"Vachier Lagrave,M","Dudin,Gleb",1-0,2474,C78,2761
-840,World Blitz 2021,Warsaw POL,2021.12.29,7.15,"Sychev,K","Vachier Lagrave,M",0-1,2761,B97,2550
-841,World Blitz 2021,Warsaw POL,2021.12.29,8.9,"Timofeev,Arty","Vachier Lagrave,M",0-1,2761,A20,2572
-842,World Blitz 2021,Warsaw POL,2021.12.29,9.5,"Vachier Lagrave,M","Amin,B",0-1,2680,C84,2761
-843,World Blitz 2021,Warsaw POL,2021.12.29,10.12,"Maghsoodloo,Parham","Vachier Lagrave,M",1-0,2761,D02,2701
-844,World Blitz 2021,Warsaw POL,2021.12.29,11.18,"Vachier Lagrave,M","Matlakov,M",1-0,2674,C83,2761
-845,World Blitz 2021,Warsaw POL,2021.12.29,12.13,"Vachier Lagrave,M","Zvjaginsev,V",1-0,2599,B30,2761
-846,World Blitz TB 2021,Warsaw POL,2021.12.30,1,"Vachier Lagrave,M","Duda,J",1/2-1/2,2760,C84,2761
-847,World Blitz TB 2021,Warsaw POL,2021.12.30,2,"Duda,J","Vachier Lagrave,M",1/2-1/2,2761,D27,2760
-848,World Blitz TB 2021,Warsaw POL,2021.12.30,3,"Vachier Lagrave,M","Duda,J",1-0,2760,C84,2761
-849,World Blitz 2021,Warsaw POL,2021.12.30,13.10,"Gelfand,B","Vachier Lagrave,M",0-1,2761,D85,2663
-850,World Blitz 2021,Warsaw POL,2021.12.30,14.4,"Giri,A","Vachier Lagrave,M",1/2-1/2,2761,A35,2772
-851,World Blitz 2021,Warsaw POL,2021.12.30,15.6,"Vachier Lagrave,M","Sindarov,Javokhir",1-0,2609,C82,2761
-852,World Blitz 2021,Warsaw POL,2021.12.30,16.5,"Kravtsiv,M","Vachier Lagrave,M",1/2-1/2,2761,B52,2604
-853,World Blitz 2021,Warsaw POL,2021.12.30,17.2,"Vachier Lagrave,M","Aronian,L",1-0,2772,C78,2761
-854,World Blitz 2021,Warsaw POL,2021.12.30,18.4,"Erigaisi,Arjun","Vachier Lagrave,M",0-1,2761,B52,2629
-855,World Blitz 2021,Warsaw POL,2021.12.30,19.2,"Vachier Lagrave,M","Dubov,Daniil",1/2-1/2,2720,B52,2761
-856,World Blitz 2021,Warsaw POL,2021.12.30,20.3,"Artemiev,V","Vachier Lagrave,M",1/2-1/2,2761,A07,2700
-857,World Blitz 2021,Warsaw POL,2021.12.30,21.1,"Vachier Lagrave,M","Carlsen,M",1-0,2856,C88,2761
-858,Titled Tuesday 1st Feb B,chess.com INT,2022.02.02,1,"Suarez Uriel,A","Vachier Lagrave,M",1-0,2761,B10,2352
-859,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.2,"Vachier Lagrave,M","Predke,A",1/2-1/2,2682,C92,2761
-860,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2767,C83,2761
-861,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.2,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2761,D87,2713
-862,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.2,"Predke,A","Vachier Lagrave,M",0-1,2761,B95,2682
-863,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.2,"Vachier Lagrave,M",Yu Yangyi,1/2-1/2,2713,C43,2761
-864,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.1,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2761,D35,2767
-865,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.09,1.1,"Rapport,R","Vachier Lagrave,M",1-0,2761,D87,2762
-866,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.10,1.2,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2762,C72,2761
-867,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,1,"Maghsoodloo,Parham","Vachier Lagrave,M",1/2-1/2,2761,D02,2701
-868,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,2,"Vachier Lagrave,M","Dreev,A",1-0,2623,B12,2761
-869,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,3,"Cheparinov,I","Vachier Lagrave,M",1-0,2761,D27,2672
-870,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,4,"Vachier Lagrave,M","Tabatabaei,M",1-0,2623,A08,2761
-871,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,5,"Vachier Lagrave,M","Paravyan,D",1-0,2617,C43,2761
-872,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,6,"Matlakov,M","Vachier Lagrave,M",1/2-1/2,2761,B90,2674
-873,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,7,"Vachier Lagrave,M","Aronian,L",0-1,2785,C67,2761
-874,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,8,"Vachier Lagrave,M","Xiong,Jeffery",1/2-1/2,2686,B30,2761
-875,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,9,"Sadhwani,Raunak","Vachier Lagrave,M",0-1,2761,E60,2616
-876,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,1.2,"Vachier Lagrave,M","Nakamura,Hi",1/2-1/2,2750,C67,2761
-877,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,1.1,"Nakamura,Hi","Vachier Lagrave,M",1/2-1/2,2761,A04,2750
-878,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,1.3,"Nakamura,Hi","Vachier Lagrave,M",1-0,2761,A04,2750
-879,Titled Tue 15th Mar Late,chess.com INT,2022.03.15,1,"Vachier Lagrave,M","Sokolovsky,Yahli",1-0,2395,A04,2761
-880,Titled Tue 15th Mar Late,chess.com INT,2022.03.15,2,"Garriga Cazorla,Pere","Vachier Lagrave,M",1-0,2761,E34,2472
-881,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.22,1.2,"Predke,A","Vachier Lagrave,M",1-0,2761,A33,2682
-882,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.23,2.2,"Vachier Lagrave,M","Shankland,S",1/2-1/2,2704,C67,2761
-883,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.24,3.1,"So,W","Vachier Lagrave,M",1/2-1/2,2761,D91,2778
-884,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.25,4.2,"Vachier Lagrave,M","Predke,A",1-0,2682,C92,2761
-885,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.27,5.1,"Vachier Lagrave,M","So,W",0-1,2778,E20,2761
-886,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.28,6.2,"Shankland,S","Vachier Lagrave,M",1/2-1/2,2761,D97,2704
-887,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,1,"Vachier Lagrave,M","Aldokhin,I",1-0,2413,E62,2761
-888,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,2,"Najer,E","Vachier Lagrave,M",0-1,2761,B17,2659
-889,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,3,"Vachier Lagrave,M","Sapunov,E",1-0,2461,E70,2761
-890,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,4,"Fernandez,Dani","Vachier Lagrave,M",1-0,2761,B69,2444
-891,Bundesliga 2021-22,Aachen GER,2022.04.09,3.3,"Vachier Lagrave,M","Seel,C",1-0,2486,C41,2761
-892,Bundesliga 2021-22,Aachen GER,2022.04.10,4.3,"Haria,R","Vachier Lagrave,M",1/2-1/2,2761,B52,2499
-893,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,1,"Migot,T","Vachier Lagrave,M",0-1,2758,A04,2353
-894,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,2,"Vachier Lagrave,M","Taichman,O",1-0,2298,B30,2758
-895,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,1,"Vachier Lagrave,M","Esipenko,Andrey",1/2-1/2,2723,C88,2758
-896,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,2,"Alekseenko,K","Vachier Lagrave,M",1-0,2758,B92,2698
-897,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,3,"Vachier Lagrave,M","Gledura,B",1-0,2652,E09,2758
-898,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,4,"Matlakov,M","Vachier Lagrave,M",1-0,2758,E60,2674
-899,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,5,"Vachier Lagrave,M","Hakobyan,Aram",1-0,2612,A07,2758
-900,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,6,"Harika,D","Vachier Lagrave,M",0-1,2758,B22,2517
-901,Chess.com RCC Wk11 Swiss,chess.com INT,2022.04.23,7,"Vachier Lagrave,M","Navara,D",0-1,2693,C65,2758
-902,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,1,"Vachier Lagrave,M","Manukyan,Artyom",1-0,2106,A06,2758
-903,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,2,"Tanenbaum,Zachary","Vachier Lagrave,M",0-1,2758,B13,2148
-904,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,3,"Vachier Lagrave,M","Suleymanli,Aydin",1-0,2525,E10,2758
-905,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,4,"Demchenko,A","Vachier Lagrave,M",1-0,2758,B53,2654
-906,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,5,"Vachier Lagrave,M","Makarian,Rudik",0-1,2502,C70,2758
-907,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.5,"Vachier Lagrave,M","Dominguez Perez,L",1/2-1/2,2753,C42,2750
-908,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.1,"So,W","Vachier Lagrave,M",1/2-1/2,2750,D27,2776
-909,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.5,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,B10,2750
-910,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.4,"Vachier Lagrave,M","Caruana,F",1-0,2786,C82,2750
-911,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2750,B54,2773
-912,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.2,"Vachier Lagrave,M","Aronian,L",0-1,2765,D39,2750
-913,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.5,"Rapport,R","Vachier Lagrave,M",0-1,2750,D26,2776
-914,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.3,"Vachier Lagrave,M","Deac,Bogdan-Daniel",1/2-1/2,2671,C42,2750
-915,Superbet Classic TB 2022,Bucharest ROU,2022.05.14,2,"Vachier Lagrave,M","So,W",1-0,2776,A29,2750
-916,Superbet Classic TB 2022,Bucharest ROU,2022.05.14,3,"Aronian,L","Vachier Lagrave,M",0-1,2750,B50,2765
-917,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.3,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2750,D78,2804
-918,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.5,"Mamedyarov,S","Vachier Lagrave,M",1-0,2750,D27,2759
-919,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,A20,2864
-920,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.5,"Vachier Lagrave,M","Tari,A",0-1,2654,A05,2750
-921,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.2,"So,W","Vachier Lagrave,M",1-0,2750,A07,2776
-922,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.4,"Vachier Lagrave,M","Topalov,V",0-1,2730,B57,2750
-923,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.3,"Radjabov,T","Vachier Lagrave,M",0-1,2750,D26,2753
-924,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.3,"Vachier Lagrave,M","Giri,A",1-0,2761,A01,2750
-925,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,D97,2744
-926,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.2,"Vachier Lagrave,M","Anand,V",1-0,2751,C54,2750
-927,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.4,"Anand,V","Vachier Lagrave,M",1-0,2750,B52,2751
-928,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,D41,2750
-929,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C42,2750
-930,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.5,"Tari,A","Vachier Lagrave,M",0-1,2750,B52,2654
-931,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1-0,2750,D26,2753
-932,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2750,D85,2753
-933,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.3,"Vachier Lagrave,M","Topalov,V",1-0,2730,C67,2750
-934,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.3,"Vachier Lagrave,M","Topalov,V",1/2-1/2,2730,C50,2750
-935,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2750,B90,2744
-936,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,A48,2744
-937,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.2,"Vachier Lagrave,M","So,W",1-0,2776,C67,2750
-938,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,D85,2864
-939,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2750,D85,2864
-940,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.4,"Vachier Lagrave,M","Giri,A",1-0,2761,B53,2750
-941,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.4,"Vachier Lagrave,M","Giri,A",1/2-1/2,2761,B30,2750
-942,TCh-FRA Top 16 GpB 2022,Chartres FRA,2022.06.14,6.1,"Vachier Lagrave,M","Gharamian,T",1/2-1/2,2602,B12,2760
-943,Titled Tue 14th Jun Late,chess.com INT,2022.06.14,1,"Nozdrachev,L","Vachier Lagrave,M",0-1,2760,B22,2367
-944,Titled Tue 14th Jun Late,chess.com INT,2022.06.14,2,"Vachier Lagrave,M","Yaksin,O",1-0,2388,A28,2760
-945,Titled Tue 14th Jun Late,chess.com INT,2022.06.14,3,"Acosta,Pablo Ismael","Vachier Lagrave,M",1-0,2760,D12,2467
-946,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.16,1.3,"Vachier Lagrave,M","Tiviakov,S",1-0,2570,B01,2760
-947,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.18,3.4,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2760,E60,2675
-948,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.19,4.4,"Vachier Lagrave,M","Fressinet,L",1/2-1/2,2624,C65,2760
-949,Coupe de France 2022,Paris FRA,2022.06.25,1.2,"Grandelius,N","Vachier Lagrave,M",1/2-1/2,2760,D85,2645
-950,Coupe de France 2022,Paris FRA,2022.06.26,2.1,"Vachier Lagrave,M","Malakhov,V",1/2-1/2,2652,C67,2760
-951,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,1,"De La Colina,Nicolas","Vachier Lagrave,M",0-1,2760,B13,2090
-952,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,2,"Vachier Lagrave,M","Ismagilov,Damir",1-0,2188,E46,2760
-953,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,3,"Rustemov,A","Vachier Lagrave,M",0-1,2760,D27,2525
-954,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,4,"Vachier Lagrave,M","Moussard,J",1-0,2668,A14,2760
-955,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,5,"Kamsky,G","Vachier Lagrave,M",1/2-1/2,2760,A48,2655
-956,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,6,"Vachier Lagrave,M","Lashkin,Jegor",1-0,2399,B90,2760
-957,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,7,"Vachier Lagrave,M","Gormally,D",1-0,2470,B56,2760
-958,Titled Tue 28th Jun Early,chess.com INT,2022.06.28,8,"Nakamura,Hi","Vachier Lagrave,M",1-0,2760,A05,2760
-959,Titled Tue 5th Jul Early,chess.com INT,2022.07.05,1,"Vachier Lagrave,M","Bernotas,A",1-0,2366,B01,2760
-960,Titled Tue 5th Jul Early,chess.com INT,2022.07.05,2,"De Silva,L M S T","Vachier Lagrave,M",0-1,2760,B15,2212
-961,Titled Tue 5th Jul Early,chess.com INT,2022.07.05,3,"Vachier Lagrave,M","Wagner,De",1-0,2569,D02,2760
-962,Titled Tue 5th Jul Early,chess.com INT,2022.07.05,4,"Tristan,L","Vachier Lagrave,M",0-1,2760,D02,2558
-963,Titled Tue 5th Jul Early,chess.com INT,2022.07.05,5,"Melkumyan,H","Vachier Lagrave,M",1-0,2760,A15,2634
-964,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2761,D90,2695
-965,Bundesliga 2021-22,Berlin GER,2022.07.10,15.5,"L'Ami,E","Vachier Lagrave,M",1/2-1/2,2761,D27,2621
-966,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.4,"Topalov,V","Vachier Lagrave,M",0-1,2760,E60,2728
-967,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.1,"Vachier Lagrave,M","So,W",1/2-1/2,2773,C67,2760
-968,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2760,B23,2864
-969,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.1,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2678,B13,2760
-970,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2760,B50,2793
-971,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.1,"Vachier Lagrave,M","Saric,Iv",1/2-1/2,2680,B52,2760
-972,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.1,"Mamedyarov,S","Vachier Lagrave,M",0-1,2760,A04,2759
-973,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.1,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C43,2760
-974,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.1,"Dominguez Perez,L","Vachier Lagrave,M",1/2-1/2,2760,B90,2754
-975,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.1,"Vachier Lagrave,M","Saric,Iv",1-0,2680,E60,2760
-976,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.5,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C42,2760
-977,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2760,D94,2759
-978,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.4,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2793,B13,2760
-979,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.3,"Carlsen,M","Vachier Lagrave,M",1-0,2760,B23,2864
-980,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.3,"Vachier Lagrave,M","Van Foreest,Jorden",0-1,2678,A13,2760
-981,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.4,"Topalov,V","Vachier Lagrave,M",0-1,2760,A15,2728
-982,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.2,"Vachier Lagrave,M","So,W",1/2-1/2,2773,A14,2760
-983,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.5,"Dominguez Perez,L","Vachier Lagrave,M",0-1,2760,B90,2754
-984,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.1,"Saric,Iv","Vachier Lagrave,M",0-1,2760,B90,2680
-985,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2760,D79,2766
-986,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.1,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C77,2760
-987,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.1,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2760,A37,2793
-988,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2864,C67,2760
-989,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.1,"Van Foreest,Jorden","Vachier Lagrave,M",0-1,2760,D27,2678
-990,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.1,"Vachier Lagrave,M","Topalov,V",1-0,2728,B13,2760
-991,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.1,"Vachier Lagrave,M","Dominguez Perez,L",1-0,2754,C42,2760
+0,Gibraltar Masters 2020,Caleta ENG,2020.01.21,1.2,"Vachier Lagrave,M","Sukandar,I",1-0,2402,B35,2770
+1,Gibraltar Masters 2020,Caleta ENG,2020.01.22,2.2,"Flom,Gabriel","Vachier Lagrave,M",1/2-1/2,2770,D85,2510
+2,Gibraltar Masters 2020,Caleta ENG,2020.01.23,3.18,"Vachier Lagrave,M","Baron,Ta",1-0,2529,A37,2770
+3,Gibraltar Masters 2020,Caleta ENG,2020.01.24,4.4,"Vaibhav,S","Vachier Lagrave,M",1/2-1/2,2770,B92,2593
+4,Gibraltar Masters 2020,Caleta ENG,2020.01.25,5.8,"Vachier Lagrave,M","Sanal,V",1/2-1/2,2569,C77,2770
+5,Gibraltar Masters 2020,Caleta ENG,2020.01.26,6.9,"Vachier Lagrave,M","Peralta,Fe",1-0,2574,C02,2770
+6,Gibraltar Masters 2020,Caleta ENG,2020.01.27,7.4,"Karthikeyan,M2","Vachier Lagrave,M",1/2-1/2,2770,B90,2606
+7,Gibraltar Masters 2020,Caleta ENG,2020.01.28,8.5,"Basso,Pier Luigi","Vachier Lagrave,M",1/2-1/2,2770,D92,2600
+8,Gibraltar Masters 2020,Caleta ENG,2020.01.29,9.6,"Vachier Lagrave,M","Can,E",1-0,2600,B51,2770
+9,Gibraltar Masters 2020,Caleta ENG,2020.01.30,10.3,"Vachier Lagrave,M","Maghsoodloo,Parham",1-0,2674,D38,2770
+10,Bundesliga 2019-20,Kiel GER,2020.02.09,6.5,"Svane,R","Vachier Lagrave,M",1/2-1/2,2777,A34,2594
+11,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.3,"Harikrishna,P","Vachier Lagrave,M",1/2-1/2,2784,B90,2732
+12,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.2,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B12,2784
+13,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.6,"Esipenko,Andrey","Vachier Lagrave,M",1/2-1/2,2784,B53,2677
+14,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.2,"Vachier Lagrave,M","Anton Guijarro,D",1/2-1/2,2679,C89,2784
+15,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.6,"Grandelius,N","Vachier Lagrave,M",1-0,2784,B97,2663
+16,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.2,"Vachier Lagrave,M","Tari,A",1/2-1/2,2625,D78,2784
+17,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.4,"Caruana,F","Vachier Lagrave,M",1-0,2784,B97,2823
+18,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.4,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2671,C78,2784
+19,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.6,"Giri,A","Vachier Lagrave,M",1-0,2784,B90,2764
+20,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.2,"Vachier Lagrave,M","Donchenko,Alexa",1-0,2668,B12,2784
+21,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.7,"Wojtaszek,R","Vachier Lagrave,M",1/2-1/2,2784,D82,2705
+22,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.6,"Vachier Lagrave,M","Duda,J",1/2-1/2,2743,C42,2784
+23,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.3,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
+24,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.1,"Caruana,F","Vachier Lagrave,M",1-0,2767,B97,2842
+25,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.4,Ding Liren,"Vachier Lagrave,M",1/2-1/2,2767,E60,2805
+26,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.2,"Vachier Lagrave,M","Giri,A",1/2-1/2,2763,B33,2767
+27,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.3,"Grischuk,A","Vachier Lagrave,M",1-0,2767,B23,2777
+28,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.3,"Vachier Lagrave,M","Alekseenko,K",1-0,2698,B12,2767
+29,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2767,A15,2774
+30,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.4,"Vachier Lagrave,M",Wang Hao,1-0,2762,C67,2767
+31,Superbet Classic 2021,Bucharest ROU,2021.06.05,1.3,"Grischuk,A","Vachier Lagrave,M",1/2-1/2,2760,D85,2776
+32,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.5,"Vachier Lagrave,M","Deac,Bogdan-Daniel",0-1,2627,C80,2760
+33,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.5,"Vachier Lagrave,M","Lupulescu,C",1/2-1/2,2656,C11,2760
+34,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.5,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2760,A34,2781
+35,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.4,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2820,C78,2760
+36,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.4,"Giri,A","Vachier Lagrave,M",1-0,2760,A34,2780
+37,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.3,"So,W","Vachier Lagrave,M",1/2-1/2,2760,A34,2770
+38,Superbet Classic 2021,Bucharest ROU,2021.06.14,9.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2770,C47,2760
+39,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.3,"Svidler,P","Vachier Lagrave,M",1-0,2760,C11,2714
+40,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.4,"Vachier Lagrave,M","Radjabov,T",1-0,2765,C65,2760
+41,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.3,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A48,2820
+42,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.3,"Vachier Lagrave,M","Bacrot,E",0-1,2678,A01,2760
+43,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,D02,2763
+44,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.2,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,C02,2760
+45,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.5,"Aronian,L","Vachier Lagrave,M",1/2-1/2,2760,E60,2781
+46,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.1,"So,W","Vachier Lagrave,M",1-0,2760,D85,2770
+47,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.5,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,C70,2760
+48,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.4,"Vachier Lagrave,M","Kramnik,V",1-0,2753,A37,2760
+49,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.3,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2760,B40,2759
+50,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.3,"Vachier Lagrave,M","So,W",0-1,2770,A06,2760
+51,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.4,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2760,A01,2792
+52,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.2,"Vachier Lagrave,M","Caruana,F",1-0,2820,C78,2760
+53,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.5,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2760,A04,2765
+54,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.1,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2763,C02,2760
+55,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.5,"Vachier Lagrave,M","Svidler,P",0-1,2714,A10,2760
+56,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.2,"Aronian,L","Vachier Lagrave,M",0-1,2760,A62,2781
+57,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.4,"Kramnik,V","Vachier Lagrave,M",0-1,2760,B90,2753
+58,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.3,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,B30,2760
+59,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.3,"So,W","Vachier Lagrave,M",1-0,2760,A33,2770
+60,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.4,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2792,C11,2760
+61,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.2,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A05,2820
+62,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.5,"Vachier Lagrave,M","Radjabov,T",1-0,2765,A10,2760
+63,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.1,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2760,A15,2763
+64,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.5,"Svidler,P","Vachier Lagrave,M",1/2-1/2,2760,B23,2714
+65,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.2,"Vachier Lagrave,M","Aronian,L",0-1,2781,C78,2760
+66,TCh-FRA Top 12 2021,Chalons en Champagne FRA,2021.06.28,5.4,"Vachier Lagrave,M","Fressinet,L",1-0,2638,A16,2760
+67,TCh-FRA Top 12 2021,Chalons en Champagne FRA,2021.06.30,7.4,"Grandelius,N","Vachier Lagrave,M",1/2-1/2,2760,C07,2670
+68,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2749,A48,2782
+69,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.4,"Vachier Lagrave,M","Anand,V",1-0,2753,B12,2749
+70,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B11,2749
+71,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.4,"Saric,Iv","Vachier Lagrave,M",1/2-1/2,2749,B52,2653
+72,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.2,"Vachier Lagrave,M","Giri,A",1/2-1/2,2776,C42,2749
+73,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.5,"Van Foreest,Jorden","Vachier Lagrave,M",1/2-1/2,2749,B90,2688
+74,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.1,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2749,B92,2683
+75,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.5,"Vachier Lagrave,M","Nepomniachtchi,I",1/2-1/2,2792,B46,2749
+76,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2782,E70,2749
+77,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.5,"Giri,A","Vachier Lagrave,M",1-0,2749,A33,2776
+78,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.1,"Vachier Lagrave,M","Anand,V",1/2-1/2,2753,C67,2749
+79,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.5,"Vachier Lagrave,M","Nepomniachtchi,I",1-0,2792,B92,2749
+80,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.2,"Van Foreest,Jorden","Vachier Lagrave,M",0-1,2749,B23,2688
+81,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.4,"Vachier Lagrave,M","Grischuk,A",1-0,2778,C67,2749
+82,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.3,"Duda,J","Vachier Lagrave,M",1/2-1/2,2749,D85,2738
+83,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.3,"Vachier Lagrave,M","Kasparov,G",1-0,2812,B40,2749
+84,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.4,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2749,D87,2683
+85,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.2,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2749,D85,2782
+86,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.5,"Vachier Lagrave,M","Giri,A",1-0,2776,A29,2749
+87,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.1,"Anand,V","Vachier Lagrave,M",1/2-1/2,2749,B90,2753
+88,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.5,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2749,A33,2792
+89,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.2,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2688,A10,2749
+90,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.4,"Grischuk,A","Vachier Lagrave,M",1/2-1/2,2749,A35,2778
+91,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B10,2749
+92,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.3,"Kasparov,G","Vachier Lagrave,M",0-1,2749,A04,2812
+93,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.4,"Vachier Lagrave,M","Korobov,A",1-0,2683,A45,2749
+94,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Moradiabadi,E","Vachier Lagrave,M",1/2-1/2,2749,B67,2553
+95,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vachier Lagrave,M","Moradiabadi,E",1-0,2553,B40,2749
+96,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,B34,2749
+97,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,B90,2625
+98,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.4,"Paravyan,D","Vachier Lagrave,M",1-0,2749,B67,2625
+99,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.3,"Vachier Lagrave,M","Paravyan,D",1-0,2625,B33,2749
+100,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.9,"Vachier Lagrave,M","Paravyan,D",1-0,2625,B23,2749
+101,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.8,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,A29,2749
+102,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.7,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,B90,2625
+103,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.6,"Vachier Lagrave,M","Paravyan,D",1/2-1/2,2625,B30,2749
+104,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.5,"Paravyan,D","Vachier Lagrave,M",1/2-1/2,2749,C67,2625
+105,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Praggnanandhaa,R","Vachier Lagrave,M",1/2-1/2,2749,D94,2608
+106,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Vachier Lagrave,M","Praggnanandhaa,R",1-0,2608,B40,2749
+107,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
+108,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Vachier Lagrave,M","Karjakin,Sergey",0-1,2757,A45,2749
+109,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Vachier Lagrave,M","Karjakin,Sergey",1/2-1/2,2757,C67,2749
+110,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
+111,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Karjakin,Sergey","Vachier Lagrave,M",1/2-1/2,2749,A34,2757
+112,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.2,"Vachier Lagrave,M","Svidler,P",1-0,2714,E60,2751
+113,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.4,"Rapport,R","Vachier Lagrave,M",1/2-1/2,2751,A04,2763
+114,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.3,"Vachier Lagrave,M","Shankland,S",1-0,2709,C53,2751
+115,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.5,"Dominguez Perez,L","Vachier Lagrave,M",1-0,2751,B90,2758
+116,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.2,"Vachier Lagrave,M","Swiercz,D",1-0,2655,C53,2751
+117,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.1,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2751,B90,2806
+118,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.5,"Vachier Lagrave,M","Xiong,Jeffery",1-0,2710,C67,2751
+119,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.4,"Vachier Lagrave,M","So,W",1/2-1/2,2772,C67,2751
+120,Bundesliga 2019-20,Berlin GER,2021.10.14,9.6,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2772,C53,2777
+121,Bundesliga 2019-20,Berlin GER,2021.10.15,11.3,"Papp,Ga","Vachier Lagrave,M",0-1,2777,C07,2589
+122,Bundesliga 2019-20,Berlin GER,2021.10.16,13.3,"Kamsky,G","Vachier Lagrave,M",1/2-1/2,2777,B50,2684
+123,Bundesliga 2019-20,Berlin GER,2021.10.16,14.2,"Inarkiev,E","Vachier Lagrave,M",1/2-1/2,2777,D78,2665
+124,Bundesliga 2019-20,Berlin GER,2021.10.17,15.4,"Vachier Lagrave,M","Oleksiyenko,Mykhaylo",1-0,2594,A14,2777
+125,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.4,"Niemann,Hans Moke","Vachier Lagrave,M",1/2-1/2,2763,A04,2638
+126,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.12,"Vachier Lagrave,M","Tabatabaei,M",1-0,2639,C67,2763
+127,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.4,"Donchenko,Alexa","Vachier Lagrave,M",1/2-1/2,2763,E60,2648
+128,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.6,"Vachier Lagrave,M","Demchenko,A",1-0,2651,C60,2763
+129,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2763,B90,2770
+130,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.3,"Vachier Lagrave,M","Ponkratov,P",1-0,2659,C02,2763
+131,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.2,"Sasikiran,K","Vachier Lagrave,M",1/2-1/2,2763,B90,2640
+132,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.2,"Vachier Lagrave,M","Shirov,A",1/2-1/2,2659,C78,2763
+133,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.2,"Anton Guijarro,D","Vachier Lagrave,M",1/2-1/2,2763,E60,2658
+134,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2800,C88,2763
+135,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.3,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2763,B90,2704
+136,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,1.1,"Bartel,Mat","Vachier Lagrave,M",1/2-1/2,2766,B52,2619
+137,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,2.1,"Vachier Lagrave,M","Bartel,Mat",0-1,2619,A07,2766
+138,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,3.41,"Rogule,L","Vachier Lagrave,M",0-1,2766,A23,2289
+139,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,4.41,"Vachier Lagrave,M","Rogule,L",1-0,2289,A07,2766
+140,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,5.15,"Vokhidov,Shamsiddin","Vachier Lagrave,M",1-0,2766,B12,2521
+141,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,6.15,"Vachier Lagrave,M","Vokhidov,Shamsiddin",1-0,2521,B56,2766
+142,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,7.18,"Vachier Lagrave,M","Kryvoruchko,Y",1-0,2681,A05,2766
+143,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,8.18,"Kryvoruchko,Y","Vachier Lagrave,M",0-1,2766,B10,2681
+144,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,9.8,"Vachier Lagrave,M","Dreev,A",0-1,2635,B10,2766
+145,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,10.8,"Dreev,A","Vachier Lagrave,M",0-1,2766,A85,2635
+146,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,11.7,"Adhiban,Baskaran","Vachier Lagrave,M",1-0,2766,B11,2672
+147,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,12.7,"Vachier Lagrave,M","Adhiban,Baskaran",0-1,2672,C46,2766
+148,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,13.23,"Vachier Lagrave,M","Yilmaz,M",1-0,2626,B20,2766
+149,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,14.23,"Yilmaz,M","Vachier Lagrave,M",0-1,2766,B12,2626
+150,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,15.13,"Vachier Lagrave,M","Movsesian,S",1-0,2618,B04,2766
+151,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,16.13,"Movsesian,S","Vachier Lagrave,M",0-1,2766,B12,2618
+152,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,17.5,"Nihal,Sarin","Vachier Lagrave,M",1/2-1/2,2766,D02,2650
+153,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,18.5,"Vachier Lagrave,M","Nihal,Sarin",1-0,2650,C70,2766
+154,23rd European Teams,Terme Catez SLO,2021.11.12,1.3,"Vachier Lagrave,M","Dragnev,Valentin",1-0,2548,B50,2766
+155,23rd European Teams,Terme Catez SLO,2021.11.13,2.3,"Brkic,A","Vachier Lagrave,M",1/2-1/2,2766,B90,2599
+156,23rd European Teams,Terme Catez SLO,2021.11.14,3.3,"Vachier Lagrave,M","Berkes,F",1/2-1/2,2676,C50,2766
+157,23rd European Teams,Terme Catez SLO,2021.11.15,4.5,"Dastan,B","Vachier Lagrave,M",0-1,2766,D35,2572
+158,23rd European Teams,Terme Catez SLO,2021.11.16,5.3,"Vachier Lagrave,M","Martirosyan,Haik M.",1/2-1/2,2624,C67,2766
+159,23rd European Teams,Terme Catez SLO,2021.11.18,6.5,"Banikas,H","Vachier Lagrave,M",1/2-1/2,2766,D10,2592
+160,23rd European Teams,Terme Catez SLO,2021.11.19,7.4,"Sanikidze,T","Vachier Lagrave,M",1/2-1/2,2766,D38,2458
+161,23rd European Teams,Terme Catez SLO,2021.11.20,8.2,"Vachier Lagrave,M","Dubov,Daniil",1/2-1/2,2714,C55,2766
+162,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2766,A37,2763
+163,World Rapid 2021,Warsaw POL,2021.12.26,1.5,"Vachier Lagrave,M","Durarbayli,V",1/2-1/2,2615,C84,2761
+164,World Rapid 2021,Warsaw POL,2021.12.26,2.31,"Pichot,A","Vachier Lagrave,M",1/2-1/2,2761,C11,2625
+165,World Rapid 2021,Warsaw POL,2021.12.26,3.30,"Samunenkov,Ihor","Vachier Lagrave,M",0-1,2761,A45,2369
+166,World Rapid 2021,Warsaw POL,2021.12.26,4.13,"Vachier Lagrave,M","Quparadze,G",1-0,2477,B40,2761
+167,World Rapid 2021,Warsaw POL,2021.12.26,5.8,"Vidit,S","Vachier Lagrave,M",1/2-1/2,2761,D27,2727
+168,World Rapid 2021,Warsaw POL,2021.12.27,6.10,"Vachier Lagrave,M","Volokitin,And",0-1,2677,A07,2761
+169,World Rapid 2021,Warsaw POL,2021.12.27,7.21,"Theodorou,Nikolas","Vachier Lagrave,M",1/2-1/2,2761,A48,2577
+170,World Rapid 2021,Warsaw POL,2021.12.27,8.21,"Vachier Lagrave,M","Suleymanli,Aydin",1-0,2537,B10,2761
+171,World Rapid 2021,Warsaw POL,2021.12.27,9.15,"Ponkratov,P","Vachier Lagrave,M",1/2-1/2,2761,B90,2641
+172,World Rapid 2021,Warsaw POL,2021.12.28,10.14,"Vachier Lagrave,M","Predke,A",1/2-1/2,2682,C50,2761
+173,World Rapid 2021,Warsaw POL,2021.12.28,11.14,"Puranik,A","Vachier Lagrave,M",0-1,2761,A29,2604
+174,World Rapid 2021,Warsaw POL,2021.12.28,12.9,"Vachier Lagrave,M","Petrosian,TL",1-0,2573,B06,2761
+175,World Rapid 2021,Warsaw POL,2021.12.28,13.5,"Vachier Lagrave,M","Fedoseev,Vl3",1/2-1/2,2704,B12,2761
+176,World Blitz 2021,Warsaw POL,2021.12.29,1.8,"Vachier Lagrave,M","Krasenkow,M",1-0,2576,C43,2761
+177,World Blitz 2021,Warsaw POL,2021.12.29,2.3,"Vastrukhin,O","Vachier Lagrave,M",1/2-1/2,2761,A07,2376
+178,World Blitz 2021,Warsaw POL,2021.12.29,3.16,"Vachier Lagrave,M","Cheparinov,I",1-0,2664,C84,2761
+179,World Blitz 2021,Warsaw POL,2021.12.29,4.6,"Vidit,S","Vachier Lagrave,M",1-0,2761,D27,2727
+180,World Blitz 2021,Warsaw POL,2021.12.29,5.18,"Vachier Lagrave,M","Antipov,M2",1/2-1/2,2615,C67,2761
+181,World Blitz 2021,Warsaw POL,2021.12.29,6.22,"Vachier Lagrave,M","Dudin,Gleb",1-0,2474,C78,2761
+182,World Blitz 2021,Warsaw POL,2021.12.29,7.15,"Sychev,K","Vachier Lagrave,M",0-1,2761,B97,2550
+183,World Blitz 2021,Warsaw POL,2021.12.29,8.9,"Timofeev,Arty","Vachier Lagrave,M",0-1,2761,A20,2572
+184,World Blitz 2021,Warsaw POL,2021.12.29,9.5,"Vachier Lagrave,M","Amin,B",0-1,2680,C84,2761
+185,World Blitz 2021,Warsaw POL,2021.12.29,10.12,"Maghsoodloo,Parham","Vachier Lagrave,M",1-0,2761,D02,2701
+186,World Blitz 2021,Warsaw POL,2021.12.29,11.18,"Vachier Lagrave,M","Matlakov,M",1-0,2674,C83,2761
+187,World Blitz 2021,Warsaw POL,2021.12.29,12.13,"Vachier Lagrave,M","Zvjaginsev,V",1-0,2599,B30,2761
+188,World Blitz TB 2021,Warsaw POL,2021.12.30,1,"Vachier Lagrave,M","Duda,J",1/2-1/2,2760,C84,2761
+189,World Blitz TB 2021,Warsaw POL,2021.12.30,2,"Duda,J","Vachier Lagrave,M",1/2-1/2,2761,D27,2760
+190,World Blitz TB 2021,Warsaw POL,2021.12.30,3,"Vachier Lagrave,M","Duda,J",1-0,2760,C84,2761
+191,World Blitz 2021,Warsaw POL,2021.12.30,13.10,"Gelfand,B","Vachier Lagrave,M",0-1,2761,D85,2663
+192,World Blitz 2021,Warsaw POL,2021.12.30,14.4,"Giri,A","Vachier Lagrave,M",1/2-1/2,2761,A35,2772
+193,World Blitz 2021,Warsaw POL,2021.12.30,15.6,"Vachier Lagrave,M","Sindarov,Javokhir",1-0,2609,C82,2761
+194,World Blitz 2021,Warsaw POL,2021.12.30,16.5,"Kravtsiv,M","Vachier Lagrave,M",1/2-1/2,2761,B52,2604
+195,World Blitz 2021,Warsaw POL,2021.12.30,17.2,"Vachier Lagrave,M","Aronian,L",1-0,2772,C78,2761
+196,World Blitz 2021,Warsaw POL,2021.12.30,18.4,"Erigaisi,Arjun","Vachier Lagrave,M",0-1,2761,B52,2629
+197,World Blitz 2021,Warsaw POL,2021.12.30,19.2,"Vachier Lagrave,M","Dubov,Daniil",1/2-1/2,2720,B52,2761
+198,World Blitz 2021,Warsaw POL,2021.12.30,20.3,"Artemiev,V","Vachier Lagrave,M",1/2-1/2,2761,A07,2700
+199,World Blitz 2021,Warsaw POL,2021.12.30,21.1,"Vachier Lagrave,M","Carlsen,M",1-0,2856,C88,2761
+200,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.01,1.2,"Vachier Lagrave,M","Predke,A",1/2-1/2,2682,C92,2761
+201,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.02,2.1,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2767,C83,2761
+202,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.03,3.2,Yu Yangyi,"Vachier Lagrave,M",1/2-1/2,2761,D87,2713
+203,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.04,4.2,"Predke,A","Vachier Lagrave,M",0-1,2761,B95,2682
+204,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.06,5.2,"Vachier Lagrave,M",Yu Yangyi,1/2-1/2,2713,C43,2761
+205,FIDE Grand Prix 2 Pool D,Belgrade SRB,2022.03.07,6.1,"Mamedyarov,S","Vachier Lagrave,M",1/2-1/2,2761,D35,2767
+206,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.09,1.1,"Rapport,R","Vachier Lagrave,M",1-0,2761,D87,2762
+207,FIDE Grand Prix 2 Playoff,Belgrade SRB,2022.03.10,1.2,"Vachier Lagrave,M","Rapport,R",1/2-1/2,2762,C72,2761
+208,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.22,1.2,"Predke,A","Vachier Lagrave,M",1-0,2761,A33,2682
+209,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.23,2.2,"Vachier Lagrave,M","Shankland,S",1/2-1/2,2704,C67,2761
+210,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.24,3.1,"So,W","Vachier Lagrave,M",1/2-1/2,2761,D91,2778
+211,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.25,4.2,"Vachier Lagrave,M","Predke,A",1-0,2682,C92,2761
+212,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.27,5.1,"Vachier Lagrave,M","So,W",0-1,2778,E20,2761
+213,FIDE Grand Prix 3 Pool C,Berlin GER,2022.03.28,6.2,"Shankland,S","Vachier Lagrave,M",1/2-1/2,2761,D97,2704
+214,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.5,"Vachier Lagrave,M","Dominguez Perez,L",1/2-1/2,2753,C42,2750
+215,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.1,"So,W","Vachier Lagrave,M",1/2-1/2,2750,D27,2776
+216,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.5,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,B10,2750
+217,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.4,"Vachier Lagrave,M","Caruana,F",1-0,2786,C82,2750
+218,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.2,"Nepomniachtchi,I","Vachier Lagrave,M",1/2-1/2,2750,B54,2773
+219,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.2,"Vachier Lagrave,M","Aronian,L",0-1,2765,D39,2750
+220,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.5,"Rapport,R","Vachier Lagrave,M",0-1,2750,D26,2776
+221,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.3,"Vachier Lagrave,M","Deac,Bogdan-Daniel",1/2-1/2,2671,C42,2750
+222,Superbet Classic TB 2022,Bucharest ROU,2022.05.14,2,"Vachier Lagrave,M","So,W",1-0,2776,A29,2750
+223,Superbet Classic TB 2022,Bucharest ROU,2022.05.14,3,"Aronian,L","Vachier Lagrave,M",0-1,2750,B50,2765
+224,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.3,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2750,D78,2804
+225,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.5,"Mamedyarov,S","Vachier Lagrave,M",1-0,2750,D27,2759
+226,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,A20,2864
+227,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.5,"Vachier Lagrave,M","Tari,A",0-1,2654,A05,2750
+228,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.2,"So,W","Vachier Lagrave,M",1-0,2750,A07,2776
+229,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.4,"Vachier Lagrave,M","Topalov,V",0-1,2730,B57,2750
+230,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.3,"Radjabov,T","Vachier Lagrave,M",0-1,2750,D26,2753
+231,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.3,"Vachier Lagrave,M","Giri,A",1-0,2761,A01,2750
+232,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,D97,2744
+233,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.2,"Vachier Lagrave,M","Anand,V",1-0,2751,C54,2750
+234,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.4,"Anand,V","Vachier Lagrave,M",1-0,2750,B52,2751
+235,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1/2-1/2,2759,D41,2750
+236,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.2,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C42,2750
+237,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.5,"Tari,A","Vachier Lagrave,M",0-1,2750,B52,2654
+238,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1-0,2750,D26,2753
+239,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2750,D85,2753
+240,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.3,"Vachier Lagrave,M","Topalov,V",1-0,2730,C67,2750
+241,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.3,"Vachier Lagrave,M","Topalov,V",1/2-1/2,2730,C50,2750
+242,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2750,B90,2744
+243,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,A48,2744
+244,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.2,"Vachier Lagrave,M","So,W",1-0,2776,C67,2750
+245,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,D85,2864
+246,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2750,D85,2864
+247,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.4,"Vachier Lagrave,M","Giri,A",1-0,2761,B53,2750
+248,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.4,"Vachier Lagrave,M","Giri,A",1/2-1/2,2761,B30,2750
+249,TCh-FRA Top 16 GpB 2022,Chartres FRA,2022.06.14,6.1,"Vachier Lagrave,M","Gharamian,T",1/2-1/2,2602,B12,2760
+250,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.16,1.3,"Vachier Lagrave,M","Tiviakov,S",1-0,2570,B01,2760
+251,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.18,3.4,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2760,E60,2675
+252,TCh-FRA Top 16 Haute 2022,Chartres FRA,2022.06.19,4.4,"Vachier Lagrave,M","Fressinet,L",1/2-1/2,2624,C65,2760
+253,Coupe de France 2022,Paris FRA,2022.06.25,1.2,"Grandelius,N","Vachier Lagrave,M",1/2-1/2,2760,D85,2645
+254,Coupe de France 2022,Paris FRA,2022.06.26,2.1,"Vachier Lagrave,M","Malakhov,V",1/2-1/2,2652,C67,2760
+255,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Korobov,A","Vachier Lagrave,M",1/2-1/2,2761,D90,2695
+256,Bundesliga 2021-22,Berlin GER,2022.07.10,15.5,"L'Ami,E","Vachier Lagrave,M",1/2-1/2,2761,D27,2621
+257,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.4,"Topalov,V","Vachier Lagrave,M",0-1,2760,E60,2728
+258,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.1,"Vachier Lagrave,M","So,W",1/2-1/2,2773,C67,2760
+259,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2760,B23,2864
+260,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.1,"Vachier Lagrave,M","Van Foreest,Jorden",1/2-1/2,2678,B13,2760
+261,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2760,B50,2793
+262,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.1,"Vachier Lagrave,M","Saric,Iv",1/2-1/2,2680,B52,2760
+263,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.1,"Mamedyarov,S","Vachier Lagrave,M",0-1,2760,A04,2759
+264,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.1,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C43,2760
+265,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.1,"Dominguez Perez,L","Vachier Lagrave,M",1/2-1/2,2760,B90,2754
+266,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.1,"Vachier Lagrave,M","Saric,Iv",1-0,2680,E60,2760
+267,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.5,"Vachier Lagrave,M","Nepomniachtchi,I",0-1,2766,C42,2760
+268,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.2,"Mamedyarov,S","Vachier Lagrave,M",1-0,2760,D94,2759
+269,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.4,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2793,B13,2760
+270,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.3,"Carlsen,M","Vachier Lagrave,M",1-0,2760,B23,2864
+271,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.3,"Vachier Lagrave,M","Van Foreest,Jorden",0-1,2678,A13,2760
+272,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.4,"Topalov,V","Vachier Lagrave,M",0-1,2760,A15,2728
+273,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.2,"Vachier Lagrave,M","So,W",1/2-1/2,2773,A14,2760
+274,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.5,"Dominguez Perez,L","Vachier Lagrave,M",0-1,2760,B90,2754
+275,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.1,"Saric,Iv","Vachier Lagrave,M",0-1,2760,B90,2680
+276,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.1,"Nepomniachtchi,I","Vachier Lagrave,M",0-1,2760,D79,2766
+277,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.1,"Vachier Lagrave,M","Mamedyarov,S",1-0,2759,C77,2760
+278,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.1,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2760,A37,2793
+279,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2864,C67,2760
+280,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.1,"Van Foreest,Jorden","Vachier Lagrave,M",0-1,2760,D27,2678
+281,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.1,"Vachier Lagrave,M","Topalov,V",1-0,2728,B13,2760
+282,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.1,"Vachier Lagrave,M","Dominguez Perez,L",1-0,2754,C42,2760

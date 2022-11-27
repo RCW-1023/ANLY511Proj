@@ -1,1019 +1,316 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-0,PRO League Group Stage,chess.com INT,2020.01.06,1,"Nakamura,Hi","Caruana,F",0-1,2822,C28,2736
-1,PRO League Group Stage,chess.com INT,2020.01.06,1,"Caruana,F","Guseinov,G",1-0,2666,B36,2822
-2,PRO League Group Stage,chess.com INT,2020.01.06,1,"Caruana,F","Sevian,Samuel",0-1,2660,C77,2822
-3,PRO League Group Stage,chess.com INT,2020.01.06,1,"Moranda,W","Caruana,F",0-1,2822,E10,2601
-4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.4,"Caruana,F","So,W",1/2-1/2,2765,D94,2822
-5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.6,"Giri,A","Caruana,F",1/2-1/2,2822,E32,2768
-6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.7,"Caruana,F",Yu Yangyi,1-0,2726,C43,2822
-7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.5,"Xiong,Jeffery","Caruana,F",1/2-1/2,2822,E21,2712
-8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.2,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2644,A20,2822
-9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.1,"Carlsen,M","Caruana,F",1/2-1/2,2822,D37,2872
-10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.3,"Caruana,F","Dubov,Daniil",1-0,2683,B31,2822
-11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.6,"Caruana,F","Anand,V",1-0,2758,D38,2822
-12,PRO League Group Stage,chess.com INT,2020.01.20,3,"Caruana,F","Bruzon Batista,L",1-0,2640,C81,2822
-13,PRO League Group Stage,chess.com INT,2020.01.20,3,"Quesada Perez,Yu","Caruana,F",1/2-1/2,2822,B31,2601
-14,PRO League Group Stage,chess.com INT,2020.01.20,3,"Caruana,F","Robson,R",1-0,2673,C77,2822
-15,PRO League Group Stage,chess.com INT,2020.01.20,3,"Nyzhnyk,I","Caruana,F",1/2-1/2,2822,A28,2662
-16,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.4,"Vitiugov,N","Caruana,F",1/2-1/2,2822,E32,2747
-17,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.5,"Caruana,F","Firouzja,Alireza",1-0,2723,E71,2822
-18,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.4,"Kovalev,Vl","Caruana,F",0-1,2822,C78,2660
-19,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.5,"Caruana,F","Duda,J",1-0,2758,E06,2822
-20,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.4,"Artemiev,V","Caruana,F",0-1,2822,A07,2731
-21,PRO League Group Stage,chess.com INT,2020.01.27,4,"Zierk,S","Caruana,F",1-0,2822,C50,2509
-22,PRO League Group Stage,chess.com INT,2020.01.27,4,"Caruana,F","Naroditsky,D",1-0,2621,C97,2822
-23,PRO League Group Stage,chess.com INT,2020.01.27,4,"Caruana,F","Swiercz,D",1-0,2659,C65,2822
-24,PRO League Group Stage,chess.com INT,2020.01.27,4,"Oparin,G","Caruana,F",1-0,2822,A06,2650
-25,PRO League Group Stage,chess.com INT,2020.02.03,5,"Caruana,F","Firouzja,Alireza",0-1,2726,C65,2842
-26,PRO League Group Stage,chess.com INT,2020.02.03,5,"Hansen,Eric","Caruana,F",1/2-1/2,2842,C77,2606
-27,PRO League Group Stage,chess.com INT,2020.02.03,5,"Caruana,F","Saric,Iv",1-0,2646,B90,2842
-28,PRO League Group Stage,chess.com INT,2020.02.03,5,"Grischuk,A","Caruana,F",1-0,2842,A07,2777
-29,PRO League Group Stage,chess.com INT,2020.02.10,6,"Perez,Max","Caruana,F",0-1,2842,B13,2417
-30,PRO League Group Stage,chess.com INT,2020.02.10,6,"Caruana,F","Flores,Di",1-0,2599,A37,2842
-31,PRO League Group Stage,chess.com INT,2020.02.10,6,"Obregon,A","Caruana,F",0-1,2842,C16,2525
-32,PRO League Group Stage,chess.com INT,2020.02.10,6,"Caruana,F","Villanueva,Mar",1/2-1/2,2478,C43,2842
-33,PRO League Group Stage,chess.com INT,2020.02.17,7,"Caruana,F","Supi,L",1/2-1/2,2577,B90,2822
-34,PRO League Group Stage,chess.com INT,2020.02.17,7,"Caruana,F","Mekhitarian,K",1-0,2563,C65,2822
-35,PRO League Group Stage,chess.com INT,2020.02.17,7,"Diamant,A","Caruana,F",0-1,2822,A20,2547
-36,PRO League Group Stage,chess.com INT,2020.02.17,7,"Leitao,R","Caruana,F",0-1,2822,D37,2592
-37,PRO League KO Stage 2020,chess.com INT,2020.03.10,2,"Narayanan,SL","Caruana,F",1/2-1/2,2842,A06,2618
-38,PRO League KO Stage 2020,chess.com INT,2020.03.10,2,"Caruana,F","Mamedyarov,S",1/2-1/2,2764,C60,2842
-39,PRO League KO Stage 2020,chess.com INT,2020.03.10,2,"Harikrishna,P","Caruana,F",1/2-1/2,2842,C84,2719
-40,PRO League KO Stage 2020,chess.com INT,2020.03.10,2,"Caruana,F","Adhiban,Baskaran",1-0,2659,A21,2842
-41,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.17,1.1,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2842,C78,2767
-42,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.18,2.1,"Caruana,F","Alekseenko,K",1-0,2698,E20,2842
-43,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.19,3.1,Ding Liren,"Caruana,F",1-0,2842,D17,2805
-44,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.21,4.1,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2774,D87,2842
-45,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.1,"Giri,A","Caruana,F",1/2-1/2,2842,D12,2763
-46,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.1,"Grischuk,A","Caruana,F",1/2-1/2,2842,C78,2777
-47,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.1,"Caruana,F",Wang Hao,1/2-1/2,2762,C42,2842
-48,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,4,"Caruana,F","Davtyan,Artur",1-0,2461,C77,2835
-49,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,7,"Caruana,F","Saric,Iv",1-0,2646,B31,2835
-50,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,8,"Svidler,P","Caruana,F",1/2-1/2,2835,C78,2723
-51,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,10,"Sviridov,Va","Caruana,F",0-1,2835,A07,2558
-52,1st Abu Dhabi Super Blitz,chess.com INT,2020.04.15,11,"Caruana,F","Roiz,M",1/2-1/2,2583,C65,2835
-53,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.4,"Nepomniachtchi,I","Caruana,F",0-1,2835,C84,2784
-54,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.2,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2835,C78,2784
-55,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.3,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,C15,2835
-56,Carlsen Inv Prelim,chess24.com INT,2020.04.19,1.1,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,C19,2835
-57,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.3,Ding Liren,"Caruana,F",1-0,2835,D73,2791
-58,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.5,Ding Liren,"Caruana,F",0-1,2835,A07,2791
-59,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.1,Ding Liren,"Caruana,F",1/2-1/2,2835,A07,2791
-60,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.2,"Caruana,F",Ding Liren,1/2-1/2,2791,B90,2835
-61,Carlsen Inv Prelim,chess24.com INT,2020.04.21,2.4,"Caruana,F",Ding Liren,1-0,2791,C65,2835
-62,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.3,"Caruana,F","Carlsen,M",1/2-1/2,2863,C78,2835
-63,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.1,"Caruana,F","Carlsen,M",0-1,2863,B03,2835
-64,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.4,"Carlsen,M","Caruana,F",1/2-1/2,2835,C46,2863
-65,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.2,"Carlsen,M","Caruana,F",1-0,2835,D37,2863
-66,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.2,"Caruana,F","Firouzja,Alireza",1-0,2728,D12,2835
-67,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.4,"Caruana,F","Firouzja,Alireza",1-0,2728,E60,2835
-68,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.3,"Firouzja,Alireza","Caruana,F",1-0,2835,D11,2728
-69,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.1,"Firouzja,Alireza","Caruana,F",0-1,2835,D11,2728
-70,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.1,"Caruana,F","Nakamura,Hi",1-0,2736,D37,2835
-71,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.2,"Nakamura,Hi","Caruana,F",1-0,2835,D11,2736
-72,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.4,"Nakamura,Hi","Caruana,F",1/2-1/2,2835,D11,2736
-73,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.3,"Caruana,F","Nakamura,Hi",1/2-1/2,2736,D37,2835
-74,Carlsen Inv Prelim,chess24.com INT,2020.04.27,5.5,"Caruana,F","Nakamura,Hi",1-0,2736,D37,2835
-75,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.3,"Caruana,F","Vachier Lagrave,M",1-0,2778,A88,2835
-76,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2835,D31,2778
-77,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.1,"Caruana,F","Vachier Lagrave,M",1-0,2778,D12,2835
-78,Carlsen Inv Prelim,chess24.com INT,2020.04.29,6.4,"Vachier Lagrave,M","Caruana,F",1-0,2835,A00,2778
-79,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Caruana,F","Giri,A",0-1,2764,B90,2835
-80,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,"Giri,A","Caruana,F",1-0,2835,A80,2764
-81,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Caruana,F","Giri,A",1-0,2764,A20,2835
-82,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,"Giri,A","Caruana,F",1/2-1/2,2835,A20,2764
-83,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.6,"Nakamura,Hi","Caruana,F",1-0,2835,A04,2736
-84,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.1,"Caruana,F","Nakamura,Hi",1/2-1/2,2736,C50,2835
-85,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.5,"Caruana,F","Nakamura,Hi",0-1,2736,C50,2835
-86,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.4,"Nakamura,Hi","Caruana,F",0-1,2835,A04,2736
-87,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.2,"Nakamura,Hi","Caruana,F",1/2-1/2,2835,D10,2736
-88,Carlsen Inv Final 4,chess24.com INT,2020.05.01,1.3,"Caruana,F","Nakamura,Hi",0-1,2736,C50,2835
-89,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.3,"Caruana,F","Vidit,S",1-0,2726,C65,2835
-90,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.1,"Caruana,F","Artemiev,V",1-0,2716,A25,2835
-91,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.2,Wang Hao,"Caruana,F",0-1,2835,A07,2763
-92,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.3,"Vidit,S","Caruana,F",1/2-1/2,2835,E62,2726
-93,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.1,"Artemiev,V","Caruana,F",1/2-1/2,2835,D03,2716
-94,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.3,"Caruana,F","Amin,B",1-0,2686,E70,2835
-95,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.2,"Aronian,L","Caruana,F",1/2-1/2,2835,C78,2773
-96,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.2,"Caruana,F",Wang Hao,1-0,2763,C42,2835
-97,Online Nations Cup Final,chess.com INT,2020.05.10,1.2,"Caruana,F",Wei Yi,1-0,2732,B01,2835
-98,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.11,"Caruana,F","Nepomniachtchi,I",0-1,2784,A29,2835
-99,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.12,"Nepomniachtchi,I","Caruana,F",1-0,2835,C45,2784
-100,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.13,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2784,A29,2835
-101,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.14,"Nepomniachtchi,I","Caruana,F",0-1,2835,C44,2784
-102,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.21,"Vachier Lagrave,M","Caruana,F",0-1,2835,A28,2778
-103,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.22,"Caruana,F","Vachier Lagrave,M",0-1,2778,A45,2835
-104,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.21,"Caruana,F","Grischuk,A",0-1,2777,C65,2835
-105,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.22,"Grischuk,A","Caruana,F",1-0,2835,A46,2777
-106,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.2,"Caruana,F","Dominguez Perez,L",1-0,2758,E54,2835
-107,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.3,"Dominguez Perez,L","Caruana,F",0-1,2835,C78,2758
-108,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.4,"Caruana,F","Dominguez Perez,L",1-0,2758,A08,2835
-109,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.5,"Dominguez Perez,L","Caruana,F",1/2-1/2,2835,C67,2758
-110,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.6,"Caruana,F","Dominguez Perez,L",1-0,2758,E54,2835
-111,Clutch Champions Showdown,lichess.org INT,2020.05.26,1.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2835,C78,2758
-112,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.9,"Caruana,F","Dominguez Perez,L",0-1,2758,A08,2835
-113,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.8,"Dominguez Perez,L","Caruana,F",0-1,2835,C67,2758
-114,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.11,"Caruana,F","Dominguez Perez,L",1-0,2758,E54,2835
-115,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.10,"Dominguez Perez,L","Caruana,F",0-1,2835,C67,2758
-116,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.12,"Dominguez Perez,L","Caruana,F",0-1,2835,C11,2758
-117,Clutch Champions Showdown,lichess.org INT,2020.05.27,1.7,"Caruana,F","Dominguez Perez,L",1/2-1/2,2758,E54,2835
-118,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.2,"Caruana,F","So,W",1-0,2770,C67,2835
-119,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.3,"So,W","Caruana,F",1/2-1/2,2835,A77,2770
-120,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.1,"So,W","Caruana,F",1/2-1/2,2835,C78,2770
-121,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.6,"Caruana,F","So,W",0-1,2770,C84,2835
-122,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.4,"Caruana,F","So,W",1/2-1/2,2770,C84,2835
-123,Clutch Champions Showdown,lichess.org INT,2020.05.28,2.5,"So,W","Caruana,F",1/2-1/2,2835,D37,2770
-124,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.7,"Caruana,F","So,W",1-0,2770,C67,2835
-125,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.8,"So,W","Caruana,F",0-1,2835,C53,2770
-126,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.9,"Caruana,F","So,W",1/2-1/2,2770,C67,2835
-127,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.12,"So,W","Caruana,F",0-1,2835,A41,2770
-128,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.10,"So,W","Caruana,F",1-0,2835,C53,2770
-129,Clutch Champions Showdown,lichess.org INT,2020.05.29,2.11,"Caruana,F","So,W",0-1,2770,C65,2835
-130,Titled Tuesday 2nd June,chess.com INT,2020.06.02,2,"Abdurakhmonov,Mukhammadali","Caruana,F",0-1,2835,B23,2284
-131,Titled Tuesday 2nd June,chess.com INT,2020.06.02,3,"Caruana,F","Clarke,B",1-0,2429,D71,2835
-132,Titled Tuesday 2nd June,chess.com INT,2020.06.02,4,"Keymer,Vincent","Caruana,F",1-0,2835,A04,2558
-133,Titled Tuesday 2nd June,chess.com INT,2020.06.02,5,"Caruana,F","Aitbayev,A",1-0,2457,D11,2835
-134,Titled Tuesday 2nd June,chess.com INT,2020.06.02,6,"Galaktionov,Artem","Caruana,F",0-1,2835,A46,2319
-135,Titled Tuesday 2nd June,chess.com INT,2020.06.02,7,"Amin,B","Caruana,F",0-1,2835,B30,2686
-136,Titled Tuesday 2nd June,chess.com INT,2020.06.02,8,"Caruana,F","Bocharov,D",0-1,2524,B90,2835
-137,Titled Tuesday 2nd June,chess.com INT,2020.06.02,9,"Postny,E","Caruana,F",0-1,2835,A46,2600
-138,Titled Tuesday 2nd June,chess.com INT,2020.06.02,10,"Caruana,F","Kazakouski,Valery",1-0,2473,A46,2835
-139,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.3,"Dominguez Perez,L","Caruana,F",0-1,2835,C67,2758
-140,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.4,"Caruana,F","Dominguez Perez,L",1-0,2758,E51,2835
-141,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.5,"Dominguez Perez,L","Caruana,F",0-1,2835,B12,2758
-142,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.2,"Caruana,F","Dominguez Perez,L",1/2-1/2,2758,E34,2835
-143,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.6,"Caruana,F","Dominguez Perez,L",1/2-1/2,2758,E46,2835
-144,Clutch Chess Showdown Int,lichess.org INT,2020.06.07,1.1,"Dominguez Perez,L","Caruana,F",1-0,2835,B12,2758
-145,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.8,"Dominguez Perez,L","Caruana,F",0-1,2835,B12,2758
-146,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.9,"Caruana,F","Dominguez Perez,L",0-1,2758,E46,2835
-147,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.10,"Dominguez Perez,L","Caruana,F",0-1,2835,B12,2758
-148,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.7,"Caruana,F","Dominguez Perez,L",0-1,2758,E35,2835
-149,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.11,"Caruana,F","Dominguez Perez,L",1/2-1/2,2758,E03,2835
-150,Clutch Chess Showdown Int,lichess.org INT,2020.06.09,1.12,"Dominguez Perez,L","Caruana,F",1/2-1/2,2835,B12,2758
-151,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.4,"So,W","Caruana,F",1/2-1/2,2835,C43,2770
-152,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.2,"So,W","Caruana,F",1-0,2835,C42,2770
-153,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.1,"Caruana,F","So,W",0-1,2770,E32,2835
-154,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.6,"So,W","Caruana,F",1/2-1/2,2835,B47,2770
-155,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.5,"Caruana,F","So,W",0-1,2770,C51,2835
-156,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.3,"Caruana,F","So,W",1/2-1/2,2770,C67,2835
-157,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.10,"Caruana,F","So,W",1-0,2770,B19,2835
-158,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.12,"Caruana,F","So,W",1/2-1/2,2770,E53,2835
-159,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.8,"Caruana,F","So,W",1-0,2770,D86,2835
-160,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.11,"So,W","Caruana,F",0-1,2835,D10,2770
-161,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.9,"So,W","Caruana,F",1-0,2835,D00,2770
-162,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.7,"So,W","Caruana,F",0-1,2835,D19,2770
-163,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.2,"Caruana,F","Carlsen,M",1/2-1/2,2863,C65,2835
-164,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.3,"Carlsen,M","Caruana,F",1-0,2835,A45,2863
-165,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.4,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-166,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.5,"Carlsen,M","Caruana,F",1-0,2835,C42,2863
-167,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.6,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-168,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.1,"Carlsen,M","Caruana,F",1/2-1/2,2835,A22,2863
-169,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.12,"Carlsen,M","Caruana,F",1-0,2835,A22,2863
-170,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.9,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-171,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.11,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-172,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.10,"Carlsen,M","Caruana,F",1-0,2835,C42,2863
-173,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.8,"Carlsen,M","Caruana,F",1/2-1/2,2835,D37,2863
-174,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.7,"Caruana,F","Carlsen,M",0-1,2863,B30,2835
-175,Titled Tuesday 16th June,chess.com INT,2020.06.16,1,"Caruana,F","Skuhala,Jernej",1-0,2342,B12,2835
-176,Titled Tuesday 16th June,chess.com INT,2020.06.16,2,"Ermakov,E1","Caruana,F",1/2-1/2,2835,A45,2513
-177,Titled Tuesday 16th June,chess.com INT,2020.06.16,3,"Caruana,F","Korchmar,V",1-0,2451,C77,2835
-178,Titled Tuesday 16th June,chess.com INT,2020.06.16,4,"Salinas Herrera,P","Caruana,F",1-0,2835,C84,2514
-179,Titled Tuesday 16th June,chess.com INT,2020.06.16,5,"Caruana,F","Nitish,Belurkar",1/2-1/2,2351,C02,2835
-180,Chessable Masters GpB,chess24.com INT,2020.06.21,1.1,"Caruana,F",Ding Liren,1/2-1/2,2791,E46,2835
-181,Chessable Masters GpB,chess24.com INT,2020.06.21,2.3,"Caruana,F","Nepomniachtchi,I",1-0,2784,A22,2835
-182,Chessable Masters GpB,chess24.com INT,2020.06.21,3.2,"Vachier Lagrave,M","Caruana,F",1-0,2835,D11,2778
-183,Chessable Masters GpB,chess24.com INT,2020.06.21,4.3,"Radjabov,T","Caruana,F",0-1,2835,D02,2765
-184,Chessable Masters GpB,chess24.com INT,2020.06.21,5.2,"Caruana,F","Giri,A",0-1,2764,C65,2835
-185,Chessable Masters GpB,chess24.com INT,2020.06.23,6.1,Ding Liren,"Caruana,F",1/2-1/2,2835,A07,2791
-186,Chessable Masters GpB,chess24.com INT,2020.06.23,7.3,"Nepomniachtchi,I","Caruana,F",1-0,2835,C78,2784
-187,Chessable Masters GpB,chess24.com INT,2020.06.23,8.2,"Caruana,F","Vachier Lagrave,M",1-0,2778,D10,2835
-188,Chessable Masters GpB,chess24.com INT,2020.06.23,9.3,"Caruana,F","Radjabov,T",1/2-1/2,2765,E71,2835
-189,Chessable Masters GpB,chess24.com INT,2020.06.23,10.2,"Giri,A","Caruana,F",1/2-1/2,2835,C47,2764
-190,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.11,"Carlsen,M","Caruana,F",1-0,2835,D37,2863
-191,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.12,"Caruana,F","Carlsen,M",0-1,2863,C53,2835
-192,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.13,"Carlsen,M","Caruana,F",1/2-1/2,2835,B51,2863
-193,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.22,"Carlsen,M","Caruana,F",1-0,2835,E10,2863
-194,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.21,"Caruana,F","Carlsen,M",1/2-1/2,2863,E46,2835
-195,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.23,"Caruana,F","Carlsen,M",0-1,2863,E25,2835
-196,Titled Tuesday 30th June,chess.com INT,2020.06.30,1,"Caruana,F","Uddin,Mubassar",1-0,2086,D34,2835
-197,Titled Tuesday 30th June,chess.com INT,2020.06.30,2,"Mikhailovsky,Vladimir","Caruana,F",0-1,2835,B21,2228
-198,Titled Tuesday 30th June,chess.com INT,2020.06.30,3,"Caruana,F","Velikanov,A",1-0,2274,B47,2835
-199,Titled Tuesday 30th June,chess.com INT,2020.06.30,4,"Mekhitarian,K","Caruana,F",1/2-1/2,2835,C11,2554
-200,Titled Tuesday 30th June,chess.com INT,2020.06.30,5,"Caruana,F","Kobo,Ori",1-0,2449,B06,2835
-201,Titled Tuesday 30th June,chess.com INT,2020.06.30,6,"Shimanov,A","Caruana,F",1-0,2835,D03,2593
-202,Titled Tuesday 30th June,chess.com INT,2020.06.30,7,"Caruana,F","Licznerski,L",1-0,2369,B17,2835
-203,Titled Tuesday 30th June,chess.com INT,2020.06.30,8,"Harsha,B","Caruana,F",0-1,2835,D37,2509
-204,Titled Tuesday 30th June,chess.com INT,2020.06.30,9,"Caruana,F","Deac,Bogdan-Daniel",1/2-1/2,2625,C65,2835
-205,Titled Tuesday 30th June,chess.com INT,2020.06.30,10,"Mikhalevski,V","Caruana,F",0-1,2835,A53,2565
-206,Titled Tue 7th July Final,chess.com INT,2020.07.07,1.1,"Caruana,F","Sadhwani,Raunak",0-1,2545,A80,2835
-207,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Soto Vega,J","Caruana,F",0-1,2835,C51,2363
-208,Titled Tuesday 7th July,chess.com INT,2020.07.07,2,"Caruana,F","Javakhadze,Z",1-0,2454,E12,2835
-209,Titled Tuesday 7th July,chess.com INT,2020.07.07,3,"Shahade,G","Caruana,F",0-1,2835,C78,2476
-210,Titled Tuesday 7th July,chess.com INT,2020.07.07,4,"Caruana,F","Stupak,K",1-0,2520,C15,2835
-211,Titled Tuesday 7th July,chess.com INT,2020.07.07,5,"Caruana,F","Sankalp,Gupta",1-0,2429,A46,2835
-212,Titled Tuesday 7th July,chess.com INT,2020.07.07,6,"Onischuk,V","Caruana,F",1/2-1/2,2835,C42,2633
-213,Titled Tuesday 7th July,chess.com INT,2020.07.07,7,"Caruana,F","Esipenko,Andrey",1-0,2682,E54,2835
-214,Titled Tuesday 7th July,chess.com INT,2020.07.07,8,"Safarli,E","Caruana,F",0-1,2835,C46,2598
-215,Titled Tuesday 7th July,chess.com INT,2020.07.07,10,"Caruana,F","Firouzja,Alireza",1-0,2728,B13,2835
-216,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Salik,Serkan","Caruana,F",0-1,2835,A50,1986
-217,Titled Tue 14th Jul Final,chess.com INT,2020.07.14,1.1,"Caruana,F","Karjakin,Sergey",1-0,2752,A28,2835
-218,Titled Tue 14th Jul Final,chess.com INT,2020.07.14,2.4,"Sjugirov,S","Caruana,F",1-0,2835,D37,2675
-219,Titled Tue 14th Jul Final,chess.com INT,2020.07.14,2.3,"Caruana,F","Sjugirov,S",1/2-1/2,2675,E18,2835
-220,Titled Tue 14th Jul Final,chess.com INT,2020.07.14,2.2,"Caruana,F","Sjugirov,S",0-1,2675,B31,2835
-221,Titled Tue 14th Jul Final,chess.com INT,2020.07.14,2.1,"Sjugirov,S","Caruana,F",0-1,2835,D37,2675
-222,Titled Tuesday 14th July,chess.com INT,2020.07.14,2,"Caruana,F","Spyropoulos,Nikolaos",1-0,2403,E11,2835
-223,Titled Tuesday 14th July,chess.com INT,2020.07.14,3,"Khegay,D","Caruana,F",0-1,2835,A50,2528
-224,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Caruana,F","Khanin,S",1-0,2482,C70,2835
-225,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Alekseenko,K","Caruana,F",0-1,2835,B47,2696
-226,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Caruana,F","Vokhidov,Shamsiddin",1/2-1/2,2512,B30,2835
-227,Titled Tuesday 14th July,chess.com INT,2020.07.14,7,"Caruana,F","Savchenko,B",1-0,2564,E60,2835
-228,Titled Tuesday 14th July,chess.com INT,2020.07.14,8,"Matlakov,M","Caruana,F",0-1,2835,D02,2685
-229,Titled Tuesday 14th July,chess.com INT,2020.07.14,9,"Caruana,F","Giri,A",1-0,2764,E10,2835
-230,Titled Tuesday 14th July,chess.com INT,2020.07.14,10,"Caruana,F","Dubov,Daniil",1/2-1/2,2699,B00,2835
-231,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Caruana,F","Koelle,Tobias",1-0,2275,E63,2835
-232,Titled Tuesday 21st July,chess.com INT,2020.07.21,2,"Golubev,M","Caruana,F",0-1,2835,B48,2461
-233,Titled Tuesday 21st July,chess.com INT,2020.07.21,3,"Caruana,F","Obolenskikh,D",1-0,2544,C77,2835
-234,Titled Tuesday 21st July,chess.com INT,2020.07.21,4,"Siva,Mahadevan","Caruana,F",0-1,2835,C96,2349
-235,Titled Tuesday 21st July,chess.com INT,2020.07.21,5,"Caruana,F","Petrosyan,M",1-0,2607,C65,2835
-236,Titled Tuesday 21st July,chess.com INT,2020.07.21,6,"Nagy,Ga1","Caruana,F",0-1,2835,E62,2489
-237,Titled Tuesday 21st July,chess.com INT,2020.07.21,7,"Caruana,F","Martirosyan,Haik M.",1/2-1/2,2617,C65,2835
-238,Titled Tuesday 21st July,chess.com INT,2020.07.21,8,"Abdusattorov,Nodirbek","Caruana,F",1-0,2835,C55,2627
-239,Titled Tuesday 21st July,chess.com INT,2020.07.21,9,"Caruana,F","Quparadze,G",0-1,2463,B42,2835
-240,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,1,"Jenni,F","Caruana,F",0-1,2835,C00,2456
-241,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,2,"Caruana,F","Gelman,A",1-0,2403,A57,2835
-242,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,3,"Iniyan,P","Caruana,F",1-0,2835,C96,2506
-243,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,4,"Rakhmangulova,A","Caruana,F",0-1,2835,C00,2191
-244,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,5,"Caruana,F","Iskusnyh,S",1-0,2473,C11,2835
-245,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,6,"Bakalchuk,Johnatan","Caruana,F",1-0,2835,A45,2448
-246,Titled Tue 11th Aug,chess.com INT,2020.08.11,1,"Caruana,F","Safin,Robert",1-0,2287,E62,2835
-247,Titled Tue 11th Aug,chess.com INT,2020.08.11,2,"Golubev,M","Caruana,F",0-1,2835,C47,2461
-248,Titled Tue 11th Aug,chess.com INT,2020.08.11,3,"Caruana,F","Shahade,G",0-1,2476,C77,2835
-249,Titled Tue 11th Aug,chess.com INT,2020.08.11,4,"Wagh,Suyog","Caruana,F",0-1,2835,A50,2246
-250,Titled Tue 11th Aug,chess.com INT,2020.08.11,5,"Caruana,F","Donchenko,Alexa",0-1,2657,C19,2835
-251,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.16,1.1,"Kamsky,G","Caruana,F",0-1,2835,A48,2674
-252,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.17,3.2,"Caruana,F","Gumularz,Szymon",1-0,2518,B06,2835
-253,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.18,4.1,"L'Ami,E","Caruana,F",1-0,2835,D37,2620
-254,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.19,5.1,"Caruana,F","Fressinet,L",1/2-1/2,2635,C80,2835
-255,ch-Schachbundesliga 2020,Karlsruhe GER,2020.09.20,7.1,"Caruana,F","Mamedyarov,S",1/2-1/2,2764,B40,2835
-256,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.6,"Bluebaum,M","Caruana,F",0-1,2835,D31,2660
-257,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.2,"Bluebaum,M","Caruana,F",0-1,2835,D37,2660
-258,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.3,"Caruana,F","Bluebaum,M",1-0,2660,C14,2835
-259,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.5,"Caruana,F","Bluebaum,M",1/2-1/2,2660,B10,2835
-260,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.8,"Bluebaum,M","Caruana,F",0-1,2835,A46,2660
-261,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.4,"Bluebaum,M","Caruana,F",1-0,2835,D31,2660
-262,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.1,"Caruana,F","Bluebaum,M",1-0,2660,C11,2835
-263,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.7,"Caruana,F","Bluebaum,M",0-1,2660,C11,2835
-264,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.3,Yu Yangyi,"Caruana,F",1/2-1/2,2842,D37,2709
-265,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.2,"Caruana,F",Wei Yi,1-0,2732,C02,2842
-266,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.1,Li Chao2,"Caruana,F",1/2-1/2,2842,D02,2683
-267,PRO League KO Stage 2020,chess.com INT,2020.09.25,3.4,"Caruana,F",Ding Liren,1/2-1/2,2805,E63,2842
-268,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.4,Le Quang Liem,"Caruana,F",1/2-1/2,2835,C84,2709
-269,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.3,"Caruana,F",Le Quang Liem,0-1,2709,B10,2835
-270,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.2,Le Quang Liem,"Caruana,F",1/2-1/2,2835,C84,2709
-271,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.1,"Caruana,F",Le Quang Liem,1/2-1/2,2709,B10,2835
-272,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.5,"Caruana,F",Le Quang Liem,1/2-1/2,2709,B10,2835
-273,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.6,Le Quang Liem,"Caruana,F",1/2-1/2,2835,C84,2709
-274,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.7,"Caruana,F",Le Quang Liem,1-0,2709,B10,2835
-275,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.8,Le Quang Liem,"Caruana,F",1-0,2835,C65,2709
-276,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.9,"Caruana,F",Le Quang Liem,0-1,2709,C67,2835
-277,PRO League KO Stage 2020,chess.com INT,2020.09.27,4.1,"Sadhwani,Raunak","Caruana,F",0-1,2842,B47,2545
-278,PRO League KO Stage 2020,chess.com INT,2020.09.27,4.2,"Caruana,F","Petrosian,TL",0-1,2601,B12,2842
-279,PRO League KO Stage 2020,chess.com INT,2020.09.27,4.4,"Caruana,F","Maghsoodloo,Parham",0-1,2676,C92,2842
-280,PRO League KO Stage 2020,chess.com INT,2020.09.27,4.3,"Martirosyan,Haik M.","Caruana,F",1/2-1/2,2842,D37,2617
-281,Chess24 October Blitz,chess24.com INT,2020.10.01,1.1,"Caruana,F","Adhiban,Baskaran",1-0,2659,B06,2828
-282,Chess24 October Blitz,chess24.com INT,2020.10.01,2.1,"Caruana,F","Tari,A",1/2-1/2,2633,B12,2828
-283,Chess24 October Blitz,chess24.com INT,2020.10.01,3.2,"Vidit,S","Caruana,F",1-0,2828,A50,2726
-284,Chess24 October Blitz,chess24.com INT,2020.10.01,4.2,"Caruana,F","Anton Guijarro,D",1-0,2681,C53,2828
-285,Chess24 October Blitz,chess24.com INT,2020.10.01,5.3,"Svidler,P","Caruana,F",1/2-1/2,2828,A20,2723
-286,Chess24 October Blitz,chess24.com INT,2020.10.01,6.1,"Adhiban,Baskaran","Caruana,F",1/2-1/2,2828,A20,2659
-287,Chess24 October Blitz,chess24.com INT,2020.10.01,7.1,"Tari,A","Caruana,F",1-0,2828,C78,2633
-288,Chess24 October Blitz,chess24.com INT,2020.10.01,8.2,"Caruana,F","Vidit,S",0-1,2726,C65,2828
-289,Chess24 October Blitz,chess24.com INT,2020.10.01,9.2,"Anton Guijarro,D","Caruana,F",1-0,2828,C00,2681
-290,Chess24 October Blitz,chess24.com INT,2020.10.01,10.3,"Caruana,F","Svidler,P",1/2-1/2,2723,B51,2828
-291,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.2,"Tari,A","Caruana,F",0-1,2828,B47,2633
-292,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.2,"Caruana,F","Duda,J",1-0,2757,D10,2828
-293,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1/2-1/2,2828,A08,2728
-294,8th Norway Armageddon,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1-0,2828,D04,2728
-295,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.1,"Carlsen,M","Caruana,F",1-0,2828,E32,2863
-296,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.2,"Caruana,F","Aronian,L",0-1,2767,E20,2828
-297,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.2,"Aronian,L","Caruana,F",0-1,2828,B40,2767
-298,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",0-1,2863,C67,2828
-299,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",1/2-1/2,2863,B31,2828
-300,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1/2-1/2,2728,B12,2828
-301,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1-0,2728,B12,2828
-302,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",1/2-1/2,2828,B48,2757
-303,8th Norway Armageddon,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",0-1,2828,A09,2757
-304,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.3,"Caruana,F","Tari,A",1/2-1/2,2633,C88,2828
-305,8th Norway Armageddon,Stavanger NOR,2020.10.16,10.3,"Caruana,F","Tari,A",1-0,2633,C84,2828
-306,chess.com Speed 2020,chess.com INT,2020.11.15,1.23,"Caruana,F","Duda,J",1-0,2743,B90,2823
-307,chess.com Speed 2020,chess.com INT,2020.11.15,1.24,"Duda,J","Caruana,F",1-0,2823,C53,2743
-308,chess.com Speed 2020,chess.com INT,2020.11.15,1.22,"Duda,J","Caruana,F",1-0,2823,C53,2743
-309,chess.com Speed 2020,chess.com INT,2020.11.15,1.25,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-310,chess.com Speed 2020,chess.com INT,2020.11.15,1.27,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-311,chess.com Speed 2020,chess.com INT,2020.11.15,1.28,"Duda,J","Caruana,F",1/2-1/2,2823,E53,2743
-312,chess.com Speed 2020,chess.com INT,2020.11.15,1.31,"Caruana,F","Duda,J",0-1,2743,C42,2823
-313,chess.com Speed 2020,chess.com INT,2020.11.15,1.26,"Duda,J","Caruana,F",1/2-1/2,2823,C42,2743
-314,chess.com Speed 2020,chess.com INT,2020.11.15,1.18,"Caruana,F","Duda,J",0-1,2743,B90,2823
-315,chess.com Speed 2020,chess.com INT,2020.11.15,1.34,"Duda,J","Caruana,F",1-0,2823,E83,2743
-316,chess.com Speed 2020,chess.com INT,2020.11.15,1.35,"Caruana,F","Duda,J",1-0,2743,C49,2823
-317,chess.com Speed 2020,chess.com INT,2020.11.15,1.36,"Duda,J","Caruana,F",1-0,2823,E63,2743
-318,chess.com Speed 2020,chess.com INT,2020.11.15,1.37,"Caruana,F","Duda,J",0-1,2743,D78,2823
-319,chess.com Speed 2020,chess.com INT,2020.11.15,1.38,"Duda,J","Caruana,F",1-0,2823,E53,2743
-320,chess.com Speed 2020,chess.com INT,2020.11.15,1.39,"Caruana,F","Duda,J",0-1,2743,B90,2823
-321,chess.com Speed 2020,chess.com INT,2020.11.15,1.13,"Duda,J","Caruana,F",0-1,2823,C11,2743
-322,chess.com Speed 2020,chess.com INT,2020.11.15,1.12,"Caruana,F","Duda,J",1-0,2743,B52,2823
-323,chess.com Speed 2020,chess.com INT,2020.11.15,1.21,"Caruana,F","Duda,J",1-0,2743,B90,2823
-324,chess.com Speed 2020,chess.com INT,2020.11.15,1.19,"Duda,J","Caruana,F",1-0,2823,C11,2743
-325,chess.com Speed 2020,chess.com INT,2020.11.15,1.32,"Duda,J","Caruana,F",1-0,2823,E49,2743
-326,chess.com Speed 2020,chess.com INT,2020.11.15,1.17,"Duda,J","Caruana,F",1-0,2823,C11,2743
-327,chess.com Speed 2020,chess.com INT,2020.11.15,1.33,"Caruana,F","Duda,J",0-1,2743,A46,2823
-328,chess.com Speed 2020,chess.com INT,2020.11.15,1.16,"Caruana,F","Duda,J",0-1,2743,B90,2823
-329,chess.com Speed 2020,chess.com INT,2020.11.15,1.11,"Duda,J","Caruana,F",0-1,2823,C11,2743
-330,chess.com Speed 2020,chess.com INT,2020.11.15,1.15,"Duda,J","Caruana,F",0-1,2823,C11,2743
-331,chess.com Speed 2020,chess.com INT,2020.11.15,1.14,"Caruana,F","Duda,J",0-1,2743,B90,2823
-332,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.6,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2671,D32,2823
-333,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.3,"Donchenko,Alexa","Caruana,F",0-1,2823,D12,2668
-334,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.4,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-335,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.5,"Harikrishna,P","Caruana,F",1/2-1/2,2823,C78,2732
-336,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.5,"Caruana,F","Esipenko,Andrey",1/2-1/2,2677,A29,2823
-337,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.4,"Grandelius,N","Caruana,F",1/2-1/2,2823,B30,2663
-338,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.4,"Caruana,F","Vachier Lagrave,M",1-0,2784,B97,2823
-339,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.5,"Caruana,F","Giri,A",1/2-1/2,2764,A45,2823
-340,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.4,"Wojtaszek,R","Caruana,F",0-1,2823,E94,2705
-341,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.1,"Caruana,F","Carlsen,M",1/2-1/2,2862,E00,2823
-342,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.5,"Firouzja,Alireza","Caruana,F",1/2-1/2,2823,C53,2749
-343,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.3,"Caruana,F","Anton Guijarro,D",1/2-1/2,2679,D37,2823
-344,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.5,"Tari,A","Caruana,F",1/2-1/2,2823,C01,2625
-345,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.1,"Caruana,F","Vachier Lagrave,M",1-0,2767,B97,2842
-346,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.1,"Alekseenko,K","Caruana,F",1/2-1/2,2842,C50,2698
-347,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.1,"Caruana,F",Ding Liren,1/2-1/2,2805,C88,2842
-348,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.1,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2842,C47,2774
-349,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.1,"Caruana,F","Giri,A",0-1,2763,B40,2842
-350,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.1,Wang Hao,"Caruana,F",0-1,2842,B40,2762
-351,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.1,"Caruana,F","Grischuk,A",1/2-1/2,2777,B40,2842
-352,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.5,Ding Liren,"Caruana,F",1/2-1/2,2820,A08,2799
-353,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.4,"Caruana,F","Grischuk,A",1-0,2776,D45,2820
-354,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.6,"Dubov,Daniil","Caruana,F",0-1,2820,B48,2710
-355,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.3,"Caruana,F","Carlsen,M",1/2-1/2,2847,C67,2820
-356,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.11,"Nepomniachtchi,I","Caruana,F",1-0,2820,C42,2792
-357,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.13,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,B48,2792
-358,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.12,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,C02,2820
-359,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.14,"Caruana,F","Nepomniachtchi,I",1-0,2792,C02,2820
-360,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.21,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,A48,2820
-361,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.31,"Nepomniachtchi,I","Caruana,F",1-0,2820,A20,2792
-362,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.24,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,C47,2792
-363,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.32,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,C02,2820
-364,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.22,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2820,C55,2792
-365,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.23,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,A48,2820
-366,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.1,"Caruana,F","Lupulescu,C",1-0,2656,C11,2820
-367,Superbet Classic 2021,Bucharest ROU,2021.06.07,3.1,"Aronian,L","Caruana,F",1/2-1/2,2820,D26,2781
-368,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.1,"So,W","Caruana,F",1-0,2820,A20,2770
-369,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.4,"Caruana,F","Giri,A",1/2-1/2,2780,C67,2820
-370,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.4,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2820,C78,2760
-371,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.1,"Caruana,F","Mamedyarov,S",0-1,2770,C65,2820
-372,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.2,"Grischuk,A","Caruana,F",1/2-1/2,2820,C78,2776
-373,Superbet Classic 2021,Bucharest ROU,2021.06.14,9.5,"Caruana,F","Deac,Bogdan-Daniel",1/2-1/2,2627,A07,2820
-374,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,E53,2820
-375,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.3,"Aronian,L","Caruana,F",1/2-1/2,2820,D38,2781
-376,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.3,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A48,2820
-377,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.4,"Firouzja,Alireza","Caruana,F",1/2-1/2,2820,C50,2759
-378,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.2,"Caruana,F","Svidler,P",1-0,2714,B42,2820
-379,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.5,"Radjabov,T","Caruana,F",1/2-1/2,2820,D38,2765
-380,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.1,"Caruana,F","So,W",0-1,2770,C67,2820
-381,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.5,"Caruana,F","Bacrot,E",0-1,2678,B67,2820
-382,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.2,"Rapport,R","Caruana,F",1/2-1/2,2820,A08,2763
-383,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.5,"Nepomniachtchi,I","Caruana,F",1-0,2820,C55,2792
-384,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.1,"Caruana,F","Rapport,R",1/2-1/2,2763,B40,2820
-385,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.5,"Caruana,F","Radjabov,T",0-1,2765,E60,2820
-386,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.2,"Vachier Lagrave,M","Caruana,F",1-0,2820,C78,2760
-387,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.4,"Caruana,F","Svidler,P",1/2-1/2,2714,B84,2820
-388,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.3,"Aronian,L","Caruana,F",1/2-1/2,2820,D02,2781
-389,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.3,"Caruana,F","Kramnik,V",1/2-1/2,2753,E54,2820
-390,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.4,"Firouzja,Alireza","Caruana,F",0-1,2820,C55,2759
-391,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.2,"So,W","Caruana,F",1/2-1/2,2820,E53,2770
-392,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.5,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,D38,2820
-393,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.1,"Rapport,R","Caruana,F",1-0,2820,A08,2763
-394,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.5,"Radjabov,T","Caruana,F",0-1,2820,A05,2765
-395,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.2,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A05,2820
-396,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.4,"Svidler,P","Caruana,F",0-1,2820,B23,2714
-397,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.3,"Caruana,F","Aronian,L",1/2-1/2,2781,E46,2820
-398,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.3,"Kramnik,V","Caruana,F",1-0,2820,C55,2753
-399,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.4,"Caruana,F","Firouzja,Alireza",1-0,2759,B30,2820
-400,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Caruana,F","Megaranto,S",1-0,2550,C55,2806
-401,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Jumabayev,R","Caruana,F",1/2-1/2,2806,E04,2637
-402,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Caruana,F","Jumabayev,R",0-1,2637,D36,2806
-403,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.4,"Caruana,F","Svidler,P",1/2-1/2,2714,A48,2806
-404,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.3,"Le, Quang Liem","Caruana,F",0-1,2806,D02,2709
-405,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.3,"Caruana,F","Xiong,Jeffery",1-0,2710,B10,2806
-406,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.2,"Shankland,S","Caruana,F",1-0,2806,E39,2709
-407,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.5,"Caruana,F","Dominguez Perez,L",1-0,2758,A05,2806
-408,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.1,"So,W","Caruana,F",0-1,2806,C50,2772
-409,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.2,"Caruana,F","Rapport,R",0-1,2763,B40,2806
-410,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.5,"Caruana,F","Mamedyarov,S",1-0,2782,C80,2806
-411,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.1,"Nakamura,Hi","Caruana,F",1-0,2806,C78,2736
-412,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,1.1,"Svidler,P","Caruana,F",1-0,2806,C55,2714
-413,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.2,"Caruana,F","Nakamura,Hi",1/2-1/2,2736,E47,2806
-414,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,B41,2758
-415,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.4,"Caruana,F","Xiong,Jeffery",0-1,2710,D12,2806
-416,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.5,"Mamedyarov,S","Caruana,F",1-0,2806,D38,2782
-417,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.1,"Caruana,F","Shankland,S",1-0,2709,B62,2806
-418,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.2,"Le, Quang Liem","Caruana,F",0-1,2806,A46,2709
-419,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.3,"Caruana,F","So,W",1-0,2772,C88,2806
-420,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.4,"Rapport,R","Caruana,F",1/2-1/2,2806,A08,2763
-421,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.4,"Caruana,F","Svidler,P",1-0,2714,C84,2806
-422,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.2,"Nakamura,Hi","Caruana,F",1-0,2806,B10,2736
-423,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.5,"Caruana,F","Dominguez Perez,L",0-1,2758,C80,2806
-424,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,13.5,"Xiong,Jeffery","Caruana,F",1/2-1/2,2806,A20,2710
-425,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.2,"Caruana,F","Mamedyarov,S",1/2-1/2,2782,B40,2806
-426,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.5,"Shankland,S","Caruana,F",0-1,2806,E46,2709
-427,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.5,"Caruana,F","Le, Quang Liem",1-0,2709,C84,2806
-428,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.1,"So,W","Caruana,F",0-1,2806,A06,2772
-429,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.2,"Caruana,F","Rapport,R",1/2-1/2,2763,E19,2806
-430,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.4,"Caruana,F","Shankland,S",1-0,2709,A48,2806
-431,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,C50,2758
-432,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.5,"Caruana,F","Swiercz,D",1-0,2655,B30,2806
-433,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.2,"Caruana,F","So,W",1/2-1/2,2772,A33,2806
-434,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.4,"Xiong,Jeffery","Caruana,F",1-0,2806,A08,2710
-435,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.1,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2751,B90,2806
-436,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.3,"Mamedyarov,S","Caruana,F",0-1,2806,E20,2782
-437,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.2,"Caruana,F","Svidler,P",1/2-1/2,2714,C53,2806
-438,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.26,9.5,"Rapport,R","Caruana,F",1/2-1/2,2806,B44,2763
-439,ch-USA 2021,Saint Louis USA,2021.10.06,1.6,"Caruana,F","Bruzon Batista,L",1/2-1/2,2645,C65,2800
-440,ch-USA 2021,Saint Louis USA,2021.10.07,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2800,C82,2760
-441,ch-USA 2021,Saint Louis USA,2021.10.08,3.3,"Caruana,F","Burke,John M",1-0,2554,C77,2800
-442,ch-USA 2021,Saint Louis USA,2021.10.09,4.3,"So,W","Caruana,F",1/2-1/2,2800,E32,2778
-443,ch-USA 2021,Saint Louis USA,2021.10.11,5.1,"Caruana,F","Naroditsky,D",0-1,2623,C72,2800
-444,ch-USA 2021,Saint Louis USA,2021.10.12,6.2,"Sevian,Samuel","Caruana,F",1-0,2800,C47,2654
-445,ch-USA 2021,Saint Louis USA,2021.10.13,7.3,"Caruana,F","Robson,R",1-0,2669,A22,2800
-446,ch-USA 2021,Saint Louis USA,2021.10.14,8.1,"Xiong,Jeffery","Caruana,F",1/2-1/2,2800,D38,2700
-447,ch-USA 2021,Saint Louis USA,2021.10.16,9.3,"Caruana,F","Swiercz,D",1-0,2647,A29,2800
-448,ch-USA 2021,Saint Louis USA,2021.10.17,10.4,"Lenderman,A","Caruana,F",0-1,2800,E62,2607
-449,ch-USA 2021,Saint Louis USA,2021.10.18,11.2,"Caruana,F","Shankland,S",1/2-1/2,2714,E06,2800
-450,ch-USA TB 2021,Saint Louis USA,2021.10.19,1,"Caruana,F","So,W",0-1,2778,A28,2800
-451,ch-USA TB 2021,Saint Louis USA,2021.10.19,2,"Sevian,Samuel","Caruana,F",0-1,2800,C28,2654
-452,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.1,"Caruana,F","Chigaev,M",1-0,2639,B90,2800
-453,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.1,"Nihal,Sarin","Caruana,F",1/2-1/2,2800,D32,2652
-454,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.2,"Caruana,F","Saric,Iv",1/2-1/2,2644,B40,2800
-455,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.5,"Swiercz,D","Caruana,F",1/2-1/2,2800,D38,2647
-456,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.7,"Caruana,F","Howell,D",1-0,2658,C65,2800
-457,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.2,"Najer,E","Caruana,F",1/2-1/2,2800,B40,2654
-458,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.4,"Caruana,F","Sevian,Samuel",1/2-1/2,2654,E20,2800
-459,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.3,"Grandelius,N","Caruana,F",0-1,2800,B30,2662
-460,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.1,"Caruana,F","Firouzja,Alireza",1-0,2770,B12,2800
-461,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2800,C88,2763
-462,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.2,"Caruana,F","Predke,A",1/2-1/2,2666,C84,2800
-463,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,1.3,"Tabatabaei,M","Caruana,F",0-1,2791,A46,2639
-464,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,2.3,"Caruana,F","Tabatabaei,M",1-0,2639,E06,2791
-465,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,3.2,"Caruana,F","Vokhidov,Shamsiddin",1-0,2521,A29,2791
-466,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,4.2,"Vokhidov,Shamsiddin","Caruana,F",1/2-1/2,2791,C84,2521
-467,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,5.5,"Caruana,F","Shevchenko,Kirill",1-0,2647,A48,2791
-468,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,6.5,"Shevchenko,Kirill","Caruana,F",0-1,2791,C77,2647
-469,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,7.2,"Dubov,Daniil","Caruana,F",0-1,2791,D02,2714
-470,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,8.2,"Caruana,F","Dubov,Daniil",1-0,2714,B56,2791
-471,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,9.2,"Caruana,F","Svidler,P",1/2-1/2,2694,B96,2791
-472,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,10.2,"Svidler,P","Caruana,F",1/2-1/2,2791,A20,2694
-473,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,11.1,"Erigaisi,Arjun","Caruana,F",1-0,2791,D02,2627
-474,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,12.1,"Caruana,F","Erigaisi,Arjun",1-0,2627,D12,2791
-475,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,13.2,"Onischuk,V","Caruana,F",0-1,2791,C53,2622
-476,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,14.2,"Caruana,F","Onischuk,V",1/2-1/2,2622,A10,2791
-477,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,15.2,"Caruana,F","Korobov,A",1/2-1/2,2684,B51,2791
-478,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,16.2,"Korobov,A","Caruana,F",1/2-1/2,2791,D38,2684
-479,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,17.2,"Aronian,L","Caruana,F",0-1,2791,A45,2782
-480,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,18.2,"Caruana,F","Aronian,L",1/2-1/2,2782,C48,2791
-481,chess.com Speed 2021,chess.com INT,2021.11.29,1.34,"Vachier Lagrave,M","Caruana,F",0-1,2791,A32,2766
-482,chess.com Speed 2021,chess.com INT,2021.11.29,1.21,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2791,C72,2766
-483,chess.com Speed 2021,chess.com INT,2021.11.29,1.35,"Caruana,F","Vachier Lagrave,M",1-0,2766,A48,2791
-484,chess.com Speed 2021,chess.com INT,2021.11.29,1.32,"Vachier Lagrave,M","Caruana,F",0-1,2791,E06,2766
-485,chess.com Speed 2021,chess.com INT,2021.11.29,1.28,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2766,B97,2791
-486,chess.com Speed 2021,chess.com INT,2021.11.29,1.27,"Vachier Lagrave,M","Caruana,F",1-0,2791,C55,2766
-487,chess.com Speed 2021,chess.com INT,2021.11.29,1.37,"Caruana,F","Vachier Lagrave,M",0-1,2766,A49,2791
-488,chess.com Speed 2021,chess.com INT,2021.11.29,1.26,"Caruana,F","Vachier Lagrave,M",0-1,2766,C11,2791
-489,chess.com Speed 2021,chess.com INT,2021.11.29,1.24,"Caruana,F","Vachier Lagrave,M",0-1,2766,C11,2791
-490,chess.com Speed 2021,chess.com INT,2021.11.29,1.23,"Vachier Lagrave,M","Caruana,F",0-1,2791,C72,2766
-491,chess.com Speed 2021,chess.com INT,2021.11.29,1.22,"Caruana,F","Vachier Lagrave,M",1-0,2766,B12,2791
-492,chess.com Speed 2021,chess.com INT,2021.11.29,1.33,"Caruana,F","Vachier Lagrave,M",0-1,2766,B23,2791
-493,chess.com Speed 2021,chess.com INT,2021.11.29,1.18,"Caruana,F","Vachier Lagrave,M",1-0,2766,B31,2791
-494,chess.com Speed 2021,chess.com INT,2021.11.29,1.17,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2791,C72,2766
-495,chess.com Speed 2021,chess.com INT,2021.11.29,1.16,"Caruana,F","Vachier Lagrave,M",1-0,2766,A49,2791
-496,chess.com Speed 2021,chess.com INT,2021.11.29,1.15,"Vachier Lagrave,M","Caruana,F",1-0,2791,C72,2766
-497,chess.com Speed 2021,chess.com INT,2021.11.29,1.36,"Vachier Lagrave,M","Caruana,F",0-1,2791,C02,2766
-498,chess.com Speed 2021,chess.com INT,2021.11.29,1.25,"Vachier Lagrave,M","Caruana,F",1-0,2791,C55,2766
-499,chess.com Speed 2021,chess.com INT,2021.11.29,1.31,"Caruana,F","Vachier Lagrave,M",0-1,2766,A49,2791
-500,chess.com Speed 2021,chess.com INT,2021.11.29,1.29,"Vachier Lagrave,M","Caruana,F",1-0,2791,C72,2766
-501,chess.com Speed 2021,chess.com INT,2021.11.29,1.39,"Caruana,F","Vachier Lagrave,M",1-0,2766,A49,2791
-502,chess.com Speed 2021,chess.com INT,2021.11.29,1.38,"Vachier Lagrave,M","Caruana,F",0-1,2791,C11,2766
-503,chess.com Speed 2021,chess.com INT,2021.11.29,1.14,"Caruana,F","Vachier Lagrave,M",1-0,2766,A35,2791
-504,chess.com Speed 2021,chess.com INT,2021.11.29,1.13,"Vachier Lagrave,M","Caruana,F",1-0,2791,A00,2766
-505,chess.com Speed 2021,chess.com INT,2021.11.29,1.11,"Vachier Lagrave,M","Caruana,F",0-1,2791,C72,2766
-506,chess.com Speed 2021,chess.com INT,2021.11.29,1.12,"Caruana,F","Vachier Lagrave,M",0-1,2766,E60,2791
-507,chess.com Speed 2021,chess.com INT,2021.12.09,2.35,"So,W","Caruana,F",1-0,2791,B19,2772
-508,chess.com Speed 2021,chess.com INT,2021.12.09,2.31,"So,W","Caruana,F",1-0,2791,B15,2772
-509,chess.com Speed 2021,chess.com INT,2021.12.09,2.29,"Caruana,F","So,W",1-0,2772,C65,2791
-510,chess.com Speed 2021,chess.com INT,2021.12.09,2.28,"So,W","Caruana,F",1/2-1/2,2791,B10,2772
-511,chess.com Speed 2021,chess.com INT,2021.12.09,2.27,"Caruana,F","So,W",0-1,2772,C65,2791
-512,chess.com Speed 2021,chess.com INT,2021.12.09,2.26,"So,W","Caruana,F",1-0,2791,B30,2772
-513,chess.com Speed 2021,chess.com INT,2021.12.09,2.18,"Caruana,F","So,W",0-1,2772,C65,2791
-514,chess.com Speed 2021,chess.com INT,2021.12.09,2.25,"Caruana,F","So,W",0-1,2772,C65,2791
-515,chess.com Speed 2021,chess.com INT,2021.12.09,2.24,"So,W","Caruana,F",0-1,2791,B30,2772
-516,chess.com Speed 2021,chess.com INT,2021.12.09,2.23,"Caruana,F","So,W",1/2-1/2,2772,C65,2791
-517,chess.com Speed 2021,chess.com INT,2021.12.09,2.22,"So,W","Caruana,F",0-1,2791,B30,2772
-518,chess.com Speed 2021,chess.com INT,2021.12.09,2.21,"Caruana,F","So,W",0-1,2772,A45,2791
-519,chess.com Speed 2021,chess.com INT,2021.12.09,2.19,"So,W","Caruana,F",1/2-1/2,2791,B30,2772
-520,chess.com Speed 2021,chess.com INT,2021.12.09,2.33,"So,W","Caruana,F",1/2-1/2,2791,B15,2772
-521,chess.com Speed 2021,chess.com INT,2021.12.09,2.17,"So,W","Caruana,F",1/2-1/2,2791,B30,2772
-522,chess.com Speed 2021,chess.com INT,2021.12.09,2.16,"Caruana,F","So,W",1/2-1/2,2772,C65,2791
-523,chess.com Speed 2021,chess.com INT,2021.12.09,2.15,"So,W","Caruana,F",1/2-1/2,2791,B52,2772
-524,chess.com Speed 2021,chess.com INT,2021.12.09,2.14,"Caruana,F","So,W",1/2-1/2,2772,C65,2791
-525,chess.com Speed 2021,chess.com INT,2021.12.09,2.13,"So,W","Caruana,F",1-0,2791,B52,2772
-526,chess.com Speed 2021,chess.com INT,2021.12.09,2.34,"Caruana,F","So,W",1/2-1/2,2772,C65,2791
-527,chess.com Speed 2021,chess.com INT,2021.12.09,2.32,"Caruana,F","So,W",0-1,2772,D02,2791
-528,chess.com Speed 2021,chess.com INT,2021.12.09,2.37,"So,W","Caruana,F",1-0,2791,B52,2772
-529,chess.com Speed 2021,chess.com INT,2021.12.09,2.38,"Caruana,F","So,W",0-1,2772,C00,2791
-530,chess.com Speed 2021,chess.com INT,2021.12.09,2.39,"So,W","Caruana,F",0-1,2791,C20,2772
-531,chess.com Speed 2021,chess.com INT,2021.12.09,2.12,"Caruana,F","So,W",1/2-1/2,2772,C65,2791
-532,chess.com Speed 2021,chess.com INT,2021.12.09,2.11,"So,W","Caruana,F",1/2-1/2,2791,B52,2772
-533,chess.com Speed 2021,chess.com INT,2021.12.09,2.36,"Caruana,F","So,W",0-1,2772,D02,2791
-534,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Caruana,F","Asadli,Vugar",1-0,2579,D36,2792
-535,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Asadli,Vugar","Caruana,F",1/2-1/2,2792,C47,2579
-536,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Mamedov,Rau","Caruana,F",0-1,2792,B40,2656
-537,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Caruana,F","Mamedov,Rau",1-0,2656,C41,2792
-538,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Caruana,F","Rapport,R",1-0,2763,C18,2792
-539,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.3,"Rapport,R","Caruana,F",0-1,2792,C42,2763
-540,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Rapport,R","Caruana,F",1-0,2792,C42,2763
-541,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Navara,D","Caruana,F",0-1,2792,E94,2697
-542,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.3,"Caruana,F","Navara,D",1-0,2697,A22,2792
-543,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Caruana,F","Navara,D",0-1,2697,E52,2792
-544,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
-545,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C75,2743
-546,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
-547,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Caruana,F","Anand,V",1/2-1/2,2751,C67,2792
-548,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Anand,V","Caruana,F",0-1,2792,C93,2751
-549,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Caruana,F","Mamedyarov,S",0-1,2767,A16,2792
-550,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,E62,2767
-551,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.3,"Caruana,F","Asadli,Vugar",1/2-1/2,2579,C02,2792
-552,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.4,"Mamedov,Rau","Caruana,F",0-1,2792,B25,2656
-553,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.2,"Caruana,F","Rapport,R",1/2-1/2,2763,A40,2792
-554,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.1,"Navara,D","Caruana,F",1-0,2792,E94,2697
-555,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.4,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,C44,2792
-556,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.2,"Anand,V","Caruana,F",0-1,2792,C72,2751
-557,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.3,"Caruana,F","Mamedyarov,S",1-0,2767,A18,2792
-558,7th Gashimov Mem TB,Baku AZE,2021.12.23,1,"Caruana,F","Rapport,R",1-0,2763,A40,2792
-559,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.4,"Asadli,Vugar","Caruana,F",0-1,2792,B90,2579
-560,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.1,"Caruana,F","Mamedov,Rau",1/2-1/2,2656,D32,2792
-561,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.3,"Rapport,R","Caruana,F",1/2-1/2,2792,C47,2763
-562,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.4,"Caruana,F","Navara,D",1-0,2697,C65,2792
-563,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.1,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C89,2743
-564,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.3,"Caruana,F","Anand,V",1-0,2751,C65,2792
-565,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.2,"Mamedyarov,S","Caruana,F",0-1,2792,D32,2767
-566,World Rapid 2021,Warsaw POL,2021.12.26,1.6,"Klekowski,M","Caruana,F",0-1,2792,A21,2479
-567,World Rapid 2021,Warsaw POL,2021.12.26,2.5,"Caruana,F","Theodorou,Nikolas",1-0,2577,C60,2792
-568,World Rapid 2021,Warsaw POL,2021.12.26,3.3,"Abdusattorov,Nodirbek","Caruana,F",1-0,2792,A21,2633
-569,World Rapid 2021,Warsaw POL,2021.12.26,4.14,"Caruana,F","Halkias,S",1-0,2527,C70,2792
-570,World Rapid 2021,Warsaw POL,2021.12.26,5.6,"Gareev,T","Caruana,F",1/2-1/2,2792,E32,2573
-571,World Rapid 2021,Warsaw POL,2021.12.27,6.11,"Caruana,F","Vidit,S",1-0,2727,E32,2792
-572,World Rapid 2021,Warsaw POL,2021.12.27,7.7,"Volokitin,And","Caruana,F",1/2-1/2,2792,C55,2677
-573,World Rapid 2021,Warsaw POL,2021.12.27,8.6,"Caruana,F","Cheparinov,I",1/2-1/2,2664,D02,2792
-574,World Rapid 2021,Warsaw POL,2021.12.27,9.6,"Caruana,F","Anton Guijarro,D",1-0,2693,B13,2792
-575,World Rapid 2021,Warsaw POL,2021.12.28,10.5,"Amin,B","Caruana,F",0-1,2792,C00,2680
-576,World Rapid 2021,Warsaw POL,2021.12.28,11.3,"Caruana,F","Duda,J",1/2-1/2,2760,E32,2792
-577,World Rapid 2021,Warsaw POL,2021.12.28,12.4,"Grischuk,A","Caruana,F",0-1,2792,A20,2764
-578,World Rapid 2021,Warsaw POL,2021.12.28,13.2,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2782,C48,2792
-579,World Blitz 2021,Warsaw POL,2021.12.29,1.5,"Volokitin,And","Caruana,F",1/2-1/2,2792,C55,2677
-580,World Blitz 2021,Warsaw POL,2021.12.29,2.37,"Caruana,F","Najer,E",1/2-1/2,2661,A06,2792
-581,World Blitz 2021,Warsaw POL,2021.12.29,3.30,"Narayanan,SL","Caruana,F",1-0,2792,C55,2658
-582,World Blitz 2021,Warsaw POL,2021.12.29,4.60,"Caruana,F","Tazbir,M",1-0,2508,B51,2792
-583,World Blitz 2021,Warsaw POL,2021.12.29,5.39,"Demchenko,A","Caruana,F",1/2-1/2,2792,B40,2654
-584,World Blitz 2021,Warsaw POL,2021.12.29,6.40,"Caruana,F","Shoker,S",1-0,2504,B06,2792
-585,World Blitz 2021,Warsaw POL,2021.12.29,7.24,"Antipov,M2","Caruana,F",0-1,2792,C50,2615
-586,World Blitz 2021,Warsaw POL,2021.12.29,8.16,"Caruana,F","Demidov,M",1-0,2556,A40,2792
-587,World Blitz 2021,Warsaw POL,2021.12.29,9.8,"Oparin,G","Caruana,F",0-1,2792,A05,2681
-588,World Blitz 2021,Warsaw POL,2021.12.29,10.6,"Caruana,F","Svane,R",0-1,2637,D02,2792
-589,World Blitz 2021,Warsaw POL,2021.12.29,11.13,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C72,2743
-590,World Blitz 2021,Warsaw POL,2021.12.29,12.12,"Caruana,F","Gelfand,B",0-1,2663,B30,2792
-591,World Blitz 2021,Warsaw POL,2021.12.30,13.19,"Matlakov,M","Caruana,F",1-0,2792,E10,2674
-592,World Blitz 2021,Warsaw POL,2021.12.30,14.30,"Caruana,F","Gagunashvili,M",1/2-1/2,2573,C77,2792
-593,World Blitz 2021,Warsaw POL,2021.12.30,15.29,"Harsha,B","Caruana,F",0-1,2792,A03,2489
-594,World Blitz 2021,Warsaw POL,2021.12.30,16.22,"Caruana,F","Michalik,P",0-1,2568,D36,2792
-595,World Blitz 2021,Warsaw POL,2021.12.30,17.32,"Ivic,Velimir","Caruana,F",1/2-1/2,2792,C72,2606
-596,World Blitz 2021,Warsaw POL,2021.12.30,18.31,"Caruana,F","Sadhwani,Raunak",1/2-1/2,2616,C50,2792
-597,World Blitz 2021,Warsaw POL,2021.12.30,19.32,"Gareev,T","Caruana,F",0-1,2792,A53,2573
-598,World Blitz 2021,Warsaw POL,2021.12.30,20.25,"Caruana,F","Corrales Jimenez,F",1-0,2530,E60,2792
-599,World Blitz 2021,Warsaw POL,2021.12.30,21.20,"Murzin,Volodar","Caruana,F",0-1,2792,B40,2519
-600,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.2,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,E10,2792
-601,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.2,"Vidit,S","Caruana,F",1/2-1/2,2792,D45,2727
-602,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.3,"Caruana,F","Shankland,S",1/2-1/2,2708,C67,2792
-603,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.5,"Caruana,F","Dubov,Daniil",1/2-1/2,2720,C88,2792
-604,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.3,"Esipenko,Andrey","Caruana,F",1/2-1/2,2792,D45,2714
-605,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.5,"Caruana,F","Giri,A",0-1,2772,A06,2792
-606,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.5,"Duda,J","Caruana,F",0-1,2792,D02,2760
-607,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.6,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2702,C82,2792
-608,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.7,"Grandelius,N","Caruana,F",0-1,2792,C02,2672
-609,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.5,"Caruana,F","Rapport,R",0-1,2763,A19,2792
-610,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.5,"Praggnanandhaa,R","Caruana,F",0-1,2792,D45,2612
-611,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.1,"Caruana,F","Carlsen,M",0-1,2865,B31,2792
-612,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,D37,2767
-613,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,1,"Maltsevskaya,Aleksandra","Caruana,F",0-1,2792,B46,2410
-614,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,2,"Caruana,F","Mustafayev,Farid",1-0,2322,D00,2792
-615,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,3,"Hayrapetyan,Ho","Caruana,F",1-0,2792,A54,2499
-616,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,4,"Caruana,F","Nitin,S",1-0,2427,E70,2792
-617,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,5,"Arjun,Kalyan","Caruana,F",0-1,2792,B52,2532
-618,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,6,"Caruana,F","Vokhidov,Shamsiddin",0-1,2536,D02,2792
-619,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,7,"Caruana,F","Alonso Rosell,A",1-0,2570,C23,2792
-620,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,8,"Kobalia,M","Caruana,F",0-1,2792,B13,2596
-621,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,9,"Caruana,F","Kravtsiv,M",1-0,2598,A06,2792
-622,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,10,"Shimanov,A","Caruana,F",0-1,2792,B43,2581
-623,Titled Tuesday 1st Feb A,chess.com INT,2022.02.01,11,"Caruana,F","Narayanan,SL",1-0,2658,B51,2792
-624,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,1,"Suder,Jakub","Caruana,F",1/2-1/2,2792,A42,2321
-625,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,1,"Shuvalov,E","Caruana,F",0-1,2792,A09,2182
-626,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,2,"Caruana,F","Brunner,N",1-0,2427,D14,2792
-627,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,2,"Caruana,F","Beerdsen,Thomas",0-1,2508,A04,2792
-628,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,3,"Yuan,Qingyu","Caruana,F",0-1,2792,A05,2373
-629,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,3,"Maltsevskaya,Aleksandra","Caruana,F",0-1,2792,B11,2410
-630,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,4,"Caruana,F","Nogerbek,Kazybek",0-1,2424,D35,2792
-631,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,4,"Caruana,F","Vaishali,R",1-0,2403,A20,2792
-632,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,5,"Mogranzini,R","Caruana,F",0-1,2792,C00,2459
-633,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,5,"Ter Sahakyan,S","Caruana,F",0-1,2792,C02,2632
-634,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,6,"Caruana,F","Dourerassou,J",1-0,2443,D00,2792
-635,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,6,"Caruana,F","Kamsky,G",1/2-1/2,2657,C67,2792
-636,Titled Tue 8th Feb Late,chess.com INT,2022.02.08,7,"Rustemov,A","Caruana,F",1-0,2792,D45,2525
-637,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,7,"Rustemov,A","Caruana,F",0-1,2792,E11,2525
-638,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,8,"Caruana,F","Lashkin,Jegor",1-0,2386,B51,2792
-639,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,9,"Caruana,F","Jones,G",0-1,2671,A05,2792
-640,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,10,"Indjic,A","Caruana,F",0-1,2792,A41,2604
-641,Titled Tue 8th Feb Early,chess.com INT,2022.02.08,11,"Caruana,F","Dobrov,V",0-1,2478,A45,2792
-642,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,1,"Nabaty,T","Caruana,F",1/2-1/2,2792,C47,2645
-643,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,2,"Caruana,F","Kovalev,Vl",1-0,2623,A48,2792
-644,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,3,"Tabatabaei,M","Caruana,F",1/2-1/2,2792,D02,2623
-645,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,4,"Caruana,F","Sjugirov,S",1/2-1/2,2680,C79,2792
-646,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,5,"Sadhwani,Raunak","Caruana,F",1/2-1/2,2792,E60,2616
-647,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,6,"Caruana,F","Niemann,Hans Moke",1-0,2642,A21,2792
-648,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,7,"Abdusattorov,Nodirbek","Caruana,F",0-1,2792,A28,2651
-649,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,8,"Giri,A","Caruana,F",1/2-1/2,2792,C48,2772
-650,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,9,"Caruana,F","Paravyan,D",1/2-1/2,2617,C48,2792
-651,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,1.1,"Caruana,F","Alekseenko,K",1-0,2702,E53,2792
-652,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,2.2,"Caruana,F","Giri,A",0-1,2772,A48,2792
-653,Chess.com Rapid Wk1 KO,chess.com INT,2022.02.13,2.1,"Giri,A","Caruana,F",1/2-1/2,2792,E06,2772
-654,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,1,"Caruana,F","Anton Guijarro,D",1-0,2691,B11,2792
-655,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,2,"Sjugirov,S","Caruana,F",1/2-1/2,2792,D52,2680
-656,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,3,"Caruana,F","Maghsoodloo,Parham",1-0,2701,C78,2792
-657,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,5,"Caruana,F","So,W",1/2-1/2,2772,C67,2792
-658,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,6,"Sarana,A","Caruana,F",1/2-1/2,2792,E49,2685
-659,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,7,"Caruana,F","Martirosyan,Haik M.",1-0,2633,C65,2792
-660,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,8,"Caruana,F","Erigaisi,Arjun",1-0,2633,B40,2792
-661,Chess.com Rapid Wk2 Swiss,chess.com INT,2022.02.19,9,"Paravyan,D","Caruana,F",1/2-1/2,2792,C47,2617
-662,Chess.com Rapid Wk2 KO,chess.com INT,2022.02.20,1.2,"Dreev,A","Caruana,F",0-1,2792,D37,2623
-663,Chess.com Rapid Wk2 KO,chess.com INT,2022.02.20,1.1,"Caruana,F","Dreev,A",1/2-1/2,2623,B29,2792
-664,Chess.com Rapid Wk2 KO,chess.com INT,2022.02.20,2.1,"Caruana,F","Dubov,Daniil",1-0,2720,B56,2792
-665,Chess.com Rapid Wk2 KO,chess.com INT,2022.02.20,3.2,"Caruana,F","Nakamura,Hi",1-0,2736,C65,2792
-666,Chess.com Rapid Wk3 KO,chess.com INT,2022.02.27,1.1,"Caruana,F","Dubov,Daniil",1-0,2720,D15,2792
-667,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,1,"Caruana,F","Tari,A",1-0,2660,D05,2792
-668,Chess.com Rapid Wk3 KO,chess.com INT,2022.02.27,2.1,"Caruana,F","Nakamura,Hi",1-0,2736,C54,2792
-669,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,2,"Maghsoodloo,Parham","Caruana,F",0-1,2792,C67,2701
-670,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,3,"Ponkratov,P","Caruana,F",0-1,2792,C44,2641
-671,Chess.com Rapid Wk3 KO,chess.com INT,2022.02.27,3.1,"Caruana,F","Xiong,Jeffery",1-0,2686,A30,2792
-672,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,4,"Caruana,F","Abdusattorov,Nodirbek",1/2-1/2,2651,A48,2792
-673,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,6,"Sarana,A","Caruana,F",0-1,2792,D31,2685
-674,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,8,"Caruana,F","Dubov,Daniil",1-0,2720,C84,2792
-675,Chess.com Rapid Wk3 Swiss,chess.com INT,2022.02.27,9,"Le, Quang Liem","Caruana,F",1/2-1/2,2792,D37,2709
-676,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,1,"Caruana,F","Zhurbinsky,David",1-0,1996,A05,2792
-677,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,1,"Astasio Lopez,D","Caruana,F",1/2-1/2,2792,D02,2371
-678,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,2,"Caruana,F","Al Tarbosh,W",1-0,2221,A40,2792
-679,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,2,"Hakemi,Arman","Caruana,F",1-0,2792,C15,2336
-680,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,3,"Hakemi,Arman","Caruana,F",0-1,2792,B40,2336
-681,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,3,"Caruana,F","Romanchuk,V",1-0,2266,A07,2792
-682,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,4,"Harika,D","Caruana,F",0-1,2792,E00,2517
-683,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,4,"Caruana,F","Svane,Frederik",0-1,2496,E10,2792
-684,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,5,"Horobetz,Graham","Caruana,F",0-1,2792,B19,
-685,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,5,"Caruana,F","Maksimovic,Bojan",1-0,2455,A04,2792
-686,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,6,"Caruana,F","Muradli,Mahammad",1-0,2528,A05,2792
-687,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,6,"Caruana,F","Alavi,S",1-0,2446,B10,2792
-688,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,7,"Babazada,Khazar","Caruana,F",0-1,2792,C72,2427
-689,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,7,"Caruana,F",Lou Yiping,1-0,2485,C65,2792
-690,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,8,"Matlakov,M","Caruana,F",0-1,2792,C50,2674
-691,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,8,"Caruana,F","Demidov,M",1/2-1/2,2562,C10,2792
-692,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,9,"Caruana,F","Riazantsev,A",1/2-1/2,2634,D00,2792
-693,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,9,"Caruana,F","Jones,G",1-0,2671,E71,2792
-694,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,10,"Hess,Ro","Caruana,F",0-1,2792,E20,2591
-695,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,10,"Sarana,A","Caruana,F",1-0,2792,E73,2685
-696,Titled Tue 1st Mar Early,chess.com INT,2022.03.01,11,"Martinez Alcantara,Jose Eduardo","Caruana,F",1/2-1/2,2792,C77,2598
-697,Titled Tue 1st Mar Late,chess.com INT,2022.03.01,11,"Salinas Herrera,P","Caruana,F",0-1,2792,C01,2517
-698,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,1,"Guseinov,G","Caruana,F",0-1,2781,C46,2661
-699,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,2,"Caruana,F","Sarana,A",1-0,2685,E54,2781
-700,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,3,"Abdusattorov,Nodirbek","Caruana,F",0-1,2781,C72,2651
-701,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,6,"Caruana,F","Demchenko,A",1-0,2654,C70,2781
-702,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,7,"Paravyan,D","Caruana,F",1/2-1/2,2781,C47,2617
-703,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,8,"Caruana,F","Aronian,L",1/2-1/2,2785,C67,2781
-704,Chess.com Rapid Wk4 Swiss,chess.com INT,2022.03.05,9,"Dubov,Daniil","Caruana,F",1/2-1/2,2781,D30,2711
-705,Chess.com Rapid Wk4 KO,chess.com INT,2022.03.06,1.1,"Caruana,F","Demchenko,A",1-0,2654,C72,2781
-706,Chess.com Rapid Wk4 KO,chess.com INT,2022.03.06,2.1,"Caruana,F","Paravyan,D",1/2-1/2,2617,A16,2781
-707,Chess.com Rapid Wk4 KO,chess.com INT,2022.03.06,2.2,"Paravyan,D","Caruana,F",0-1,2781,C47,2617
-708,Chess.com Rapid Wk4 KO,chess.com INT,2022.03.06,3.1,"Caruana,F","Aronian,L",0-1,2785,C67,2781
-709,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,1,"Caruana,F","Di Nicolantonio,L",1-0,2405,D00,2781
-710,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,1,"Caruana,F","Plotnikov,P",1-0,2297,A14,2781
-711,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,2,"Pert,N","Caruana,F",0-1,2781,D26,2543
-712,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,2,"Goltsev,Dmitry","Caruana,F",0-1,2781,B15,2199
-713,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,3,"Caruana,F","Gledura,B",1-0,2652,A05,2781
-714,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,3,"Caruana,F","Weetik,V",0-1,2423,A48,2781
-715,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,4,"Babazada,Khazar","Caruana,F",0-1,2781,C69,2431
-716,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,4,"Yaniuk,Volodymyr","Caruana,F",0-1,2781,D10,2223
-717,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,5,"Caruana,F","Praggnanandhaa,R",0-1,2619,B42,2781
-718,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,5,"Caruana,F","Leiva,G",1/2-1/2,2405,B92,2781
-719,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,6,"Cardoso Cardoso,Jose Gabriel","Caruana,F",0-1,2781,D10,2460
-720,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,6,"Al Tarbosh,W","Caruana,F",0-1,2781,B90,2213
-721,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,7,"Caruana,F","Salinas Herrera,P",1-0,2517,C79,2781
-722,Titled Tue 8th Mar Early,chess.com INT,2022.03.08,7,"Murzin,Volodar","Caruana,F",1-0,2781,C88,2532
-723,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,8,"Keymer,Vincent","Caruana,F",0-1,2781,D45,2655
-724,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,9,"Dubov,Daniil","Caruana,F",1-0,2781,B30,2711
-725,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,10,"Caruana,F","Chigaev,M",1-0,2631,A45,2781
-726,Titled Tue 8th Mar Late,chess.com INT,2022.03.08,11,"Dobrov,V","Caruana,F",0-1,2781,A53,2478
-727,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,1,"Kovalev,Vl","Caruana,F",0-1,2781,C47,2623
-728,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,2,"Caruana,F","So,W",1-0,2778,C65,2781
-729,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,3,"Paravyan,D","Caruana,F",1-0,2781,C47,2617
-730,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,4,"Matlakov,M","Caruana,F",1/2-1/2,2781,C47,2674
-731,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,5,"Caruana,F","Maghsoodloo,Parham",1-0,2701,E40,2781
-732,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,6,"Dubov,Daniil","Caruana,F",0-1,2781,D02,2711
-733,Chess.com Rapid Wk5 Swiss,chess.com INT,2022.03.12,7,"Caruana,F","Bluebaum,M",1/2-1/2,2642,B10,2781
-734,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,1.1,"Caruana,F","Kamsky,G",1-0,2658,C63,2781
-735,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,2.3,"Nakamura,Hi","Caruana,F",1-0,2781,A06,2750
-736,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,2.2,"Caruana,F","Nakamura,Hi",1/2-1/2,2750,C63,2781
-737,Chess.com Rapid Wk5 KO,chess.com INT,2022.03.13,2.1,"Nakamura,Hi","Caruana,F",1/2-1/2,2781,A06,2750
-738,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,1,"Caruana,F","Sadhwani,Raunak",1/2-1/2,2616,C60,2781
-739,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,2,"Cheparinov,I","Caruana,F",1/2-1/2,2781,E11,2672
-740,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,3,"Caruana,F","Bortnyk,Olexandr",0-1,2604,B03,2781
-741,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,4,"Robson,R","Caruana,F",0-1,2781,A30,2676
-742,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,5,"Caruana,F","Abdusattorov,Nodirbek",1-0,2651,A36,2781
-743,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,6,"Caruana,F","Swiercz,D",1-0,2656,C65,2781
-744,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,8,"Caruana,F","So,W",1/2-1/2,2778,C65,2781
-745,Chess.com Rapid Wk6 Swiss,chess.com INT,2022.03.19,9,"Matlakov,M","Caruana,F",1-0,2781,E10,2674
-746,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,1,"Swiercz,D","Caruana,F",0-1,2781,A46,2656
-747,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,2,"Caruana,F","Sjugirov,S",1/2-1/2,2680,A22,2781
-748,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,3,"Sarana,A","Caruana,F",1/2-1/2,2781,D37,2685
-749,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,4,"Caruana,F","Van Foreest,Jorden",1-0,2714,A22,2781
-750,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,5,"Caruana,F","Robson,R",1-0,2676,A22,2781
-751,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,6,"Tabatabaei,M","Caruana,F",0-1,2781,A48,2623
-752,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,7,"Caruana,F","Andreikin,D",1/2-1/2,2724,B40,2781
-753,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,8,"Bok,B","Caruana,F",1/2-1/2,2781,E32,2624
-754,Chess.com Rapid Wk7 Swiss,chess.com INT,2022.03.26,9,"Caruana,F","Paravyan,D",1/2-1/2,2617,A05,2781
-755,Chess.com Rapid Wk7 KO,chess.com INT,2022.03.27,1.1,"Caruana,F","Kamsky,G",1/2-1/2,2658,A30,2781
-756,Chess.com Rapid Wk7 KO,chess.com INT,2022.03.27,1.2,"Kamsky,G","Caruana,F",0-1,2781,D00,2658
-757,Chess.com Rapid Wk7 KO,chess.com INT,2022.03.27,2.2,"Andreikin,D","Caruana,F",1/2-1/2,2781,D02,2724
-758,Chess.com Rapid Wk7 KO,chess.com INT,2022.03.27,2.1,"Caruana,F","Andreikin,D",1/2-1/2,2724,B40,2781
-759,Chess.com Rapid Wk7 KO,chess.com INT,2022.03.27,2.3,"Caruana,F","Andreikin,D",0-1,2724,B40,2781
-760,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,1,"Golubev,M","Caruana,F",0-1,2781,C11,2461
-761,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,1,"Lewicki,Mir","Caruana,F",1/2-1/2,2781,A00,2340
-762,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,2,"Caruana,F","Moksh,Amit Doshi",1-0,2396,A06,2781
-763,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,2,"Caruana,F","Badelka,Olga",1-0,2453,A01,2781
-764,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,3,"Nazari,Arad","Caruana,F",0-1,2781,B44,2287
-765,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,3,"Barrientos,S","Caruana,F",1-0,2781,D15,2468
-766,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,4,"Caruana,F","Yuan,Qingyu",1-0,2373,D00,2781
-767,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,4,"Aaditya,Dhingra","Caruana,F",0-1,2781,B10,2176
-768,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,5,"Caruana,F","Oganian,M",0-1,2437,A40,2781
-769,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,5,"Ibarra Jerez,JC","Caruana,F",0-1,2781,C69,2570
-770,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,6,"Gurevich,D","Caruana,F",0-1,2781,A41,2363
-771,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,6,"Caruana,F","Dubov,Daniil",1-0,2711,A57,2781
-772,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,7,"Caruana,F","Rastbod,Ali",1-0,2345,A10,2781
-773,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,7,"Caruana,F","Sarana,A",0-1,2685,A45,2781
-774,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,8,"Holt,C","Caruana,F",1-0,2781,E32,2553
-775,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,8,"Posthuma,Joshua","Caruana,F",0-1,2781,A50,2389
-776,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,9,"Caruana,F","Abdrlauf,Elham",0-1,2353,D02,2781
-777,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,9,"Caruana,F","Korchmar,V",1-0,2450,A45,2781
-778,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,10,"Sapunov,E","Caruana,F",0-1,2781,E94,2461
-779,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,10,"Dreev,A","Caruana,F",0-1,2781,E32,2623
-780,Titled Tue 29th Mar Late,chess.com INT,2022.03.29,11,"Caruana,F","Bortnyk,Olexandr",1-0,2604,A10,2781
-781,Titled Tue 29th Mar Early,chess.com INT,2022.03.29,11,"Caruana,F","Xu,Yi",1-0,2507,B20,2781
-782,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,1,"Caruana,F","Maghsoodloo,Parham",0-1,2699,D36,2781
-783,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,2,"Ponkratov,P","Caruana,F",0-1,2781,A21,2635
-784,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,3,"Caruana,F","Kovalev,Vl",0-1,2623,E48,2781
-785,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,4,"Kovalenko,I","Caruana,F",1-0,2781,A21,2674
-786,Chess.com Rapid Wk8 Swiss,chess.com INT,2022.04.02,5,"Caruana,F","Niemann,Hans Moke",0-1,2637,D36,2781
-787,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,1,"Le, Quang Liem","Caruana,F",1-0,2781,D37,2709
-788,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,2,"Caruana,F","Harika,D",1-0,2517,A56,2781
-789,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,3,"Grischuk,A","Caruana,F",1-0,2781,E28,2742
-790,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,4,"Caruana,F","Kovalev,Vl",1/2-1/2,2623,A42,2781
-791,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,5,"Sevian,Samuel","Caruana,F",0-1,2781,A21,2693
-792,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,6,"Caruana,F","Narayanan,SL",1/2-1/2,2662,C42,2781
-793,Chess.com Rapid Wk9 Swiss,chess.com INT,2022.04.09,7,"Caruana,F","Ponkratov,P",0-1,2635,C18,2781
-794,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,1,"Caruana,F","Migot,T",1-0,2353,B28,2781
-795,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,1,"Ibadov,Dashgyn","Caruana,F",0-1,2781,B12,2266
-796,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,2,"Caruana,F","Taichman,O",1-0,2298,B74,2781
-797,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,2,"Maksimovic,Bojan","Caruana,F",0-1,2781,B07,2455
-798,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,3,"Caruana,F","Urazayev,Arystanbek",1-0,2420,C53,2781
-799,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,3,"Kobalia,M","Caruana,F",1-0,2781,C42,2596
-800,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,4,"Caruana,F","Bekturov,Tamerlan",1-0,2241,A18,2781
-801,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,4,"Rasulov,Vu","Caruana,F",0-1,2781,E20,2445
-802,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,5,"Zhu,Jiner","Caruana,F",0-1,2781,C93,2464
-803,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,5,"Caruana,F","Santos Ruiz,Miguel",1-0,2597,C67,2781
-804,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,6,"Alekseenko,K","Caruana,F",0-1,2781,B85,2698
-805,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,6,"Caruana,F","Ahmadzada,Ahmad",1-0,2480,B01,2781
-806,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,7,"Caruana,F","Tari,A",1-0,2650,B12,2781
-807,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,7,"Sychev,K","Caruana,F",0-1,2781,D43,2537
-808,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,8,"Nakamura,Hi","Caruana,F",1-0,2781,D38,2750
-809,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,8,"Caruana,F","Nogerbek,Kazybek",1/2-1/2,2408,C90,2781
-810,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,9,"Caruana,F","Dubov,Daniil",1-0,2711,D12,2781
-811,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,9,"Matlakov,M","Caruana,F",1-0,2781,B40,2674
-812,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,10,"Caruana,F","Bryakin,M",1-0,2441,A38,2781
-813,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,10,"Caruana,F","Svane,R",1-0,2648,E28,2781
-814,Titled Tue 12th Apr Early,chess.com INT,2022.04.12,11,"Caruana,F","Sjugirov,S",0-1,2696,D02,2781
-815,Titled Tue 12th Apr Late,chess.com INT,2022.04.12,11,"Xiong,Jeffery","Caruana,F",1-0,2781,C53,2685
-816,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,1,"Caruana,F","Tari,A",1-0,2650,D32,2781
-817,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,2,"Martinez Alcantara,Jose Eduardo","Caruana,F",0-1,2781,C65,2598
-818,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,4,"Caruana,F","Aronian,L",1/2-1/2,2785,D27,2781
-819,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,5,"Grischuk,A","Caruana,F",0-1,2781,E24,2742
-820,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,6,"Caruana,F","Andreikin,D",1/2-1/2,2729,D31,2781
-821,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,7,"Oparin,G","Caruana,F",1/2-1/2,2781,C77,2674
-822,Chess.com Rapid W10 Swiss,chess.com INT,2022.04.16,9,"Vidit,S","Caruana,F",1/2-1/2,2781,D37,2723
-823,Chess.com Rapid Wk10 KO,chess.com INT,2022.04.17,1.1,"Caruana,F","Martinez Alcantara,Jose Eduardo",1-0,2598,E28,2781
-824,Chess.com Rapid Wk10 KO,chess.com INT,2022.04.17,2.2,"Aronian,L","Caruana,F",1-0,2781,C24,2785
-825,Chess.com Rapid Wk10 KO,chess.com INT,2022.04.17,2.1,"Caruana,F","Aronian,L",1/2-1/2,2785,A28,2781
-826,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,1,"Riehle,Marco","Caruana,F",1-0,2781,C00,2341
-827,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,2,"Caruana,F","Buchenau,F",1-0,2269,A22,2781
-828,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,3,"Gnechko,Ruslan","Caruana,F",0-1,2781,E70,2132
-829,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,4,"Caruana,F","Goncalves,I",1-0,2237,B40,2781
-830,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,5,"Rustemov,A","Caruana,F",0-1,2781,D35,2525
-831,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,6,"Caruana,F","Rasulov,Vu",1-0,2445,B51,2781
-832,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,7,"Ibarra Jerez,JC","Caruana,F",1/2-1/2,2781,C45,2570
-833,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,8,"Vasquez Schroeder,R","Caruana,F",0-1,2781,C72,2500
-834,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,9,"Caruana,F","Jacobson,Brandon",1-0,2524,D35,2781
-835,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,10,"Dobrov,V","Caruana,F",1/2-1/2,2781,A21,2478
-836,Titled Tue 19th Apr Late,chess.com INT,2022.04.19,11,"Caruana,F","Kozak,Adam",1-0,2535,E28,2781
-837,American Cup Champ,Saint Louis USA,2022.04.20,1.1,"Caruana,F","Xiong,Jeffery",1/2-1/2,2685,C42,2781
-838,American Cup Champ,Saint Louis USA,2022.04.21,1.5,"Caruana,F","Xiong,Jeffery",1-0,2685,C10,2781
-839,American Cup Champ,Saint Louis USA,2022.04.21,1.4,"Caruana,F","Xiong,Jeffery",1/2-1/2,2685,C10,2781
-840,American Cup Champ,Saint Louis USA,2022.04.21,1.3,"Xiong,Jeffery","Caruana,F",1/2-1/2,2781,A45,2685
-841,American Cup Champ,Saint Louis USA,2022.04.21,1.2,"Xiong,Jeffery","Caruana,F",1/2-1/2,2781,A30,2685
-842,American Cup Champ,Saint Louis USA,2022.04.22,2.1,"Caruana,F","Sevian,Samuel",1/2-1/2,2693,E49,2781
-843,American Cup Champ,Saint Louis USA,2022.04.23,2.2,"Sevian,Samuel","Caruana,F",1/2-1/2,2781,A33,2693
-844,American Cup Champ,Saint Louis USA,2022.04.23,2.3,"Sevian,Samuel","Caruana,F",0-1,2781,D02,2693
-845,American Cup Champ,Saint Louis USA,2022.04.23,2.4,"Caruana,F","Sevian,Samuel",1-0,2693,B06,2781
-846,American Cup Champ,Saint Louis USA,2022.04.24,3.1,"Caruana,F","Dominguez Perez,L",1-0,2756,A33,2781
-847,American Cup Champ,Saint Louis USA,2022.04.25,3.2,"Dominguez Perez,L","Caruana,F",1/2-1/2,2781,C50,2756
-848,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,1,"Spata,G","Caruana,F",0-1,2781,A04,2319
-849,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,2,"Caruana,F","Siddharth,Jagadeesh",1-0,2393,D03,2781
-850,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,3,"Gledura,B","Caruana,F",0-1,2781,E48,2652
-851,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,4,"Caruana,F","Kollars,Dmitrij",0-1,2637,C24,2781
-852,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,5,"Lin,D","Caruana,F",0-1,2781,C29,2299
-853,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,6,"Caruana,F","Moussard,J",1-0,2630,D31,2781
-854,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,7,"Caruana,F","Demchenko,A",1-0,2654,A53,2781
-855,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,8,"Svane,R","Caruana,F",1/2-1/2,2781,A07,2648
-856,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,9,"Caruana,F","Keymer,Vincent",1-0,2654,B12,2781
-857,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,10,"Melkumyan,H","Caruana,F",1/2-1/2,2781,A20,2649
-858,Titled Tue 26th Apr Late,chess.com INT,2022.04.26,11,"Caruana,F","Grischuk,A",0-1,2742,A21,2781
-859,American Cup Champ,Saint Louis USA,2022.04.27,4.1,"Aronian,L","Caruana,F",1/2-1/2,2781,C50,2785
-860,American Cup Champ,Saint Louis USA,2022.04.28,4.2,"Caruana,F","Aronian,L",1-0,2785,A29,2781
-861,American Cup Blitz 2022,Saint Louis USA,2022.04.29,1.3,"Ali Marandi,C","Caruana,F",0-1,2781,A46,2523
-862,American Cup Blitz 2022,Saint Louis USA,2022.04.29,2.3,"Caruana,F","Kevlishvili,Robby",1-0,2494,A22,2781
-863,American Cup Blitz 2022,Saint Louis USA,2022.04.29,3.3,"Zatonskih,A","Caruana,F",0-1,2781,D45,2393
-864,American Cup Blitz 2022,Saint Louis USA,2022.04.29,4.1,"Caruana,F","Aronian,L",1/2-1/2,2785,A06,2781
-865,American Cup Blitz 2022,Saint Louis USA,2022.04.29,5.2,"So,W","Caruana,F",0-1,2781,A21,2778
-866,American Cup Blitz 2022,Saint Louis USA,2022.04.29,6.2,"Caruana,F","Dominguez Perez,L",1-0,2756,C43,2781
-867,American Cup Blitz 2022,Saint Louis USA,2022.04.29,7.2,"Robson,R","Caruana,F",1/2-1/2,2781,E04,2681
-868,American Cup Blitz 2022,Saint Louis USA,2022.04.29,8.2,"Caruana,F","Shankland,S",1-0,2709,D11,2781
-869,American Cup Blitz 2022,Saint Louis USA,2022.04.29,9.2,"Martinez Alcantara,Jose Eduardo","Caruana,F",1/2-1/2,2781,C77,2598
-870,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.1,"Caruana,F","Firouzja,Alireza",1/2-1/2,2804,D35,2786
-871,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2786,B33,2753
-872,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.1,"Caruana,F","So,W",1/2-1/2,2776,E06,2786
-873,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.4,"Vachier Lagrave,M","Caruana,F",1-0,2786,C82,2750
-874,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.4,"Caruana,F","Mamedyarov,S",1-0,2759,C42,2786
-875,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2773,C42,2786
-876,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.2,"Aronian,L","Caruana,F",1/2-1/2,2786,C24,2765
-877,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.4,"Caruana,F","Rapport,R",1/2-1/2,2776,B40,2786
-878,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.4,"Deac,Bogdan-Daniel","Caruana,F",1/2-1/2,2786,D17,2671
-879,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.4,"Aronian,L","Caruana,F",1-0,2786,C24,2765
-880,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.2,"Caruana,F","Duda,J",1-0,2750,D35,2786
-881,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.5,"Gavrilescu,David","Caruana,F",0-1,2786,B30,2518
-882,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.1,"Korobov,A","Caruana,F",1/2-1/2,2786,A28,2671
-883,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.5,"Caruana,F","Rapport,R",0-1,2776,C18,2786
-884,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.2,"Wojtaszek,R","Caruana,F",1/2-1/2,2786,E10,2696
-885,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.4,"Caruana,F","So,W",1/2-1/2,2776,C65,2786
-886,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.3,"Anand,V","Caruana,F",1/2-1/2,2786,C42,2751
-887,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.3,"Caruana,F","Shevchenko,Kirill",1/2-1/2,2644,D12,2786
-888,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.5,"Caruana,F","Rapport,R",1-0,2776,E73,2786
-889,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.2,"Wojtaszek,R","Caruana,F",0-1,2786,A53,2696
-890,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.4,"Caruana,F","Duda,J",1/2-1/2,2750,C67,2786
-891,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.3,"Korobov,A","Caruana,F",0-1,2786,A21,2671
-892,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.3,"Caruana,F","Gavrilescu,David",1-0,2518,D35,2786
-893,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.4,"Shevchenko,Kirill","Caruana,F",0-1,2786,C49,2644
-894,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.2,"Caruana,F","Anand,V",1-0,2751,C42,2786
-895,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.5,"So,W","Caruana,F",0-1,2786,C42,2776
-896,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.1,"Caruana,F","Aronian,L",1/2-1/2,2765,A18,2786
-897,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.5,"Rapport,R","Caruana,F",0-1,2786,B23,2776
-898,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.2,"Caruana,F","Wojtaszek,R",0-1,2696,E29,2786
-899,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.4,"Duda,J","Caruana,F",0-1,2786,A21,2750
-900,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.3,"Caruana,F","Korobov,A",1-0,2671,E73,2786
-901,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.3,"Gavrilescu,David","Caruana,F",0-1,2786,B30,2518
-902,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.4,"Caruana,F","Shevchenko,Kirill",0-1,2644,D12,2786
-903,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.2,"Anand,V","Caruana,F",1/2-1/2,2786,B52,2751
-904,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.5,"Caruana,F","So,W",1-0,2776,D27,2786
-905,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.1,"Aronian,L","Caruana,F",1/2-1/2,2786,B90,2765
-906,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,1,"Caruana,F","Kovalev,Vl",1/2-1/2,2623,C50,2786
-907,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,2,"Matinian,N","Caruana,F",0-1,2786,C65,2435
-908,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,3,"Caruana,F","Le,Quang Liem",0-1,2709,C78,2786
-909,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,4,"Bharath,Subramaniyam H","Caruana,F",0-1,2786,A20,2479
-910,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,5,"Caruana,F","Bortnyk,Olexandr",1-0,2604,C41,2786
-911,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,6,"Paravyan,D","Caruana,F",0-1,2786,B45,2617
-912,Chess.com RCC Wk16 Swiss,chess.com INT,2022.05.28,9,"Caruana,F","Andreikin,D",1-0,2729,E47,2786
-913,Chess.com RCC Wk16 KO,chess.com INT,2022.05.29,1.1,"Caruana,F","Fedoseev,Vl3",0-1,2701,B40,2786
-914,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.3,"Caruana,F","Nakamura,Hi",1-0,2760,C65,2783
-915,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.3,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2783,C50,2766
-916,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.2,"Caruana,F","Duda,J",1/2-1/2,2750,B90,2783
-917,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.4,Ding Liren,"Caruana,F",1/2-1/2,2783,D38,2806
-918,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.1,"Caruana,F","Rapport,R",1/2-1/2,2764,B46,2783
-919,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.2,"Firouzja,Alireza","Caruana,F",0-1,2783,E06,2793
-920,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.4,"Caruana,F","Radjabov,T",1-0,2753,B28,2783
-921,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.3,"Nakamura,Hi","Caruana,F",1-0,2783,C82,2760
-922,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.3,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2766,C42,2783
-923,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.2,"Duda,J","Caruana,F",1-0,2783,C53,2750
-924,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.4,"Caruana,F",Ding Liren,0-1,2806,C88,2783
-925,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.1,"Rapport,R","Caruana,F",1/2-1/2,2783,C65,2764
-926,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.4,"Radjabov,T","Caruana,F",1/2-1/2,2783,E04,2753
-927,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.2,"Caruana,F","Firouzja,Alireza",0-1,2793,C65,2783
-928,Bundesliga 2021-22,Berlin GER,2022.07.08,12.7,"Niemann,Hans Moke","Caruana,F",0-1,2781,C53,2642
-929,Bundesliga 2021-22,Berlin GER,2022.07.09,13.7,"Keymer,Vincent","Caruana,F",1/2-1/2,2781,D38,2655
-930,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Mamedyarov,S","Caruana,F",1/2-1/2,2781,A20,2776
-931,Bundesliga 2021-22,Berlin GER,2022.07.10,15.5,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2714,A06,2781
-932,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,1,"Golubovskis,Maksims","Caruana,F",0-1,2783,B12,2219
-933,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,1,"Caruana,F","Tanaka,Taira Tyler",1-0,2242,A20,2783
-934,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,2,"Caruana,F","Averjanov,A",0-1,2399,A06,2783
-935,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,2,"Bagrationi,A","Caruana,F",0-1,2783,C01,2468
-936,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,3,"Caruana,F","Goltsev,Dmitry",1-0,2294,A06,2783
-937,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,3,"Karavade,E","Caruana,F",0-1,2783,D45,2339
-938,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,4,"Salinas Herrera,P","Caruana,F",0-1,2783,B30,2526
-939,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,4,"Caruana,F","Maltsevskaya,Aleksandra",1-0,2378,A05,2783
-940,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,5,"Bluebaum,M","Caruana,F",1-0,2783,E46,2673
-941,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,5,"Ivanisevic,I","Caruana,F",0-1,2783,A45,2561
-942,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,6,"Caruana,F","Murzin,Volodar",1-0,2549,D11,2783
-943,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,6,"Caruana,F","Zhigalko,S",1-0,2572,B30,2783
-944,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,7,"Kamsky,G","Caruana,F",0-1,2783,C67,2655
-945,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,7,"Bacrot,E","Caruana,F",0-1,2783,B30,2656
-946,Titled Tue 12th Jul Late,chess.com INT,2022.07.12,8,"Caruana,F","Shimanov,A",0-1,2581,B01,2783
-947,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,8,"Caruana,F","Melkumyan,H",1-0,2634,B15,2783
-948,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,9,"Andreikin,D","Caruana,F",1/2-1/2,2783,D38,2729
-949,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,10,"Caruana,F","Sarana,A",1/2-1/2,2668,B23,2783
-950,Titled Tue 12th Jul Early,chess.com INT,2022.07.12,11,"Pultinevicius,Paulius","Caruana,F",0-1,2783,E10,2539
-951,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,1,"Niemann,Hans Moke","Caruana,F",1/2-1/2,2783,E04,2688
-952,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,2,"Caruana,F","Van Foreest,Jorden",0-1,2678,D32,2783
-953,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,3,"Caruana,F","Bharath,Subramaniyam H",1-0,2479,A50,2783
-954,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,4,"Robson,R","Caruana,F",0-1,2783,C42,2682
-955,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,5,"Caruana,F","Matlakov,M",1/2-1/2,2671,B40,2783
-956,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,6,"Swiercz,D","Caruana,F",0-1,2783,B46,2652
-957,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,7,"Paravyan,D","Caruana,F",1-0,2783,B46,2620
-958,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,8,"Caruana,F","Vokhidov,Shamsiddin",1-0,2552,E28,2783
-959,Chess.com RCC Wk21 Swiss,chess.com INT,2022.07.16,9,"Martinez Alcantara,Jose Eduardo","Caruana,F",1-0,2783,C77,2591
-960,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,1,"Caruana,F","Alvarez Calzadilla,Jose Avelino",1/2-1/2,2329,B23,2783
-961,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,1,"Caruana,F","Turzo,A",1-0,2298,A45,2783
-962,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,2,"Zemlyanskii,Ivan","Caruana,F",1/2-1/2,2783,D30,2269
-963,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,2,"Baltaci,Ismail Tarik","Caruana,F",1-0,2783,B13,2046
-964,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,3,"Silva,Mi3","Caruana,F",0-1,2783,D27,2207
-965,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,3,"Caruana,F","Sychev,K",1-0,2534,A22,2783
-966,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,4,"Caruana,F","Martic,I SRB",1-0,2300,B29,2783
-967,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,4,"Kilic,Eray","Caruana,F",0-1,2783,C93,2422
-968,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,5,"Caruana,F","Oye-Stromberg,Alexander",1-0,2304,C50,2783
-969,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,5,"Caruana,F","Gunina,V",1-0,2469,D11,2783
-970,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,6,"Popilski,G","Caruana,F",0-1,2783,C42,2458
-971,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,6,"Zhigalko,S","Caruana,F",1-0,2783,C50,2572
-972,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,7,"Kozak,Adam","Caruana,F",0-1,2783,A07,2522
-973,Titled Tue 19th Jul Late,chess.com INT,2022.07.19,7,"Caruana,F","Yuan,Qingyu",0-1,2373,D35,2783
-974,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,8,"Caruana,F","Xu,Yi",1-0,2507,B51,2783
-975,Titled Tue 19th Jul Early,chess.com INT,2022.07.19,9,"Tabatabaei,M","Caruana,F",1-0,2783,A46,2664
-976,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,1,"Jumabayev,R","Caruana,F",0-1,2783,A08,2617
-977,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,2,"Caruana,F","Demchenko,A",1-0,2653,E60,2783
-978,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,3,"Vokhidov,Shamsiddin","Caruana,F",0-1,2783,C42,2552
-979,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,4,"Caruana,F","Grischuk,A",1/2-1/2,2745,C11,2783
-980,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,5,"Caruana,F","Nakamura,Hi",1/2-1/2,2760,C67,2783
-981,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,6,"Moussard,J","Caruana,F",0-1,2783,C50,2672
-982,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,7,"Caruana,F","Andreikin,D",1-0,2729,B40,2783
-983,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,8,"Sarana,A","Caruana,F",1/2-1/2,2783,E47,2668
-984,Chess.com RCC Wk22 Swiss,chess.com INT,2022.07.23,9,"Abdusattorov,Nodirbek","Caruana,F",1/2-1/2,2783,C42,2688
-985,Chess.com RCC Wk22 KO,chess.com INT,2022.07.24,1.1,"Caruana,F","Moussard,J",1/2-1/2,2672,A14,2783
-986,Chess.com RCC Wk22 KO,chess.com INT,2022.07.24,1.2,"Moussard,J","Caruana,F",0-1,2783,A06,2672
-987,Chess.com RCC Wk22 KO,chess.com INT,2022.07.24,2.1,"Niemann,Hans Moke","Caruana,F",1/2-1/2,2783,C50,2688
-988,Chess.com RCC Wk22 KO,chess.com INT,2022.07.24,2.2,"Caruana,F","Niemann,Hans Moke",1-0,2688,D35,2783
-989,Chess.com RCC Wk22 KO,chess.com INT,2022.07.24,3.1,"Caruana,F","Nakamura,Hi",0-1,2760,E47,2783
-990,44th Olympiad 2022,Chennai IND,2022.07.30,2.2,"Caruana,F","Bachmann,Ax",1/2-1/2,2588,C64,2783
-991,44th Olympiad 2022,Chennai IND,2022.07.31,3.2,"Jobava,Ba","Caruana,F",1/2-1/2,2783,A05,2585
-992,44th Olympiad 2022,Chennai IND,2022.08.01,4.2,"Caruana,F","Abdusattorov,Nodirbek",0-1,2688,D00,2783
-993,44th Olympiad 2022,Chennai IND,2022.08.02,5.4,"Boruchovsky,A","Caruana,F",1/2-1/2,2783,A21,2551
-994,44th Olympiad 2022,Chennai IND,2022.08.03,6.3,"Caruana,F","Maghsoodloo,Parham",1-0,2701,B90,2783
-995,44th Olympiad 2022,Chennai IND,2022.08.05,7.2,"Sargissian,G","Caruana,F",1-0,2783,E15,2698
-996,44th Olympiad 2022,Chennai IND,2022.08.06,8.2,"Caruana,F","Gukesh,D",0-1,2684,B31,2783
-997,44th Olympiad 2022,Chennai IND,2022.08.07,9.4,"Mastrovasilis,D","Caruana,F",0-1,2783,B33,2599
-998,44th Olympiad 2022,Chennai IND,2022.08.08,10.3,"Caruana,F","Yilmaz,M",1-0,2634,B90,2783
-999,44th Olympiad 2022,Chennai IND,2022.08.09,11.4,"Harikrishna,P","Caruana,F",1/2-1/2,2783,E32,2720
-1000,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,1,"Meier,Geo","Caruana,F",0-1,2776,A05,2609
-1001,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,2,"Caruana,F","Bok,B",1/2-1/2,2616,E28,2776
-1002,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,3,"Caruana,F","Kovalev,Vl",0-1,2623,A46,2776
-1003,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,4,"Azarov,S","Caruana,F",0-1,2776,B33,2562
-1004,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,5,"Caruana,F","Vokhidov,Shamsiddin",1/2-1/2,2552,B51,2776
-1005,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,6,"Vasquez Schroeder,R","Caruana,F",0-1,2776,B31,2506
-1006,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,7,"Caruana,F","Niemann,Hans Moke",0-1,2687,C88,2776
-1007,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,8,"Oparin,G","Caruana,F",0-1,2776,B30,2683
-1008,Chess.com RCC Wk25 Swiss,chess.com INT,2022.08.13,9,"Caruana,F","Shimanov,A",0-1,2581,B01,2776
-1009,Chess.com RCC Winners,chess.com INT,2022.08.18,1.2,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2776,E97,2792
-1010,Chess.com RCC Winners,chess.com INT,2022.08.18,1.1,"Caruana,F","Nepomniachtchi,I",0-1,2792,E04,2776
-1011,Chess.com RCC Losers,chess.com INT,2022.08.19,1.2,"Matlakov,M","Caruana,F",0-1,2776,E06,2671
-1012,Chess.com RCC Losers,chess.com INT,2022.08.19,1.1,"Caruana,F","Matlakov,M",1-0,2671,C46,2776
-1013,Chess.com RCC Losers,chess.com INT,2022.08.19,2.2,"Sarana,A","Caruana,F",0-1,2776,A53,2662
-1014,Chess.com RCC Losers,chess.com INT,2022.08.19,2.3,"Sarana,A","Caruana,F",0-1,2776,E47,2662
-1015,Chess.com RCC Losers,chess.com INT,2022.08.19,2.1,"Caruana,F","Sarana,A",0-1,2662,D36,2776
-1016,Chess.com RCC Losers,chess.com INT,2022.08.20,3.1,"Andreikin,D","Caruana,F",1-0,2776,D02,2729
-1017,?,?,????.??.??,?,?,?,0-1,,,
+0,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.2,"Tari,A","Caruana,F",0-1,2828,B47,2633
+1,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.2,"Caruana,F","Duda,J",1-0,2757,D10,2828
+2,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1/2-1/2,2828,A08,2728
+3,8th Norway Armageddon,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1-0,2828,D04,2728
+4,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.1,"Carlsen,M","Caruana,F",1-0,2828,E32,2863
+5,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.2,"Caruana,F","Aronian,L",0-1,2767,E20,2828
+6,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.2,"Aronian,L","Caruana,F",0-1,2828,B40,2767
+7,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",0-1,2863,C67,2828
+8,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",1/2-1/2,2863,B31,2828
+9,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1/2-1/2,2728,B12,2828
+10,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1-0,2728,B12,2828
+11,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",1/2-1/2,2828,B48,2757
+12,8th Norway Armageddon,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",0-1,2828,A09,2757
+13,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.3,"Caruana,F","Tari,A",1/2-1/2,2633,C88,2828
+14,8th Norway Armageddon,Stavanger NOR,2020.10.16,10.3,"Caruana,F","Tari,A",1-0,2633,C84,2828
+15,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.6,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2671,D32,2823
+16,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.3,"Donchenko,Alexa","Caruana,F",0-1,2823,D12,2668
+17,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.4,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
+18,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.5,"Harikrishna,P","Caruana,F",1/2-1/2,2823,C78,2732
+19,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.5,"Caruana,F","Esipenko,Andrey",1/2-1/2,2677,A29,2823
+20,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.4,"Grandelius,N","Caruana,F",1/2-1/2,2823,B30,2663
+21,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.4,"Caruana,F","Vachier Lagrave,M",1-0,2784,B97,2823
+22,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.5,"Caruana,F","Giri,A",1/2-1/2,2764,A45,2823
+23,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.4,"Wojtaszek,R","Caruana,F",0-1,2823,E94,2705
+24,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.1,"Caruana,F","Carlsen,M",1/2-1/2,2862,E00,2823
+25,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.5,"Firouzja,Alireza","Caruana,F",1/2-1/2,2823,C53,2749
+26,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.3,"Caruana,F","Anton Guijarro,D",1/2-1/2,2679,D37,2823
+27,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.5,"Tari,A","Caruana,F",1/2-1/2,2823,C01,2625
+28,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.1,"Caruana,F","Vachier Lagrave,M",1-0,2767,B97,2842
+29,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.1,"Alekseenko,K","Caruana,F",1/2-1/2,2842,C50,2698
+30,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.1,"Caruana,F",Ding Liren,1/2-1/2,2805,C88,2842
+31,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.1,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2842,C47,2774
+32,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.1,"Caruana,F","Giri,A",0-1,2763,B40,2842
+33,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.1,Wang Hao,"Caruana,F",0-1,2842,B40,2762
+34,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.1,"Caruana,F","Grischuk,A",1/2-1/2,2777,B40,2842
+35,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.1,"Caruana,F","Lupulescu,C",1-0,2656,C11,2820
+36,Superbet Classic 2021,Bucharest ROU,2021.06.07,3.1,"Aronian,L","Caruana,F",1/2-1/2,2820,D26,2781
+37,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.1,"So,W","Caruana,F",1-0,2820,A20,2770
+38,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.4,"Caruana,F","Giri,A",1/2-1/2,2780,C67,2820
+39,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.4,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2820,C78,2760
+40,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.1,"Caruana,F","Mamedyarov,S",0-1,2770,C65,2820
+41,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.2,"Grischuk,A","Caruana,F",1/2-1/2,2820,C78,2776
+42,Superbet Classic 2021,Bucharest ROU,2021.06.14,9.5,"Caruana,F","Deac,Bogdan-Daniel",1/2-1/2,2627,A07,2820
+43,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,E53,2820
+44,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.3,"Aronian,L","Caruana,F",1/2-1/2,2820,D38,2781
+45,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.3,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A48,2820
+46,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.4,"Firouzja,Alireza","Caruana,F",1/2-1/2,2820,C50,2759
+47,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.2,"Caruana,F","Svidler,P",1-0,2714,B42,2820
+48,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.5,"Radjabov,T","Caruana,F",1/2-1/2,2820,D38,2765
+49,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.1,"Caruana,F","So,W",0-1,2770,C67,2820
+50,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.5,"Caruana,F","Bacrot,E",0-1,2678,B67,2820
+51,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.2,"Rapport,R","Caruana,F",1/2-1/2,2820,A08,2763
+52,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.5,"Nepomniachtchi,I","Caruana,F",1-0,2820,C55,2792
+53,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.1,"Caruana,F","Rapport,R",1/2-1/2,2763,B40,2820
+54,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.5,"Caruana,F","Radjabov,T",0-1,2765,E60,2820
+55,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.2,"Vachier Lagrave,M","Caruana,F",1-0,2820,C78,2760
+56,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.4,"Caruana,F","Svidler,P",1/2-1/2,2714,B84,2820
+57,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.3,"Aronian,L","Caruana,F",1/2-1/2,2820,D02,2781
+58,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.3,"Caruana,F","Kramnik,V",1/2-1/2,2753,E54,2820
+59,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.4,"Firouzja,Alireza","Caruana,F",0-1,2820,C55,2759
+60,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.2,"So,W","Caruana,F",1/2-1/2,2820,E53,2770
+61,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.5,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2792,D38,2820
+62,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.1,"Rapport,R","Caruana,F",1-0,2820,A08,2763
+63,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.5,"Radjabov,T","Caruana,F",0-1,2820,A05,2765
+64,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.2,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2760,A05,2820
+65,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.4,"Svidler,P","Caruana,F",0-1,2820,B23,2714
+66,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.3,"Caruana,F","Aronian,L",1/2-1/2,2781,E46,2820
+67,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.3,"Kramnik,V","Caruana,F",1-0,2820,C55,2753
+68,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.4,"Caruana,F","Firouzja,Alireza",1-0,2759,B30,2820
+69,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Caruana,F","Megaranto,S",1-0,2550,C55,2806
+70,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Jumabayev,R","Caruana,F",1/2-1/2,2806,E04,2637
+71,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Caruana,F","Jumabayev,R",0-1,2637,D36,2806
+72,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,1.4,"Caruana,F","Svidler,P",1/2-1/2,2714,A48,2806
+73,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,2.3,"Le, Quang Liem","Caruana,F",0-1,2806,D02,2709
+74,Saint Louis Rapid 2021,Saint Louis USA,2021.08.11,3.3,"Caruana,F","Xiong,Jeffery",1-0,2710,B10,2806
+75,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,4.2,"Shankland,S","Caruana,F",1-0,2806,E39,2709
+76,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,5.5,"Caruana,F","Dominguez Perez,L",1-0,2758,A05,2806
+77,Saint Louis Rapid 2021,Saint Louis USA,2021.08.12,6.1,"So,W","Caruana,F",0-1,2806,C50,2772
+78,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,7.2,"Caruana,F","Rapport,R",0-1,2763,B40,2806
+79,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,8.5,"Caruana,F","Mamedyarov,S",1-0,2782,C80,2806
+80,Saint Louis Rapid 2021,Saint Louis USA,2021.08.13,9.1,"Nakamura,Hi","Caruana,F",1-0,2806,C78,2736
+81,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,1.1,"Svidler,P","Caruana,F",1-0,2806,C55,2714
+82,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,2.2,"Caruana,F","Nakamura,Hi",1/2-1/2,2736,E47,2806
+83,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,3.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,B41,2758
+84,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,4.4,"Caruana,F","Xiong,Jeffery",0-1,2710,D12,2806
+85,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,5.5,"Mamedyarov,S","Caruana,F",1-0,2806,D38,2782
+86,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,6.1,"Caruana,F","Shankland,S",1-0,2709,B62,2806
+87,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,7.2,"Le, Quang Liem","Caruana,F",0-1,2806,A46,2709
+88,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,8.3,"Caruana,F","So,W",1-0,2772,C88,2806
+89,Saint Louis Blitz 2021,Saint Louis USA,2021.08.14,9.4,"Rapport,R","Caruana,F",1/2-1/2,2806,A08,2763
+90,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,10.4,"Caruana,F","Svidler,P",1-0,2714,C84,2806
+91,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,11.2,"Nakamura,Hi","Caruana,F",1-0,2806,B10,2736
+92,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,12.5,"Caruana,F","Dominguez Perez,L",0-1,2758,C80,2806
+93,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,13.5,"Xiong,Jeffery","Caruana,F",1/2-1/2,2806,A20,2710
+94,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,14.2,"Caruana,F","Mamedyarov,S",1/2-1/2,2782,B40,2806
+95,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,15.5,"Shankland,S","Caruana,F",0-1,2806,E46,2709
+96,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,16.5,"Caruana,F","Le, Quang Liem",1-0,2709,C84,2806
+97,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,17.1,"So,W","Caruana,F",0-1,2806,A06,2772
+98,Saint Louis Blitz 2021,Saint Louis USA,2021.08.15,18.2,"Caruana,F","Rapport,R",1/2-1/2,2763,E19,2806
+99,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.17,1.4,"Caruana,F","Shankland,S",1-0,2709,A48,2806
+100,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.18,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2806,C50,2758
+101,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.19,3.5,"Caruana,F","Swiercz,D",1-0,2655,B30,2806
+102,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.20,4.2,"Caruana,F","So,W",1/2-1/2,2772,A33,2806
+103,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.21,5.4,"Xiong,Jeffery","Caruana,F",1-0,2806,A08,2710
+104,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.23,6.1,"Caruana,F","Vachier Lagrave,M",1/2-1/2,2751,B90,2806
+105,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.24,7.3,"Mamedyarov,S","Caruana,F",0-1,2806,E20,2782
+106,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.25,8.2,"Caruana,F","Svidler,P",1/2-1/2,2714,C53,2806
+107,8th Sinquefield Cup 2021,Saint Louis USA,2021.08.26,9.5,"Rapport,R","Caruana,F",1/2-1/2,2806,B44,2763
+108,ch-USA 2021,Saint Louis USA,2021.10.06,1.6,"Caruana,F","Bruzon Batista,L",1/2-1/2,2645,C65,2800
+109,ch-USA 2021,Saint Louis USA,2021.10.07,2.1,"Dominguez Perez,L","Caruana,F",1/2-1/2,2800,C82,2760
+110,ch-USA 2021,Saint Louis USA,2021.10.08,3.3,"Caruana,F","Burke,John M",1-0,2554,C77,2800
+111,ch-USA 2021,Saint Louis USA,2021.10.09,4.3,"So,W","Caruana,F",1/2-1/2,2800,E32,2778
+112,ch-USA 2021,Saint Louis USA,2021.10.11,5.1,"Caruana,F","Naroditsky,D",0-1,2623,C72,2800
+113,ch-USA 2021,Saint Louis USA,2021.10.12,6.2,"Sevian,Samuel","Caruana,F",1-0,2800,C47,2654
+114,ch-USA 2021,Saint Louis USA,2021.10.13,7.3,"Caruana,F","Robson,R",1-0,2669,A22,2800
+115,ch-USA 2021,Saint Louis USA,2021.10.14,8.1,"Xiong,Jeffery","Caruana,F",1/2-1/2,2800,D38,2700
+116,ch-USA 2021,Saint Louis USA,2021.10.16,9.3,"Caruana,F","Swiercz,D",1-0,2647,A29,2800
+117,ch-USA 2021,Saint Louis USA,2021.10.17,10.4,"Lenderman,A","Caruana,F",0-1,2800,E62,2607
+118,ch-USA 2021,Saint Louis USA,2021.10.18,11.2,"Caruana,F","Shankland,S",1/2-1/2,2714,E06,2800
+119,ch-USA TB 2021,Saint Louis USA,2021.10.19,1,"Caruana,F","So,W",0-1,2778,A28,2800
+120,ch-USA TB 2021,Saint Louis USA,2021.10.19,2,"Sevian,Samuel","Caruana,F",0-1,2800,C28,2654
+121,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.1,"Caruana,F","Chigaev,M",1-0,2639,B90,2800
+122,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.1,"Nihal,Sarin","Caruana,F",1/2-1/2,2800,D32,2652
+123,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.2,"Caruana,F","Saric,Iv",1/2-1/2,2644,B40,2800
+124,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.5,"Swiercz,D","Caruana,F",1/2-1/2,2800,D38,2647
+125,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.7,"Caruana,F","Howell,D",1-0,2658,C65,2800
+126,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.2,"Najer,E","Caruana,F",1/2-1/2,2800,B40,2654
+127,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.4,"Caruana,F","Sevian,Samuel",1/2-1/2,2654,E20,2800
+128,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.3,"Grandelius,N","Caruana,F",0-1,2800,B30,2662
+129,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.1,"Caruana,F","Firouzja,Alireza",1-0,2770,B12,2800
+130,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.2,"Vachier Lagrave,M","Caruana,F",1/2-1/2,2800,C88,2763
+131,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.2,"Caruana,F","Predke,A",1/2-1/2,2666,C84,2800
+132,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,1.3,"Tabatabaei,M","Caruana,F",0-1,2791,A46,2639
+133,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,2.3,"Caruana,F","Tabatabaei,M",1-0,2639,E06,2791
+134,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,3.2,"Caruana,F","Vokhidov,Shamsiddin",1-0,2521,A29,2791
+135,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,4.2,"Vokhidov,Shamsiddin","Caruana,F",1/2-1/2,2791,C84,2521
+136,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,5.5,"Caruana,F","Shevchenko,Kirill",1-0,2647,A48,2791
+137,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,6.5,"Shevchenko,Kirill","Caruana,F",0-1,2791,C77,2647
+138,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,7.2,"Dubov,Daniil","Caruana,F",0-1,2791,D02,2714
+139,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,8.2,"Caruana,F","Dubov,Daniil",1-0,2714,B56,2791
+140,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,9.2,"Caruana,F","Svidler,P",1/2-1/2,2694,B96,2791
+141,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,10.2,"Svidler,P","Caruana,F",1/2-1/2,2791,A20,2694
+142,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,11.1,"Erigaisi,Arjun","Caruana,F",1-0,2791,D02,2627
+143,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,12.1,"Caruana,F","Erigaisi,Arjun",1-0,2627,D12,2791
+144,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,13.2,"Onischuk,V","Caruana,F",0-1,2791,C53,2622
+145,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,14.2,"Caruana,F","Onischuk,V",1/2-1/2,2622,A10,2791
+146,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,15.2,"Caruana,F","Korobov,A",1/2-1/2,2684,B51,2791
+147,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,16.2,"Korobov,A","Caruana,F",1/2-1/2,2791,D38,2684
+148,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,17.2,"Aronian,L","Caruana,F",0-1,2791,A45,2782
+149,Lindores Abbey Tal Mem,Riga LAT,2021.11.08,18.2,"Caruana,F","Aronian,L",1/2-1/2,2782,C48,2791
+150,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.1,"Caruana,F","Asadli,Vugar",1-0,2579,D36,2792
+151,7th Gashimov Mem Rapid,Baku AZE,2021.12.18,1.2,"Asadli,Vugar","Caruana,F",1/2-1/2,2792,C47,2579
+152,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.1,"Mamedov,Rau","Caruana,F",0-1,2792,B40,2656
+153,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,2.2,"Caruana,F","Mamedov,Rau",1-0,2656,C41,2792
+154,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.1,"Caruana,F","Rapport,R",1-0,2763,C18,2792
+155,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.3,"Rapport,R","Caruana,F",0-1,2792,C42,2763
+156,7th Gashimov Mem Rapid,Baku AZE,2021.12.19,3.2,"Rapport,R","Caruana,F",1-0,2792,C42,2763
+157,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.1,"Navara,D","Caruana,F",0-1,2792,E94,2697
+158,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.3,"Caruana,F","Navara,D",1-0,2697,A22,2792
+159,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,4.2,"Caruana,F","Navara,D",0-1,2697,E52,2792
+160,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.3,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
+161,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.2,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C75,2743
+162,7th Gashimov Mem Rapid,Baku AZE,2021.12.20,5.1,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,A28,2792
+163,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.2,"Caruana,F","Anand,V",1/2-1/2,2751,C67,2792
+164,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,6.1,"Anand,V","Caruana,F",0-1,2792,C93,2751
+165,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.1,"Caruana,F","Mamedyarov,S",0-1,2767,A16,2792
+166,7th Gashimov Mem Rapid,Baku AZE,2021.12.21,7.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,E62,2767
+167,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,1.3,"Caruana,F","Asadli,Vugar",1/2-1/2,2579,C02,2792
+168,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,2.4,"Mamedov,Rau","Caruana,F",0-1,2792,B25,2656
+169,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,3.2,"Caruana,F","Rapport,R",1/2-1/2,2763,A40,2792
+170,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,4.1,"Navara,D","Caruana,F",1-0,2792,E94,2697
+171,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,5.4,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,C44,2792
+172,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,6.2,"Anand,V","Caruana,F",0-1,2792,C72,2751
+173,7th Gashimov Mem Blitz,Baku AZE,2021.12.22,7.3,"Caruana,F","Mamedyarov,S",1-0,2767,A18,2792
+174,7th Gashimov Mem TB,Baku AZE,2021.12.23,1,"Caruana,F","Rapport,R",1-0,2763,A40,2792
+175,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,8.4,"Asadli,Vugar","Caruana,F",0-1,2792,B90,2579
+176,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,9.1,"Caruana,F","Mamedov,Rau",1/2-1/2,2656,D32,2792
+177,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,10.3,"Rapport,R","Caruana,F",1/2-1/2,2792,C47,2763
+178,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,11.4,"Caruana,F","Navara,D",1-0,2697,C65,2792
+179,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,12.1,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C89,2743
+180,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,13.3,"Caruana,F","Anand,V",1-0,2751,C65,2792
+181,7th Gashimov Mem Blitz,Baku AZE,2021.12.23,14.2,"Mamedyarov,S","Caruana,F",0-1,2792,D32,2767
+182,World Rapid 2021,Warsaw POL,2021.12.26,1.6,"Klekowski,M","Caruana,F",0-1,2792,A21,2479
+183,World Rapid 2021,Warsaw POL,2021.12.26,2.5,"Caruana,F","Theodorou,Nikolas",1-0,2577,C60,2792
+184,World Rapid 2021,Warsaw POL,2021.12.26,3.3,"Abdusattorov,Nodirbek","Caruana,F",1-0,2792,A21,2633
+185,World Rapid 2021,Warsaw POL,2021.12.26,4.14,"Caruana,F","Halkias,S",1-0,2527,C70,2792
+186,World Rapid 2021,Warsaw POL,2021.12.26,5.6,"Gareev,T","Caruana,F",1/2-1/2,2792,E32,2573
+187,World Rapid 2021,Warsaw POL,2021.12.27,6.11,"Caruana,F","Vidit,S",1-0,2727,E32,2792
+188,World Rapid 2021,Warsaw POL,2021.12.27,7.7,"Volokitin,And","Caruana,F",1/2-1/2,2792,C55,2677
+189,World Rapid 2021,Warsaw POL,2021.12.27,8.6,"Caruana,F","Cheparinov,I",1/2-1/2,2664,D02,2792
+190,World Rapid 2021,Warsaw POL,2021.12.27,9.6,"Caruana,F","Anton Guijarro,D",1-0,2693,B13,2792
+191,World Rapid 2021,Warsaw POL,2021.12.28,10.5,"Amin,B","Caruana,F",0-1,2792,C00,2680
+192,World Rapid 2021,Warsaw POL,2021.12.28,11.3,"Caruana,F","Duda,J",1/2-1/2,2760,E32,2792
+193,World Rapid 2021,Warsaw POL,2021.12.28,12.4,"Grischuk,A","Caruana,F",0-1,2792,A20,2764
+194,World Rapid 2021,Warsaw POL,2021.12.28,13.2,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2782,C48,2792
+195,World Blitz 2021,Warsaw POL,2021.12.29,1.5,"Volokitin,And","Caruana,F",1/2-1/2,2792,C55,2677
+196,World Blitz 2021,Warsaw POL,2021.12.29,2.37,"Caruana,F","Najer,E",1/2-1/2,2661,A06,2792
+197,World Blitz 2021,Warsaw POL,2021.12.29,3.30,"Narayanan,SL","Caruana,F",1-0,2792,C55,2658
+198,World Blitz 2021,Warsaw POL,2021.12.29,4.60,"Caruana,F","Tazbir,M",1-0,2508,B51,2792
+199,World Blitz 2021,Warsaw POL,2021.12.29,5.39,"Demchenko,A","Caruana,F",1/2-1/2,2792,B40,2654
+200,World Blitz 2021,Warsaw POL,2021.12.29,6.40,"Caruana,F","Shoker,S",1-0,2504,B06,2792
+201,World Blitz 2021,Warsaw POL,2021.12.29,7.24,"Antipov,M2","Caruana,F",0-1,2792,C50,2615
+202,World Blitz 2021,Warsaw POL,2021.12.29,8.16,"Caruana,F","Demidov,M",1-0,2556,A40,2792
+203,World Blitz 2021,Warsaw POL,2021.12.29,9.8,"Oparin,G","Caruana,F",0-1,2792,A05,2681
+204,World Blitz 2021,Warsaw POL,2021.12.29,10.6,"Caruana,F","Svane,R",0-1,2637,D02,2792
+205,World Blitz 2021,Warsaw POL,2021.12.29,11.13,"Karjakin,Sergey","Caruana,F",1/2-1/2,2792,C72,2743
+206,World Blitz 2021,Warsaw POL,2021.12.29,12.12,"Caruana,F","Gelfand,B",0-1,2663,B30,2792
+207,World Blitz 2021,Warsaw POL,2021.12.30,13.19,"Matlakov,M","Caruana,F",1-0,2792,E10,2674
+208,World Blitz 2021,Warsaw POL,2021.12.30,14.30,"Caruana,F","Gagunashvili,M",1/2-1/2,2573,C77,2792
+209,World Blitz 2021,Warsaw POL,2021.12.30,15.29,"Harsha,B","Caruana,F",0-1,2792,A03,2489
+210,World Blitz 2021,Warsaw POL,2021.12.30,16.22,"Caruana,F","Michalik,P",0-1,2568,D36,2792
+211,World Blitz 2021,Warsaw POL,2021.12.30,17.32,"Ivic,Velimir","Caruana,F",1/2-1/2,2792,C72,2606
+212,World Blitz 2021,Warsaw POL,2021.12.30,18.31,"Caruana,F","Sadhwani,Raunak",1/2-1/2,2616,C50,2792
+213,World Blitz 2021,Warsaw POL,2021.12.30,19.32,"Gareev,T","Caruana,F",0-1,2792,A53,2573
+214,World Blitz 2021,Warsaw POL,2021.12.30,20.25,"Caruana,F","Corrales Jimenez,F",1-0,2530,E60,2792
+215,World Blitz 2021,Warsaw POL,2021.12.30,21.20,"Murzin,Volodar","Caruana,F",0-1,2792,B40,2519
+216,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.2,"Caruana,F","Karjakin,Sergey",1/2-1/2,2743,E10,2792
+217,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.2,"Vidit,S","Caruana,F",1/2-1/2,2792,D45,2727
+218,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.3,"Caruana,F","Shankland,S",1/2-1/2,2708,C67,2792
+219,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.5,"Caruana,F","Dubov,Daniil",1/2-1/2,2720,C88,2792
+220,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.3,"Esipenko,Andrey","Caruana,F",1/2-1/2,2792,D45,2714
+221,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.5,"Caruana,F","Giri,A",0-1,2772,A06,2792
+222,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.5,"Duda,J","Caruana,F",0-1,2792,D02,2760
+223,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.6,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2702,C82,2792
+224,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.7,"Grandelius,N","Caruana,F",0-1,2792,C02,2672
+225,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.5,"Caruana,F","Rapport,R",0-1,2763,A19,2792
+226,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.5,"Praggnanandhaa,R","Caruana,F",0-1,2792,D45,2612
+227,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.1,"Caruana,F","Carlsen,M",0-1,2865,B31,2792
+228,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.2,"Mamedyarov,S","Caruana,F",1/2-1/2,2792,D37,2767
+229,American Cup Champ,Saint Louis USA,2022.04.20,1.1,"Caruana,F","Xiong,Jeffery",1/2-1/2,2685,C42,2781
+230,American Cup Champ,Saint Louis USA,2022.04.21,1.5,"Caruana,F","Xiong,Jeffery",1-0,2685,C10,2781
+231,American Cup Champ,Saint Louis USA,2022.04.21,1.4,"Caruana,F","Xiong,Jeffery",1/2-1/2,2685,C10,2781
+232,American Cup Champ,Saint Louis USA,2022.04.21,1.3,"Xiong,Jeffery","Caruana,F",1/2-1/2,2781,A45,2685
+233,American Cup Champ,Saint Louis USA,2022.04.21,1.2,"Xiong,Jeffery","Caruana,F",1/2-1/2,2781,A30,2685
+234,American Cup Champ,Saint Louis USA,2022.04.22,2.1,"Caruana,F","Sevian,Samuel",1/2-1/2,2693,E49,2781
+235,American Cup Champ,Saint Louis USA,2022.04.23,2.2,"Sevian,Samuel","Caruana,F",1/2-1/2,2781,A33,2693
+236,American Cup Champ,Saint Louis USA,2022.04.23,2.3,"Sevian,Samuel","Caruana,F",0-1,2781,D02,2693
+237,American Cup Champ,Saint Louis USA,2022.04.23,2.4,"Caruana,F","Sevian,Samuel",1-0,2693,B06,2781
+238,American Cup Champ,Saint Louis USA,2022.04.24,3.1,"Caruana,F","Dominguez Perez,L",1-0,2756,A33,2781
+239,American Cup Champ,Saint Louis USA,2022.04.25,3.2,"Dominguez Perez,L","Caruana,F",1/2-1/2,2781,C50,2756
+240,American Cup Champ,Saint Louis USA,2022.04.27,4.1,"Aronian,L","Caruana,F",1/2-1/2,2781,C50,2785
+241,American Cup Champ,Saint Louis USA,2022.04.28,4.2,"Caruana,F","Aronian,L",1-0,2785,A29,2781
+242,American Cup Blitz 2022,Saint Louis USA,2022.04.29,1.3,"Ali Marandi,C","Caruana,F",0-1,2781,A46,2523
+243,American Cup Blitz 2022,Saint Louis USA,2022.04.29,2.3,"Caruana,F","Kevlishvili,Robby",1-0,2494,A22,2781
+244,American Cup Blitz 2022,Saint Louis USA,2022.04.29,3.3,"Zatonskih,A","Caruana,F",0-1,2781,D45,2393
+245,American Cup Blitz 2022,Saint Louis USA,2022.04.29,4.1,"Caruana,F","Aronian,L",1/2-1/2,2785,A06,2781
+246,American Cup Blitz 2022,Saint Louis USA,2022.04.29,5.2,"So,W","Caruana,F",0-1,2781,A21,2778
+247,American Cup Blitz 2022,Saint Louis USA,2022.04.29,6.2,"Caruana,F","Dominguez Perez,L",1-0,2756,C43,2781
+248,American Cup Blitz 2022,Saint Louis USA,2022.04.29,7.2,"Robson,R","Caruana,F",1/2-1/2,2781,E04,2681
+249,American Cup Blitz 2022,Saint Louis USA,2022.04.29,8.2,"Caruana,F","Shankland,S",1-0,2709,D11,2781
+250,American Cup Blitz 2022,Saint Louis USA,2022.04.29,9.2,"Martinez Alcantara,Jose Eduardo","Caruana,F",1/2-1/2,2781,C77,2598
+251,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.1,"Caruana,F","Firouzja,Alireza",1/2-1/2,2804,D35,2786
+252,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.3,"Dominguez Perez,L","Caruana,F",1/2-1/2,2786,B33,2753
+253,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.1,"Caruana,F","So,W",1/2-1/2,2776,E06,2786
+254,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.4,"Vachier Lagrave,M","Caruana,F",1-0,2786,C82,2750
+255,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.4,"Caruana,F","Mamedyarov,S",1-0,2759,C42,2786
+256,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.4,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2773,C42,2786
+257,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.2,"Aronian,L","Caruana,F",1/2-1/2,2786,C24,2765
+258,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.4,"Caruana,F","Rapport,R",1/2-1/2,2776,B40,2786
+259,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.4,"Deac,Bogdan-Daniel","Caruana,F",1/2-1/2,2786,D17,2671
+260,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.4,"Aronian,L","Caruana,F",1-0,2786,C24,2765
+261,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.2,"Caruana,F","Duda,J",1-0,2750,D35,2786
+262,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.5,"Gavrilescu,David","Caruana,F",0-1,2786,B30,2518
+263,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.1,"Korobov,A","Caruana,F",1/2-1/2,2786,A28,2671
+264,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.5,"Caruana,F","Rapport,R",0-1,2776,C18,2786
+265,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.2,"Wojtaszek,R","Caruana,F",1/2-1/2,2786,E10,2696
+266,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.4,"Caruana,F","So,W",1/2-1/2,2776,C65,2786
+267,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.3,"Anand,V","Caruana,F",1/2-1/2,2786,C42,2751
+268,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.3,"Caruana,F","Shevchenko,Kirill",1/2-1/2,2644,D12,2786
+269,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.5,"Caruana,F","Rapport,R",1-0,2776,E73,2786
+270,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.2,"Wojtaszek,R","Caruana,F",0-1,2786,A53,2696
+271,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.4,"Caruana,F","Duda,J",1/2-1/2,2750,C67,2786
+272,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.3,"Korobov,A","Caruana,F",0-1,2786,A21,2671
+273,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.3,"Caruana,F","Gavrilescu,David",1-0,2518,D35,2786
+274,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.4,"Shevchenko,Kirill","Caruana,F",0-1,2786,C49,2644
+275,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.2,"Caruana,F","Anand,V",1-0,2751,C42,2786
+276,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.5,"So,W","Caruana,F",0-1,2786,C42,2776
+277,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.1,"Caruana,F","Aronian,L",1/2-1/2,2765,A18,2786
+278,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.5,"Rapport,R","Caruana,F",0-1,2786,B23,2776
+279,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.2,"Caruana,F","Wojtaszek,R",0-1,2696,E29,2786
+280,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.4,"Duda,J","Caruana,F",0-1,2786,A21,2750
+281,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.3,"Caruana,F","Korobov,A",1-0,2671,E73,2786
+282,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.3,"Gavrilescu,David","Caruana,F",0-1,2786,B30,2518
+283,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.4,"Caruana,F","Shevchenko,Kirill",0-1,2644,D12,2786
+284,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.2,"Anand,V","Caruana,F",1/2-1/2,2786,B52,2751
+285,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.5,"Caruana,F","So,W",1-0,2776,D27,2786
+286,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.1,"Aronian,L","Caruana,F",1/2-1/2,2786,B90,2765
+287,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.3,"Caruana,F","Nakamura,Hi",1-0,2760,C65,2783
+288,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.3,"Nepomniachtchi,I","Caruana,F",1/2-1/2,2783,C50,2766
+289,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.2,"Caruana,F","Duda,J",1/2-1/2,2750,B90,2783
+290,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.4,Ding Liren,"Caruana,F",1/2-1/2,2783,D38,2806
+291,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.1,"Caruana,F","Rapport,R",1/2-1/2,2764,B46,2783
+292,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.2,"Firouzja,Alireza","Caruana,F",0-1,2783,E06,2793
+293,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.4,"Caruana,F","Radjabov,T",1-0,2753,B28,2783
+294,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.3,"Nakamura,Hi","Caruana,F",1-0,2783,C82,2760
+295,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.3,"Caruana,F","Nepomniachtchi,I",1/2-1/2,2766,C42,2783
+296,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.2,"Duda,J","Caruana,F",1-0,2783,C53,2750
+297,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.4,"Caruana,F",Ding Liren,0-1,2806,C88,2783
+298,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.1,"Rapport,R","Caruana,F",1/2-1/2,2783,C65,2764
+299,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.4,"Radjabov,T","Caruana,F",1/2-1/2,2783,E04,2753
+300,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.2,"Caruana,F","Firouzja,Alireza",0-1,2793,C65,2783
+301,Bundesliga 2021-22,Berlin GER,2022.07.08,12.7,"Niemann,Hans Moke","Caruana,F",0-1,2781,C53,2642
+302,Bundesliga 2021-22,Berlin GER,2022.07.09,13.7,"Keymer,Vincent","Caruana,F",1/2-1/2,2781,D38,2655
+303,Bundesliga 2021-22,Berlin GER,2022.07.09,14.6,"Mamedyarov,S","Caruana,F",1/2-1/2,2781,A20,2776
+304,Bundesliga 2021-22,Berlin GER,2022.07.10,15.5,"Caruana,F","Van Foreest,Jorden",1/2-1/2,2714,A06,2781
+305,44th Olympiad 2022,Chennai IND,2022.07.30,2.2,"Caruana,F","Bachmann,Ax",1/2-1/2,2588,C64,2783
+306,44th Olympiad 2022,Chennai IND,2022.07.31,3.2,"Jobava,Ba","Caruana,F",1/2-1/2,2783,A05,2585
+307,44th Olympiad 2022,Chennai IND,2022.08.01,4.2,"Caruana,F","Abdusattorov,Nodirbek",0-1,2688,D00,2783
+308,44th Olympiad 2022,Chennai IND,2022.08.02,5.4,"Boruchovsky,A","Caruana,F",1/2-1/2,2783,A21,2551
+309,44th Olympiad 2022,Chennai IND,2022.08.03,6.3,"Caruana,F","Maghsoodloo,Parham",1-0,2701,B90,2783
+310,44th Olympiad 2022,Chennai IND,2022.08.05,7.2,"Sargissian,G","Caruana,F",1-0,2783,E15,2698
+311,44th Olympiad 2022,Chennai IND,2022.08.06,8.2,"Caruana,F","Gukesh,D",0-1,2684,B31,2783
+312,44th Olympiad 2022,Chennai IND,2022.08.07,9.4,"Mastrovasilis,D","Caruana,F",0-1,2783,B33,2599
+313,44th Olympiad 2022,Chennai IND,2022.08.08,10.3,"Caruana,F","Yilmaz,M",1-0,2634,B90,2783
+314,44th Olympiad 2022,Chennai IND,2022.08.09,11.4,"Harikrishna,P","Caruana,F",1/2-1/2,2783,E32,2720

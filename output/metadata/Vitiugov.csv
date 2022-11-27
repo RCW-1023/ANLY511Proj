@@ -23,295 +23,109 @@
 21,2nd Prague Masters 2020,Prague CZE,2020.02.19,7.3,"Navara,D","Vitiugov,N",1/2-1/2,2731,A20,2717
 22,2nd Prague Masters 2020,Prague CZE,2020.02.20,8.4,"Vitiugov,N","Duda,J",1/2-1/2,2755,D02,2731
 23,2nd Prague Masters 2020,Prague CZE,2020.02.21,9.4,"Shankland,S","Vitiugov,N",1-0,2731,A10,2683
-24,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,1,"Vitiugov,N","Tanenbaum,Zachary",1/2-1/2,2137,C79,2722
-25,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,2,"Mishra,Abhimanyu","Vitiugov,N",0-1,2722,B41,2342
-26,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,3,"Vitiugov,N","Shahinyan,D",1-0,2456,C01,2722
-27,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,4,"Corrales Jimenez,F","Vitiugov,N",0-1,2722,C88,2532
-28,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,5,"Vitiugov,N","Indjic,A",1/2-1/2,2618,A46,2722
-29,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,6,"Vitiugov,N","Cordova,E",0-1,2592,A46,2722
-30,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,7,"Kobalia,M","Vitiugov,N",0-1,2722,B51,2614
-31,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,8,"Vitiugov,N","Narayanan,SL",1/2-1/2,2618,C67,2722
-32,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,9,"Terry,R","Vitiugov,N",0-1,2722,A48,2504
-33,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,10,"Vitiugov,N","Chigaev,M",1/2-1/2,2588,E73,2722
-34,PNWCC Online Blitz JP 10,chess.com INT,2020.05.16,11,"Yoo,Christopher Woojin","Vitiugov,N",0-1,2722,C11,2455
-35,PNWCC Masters 2020,chess.com INT,2020.05.23,1.2,"Hu,Merric","Vitiugov,N",0-1,2722,B28,2080
-36,PNWCC Masters 2020,chess.com INT,2020.05.23,2.2,"Vitiugov,N","Daggupati,Balaji",1-0,2331,D02,2722
-37,PNWCC Masters 2020,chess.com INT,2020.05.23,3.2,"Bernadskiy,V","Vitiugov,N",0-1,2722,C11,2629
-38,PNWCC Masters 2020,chess.com INT,2020.05.24,4.1,"Vitiugov,N","Sevian,Samuel",1/2-1/2,2660,B33,2722
-39,PNWCC Masters 2020,chess.com INT,2020.05.24,5.1,"Postny,E","Vitiugov,N",0-1,2722,E92,2600
-40,PNWCC Masters 2020,chess.com INT,2020.05.25,7.1,"Vitiugov,N","Bosiocic,Mari",1/2-1/2,2625,B07,2722
-41,PNWCC Masters 2020,chess.com INT,2020.05.25,8.1,"Guseinov,G","Vitiugov,N",1/2-1/2,2722,C69,2665
-42,PNWCC Masters 2020,chess.com INT,2020.05.25,9.1,"Vitiugov,N","Fedoseev,Vl3",0-1,2678,B51,2722
-43,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,1,"Raja,H","Vitiugov,N",1-0,2722,B42,2472
-44,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,2,"Vitiugov,N","Doluhanova,E",1-0,2229,C65,2722
-45,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,3,"Liang,Jason","Vitiugov,N",0-1,2722,A45,2340
-46,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,4,"Arjun,Kalyan","Vitiugov,N",0-1,2722,B47,2477
-47,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,5,"Vitiugov,N",Le Quang Liem,1/2-1/2,2709,B12,2722
-48,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,6,"Bortnyk,Olexandr","Vitiugov,N",1-0,2722,B22,2598
-49,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,7,"Vitiugov,N","Jiang,Brandon",1-0,1954,B33,2722
-50,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,8,"Aditya,Mittal","Vitiugov,N",0-1,2722,E73,2438
-51,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,9,"Vitiugov,N","Martinez Alcantara,Jose Eduardo",1-0,2620,A46,2722
-52,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,10,"Vitiugov,N","Giri,A",1/2-1/2,2764,C65,2722
-53,PNWCC Online Blitz JP 11,lichess.org INT,2020.05.30,11,"Matlakov,M","Vitiugov,N",1-0,2722,A05,2685
-54,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,1,"Vitiugov,N","Sarkar,J",1-0,2380,A45,2722
-55,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,2,"Narayanan,Sri","Vitiugov,N",1-0,2722,A15,2540
-56,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,3,"Vitiugov,N","Zhao,Erick",1-0,2039,A45,2722
-57,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,4,"Lugovskoy,M","Vitiugov,N",1-0,2722,A45,2420
-58,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,5,"Vitiugov,N","Turgut,Aydin",1-0,2269,A46,2722
-59,PNWCC Online Blitz JP 12,lichess.org INT,2020.06.06,6,"Fridman,D","Vitiugov,N",1-0,2722,A49,2615
-60,Titled Tuesday 9th June,chess.com INT,2020.06.09,1,"Vitiugov,N","Ezat,M",1-0,2401,B12,2722
-61,Titled Tuesday 9th June,chess.com INT,2020.06.09,2,"Krysa,L","Vitiugov,N",0-1,2722,E74,2531
-62,Titled Tuesday 9th June,chess.com INT,2020.06.09,3,"Vitiugov,N","Savchenko,B",1-0,2564,A46,2722
-63,Titled Tuesday 9th June,chess.com INT,2020.06.09,4,"Kazakouski,Valery","Vitiugov,N",0-1,2722,E69,2473
-64,Titled Tuesday 9th June,chess.com INT,2020.06.09,5,"Vitiugov,N","Moskalenko,A",1/2-1/2,2515,A40,2722
-65,Titled Tuesday 9th June,chess.com INT,2020.06.09,6,"Chigaev,M","Vitiugov,N",1/2-1/2,2722,C11,2588
-66,Titled Tuesday 9th June,chess.com INT,2020.06.09,7,"Vitiugov,N","Ramirez,Alej",1-0,2567,A43,2722
-67,Titled Tuesday 9th June,chess.com INT,2020.06.09,8,"Ter Sahakyan,S","Vitiugov,N",1-0,2722,C11,2640
-68,Titled Tuesday 9th June,chess.com INT,2020.06.09,9,"Vitiugov,N","Murzin,Volodar",1-0,2465,A48,2722
-69,Titled Tuesday 9th June,chess.com INT,2020.06.09,10,"Holt,C","Vitiugov,N",0-1,2722,E90,2549
-70,PNWCC Super Match 2020,chess.com INT,2020.06.16,1,"Vitiugov,N","Xiong,Jeffery",1/2-1/2,2709,B23,2722
-71,PNWCC Super Match 2020,chess.com INT,2020.06.17,2,"Xiong,Jeffery","Vitiugov,N",1/2-1/2,2722,A10,2709
-72,PNWCC Super Match 2020,chess.com INT,2020.06.18,3,"Vitiugov,N","Xiong,Jeffery",1/2-1/2,2709,A30,2722
-73,PNWCC Super Match 2020,chess.com INT,2020.06.19,4,"Xiong,Jeffery","Vitiugov,N",0-1,2722,C85,2709
-74,Titled Tuesday 30th June,chess.com INT,2020.06.30,1,"Vitiugov,N","Novikov,E",1-0,2276,D11,2722
-75,Titled Tuesday 30th June,chess.com INT,2020.06.30,2,"Bharath,Subramaniyam H","Vitiugov,N",0-1,2722,B47,2437
-76,Titled Tuesday 30th June,chess.com INT,2020.06.30,3,"Vitiugov,N","Bjerre,Jonas Buhl",1-0,2549,A45,2722
-77,Titled Tuesday 30th June,chess.com INT,2020.06.30,4,"Vitiugov,N","Praggnanandhaa,R",1-0,2608,D02,2722
-78,Titled Tuesday 30th June,chess.com INT,2020.06.30,5,"Alekseenko,K","Vitiugov,N",1-0,2722,C55,2696
-79,Titled Tuesday 30th June,chess.com INT,2020.06.30,6,"Balakrishnan,Praveen","Vitiugov,N",1-0,2722,B42,2498
-80,PNWCC Masters WOO 2020,chess.com INT,2020.07.04,1.3,"Pan,Kevin","Vitiugov,N",0-1,2722,A48,2106
-81,PNWCC Masters WOO 2020,chess.com INT,2020.07.04,2.3,"Vitiugov,N","Shyam,SM",1-0,2518,E90,2722
-82,PNWCC Masters WOO 2020,chess.com INT,2020.07.04,3.3,"Hakobyan,Aram","Vitiugov,N",1/2-1/2,2722,A05,2588
-83,PNWCC Masters WOO 2020,chess.com INT,2020.07.05,4.2,"Vitiugov,N","Vokhidov,Shamsiddin",1/2-1/2,2512,E00,2722
-84,PNWCC Masters WOO 2020,chess.com INT,2020.07.05,5.6,"Safarli,E","Vitiugov,N",1-0,2722,B23,2598
-85,PNWCC Masters WOO 2020,chess.com INT,2020.07.05,6.14,"Vitiugov,N","Wen,Teddie",1-0,2071,D11,2722
-86,PNWCC Masters WOO 2020,chess.com INT,2020.07.06,7.8,"Lintchevski,D","Vitiugov,N",0-1,2722,B22,2559
-87,PNWCC Masters WOO 2020,chess.com INT,2020.07.06,8.4,"Vitiugov,N","Hovhannisyan,R",1-0,2642,A11,2722
-88,PNWCC Masters WOO 2020,chess.com INT,2020.07.06,9.2,"Vitiugov,N","Maghsoodloo,Parham",1/2-1/2,2676,B32,2722
-89,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Vitiugov,N","Siniauski,Artsiom",1-0,2275,C00,2722
-90,Titled Tuesday 7th July,chess.com INT,2020.07.07,2,"Chernobay,A","Vitiugov,N",1-0,2722,A84,2490
-91,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,1,"Vitiugov,N","Pon,M",1-0,2185,A45,2722
-92,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Vitiugov,N","Sliwicki,D",1/2-1/2,2180,B31,2722
-93,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,2,"Sammed Jaykumar,Shete","Vitiugov,N",0-1,2722,B41,2412
-94,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,3,"Vitiugov,N","Bjerre,Jonas Buhl",1-0,2549,D02,2722
-95,Titled Tuesday 14th July,chess.com INT,2020.07.14,3,"Vitiugov,N","Romanov,E",1-0,2599,D02,2722
-96,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Bartel,Mat","Vitiugov,N",1/2-1/2,2722,B43,2648
-97,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,4,"Motylev,A","Vitiugov,N",0-1,2722,C02,2641
-98,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,5,"Vitiugov,N","Timofeev,Arty",1-0,2580,A45,2722
-99,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Vitiugov,N","Korley,K",1-0,2441,D02,2722
-100,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,6,"Smirnov,Ant","Vitiugov,N",1/2-1/2,2722,C01,2597
-101,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Vitiugov,N","Shahade,G",1-0,2476,A45,2722
-102,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,7,"Vitiugov,N","Babazada,Khazar",1/2-1/2,2409,D02,2722
-103,Titled Tuesday 14th July,chess.com INT,2020.07.14,7,"Mchedlishvili,M","Vitiugov,N",0-1,2722,A45,2570
-104,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,8,"Vitiugov,N","Kuzubov,Y",0-1,2643,A45,2722
-105,Titled Tuesday 14th July,chess.com INT,2020.07.14,8,"Vitiugov,N","Praggnanandhaa,R",1-0,2608,A45,2722
-106,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,9,"Maly,Al","Vitiugov,N",1-0,2722,E98,2371
-107,Titled Tuesday 14th July,chess.com INT,2020.07.14,9,"Tabatabaei,M","Vitiugov,N",1/2-1/2,2722,C01,2629
-108,Titled Tuesday 14th July,chess.com INT,2020.07.14,10,"Vitiugov,N","Guzman,Ch",0-1,2258,A45,2722
-109,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,10,"Kobalia,M","Vitiugov,N",0-1,2722,B40,2614
-110,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Vitiugov,N","Zufic,M",1/2-1/2,2366,B50,2722
-111,Titled Tuesday 21st July,chess.com INT,2020.07.21,2,"Pon,M","Vitiugov,N",0-1,2722,B28,2185
-112,Titled Tuesday 21st July,chess.com INT,2020.07.21,3,"Vitiugov,N","Fakhrutdinov,Timur",1-0,2501,D02,2722
-113,Titled Tuesday 21st July,chess.com INT,2020.07.21,4,"Dourerassou,J","Vitiugov,N",0-1,2722,B43,2477
-114,Titled Tuesday 21st July,chess.com INT,2020.07.21,5,"Vitiugov,N","Moskalenko,A",0-1,2515,D45,2722
-115,Titled Tuesday 21st July,chess.com INT,2020.07.21,6,"Djordjevic,Vu","Vitiugov,N",1-0,2722,B23,2347
-116,Titled Tuesday 21st July,chess.com INT,2020.07.21,7,"Vitiugov,N","Glavina,P",1-0,2408,A07,2722
-117,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.1,"Vitiugov,N","Salgado Lopez,I",1-0,2584,A07,2722
-118,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.3,"Vitiugov,N","Salgado Lopez,I",1-0,2584,A06,2722
-119,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.2,"Salgado Lopez,I","Vitiugov,N",1/2-1/2,2722,A01,2584
-120,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.4,"Vitiugov,N","Romanov,E",1/2-1/2,2599,E15,2722
-121,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.3,"Romanov,E","Vitiugov,N",1/2-1/2,2722,A10,2599
-122,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.1,"Romanov,E","Vitiugov,N",0-1,2722,A16,2599
-123,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.2,"Vitiugov,N","Romanov,E",1/2-1/2,2599,A07,2722
-124,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.1,"Vitiugov,N","Donchenko,Alexa",1-0,2646,A13,2722
-125,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.4,"Donchenko,Alexa","Vitiugov,N",1/2-1/2,2722,A90,2646
-126,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.2,"Donchenko,Alexa","Vitiugov,N",1-0,2722,E20,2646
-127,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.3,"Vitiugov,N","Donchenko,Alexa",0-1,2646,A28,2722
-128,Titled Tue 11th Aug,chess.com INT,2020.08.11,1,"Leve,Nitai","Vitiugov,N",0-1,2722,B43,2128
-129,Titled Tue 11th Aug,chess.com INT,2020.08.11,2,"Vitiugov,N","Sieciechowicz,M",1-0,2372,C18,2722
-130,Titled Tue 11th Aug,chess.com INT,2020.08.11,3,"Saydaliev,Saidakbar","Vitiugov,N",0-1,2722,B23,2384
-131,Titled Tue 11th Aug,chess.com INT,2020.08.11,4,"Vitiugov,N","Abdrlauf,Elham",1-0,2373,A45,2722
-132,Titled Tue 11th Aug,chess.com INT,2020.08.11,5,"Siva,Mahadevan","Vitiugov,N",1-0,2722,B43,2349
-133,Titled Tue 11th Aug,chess.com INT,2020.08.11,6,"Vitiugov,N","Bocharov,D",1/2-1/2,2524,B91,2722
-134,Titled Tue 11th Aug,chess.com INT,2020.08.11,7,"Vitiugov,N","Vastrukhin,O",0-1,2401,A04,2722
-135,Titled Tue 18th Aug,chess.com INT,2020.08.18,2,"Iskusnyh,S","Vitiugov,N",0-1,2722,A84,2473
-136,Titled Tue 18th Aug,chess.com INT,2020.08.18,3,"Vitiugov,N","Tristan,L",1-0,2535,B01,2722
-137,Titled Tue 18th Aug,chess.com INT,2020.08.18,4,"Abdrlauf,Elham","Vitiugov,N",1-0,2722,B40,2373
-138,Titled Tue 18th Aug,chess.com INT,2020.08.18,5,"Vitiugov,N","Colas,Joshua",1-0,2255,B06,2722
-139,Titled Tue 18th Aug,chess.com INT,2020.08.18,6,"Bujisho,B","Vitiugov,N",1-0,2722,A80,2290
-140,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.04,4.6,"Esipenko,Andrey","Vitiugov,N",1/2-1/2,2722,A10,2682
-141,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,5.9,"Vitiugov,N","Iljiushenok,I",1/2-1/2,2516,B90,2722
-142,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,6.10,"Bryakin,M","Vitiugov,N",0-1,2722,E71,2448
-143,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,7.3,"Vitiugov,N","Sjugirov,S",0-1,2675,B33,2722
-144,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,9.11,"Vitiugov,N","Badelka,Olga",1-0,2427,B32,2722
-145,PNWCC Master Artist Point,chess.com INT,2020.09.05,1.2,"Vitiugov,N","Stefanov,Emil",1-0,2350,D02,2722
-146,PNWCC Master Artist Point,chess.com INT,2020.09.05,2.1,"Vokhidov,Shamsiddin","Vitiugov,N",1/2-1/2,2722,C07,2512
-147,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.06,10.3,"Vitiugov,N","Lysyj,I",1/2-1/2,2594,D40,2722
-148,PNWCC Master Artist Point,chess.com INT,2020.09.06,4.8,"Vitiugov,N","Brodsky,David",1-0,2455,A05,2722
-149,PNWCC Master Artist Point,chess.com INT,2020.09.06,5.4,"Fridman,D","Vitiugov,N",1/2-1/2,2722,A49,2601
-150,PNWCC Master Artist Point,chess.com INT,2020.09.07,7.5,"Vitiugov,N","Antipov,M2",1-0,2584,E60,2722
-151,PNWCC Master Artist Point,chess.com INT,2020.09.07,8.2,"Bernadskiy,V","Vitiugov,N",0-1,2722,C03,2629
-152,PNWCC Master Artist Point,chess.com INT,2020.09.07,9.1,"Vitiugov,N","Liang,Awonder",1-0,2592,B12,2722
-153,TCh-RUS Premier 2020,Sochi RUS,2020.11.19,1.1,"Dubov,Daniil","Vitiugov,N",1/2-1/2,2722,E94,2699
-154,TCh-RUS Premier 2020,Sochi RUS,2020.11.20,2.1,"Vitiugov,N","Triapishko,Alexandr",1/2-1/2,2506,B12,2722
-155,TCh-RUS Premier 2020,Sochi RUS,2020.11.22,4.1,"Vitiugov,N","Najer,E",1/2-1/2,2648,D90,2722
-156,TCh-RUS Premier 2020,Sochi RUS,2020.11.23,5.1,"Goryachkina,A","Vitiugov,N",1/2-1/2,2722,E92,2592
-157,TCh-RUS Premier 2020,Sochi RUS,2020.11.25,6.1,"Vitiugov,N","Artemiev,V",1/2-1/2,2708,C63,2722
-158,TCh-RUS Premier 2020,Sochi RUS,2020.11.27,8.1,"Vitiugov,N","Demchenko,A",1-0,2626,D02,2722
-159,TCh-RUS Premier 2020,Sochi RUS,2020.11.28,9.1,"Andreikin,D","Vitiugov,N",1/2-1/2,2722,D85,2726
-160,73rd ch-RUS 2020,Moscow RUS,2020.12.05,1.2,"Vitiugov,N","Artemiev,V",1/2-1/2,2711,B40,2720
-161,73rd ch-RUS 2020,Moscow RUS,2020.12.06,2.6,"Antipov,M2","Vitiugov,N",1/2-1/2,2720,B90,2611
-162,73rd ch-RUS 2020,Moscow RUS,2020.12.07,3.1,"Vitiugov,N","Karjakin,Sergey",0-1,2752,C67,2720
-163,73rd ch-RUS 2020,Moscow RUS,2020.12.08,4.6,"Vitiugov,N","Goganov,A",1-0,2594,D37,2720
-164,73rd ch-RUS 2020,Moscow RUS,2020.12.09,5.2,"Nepomniachtchi,I","Vitiugov,N",1/2-1/2,2720,C45,2784
-165,73rd ch-RUS 2020,Moscow RUS,2020.12.10,6.5,"Vitiugov,N","Fedoseev,Vl3",1/2-1/2,2674,E21,2720
-166,73rd ch-RUS 2020,Moscow RUS,2020.12.12,7.3,"Dubov,Daniil","Vitiugov,N",1/2-1/2,2720,D13,2702
-167,73rd ch-RUS 2020,Moscow RUS,2020.12.13,8.4,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2686,C42,2720
-168,73rd ch-RUS 2020,Moscow RUS,2020.12.14,9.4,"Chigaev,M","Vitiugov,N",1/2-1/2,2720,B97,2619
-169,73rd ch-RUS 2020,Moscow RUS,2020.12.16,11.5,"Svidler,P","Vitiugov,N",1/2-1/2,2720,C78,2723
-170,44th Moscow-St Petersburg,lichess.org INT,2020.12.19,1.2,"Malakhov,V","Vitiugov,N",1-0,2720,A15,2665
-171,44th Moscow-St Petersburg,lichess.org INT,2020.12.19,2.2,"Vitiugov,N","Malakhov,V",1-0,2665,C65,2720
-172,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,1.3,"Gunina,V","Vitiugov,N",1/2-1/2,2715,E94,2427
-173,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,2.3,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2677,E04,2715
-174,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,3.4,"Murzin,Volodar","Vitiugov,N",1/2-1/2,2715,B51,2478
-175,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,4.2,"Vitiugov,N","Kobalia,M",0-1,2587,B12,2715
-176,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,5.5,"Savchenko,B","Vitiugov,N",0-1,2715,B41,2552
-177,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,6.1,"Zvjaginsev,V","Vitiugov,N",1/2-1/2,2715,B53,2614
-178,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,7.5,"Vitiugov,N","Makarian,Rudik",1-0,2458,E19,2715
-179,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,8.2,"Grachev,B","Vitiugov,N",1/2-1/2,2715,A48,2619
-180,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,9.4,"Vitiugov,N","Inarkiev,E",1/2-1/2,2654,B18,2715
-181,European Online CC GpC,Tornelo INT,2021.03.27,2.5,"Vitiugov,N","Keymer,Vincent",1/2-1/2,2591,A46,2715
-182,European Online CC GpC,Tornelo INT,2021.03.27,3.2,"Stocek,J","Vitiugov,N",1/2-1/2,2715,E92,2604
-183,European Online CC GpC,Tornelo INT,2021.03.27,4.4,"Martinez Alcantara,Jose Eduardo","Vitiugov,N",1/2-1/2,2715,B40,2620
-184,European Online CC GpC,Tornelo INT,2021.03.28,5.3,"Vitiugov,N","Grigorian,Sp",1-0,2458,A45,2715
-185,European Online CC GpC,Tornelo INT,2021.03.28,6.3,"Vitiugov,N","Markoja,B",1/2-1/2,2439,A45,2715
-186,European Online CC GpC,Tornelo INT,2021.03.28,7.4,"Vitiugov,N","Le Goff,R",1-0,2288,D35,2715
-187,European Online CC Final,Tornelo INT,2021.03.30,1.3,"Vitiugov,N","Navara,D",1/2-1/2,2697,D73,2715
-188,European Online CC Final,Tornelo INT,2021.03.30,2.4,"Abasov,N","Vitiugov,N",1/2-1/2,2715,C24,2664
-189,European Online CC Final,Tornelo INT,2021.03.30,4.5,"Paehtz,E","Vitiugov,N",0-1,2715,A48,2467
-190,European Online CC Final,Tornelo INT,2021.03.31,5.1,"Vitiugov,N","Socko,B",1/2-1/2,2618,E00,2715
-191,European Online CC Final,Tornelo INT,2021.03.31,6.5,"Donchenko,Alexa","Vitiugov,N",1-0,2715,A62,2659
-192,European Online CC Final,Tornelo INT,2021.03.31,9.3,"Jones,G","Vitiugov,N",1-0,2715,B40,2670
-193,TCh-RUS Premier 2021,Sochi RUS,2021.05.03,3.1,"Vitiugov,N","Predke,A",1-0,2690,E49,2715
-194,TCh-RUS Premier 2021,Sochi RUS,2021.05.04,4.4,"Andreikin,D","Vitiugov,N",1/2-1/2,2715,C45,2725
-195,TCh-RUS Premier 2021,Sochi RUS,2021.05.07,6.4,"Vitiugov,N","Motylev,A",1-0,2641,C27,2715
-196,TCh-RUS Premier 2021,Sochi RUS,2021.05.08,7.1,"Artemiev,V","Vitiugov,N",1/2-1/2,2715,A15,2709
-197,TCh-RUS Premier 2021,Sochi RUS,2021.05.09,8.3,"Vitiugov,N","Dubov,Daniil",1/2-1/2,2710,B30,2715
-198,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Plat,V","Vitiugov,N",1/2-1/2,2724,A22,2525
-199,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vitiugov,N","Plat,V",1-0,2525,E16,2724
-200,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Vitiugov,N","Shirov,A",1-0,2662,D44,2724
-201,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Shirov,A","Vitiugov,N",1/2-1/2,2724,C86,2662
-202,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Svidler,P","Vitiugov,N",1/2-1/2,2724,B53,2714
-203,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Vitiugov,N","Svidler,P",1/2-1/2,2714,D85,2724
-204,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Vitiugov,N","Svidler,P",1/2-1/2,2714,D85,2724
-205,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Svidler,P","Vitiugov,N",1-0,2724,B51,2714
-206,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,1.3,"Vitiugov,N","Korobov,A",1/2-1/2,2685,E48,2727
-207,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,2.4,"Gelfand,B","Vitiugov,N",1/2-1/2,2727,E04,2680
-208,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,3.2,"Vitiugov,N","Alekseenko,K",0-1,2693,C72,2727
-209,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,4.5,"Giri,A","Vitiugov,N",1-0,2727,C02,2777
-210,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,5.1,"Vitiugov,N","Matlakov,M",1/2-1/2,2683,E48,2727
-211,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,6.5,"Vitiugov,N","Abdusattorov,Nodirbek",0-1,2648,B70,2727
-212,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,7.2,"Andreikin,D","Vitiugov,N",1-0,2727,E71,2728
-213,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,8.4,"Vitiugov,N","Tomashevsky,E",1/2-1/2,2708,E35,2727
-214,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,9.3,"Paravyan,D","Vitiugov,N",1-0,2727,B41,2660
-215,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,1,"Vitiugov,N","Ogloblin,N",1-0,2346,B41,2727
-216,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,2,"Shuvalov,E","Vitiugov,N",0-1,2727,A04,2182
-217,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,3,"Vitiugov,N","Koellner,Ruben Gideon",1-0,2441,C41,2727
-218,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,4,"Vitiugov,N","Iliaguev,Nisim",1-0,2331,A30,2727
-219,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,5,"Zhigalko,S","Vitiugov,N",1-0,2727,C02,2572
-220,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,6,"Vitiugov,N","Weetik,V",1-0,2423,A21,2727
-221,Titled Tuesday 14th Sept,chess.com INT,2021.09.14,7,"Andreikin,D","Vitiugov,N",1-0,2727,E71,2728
-222,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,1.3,"Vitiugov,N",Wei Yi,1/2-1/2,2725,E06,2727
-223,12th Hainan Danzhou GM,lichess.org INT,2021.09.23,2.3,"Ju,Wenjun","Vitiugov,N",1/2-1/2,2727,E65,2560
-224,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,3.2,"Vitiugov,N","Topalov,V",1/2-1/2,2730,E49,2727
-225,12th Hainan Danzhou GM,lichess.org INT,2021.09.24,4.4,Bu Xiangzhi,"Vitiugov,N",1/2-1/2,2727,A15,2705
-226,Speed Chess GP2 2021,chess.com INT,2021.09.25,1,"Vitiugov,N","Baches Garcia,G",1-0,2329,B56,2727
-227,Speed Chess GP2 2021,chess.com INT,2021.09.25,2,"Atabayew,S","Vitiugov,N",0-1,2727,B01,2425
-228,Speed Chess GP2 2021,chess.com INT,2021.09.25,3,"Vitiugov,N","Ohanyan,Emin",1/2-1/2,2373,C72,2727
-229,Speed Chess GP2 2021,chess.com INT,2021.09.25,4,"Matinian,N","Vitiugov,N",0-1,2727,B43,2436
-230,Speed Chess GP2 2021,chess.com INT,2021.09.25,5,"Deac,Bogdan-Daniel","Vitiugov,N",1/2-1/2,2727,B40,2639
-231,Speed Chess GP2 2021,chess.com INT,2021.09.25,6,"Vitiugov,N","Xiong,Jeffery",1/2-1/2,2700,B15,2727
-232,Speed Chess GP2 2021,chess.com INT,2021.09.25,7,"Terry,R","Vitiugov,N",1-0,2727,A45,2504
-233,Speed Chess GP2 2021,chess.com INT,2021.09.25,8,"Vitiugov,N","Azarov,S",1-0,2603,C77,2727
-234,Speed Chess GP2 2021,chess.com INT,2021.09.25,9,"Urazayev,Arystanbek","Vitiugov,N",1-0,2727,E73,2453
-235,Speed Chess GP2 2021,chess.com INT,2021.09.25,10,"Vitiugov,N","Leiva,G",1-0,2391,B53,2727
-236,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,5.1,"Vitiugov,N","Rapport,R",1-0,2760,B08,2727
-237,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,6.4,"Vitiugov,N",Yu Yangyi,1/2-1/2,2704,D10,2727
-238,12th Hainan Danzhou GM,lichess.org INT,2021.09.25,7.2,Ding Liren,"Vitiugov,N",1-0,2727,E97,2799
-239,Speed Chess GP3 2021,chess.com INT,2021.10.02,1,"Vitiugov,N","Pourkashiyan,A",1-0,2322,C50,2727
-240,Speed Chess GP3 2021,chess.com INT,2021.10.02,2,"Popilski,G","Vitiugov,N",1/2-1/2,2727,B42,2464
-241,Speed Chess GP3 2021,chess.com INT,2021.10.02,3,"Vitiugov,N","Xiong,Jeffery",0-1,2700,B15,2727
-242,Speed Chess GP3 2021,chess.com INT,2021.10.02,4,"Parkhov,Yair","Vitiugov,N",0-1,2727,E71,2434
-243,Speed Chess GP3 2021,chess.com INT,2021.10.02,5,"Zarnicki,P","Vitiugov,N",1-0,2727,B40,2514
-244,Speed Chess GP3 2021,chess.com INT,2021.10.02,6,"Vitiugov,N","Bilan,Danila",1-0,2303,B12,2727
-245,Speed Chess GP3 2021,chess.com INT,2021.10.02,7,"Harshavardhan,G B","Vitiugov,N",0-1,2727,B42,2397
-246,Speed Chess GP3 2021,chess.com INT,2021.10.02,8,"Vitiugov,N","Kushko,Dmitriy",1-0,2322,B07,2727
-247,Speed Chess GP3 2021,chess.com INT,2021.10.02,9,"Vitiugov,N","Shimanov,A",0-1,2581,B01,2727
-248,74th ch-RUS 2021,Ufa RUS,2021.10.09,1.5,"Vitiugov,N","Chigaev,M",1/2-1/2,2639,A16,2727
-249,74th ch-RUS 2021,Ufa RUS,2021.10.10,2.3,"Predke,A","Vitiugov,N",1/2-1/2,2727,A13,2666
-250,74th ch-RUS 2021,Ufa RUS,2021.10.11,3.4,"Vitiugov,N","Fedoseev,Vl3",1-0,2704,E94,2727
-251,74th ch-RUS 2021,Ufa RUS,2021.10.12,4.4,"Goryachkina,A","Vitiugov,N",1/2-1/2,2727,E04,2602
-252,74th ch-RUS 2021,Ufa RUS,2021.10.13,5.3,"Vitiugov,N","Andreikin,D",1-0,2728,E10,2727
-253,74th ch-RUS 2021,Ufa RUS,2021.10.14,6.5,"Ponkratov,P","Vitiugov,N",1/2-1/2,2727,E46,2659
-254,74th ch-RUS 2021,Ufa RUS,2021.10.16,7.2,"Vitiugov,N","Motylev,A",1/2-1/2,2624,D12,2727
-255,74th ch-RUS 2021,Ufa RUS,2021.10.17,8.6,"Alekseenko,K","Vitiugov,N",0-1,2727,C77,2710
-256,74th ch-RUS 2021,Ufa RUS,2021.10.18,9.1,"Vitiugov,N","Matlakov,M",1/2-1/2,2682,D85,2727
-257,74th ch-RUS 2021,Ufa RUS,2021.10.19,10.6,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2720,E06,2727
-258,74th ch-RUS 2021,Ufa RUS,2021.10.20,11.2,"Rakhmanov,Ale","Vitiugov,N",1/2-1/2,2727,D02,2657
-259,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.5,"Vitiugov,N","Dreev,A",1/2-1/2,2635,E04,2727
-260,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.13,"Kovalev,Vl","Vitiugov,N",1/2-1/2,2727,B51,2634
-261,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.20,"Vitiugov,N","Abasov,N",1/2-1/2,2638,B66,2727
-262,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.22,"Shevchenko,Kirill","Vitiugov,N",0-1,2727,C78,2632
-263,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.9,"Vitiugov,N","Sarana,A",1/2-1/2,2649,B92,2727
-264,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.9,"Vitiugov,N","Petrosyan,M",1/2-1/2,2605,C78,2727
-265,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.12,"Donchenko,Alexa","Vitiugov,N",0-1,2727,A28,2648
-266,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.4,"Vitiugov,N","Ponkratov,P",1-0,2659,A20,2727
-267,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.3,"Shirov,A","Vitiugov,N",1/2-1/2,2727,C84,2659
-268,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.3,"Vitiugov,N","Oparin,G",0-1,2654,E24,2727
-269,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.9,"Sjugirov,S","Vitiugov,N",1/2-1/2,2727,C90,2663
-270,12th LCC ENG v ROW 2021,London ENG,2021.12.03,1.2,"Jones,G","Vitiugov,N",1/2-1/2,2731,B51,2665
-271,12th LCC ENG v ROW 2021,London ENG,2021.12.04,2.2,"Vitiugov,N","Adams,Mi",1/2-1/2,2700,C88,2731
-272,12th LCC ENG v ROW 2021,London ENG,2021.12.05,3.3,"McShane,L","Vitiugov,N",0-1,2731,B26,2655
-273,12th LCC ENG v ROW 2021,London ENG,2021.12.07,4.2,"Vitiugov,N","Jones,G",1/2-1/2,2665,C80,2731
-274,12th LCC ENG v ROW 2021,London ENG,2021.12.08,5.1,"Adams,Mi","Vitiugov,N",1/2-1/2,2731,B51,2700
-275,12th LCC ENG v ROW 2021,London ENG,2021.12.09,6.3,"Vitiugov,N","McShane,L",1-0,2655,E12,2731
-276,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.01.29,7.4,"Vitiugov,N","Heberla,B",0-1,2558,D36,2727
-277,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.01.30,8.3,"Shengelia,D","Vitiugov,N",1/2-1/2,2727,E32,2519
-278,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,1,"Bethke,Richard","Vitiugov,N",0-1,2726,B32,2327
-279,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,2,"Vitiugov,N","Alinasab,Mobina",1-0,2325,A05,2726
-280,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,3,"Khumalo,Keith","Vitiugov,N",0-1,2726,E70,2138
-281,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,4,"Mamedyarov,S","Vitiugov,N",1-0,2726,B22,2767
-282,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,5,"Vitiugov,N","Kretov,E",1-0,2274,A34,2726
-283,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,6,"Shyam,N","Vitiugov,N",0-1,2726,A49,2442
-284,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,7,"Vitiugov,N",Le Tuan Minh,0-1,2514,B29,2726
-285,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,8,"Vitiugov,N","Glidzhain,G",1/2-1/2,2320,C41,2726
-286,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,9,"Kucuksari,Kaan","Vitiugov,N",0-1,2726,E64,2362
-287,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,10,"Vitiugov,N","Visakh,N R",0-1,2522,A13,2726
-288,Titled Tue 15th Feb Early,chess.com INT,2022.02.15,11,"Gaehwiler,G","Vitiugov,N",1-0,2726,E60,2406
-289,Titled Tue 22nd Feb Early,chess.com INT,2022.02.22,1,"Dolzhykova,Kateryna","Vitiugov,N",0-1,2726,B30,2199
-290,Titled Tue 22nd Feb Early,chess.com INT,2022.02.22,2,"Vitiugov,N","Ginzburg,Y",1-0,2405,B40,2726
-291,Titled Tue 22nd Feb Early,chess.com INT,2022.02.22,3,"Maltsevskaya,Aleksandra","Vitiugov,N",0-1,2726,B90,2410
-292,Titled Tue 22nd Feb Early,chess.com INT,2022.02.22,4,"Lazavik,Denis","Vitiugov,N",1-0,2726,E63,2472
-293,Titled Tue 22nd Feb Early,chess.com INT,2022.02.22,5,"Vitiugov,N","Vlassov,N",0-1,2294,A45,2726
-294,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.01,1.1,"Harikrishna,P","Vitiugov,N",0-1,2726,B40,2719
-295,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.02,2.1,"Giri,A","Vitiugov,N",1-0,2726,C50,2772
-296,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.03,3.1,"Vitiugov,N","Tabatabaei,M",1/2-1/2,2623,D35,2726
-297,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.04,4.1,"Vitiugov,N","Harikrishna,P",1/2-1/2,2719,C88,2726
-298,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.06,5.1,"Tabatabaei,M","Vitiugov,N",1/2-1/2,2726,C50,2623
-299,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.07,6.1,"Vitiugov,N","Giri,A",1/2-1/2,2772,D33,2726
-300,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.22,1.2,"Vitiugov,N","Tabatabaei,M",1-0,2623,C81,2726
-301,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.23,2.1,"Vitiugov,N",Yu Yangyi,1/2-1/2,2713,B52,2726
-302,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.24,3.2,"Giri,A","Vitiugov,N",1/2-1/2,2726,B42,2771
-303,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.25,4.2,"Tabatabaei,M","Vitiugov,N",1-0,2726,D12,2623
-304,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.27,5.2,"Vitiugov,N","Giri,A",1/2-1/2,2771,D31,2726
-305,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.28,6.1,Yu Yangyi,"Vitiugov,N",1/2-1/2,2726,C88,2713
-306,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,1,"Oparin,G","Vitiugov,N",1/2-1/2,2724,B43,2674
-307,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,2,"Vitiugov,N","Harika,D",1/2-1/2,2517,C02,2724
-308,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,3,"Jumabayev,R","Vitiugov,N",0-1,2724,E65,2628
-309,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,4,"Vidit,S","Vitiugov,N",1-0,2724,E11,2723
-310,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,5,"Vitiugov,N","Paravyan,D",0-1,2617,C42,2724
-311,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,6,"Kovalev,Vl","Vitiugov,N",0-1,2724,B40,2623
-312,Chess.com RCC Wk12 Swiss,chess.com INT,2022.04.30,7,"Vitiugov,N","Martinez Alcantara,Jose Eduardo",0-1,2598,B51,2724
-313,Chess.com RCC Wk13 Swiss,chess.com INT,2022.05.07,1,"Vitiugov,N","Abdusattorov,Nodirbek",0-1,2661,B38,2722
-314,Chess.com RCC Wk13 Swiss,chess.com INT,2022.05.07,2,"Martinez Alcantara,Jose Eduardo","Vitiugov,N",1-0,2722,B40,2591
-315,Chess.com RCC Wk13 Swiss,chess.com INT,2022.05.07,3,"Vitiugov,N","Donchenko,Alexa",0-1,2599,B23,2722
+24,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.1,"Vitiugov,N","Salgado Lopez,I",1-0,2584,A07,2722
+25,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.3,"Vitiugov,N","Salgado Lopez,I",1-0,2584,A06,2722
+26,ACP ChessBase KO 2020,PlayChess INT,2020.07.25,2.2,"Salgado Lopez,I","Vitiugov,N",1/2-1/2,2722,A01,2584
+27,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.4,"Vitiugov,N","Romanov,E",1/2-1/2,2599,E15,2722
+28,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.3,"Romanov,E","Vitiugov,N",1/2-1/2,2722,A10,2599
+29,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.1,"Romanov,E","Vitiugov,N",0-1,2722,A16,2599
+30,ACP ChessBase KO 2020,PlayChess INT,2020.07.26,3.2,"Vitiugov,N","Romanov,E",1/2-1/2,2599,A07,2722
+31,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.1,"Vitiugov,N","Donchenko,Alexa",1-0,2646,A13,2722
+32,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.4,"Donchenko,Alexa","Vitiugov,N",1/2-1/2,2722,A90,2646
+33,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.2,"Donchenko,Alexa","Vitiugov,N",1-0,2722,E20,2646
+34,ACP ChessBase KO 2020,PlayChess INT,2020.07.27,4.3,"Vitiugov,N","Donchenko,Alexa",0-1,2646,A28,2722
+35,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.04,4.6,"Esipenko,Andrey","Vitiugov,N",1/2-1/2,2722,A10,2682
+36,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,5.9,"Vitiugov,N","Iljiushenok,I",1/2-1/2,2516,B90,2722
+37,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,6.10,"Bryakin,M","Vitiugov,N",0-1,2722,E71,2448
+38,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,7.3,"Vitiugov,N","Sjugirov,S",0-1,2675,B33,2722
+39,Kurnosov Mem Rapid 2020,Chelyabinsk RUS,2020.09.05,9.11,"Vitiugov,N","Badelka,Olga",1-0,2427,B32,2722
+40,TCh-RUS Premier 2020,Sochi RUS,2020.11.19,1.1,"Dubov,Daniil","Vitiugov,N",1/2-1/2,2722,E94,2699
+41,TCh-RUS Premier 2020,Sochi RUS,2020.11.20,2.1,"Vitiugov,N","Triapishko,Alexandr",1/2-1/2,2506,B12,2722
+42,TCh-RUS Premier 2020,Sochi RUS,2020.11.22,4.1,"Vitiugov,N","Najer,E",1/2-1/2,2648,D90,2722
+43,TCh-RUS Premier 2020,Sochi RUS,2020.11.23,5.1,"Goryachkina,A","Vitiugov,N",1/2-1/2,2722,E92,2592
+44,TCh-RUS Premier 2020,Sochi RUS,2020.11.25,6.1,"Vitiugov,N","Artemiev,V",1/2-1/2,2708,C63,2722
+45,TCh-RUS Premier 2020,Sochi RUS,2020.11.27,8.1,"Vitiugov,N","Demchenko,A",1-0,2626,D02,2722
+46,TCh-RUS Premier 2020,Sochi RUS,2020.11.28,9.1,"Andreikin,D","Vitiugov,N",1/2-1/2,2722,D85,2726
+47,73rd ch-RUS 2020,Moscow RUS,2020.12.05,1.2,"Vitiugov,N","Artemiev,V",1/2-1/2,2711,B40,2720
+48,73rd ch-RUS 2020,Moscow RUS,2020.12.06,2.6,"Antipov,M2","Vitiugov,N",1/2-1/2,2720,B90,2611
+49,73rd ch-RUS 2020,Moscow RUS,2020.12.07,3.1,"Vitiugov,N","Karjakin,Sergey",0-1,2752,C67,2720
+50,73rd ch-RUS 2020,Moscow RUS,2020.12.08,4.6,"Vitiugov,N","Goganov,A",1-0,2594,D37,2720
+51,73rd ch-RUS 2020,Moscow RUS,2020.12.09,5.2,"Nepomniachtchi,I","Vitiugov,N",1/2-1/2,2720,C45,2784
+52,73rd ch-RUS 2020,Moscow RUS,2020.12.10,6.5,"Vitiugov,N","Fedoseev,Vl3",1/2-1/2,2674,E21,2720
+53,73rd ch-RUS 2020,Moscow RUS,2020.12.12,7.3,"Dubov,Daniil","Vitiugov,N",1/2-1/2,2720,D13,2702
+54,73rd ch-RUS 2020,Moscow RUS,2020.12.13,8.4,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2686,C42,2720
+55,73rd ch-RUS 2020,Moscow RUS,2020.12.14,9.4,"Chigaev,M","Vitiugov,N",1/2-1/2,2720,B97,2619
+56,73rd ch-RUS 2020,Moscow RUS,2020.12.16,11.5,"Svidler,P","Vitiugov,N",1/2-1/2,2720,C78,2723
+57,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,1.3,"Gunina,V","Vitiugov,N",1/2-1/2,2715,E94,2427
+58,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,2.3,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2677,E04,2715
+59,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,3.4,"Murzin,Volodar","Vitiugov,N",1/2-1/2,2715,B51,2478
+60,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,4.2,"Vitiugov,N","Kobalia,M",0-1,2587,B12,2715
+61,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.10,5.5,"Savchenko,B","Vitiugov,N",0-1,2715,B41,2552
+62,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,6.1,"Zvjaginsev,V","Vitiugov,N",1/2-1/2,2715,B53,2614
+63,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,7.5,"Vitiugov,N","Makarian,Rudik",1-0,2458,E19,2715
+64,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,8.2,"Grachev,B","Vitiugov,N",1/2-1/2,2715,A48,2619
+65,Mark Dvoretsky Mem 2021,Moscow RUS,2021.02.11,9.4,"Vitiugov,N","Inarkiev,E",1/2-1/2,2654,B18,2715
+66,TCh-RUS Premier 2021,Sochi RUS,2021.05.03,3.1,"Vitiugov,N","Predke,A",1-0,2690,E49,2715
+67,TCh-RUS Premier 2021,Sochi RUS,2021.05.04,4.4,"Andreikin,D","Vitiugov,N",1/2-1/2,2715,C45,2725
+68,TCh-RUS Premier 2021,Sochi RUS,2021.05.07,6.4,"Vitiugov,N","Motylev,A",1-0,2641,C27,2715
+69,TCh-RUS Premier 2021,Sochi RUS,2021.05.08,7.1,"Artemiev,V","Vitiugov,N",1/2-1/2,2715,A15,2709
+70,TCh-RUS Premier 2021,Sochi RUS,2021.05.09,8.3,"Vitiugov,N","Dubov,Daniil",1/2-1/2,2710,B30,2715
+71,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Plat,V","Vitiugov,N",1/2-1/2,2724,A22,2525
+72,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vitiugov,N","Plat,V",1-0,2525,E16,2724
+73,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Vitiugov,N","Shirov,A",1-0,2662,D44,2724
+74,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Shirov,A","Vitiugov,N",1/2-1/2,2724,C86,2662
+75,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Svidler,P","Vitiugov,N",1/2-1/2,2724,B53,2714
+76,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Vitiugov,N","Svidler,P",1/2-1/2,2714,D85,2724
+77,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Vitiugov,N","Svidler,P",1/2-1/2,2714,D85,2724
+78,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Svidler,P","Vitiugov,N",1-0,2724,B51,2714
+79,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,1.3,"Vitiugov,N","Korobov,A",1/2-1/2,2685,E48,2727
+80,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,2.4,"Gelfand,B","Vitiugov,N",1/2-1/2,2727,E04,2680
+81,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,3.2,"Vitiugov,N","Alekseenko,K",0-1,2693,C72,2727
+82,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,4.5,"Giri,A","Vitiugov,N",1-0,2727,C02,2777
+83,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,5.1,"Vitiugov,N","Matlakov,M",1/2-1/2,2683,E48,2727
+84,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,6.5,"Vitiugov,N","Abdusattorov,Nodirbek",0-1,2648,B70,2727
+85,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,7.2,"Andreikin,D","Vitiugov,N",1-0,2727,E71,2728
+86,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,8.4,"Vitiugov,N","Tomashevsky,E",1/2-1/2,2708,E35,2727
+87,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,9.3,"Paravyan,D","Vitiugov,N",1-0,2727,B41,2660
+88,74th ch-RUS 2021,Ufa RUS,2021.10.09,1.5,"Vitiugov,N","Chigaev,M",1/2-1/2,2639,A16,2727
+89,74th ch-RUS 2021,Ufa RUS,2021.10.10,2.3,"Predke,A","Vitiugov,N",1/2-1/2,2727,A13,2666
+90,74th ch-RUS 2021,Ufa RUS,2021.10.11,3.4,"Vitiugov,N","Fedoseev,Vl3",1-0,2704,E94,2727
+91,74th ch-RUS 2021,Ufa RUS,2021.10.12,4.4,"Goryachkina,A","Vitiugov,N",1/2-1/2,2727,E04,2602
+92,74th ch-RUS 2021,Ufa RUS,2021.10.13,5.3,"Vitiugov,N","Andreikin,D",1-0,2728,E10,2727
+93,74th ch-RUS 2021,Ufa RUS,2021.10.14,6.5,"Ponkratov,P","Vitiugov,N",1/2-1/2,2727,E46,2659
+94,74th ch-RUS 2021,Ufa RUS,2021.10.16,7.2,"Vitiugov,N","Motylev,A",1/2-1/2,2624,D12,2727
+95,74th ch-RUS 2021,Ufa RUS,2021.10.17,8.6,"Alekseenko,K","Vitiugov,N",0-1,2727,C77,2710
+96,74th ch-RUS 2021,Ufa RUS,2021.10.18,9.1,"Vitiugov,N","Matlakov,M",1/2-1/2,2682,D85,2727
+97,74th ch-RUS 2021,Ufa RUS,2021.10.19,10.6,"Vitiugov,N","Esipenko,Andrey",1/2-1/2,2720,E06,2727
+98,74th ch-RUS 2021,Ufa RUS,2021.10.20,11.2,"Rakhmanov,Ale","Vitiugov,N",1/2-1/2,2727,D02,2657
+99,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.5,"Vitiugov,N","Dreev,A",1/2-1/2,2635,E04,2727
+100,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.13,"Kovalev,Vl","Vitiugov,N",1/2-1/2,2727,B51,2634
+101,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.20,"Vitiugov,N","Abasov,N",1/2-1/2,2638,B66,2727
+102,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.22,"Shevchenko,Kirill","Vitiugov,N",0-1,2727,C78,2632
+103,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.9,"Vitiugov,N","Sarana,A",1/2-1/2,2649,B92,2727
+104,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.9,"Vitiugov,N","Petrosyan,M",1/2-1/2,2605,C78,2727
+105,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.12,"Donchenko,Alexa","Vitiugov,N",0-1,2727,A28,2648
+106,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.4,"Vitiugov,N","Ponkratov,P",1-0,2659,A20,2727
+107,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.3,"Shirov,A","Vitiugov,N",1/2-1/2,2727,C84,2659
+108,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.3,"Vitiugov,N","Oparin,G",0-1,2654,E24,2727
+109,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.9,"Sjugirov,S","Vitiugov,N",1/2-1/2,2727,C90,2663
+110,12th LCC ENG v ROW 2021,London ENG,2021.12.03,1.2,"Jones,G","Vitiugov,N",1/2-1/2,2731,B51,2665
+111,12th LCC ENG v ROW 2021,London ENG,2021.12.04,2.2,"Vitiugov,N","Adams,Mi",1/2-1/2,2700,C88,2731
+112,12th LCC ENG v ROW 2021,London ENG,2021.12.05,3.3,"McShane,L","Vitiugov,N",0-1,2731,B26,2655
+113,12th LCC ENG v ROW 2021,London ENG,2021.12.07,4.2,"Vitiugov,N","Jones,G",1/2-1/2,2665,C80,2731
+114,12th LCC ENG v ROW 2021,London ENG,2021.12.08,5.1,"Adams,Mi","Vitiugov,N",1/2-1/2,2731,B51,2700
+115,12th LCC ENG v ROW 2021,London ENG,2021.12.09,6.3,"Vitiugov,N","McShane,L",1-0,2655,E12,2731
+116,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.01.29,7.4,"Vitiugov,N","Heberla,B",0-1,2558,D36,2727
+117,sachy.cz Extraliga 2021-22,Czech Republic CZE,2022.01.30,8.3,"Shengelia,D","Vitiugov,N",1/2-1/2,2727,E32,2519
+118,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.01,1.1,"Harikrishna,P","Vitiugov,N",0-1,2726,B40,2719
+119,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.02,2.1,"Giri,A","Vitiugov,N",1-0,2726,C50,2772
+120,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.03,3.1,"Vitiugov,N","Tabatabaei,M",1/2-1/2,2623,D35,2726
+121,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.04,4.1,"Vitiugov,N","Harikrishna,P",1/2-1/2,2719,C88,2726
+122,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.06,5.1,"Tabatabaei,M","Vitiugov,N",1/2-1/2,2726,C50,2623
+123,FIDE Grand Prix 2 Pool B,Belgrade SRB,2022.03.07,6.1,"Vitiugov,N","Giri,A",1/2-1/2,2772,D33,2726
+124,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.22,1.2,"Vitiugov,N","Tabatabaei,M",1-0,2623,C81,2726
+125,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.23,2.1,"Vitiugov,N",Yu Yangyi,1/2-1/2,2713,B52,2726
+126,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.24,3.2,"Giri,A","Vitiugov,N",1/2-1/2,2726,B42,2771
+127,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.25,4.2,"Tabatabaei,M","Vitiugov,N",1-0,2726,D12,2623
+128,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.27,5.2,"Vitiugov,N","Giri,A",1/2-1/2,2771,D31,2726
+129,FIDE Grand Prix 3 Pool D,Berlin GER,2022.03.28,6.1,Yu Yangyi,"Vitiugov,N",1/2-1/2,2726,C88,2713

@@ -19,65 +19,40 @@
 17,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.22,5.4,"Nepomniachtchi,I",Wang Hao,1-0,2762,C42,2774
 18,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.23,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2767,D87,2762
 19,FIDE Candidates 2020,Yekaterinburg RUS,2020.03.25,7.1,"Caruana,F",Wang Hao,1/2-1/2,2762,C42,2842
-20,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.2,Wang Hao,"Radjabov,T",1/2-1/2,2765,E32,2763
-21,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.3,"Vidit,S",Wang Hao,0-1,2763,D20,2726
-22,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.2,Wang Hao,"Caruana,F",0-1,2835,A07,2763
-23,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.1,Wang Hao,"Artemiev,V",1/2-1/2,2716,B40,2763
-24,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.3,"Vidit,S",Wang Hao,1/2-1/2,2763,A20,2726
-25,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.2,"Caruana,F",Wang Hao,1-0,2763,C42,2835
-26,11th Hainan Danzhou GM,chess.com INT,2020.12.03,1.1,Wei Yi,Wang Hao,1/2-1/2,2763,C67,2732
-27,11th Hainan Danzhou GM,chess.com INT,2020.12.03,2.1,Wang Hao,"Giri,A",0-1,2764,A29,2763
-28,11th Hainan Danzhou GM,chess.com INT,2020.12.04,3.1,Ding Liren,Wang Hao,1-0,2763,D37,2791
-29,11th Hainan Danzhou GM,chess.com INT,2020.12.04,4.1,Wang Hao,"Topalov,V",1-0,2735,E32,2763
-30,11th Hainan Danzhou GM,chess.com INT,2020.12.05,5.1,"Grischuk,A",Wang Hao,1/2-1/2,2763,A20,2777
-31,11th Hainan Danzhou GM,chess.com INT,2020.12.05,6.1,Wang Hao,"Rapport,R",1/2-1/2,2759,C67,2763
-32,11th Hainan Danzhou GM,chess.com INT,2020.12.05,7.1,Yu Yangyi,Wang Hao,1-0,2763,D20,2709
-33,11th Hainan Danzhou GM,chess.com INT,2020.12.07,8.1,Wang Hao,Wei Yi,1/2-1/2,2732,E32,2763
-34,11th Hainan Danzhou GM,chess.com INT,2020.12.07,9.1,"Giri,A",Wang Hao,1-0,2763,D26,2764
-35,11th Hainan Danzhou GM,chess.com INT,2020.12.07,10.1,Wang Hao,Ding Liren,1/2-1/2,2791,E32,2763
-36,11th Hainan Danzhou GM,chess.com INT,2020.12.08,11.1,"Topalov,V",Wang Hao,1-0,2763,C44,2735
-37,11th Hainan Danzhou GM,chess.com INT,2020.12.08,12.1,Wang Hao,"Grischuk,A",1/2-1/2,2777,E32,2763
-38,11th Hainan Danzhou GM,chess.com INT,2020.12.09,13.1,"Rapport,R",Wang Hao,1/2-1/2,2763,A07,2759
-39,11th Hainan Danzhou GM,chess.com INT,2020.12.09,14.1,Wang Hao,Yu Yangyi,1-0,2709,D12,2763
-40,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.2,Wang Hao,Ding Liren,1/2-1/2,2805,C45,2762
-41,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.3,"Giri,A",Wang Hao,1-0,2762,E06,2763
-42,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.3,Wang Hao,"Grischuk,A",1/2-1/2,2777,C11,2762
-43,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.2,"Alekseenko,K",Wang Hao,1/2-1/2,2762,C55,2698
-44,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.4,Wang Hao,"Nepomniachtchi,I",0-1,2774,C42,2762
-45,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.1,Wang Hao,"Caruana,F",0-1,2842,B40,2762
-46,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.4,"Vachier Lagrave,M",Wang Hao,1-0,2762,C67,2767
-47,Chess Super League 2021,chess.com INT,2021.10.11,1.3,"Giri,A",Wang Hao,1/2-1/2,2744,B97,2774
-48,Chess Super League 2021,chess.com INT,2021.10.12,2.1,"Koneru,H",Wang Hao,0-1,2744,D37,2586
-49,Chess Super League 2021,chess.com INT,2021.10.13,3.3,Wang Hao,"Gupta,Ab",1/2-1/2,2628,C65,2744
-50,Chess Super League 2021,chess.com INT,2021.10.14,4.2,"Nakamura,Hi",Wang Hao,1-0,2744,A06,2736
-51,Chess Super League 2021,chess.com INT,2021.10.15,5.2,"Karthikeyan,M2",Wang Hao,0-1,2744,B90,2630
-52,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.3,Wang Hao,"So,W",1-0,2776,D20,2744
-53,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.4,"Topalov,V",Wang Hao,1-0,2744,A20,2730
-54,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.2,Wang Hao,"Radjabov,T",1-0,2753,E36,2744
-55,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.5,"Giri,A",Wang Hao,1-0,2744,B31,2761
-56,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.1,Wang Hao,"Carlsen,M",0-1,2864,D45,2744
-57,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.5,Wang Hao,"Anand,V",1/2-1/2,2751,C67,2744
-58,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.2,"Mamedyarov,S",Wang Hao,1/2-1/2,2744,D37,2759
-59,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,D97,2744
-60,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.3,"Tari,A",Wang Hao,1-0,2744,B23,2654
-61,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1/2-1/2,2744,A07,2864
-62,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1-0,2744,E06,2864
-63,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.3,Wang Hao,"Giri,A",1/2-1/2,2761,B90,2744
-64,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.3,Wang Hao,"Giri,A",1/2-1/2,2761,B90,2744
-65,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1-0,2744,B31,2751
-66,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1/2-1/2,2744,B33,2751
-67,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.5,Wang Hao,"Mamedyarov,S",0-1,2759,C83,2744
-68,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.4,"Tari,A",Wang Hao,1-0,2744,C55,2654
-69,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,A48,2744
-70,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2750,B90,2744
-71,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.5,"Topalov,V",Wang Hao,1/2-1/2,2744,B33,2730
-72,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.5,"Topalov,V",Wang Hao,0-1,2744,B33,2730
-73,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1-0,2744,C48,2753
-74,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1/2-1/2,2744,C43,2753
-75,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.3,Wang Hao,"So,W",1/2-1/2,2776,C67,2744
-76,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.3,Wang Hao,"So,W",1/2-1/2,2776,E29,2744
-77,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.17,1.1,"Ajay Krishna,S",Wang Hao,0-1,2735,D02,2367
-78,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,2.1,Wang Hao,"Muradli,Mahammad",1/2-1/2,2552,E00,2735
-79,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,3.11,"Sukandar,I",Wang Hao,1/2-1/2,2735,D86,2373
-80,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.19,4.15,Wang Hao,"Das,Arg",1-0,2446,C03,2735
-81,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.20,5.4,"Adhiban,Baskaran",Wang Hao,1/2-1/2,2735,E46,2598
+20,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.19,8.2,Wang Hao,Ding Liren,1/2-1/2,2805,C45,2762
+21,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.20,9.3,"Giri,A",Wang Hao,1-0,2762,E06,2763
+22,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.21,10.3,Wang Hao,"Grischuk,A",1/2-1/2,2777,C11,2762
+23,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.23,11.2,"Alekseenko,K",Wang Hao,1/2-1/2,2762,C55,2698
+24,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.24,12.4,Wang Hao,"Nepomniachtchi,I",0-1,2774,C42,2762
+25,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.26,13.1,Wang Hao,"Caruana,F",0-1,2842,B40,2762
+26,FIDE Candidates 2020,Yekaterinburg RUS,2021.04.27,14.4,"Vachier Lagrave,M",Wang Hao,1-0,2762,C67,2767
+27,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.3,Wang Hao,"So,W",1-0,2776,D20,2744
+28,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.4,"Topalov,V",Wang Hao,1-0,2744,A20,2730
+29,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.2,Wang Hao,"Radjabov,T",1-0,2753,E36,2744
+30,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.5,"Giri,A",Wang Hao,1-0,2744,B31,2761
+31,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.1,Wang Hao,"Carlsen,M",0-1,2864,D45,2744
+32,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.5,Wang Hao,"Anand,V",1/2-1/2,2751,C67,2744
+33,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.2,"Mamedyarov,S",Wang Hao,1/2-1/2,2744,D37,2759
+34,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,D97,2744
+35,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.3,"Tari,A",Wang Hao,1-0,2744,B23,2654
+36,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1/2-1/2,2744,A07,2864
+37,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1-0,2744,E06,2864
+38,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.3,Wang Hao,"Giri,A",1/2-1/2,2761,B90,2744
+39,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.3,Wang Hao,"Giri,A",1/2-1/2,2761,B90,2744
+40,10th Norway Armageddon,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1-0,2744,B31,2751
+41,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.3,"Anand,V",Wang Hao,1/2-1/2,2744,B33,2751
+42,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.5,Wang Hao,"Mamedyarov,S",0-1,2759,C83,2744
+43,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.4,"Tari,A",Wang Hao,1-0,2744,C55,2654
+44,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",0-1,2750,A48,2744
+45,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.4,Wang Hao,"Vachier Lagrave,M",1/2-1/2,2750,B90,2744
+46,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.5,"Topalov,V",Wang Hao,1/2-1/2,2744,B33,2730
+47,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.5,"Topalov,V",Wang Hao,0-1,2744,B33,2730
+48,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1-0,2744,C48,2753
+49,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1/2-1/2,2744,C43,2753
+50,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.3,Wang Hao,"So,W",1/2-1/2,2776,C67,2744
+51,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.3,Wang Hao,"So,W",1/2-1/2,2776,E29,2744
+52,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.17,1.1,"Ajay Krishna,S",Wang Hao,0-1,2735,D02,2367
+53,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,2.1,Wang Hao,"Muradli,Mahammad",1/2-1/2,2552,E00,2735
+54,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,3.11,"Sukandar,I",Wang Hao,1/2-1/2,2735,D86,2373
+55,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.19,4.15,Wang Hao,"Das,Arg",1-0,2446,C03,2735
+56,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.20,5.4,"Adhiban,Baskaran",Wang Hao,1/2-1/2,2735,E46,2598

@@ -21,761 +21,283 @@
 19,2nd Prague Masters 2020,Prague CZE,2020.02.19,7.4,"Duda,J","Firouzja,Alireza",0-1,2726,A11,2755
 20,2nd Prague Masters 2020,Prague CZE,2020.02.20,8.4,"Vitiugov,N","Duda,J",1/2-1/2,2755,D02,2731
 21,2nd Prague Masters 2020,Prague CZE,2020.02.21,9.5,"Duda,J","Vidit,S",1-0,2721,D38,2755
-22,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.12,"Duda,J","Moussard,J",1-0,2608,A46,2734
-23,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.8,"Duda,J","Moussard,J",1/2-1/2,2608,B40,2734
-24,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.3,"Moussard,J","Duda,J",0-1,2734,A04,2608
-25,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.9,"Moussard,J","Duda,J",0-1,2734,B01,2608
-26,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.1,"Moussard,J","Duda,J",0-1,2734,B90,2608
-27,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.2,"Duda,J","Moussard,J",0-1,2608,B41,2734
-28,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.7,"Moussard,J","Duda,J",1/2-1/2,2734,B01,2608
-29,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.4,"Duda,J","Moussard,J",1-0,2608,A80,2734
-30,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.5,"Moussard,J","Duda,J",1-0,2734,B20,2608
-31,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.6,"Duda,J","Moussard,J",1/2-1/2,2608,D37,2734
-32,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.13,"Moussard,J","Duda,J",1/2-1/2,2734,A02,2608
-33,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.11,"Moussard,J","Duda,J",1/2-1/2,2734,B20,2608
-34,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.10,2.10,"Duda,J","Moussard,J",1-0,2608,A08,2734
-35,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.1,"Duda,J","Edouard,R",1-0,2641,B96,2734
-36,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.3,"Duda,J","Edouard,R",0-1,2641,B13,2734
-37,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.5,"Duda,J","Edouard,R",0-1,2641,A44,2734
-38,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.11,"Duda,J","Edouard,R",0-1,2641,B60,2734
-39,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.9,"Duda,J","Edouard,R",1-0,2641,A30,2734
-40,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.10,"Edouard,R","Duda,J",1/2-1/2,2734,A09,2641
-41,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.12,"Edouard,R","Duda,J",0-1,2734,E53,2641
-42,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.2,"Edouard,R","Duda,J",0-1,2734,A13,2641
-43,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.7,"Duda,J","Edouard,R",1-0,2641,A50,2734
-44,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.6,"Edouard,R","Duda,J",0-1,2734,B54,2641
-45,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.4,"Edouard,R","Duda,J",0-1,2734,A13,2641
-46,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.16,3.8,"Edouard,R","Duda,J",0-1,2734,A01,2641
-47,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.11,"Meier,Geo","Duda,J",0-1,2734,A07,2628
-48,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.4,"Duda,J","Meier,Geo",1-0,2628,C10,2734
-49,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.3,"Meier,Geo","Duda,J",0-1,2734,D79,2628
-50,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.9,"Meier,Geo","Duda,J",1-0,2734,A05,2628
-51,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.14,"Duda,J","Meier,Geo",0-1,2628,A10,2734
-52,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.12,"Duda,J","Meier,Geo",0-1,2628,A40,2734
-53,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.1,"Meier,Geo","Duda,J",1/2-1/2,2734,A05,2628
-54,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.13,"Meier,Geo","Duda,J",1-0,2734,A07,2628
-55,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.10,"Duda,J","Meier,Geo",0-1,2628,C10,2734
-56,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.2,"Duda,J","Meier,Geo",0-1,2628,C10,2734
-57,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.8,"Duda,J","Meier,Geo",1-0,2628,C10,2734
-58,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.7,"Meier,Geo","Duda,J",1-0,2734,A05,2628
-59,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.6,"Duda,J","Meier,Geo",1-0,2628,C10,2734
-60,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.28,4.5,"Meier,Geo","Duda,J",1-0,2734,D79,2628
-61,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.9,"Harikrishna,P","Duda,J",1/2-1/2,2753,B40,2719
-62,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.5,"Harikrishna,P","Duda,J",0-1,2753,B23,2719
-63,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.3,"Harikrishna,P","Duda,J",1/2-1/2,2753,D02,2719
-64,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.6,"Duda,J","Harikrishna,P",1-0,2719,D03,2753
-65,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.8,"Duda,J","Harikrishna,P",1-0,2719,D03,2753
-66,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.7,"Harikrishna,P","Duda,J",0-1,2753,A45,2719
-67,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.4,"Duda,J","Harikrishna,P",1-0,2719,C50,2753
-68,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.2,"Duda,J","Harikrishna,P",0-1,2719,C53,2753
-69,Pepe Cuenca Invitational,chess24.com INT,2020.04.13,1.1,"Harikrishna,P","Duda,J",1/2-1/2,2753,A46,2719
-70,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.2,"Duda,J","Artemiev,V",0-1,2716,B15,2753
-71,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.4,"Duda,J","Artemiev,V",1-0,2716,B01,2753
-72,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.5,"Artemiev,V","Duda,J",1-0,2753,A29,2716
-73,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.3,"Artemiev,V","Duda,J",0-1,2753,D05,2716
-74,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.7,"Artemiev,V","Duda,J",1/2-1/2,2753,D05,2716
-75,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.8,"Duda,J","Artemiev,V",1/2-1/2,2716,A28,2753
-76,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.1,"Artemiev,V","Duda,J",0-1,2753,A28,2716
-77,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.6,"Duda,J","Artemiev,V",0-1,2716,B90,2753
-78,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.10,"Duda,J","Artemiev,V",1/2-1/2,2716,A29,2753
-79,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.11,"Artemiev,V","Duda,J",1/2-1/2,2753,A15,2716
-80,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.9,"Artemiev,V","Duda,J",1-0,2753,A05,2716
-81,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.13,"Artemiev,V","Duda,J",1/2-1/2,2753,A05,2716
-82,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.14,"Duda,J","Artemiev,V",1-0,2716,A28,2753
-83,Pepe Cuenca Invitational,chess24.com INT,2020.04.14,2.12,"Duda,J","Artemiev,V",1-0,2716,B15,2753
-84,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.1,"Duda,J","Svidler,P",0-1,2723,C53,2753
-85,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.4,"Svidler,P","Duda,J",1/2-1/2,2753,A18,2723
-86,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.5,"Duda,J","Svidler,P",0-1,2723,D85,2753
-87,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.11,"Duda,J","Svidler,P",0-1,2723,A01,2753
-88,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.3,"Duda,J","Svidler,P",1/2-1/2,2723,E60,2753
-89,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.10,"Svidler,P","Duda,J",0-1,2753,B51,2723
-90,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.2,"Svidler,P","Duda,J",1/2-1/2,2753,C42,2723
-91,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.9,"Duda,J","Svidler,P",1-0,2723,A01,2753
-92,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.7,"Duda,J","Svidler,P",0-1,2723,D02,2753
-93,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.6,"Svidler,P","Duda,J",0-1,2753,A08,2723
-94,Pepe Cuenca Invitational,chess24.com INT,2020.04.16,3.8,"Svidler,P","Duda,J",1-0,2753,A20,2723
-95,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.1,"Duda,J","Andreikin,D",1-0,2726,B42,2753
-96,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.2,"Harikrishna,P","Duda,J",1/2-1/2,2753,E04,2719
-97,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.3,"Karjakin,Sergey","Duda,J",1/2-1/2,2753,B90,2752
-98,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.3,Yu Yangyi,"Duda,J",1-0,2753,E46,2709
-99,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.2,"Duda,J","Harikrishna,P",1-0,2719,D31,2753
-100,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.3,"Duda,J","Amin,B",1-0,2686,C84,2753
-101,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.6,Wei Yi,"Duda,J",1/2-1/2,2753,B91,2732
-102,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.1,"Grischuk,A","Duda,J",1-0,2753,D11,2777
-103,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.6,"Duda,J","So,W",1/2-1/2,2770,C50,2753
-104,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.2,"Karjakin,Sergey","Duda,J",1-0,2753,B97,2752
-105,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.5,"Duda,J","Dubov,Daniil",1-0,2699,A37,2753
-106,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.3,"Firouzja,Alireza","Duda,J",1-0,2753,D37,2728
-107,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.4,"Duda,J","Carlsen,M",1-0,2863,A28,2753
-108,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.4,"Aronian,L","Duda,J",1/2-1/2,2753,A18,2773
-109,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.3,"Duda,J",Ding Liren,0-1,2791,A22,2753
-110,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.5,"Nakamura,Hi","Duda,J",1-0,2753,B51,2736
-111,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.2,"Duda,J",Yu Yangyi,1/2-1/2,2709,C42,2753
-112,Titled Tue 18th Aug,chess.com INT,2020.08.18,1,"Vlassov,N","Duda,J",0-1,2753,B01,2352
-113,Titled Tue 18th Aug,chess.com INT,2020.08.18,3,"Nitin,S","Duda,J",0-1,2753,B06,2381
-114,Titled Tue 18th Aug,chess.com INT,2020.08.18,4,"Duda,J","Bluebaum,M",0-1,2647,A00,2753
-115,Titled Tue 18th Aug,chess.com INT,2020.08.18,5,"Jaracz,P","Duda,J",0-1,2753,B06,2456
-116,Titled Tue 18th Aug,chess.com INT,2020.08.18,6,"Siva,Mahadevan","Duda,J",0-1,2753,B06,2349
-117,Titled Tue 18th Aug,chess.com INT,2020.08.18,7,"Duda,J","Esipenko,Andrey",1/2-1/2,2682,A00,2753
-118,Titled Tue 18th Aug,chess.com INT,2020.08.18,8,"Kovalev,Vl","Duda,J",0-1,2753,B06,2648
-119,Titled Tue 18th Aug,chess.com INT,2020.08.18,9,"Duda,J","Jobava,Ba",1/2-1/2,2603,A00,2753
-120,Titled Tue 18th Aug,chess.com INT,2020.08.18,10,"Akobian,V","Duda,J",0-1,2753,D83,2614
-121,Online Olym Top DivD 2020,chess.com INT,2020.08.21,1.5,"Duda,J","Cordova,E",1-0,2592,E12,2753
-122,Online Olym Top DivD 2020,chess.com INT,2020.08.21,2.2,Yang Kaiqi,"Duda,J",0-1,2753,A46,2481
-123,Online Olym Top DivD 2020,chess.com INT,2020.08.22,4.3,"Delgado Ramirez,N","Duda,J",0-1,2753,B51,2621
-124,Online Olym Top DivD 2020,chess.com INT,2020.08.22,5.3,"Duda,J","Vocaturo,D",1-0,2617,A50,2753
-125,Online Olym Top DivD 2020,chess.com INT,2020.08.22,6.4,"Supi,L","Duda,J",1/2-1/2,2753,B90,2572
-126,Online Olym Top DivD 2020,chess.com INT,2020.08.23,7.2,"Duda,J","So,W",1-0,2770,A13,2753
-127,Online Olym Top DivD 2020,chess.com INT,2020.08.23,8.5,"Pichot,A","Duda,J",1/2-1/2,2753,B53,2630
-128,Online Olym Top DivD 2020,chess.com INT,2020.08.23,9.1,"Duda,J","Quesada Perez,Ya",1-0,2565,A22,2753
-129,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.41,"Delchev,A","Duda,J",0-1,2753,C07,2550
-130,Online Olym KO Stage 2020,chess.com INT,2020.08.27,1.42,"Duda,J","Delchev,A",1-0,2550,E60,2753
-131,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.21,"Mamedyarov,S","Duda,J",0-1,2753,D35,2764
-132,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.22,"Duda,J","Radjabov,T",1/2-1/2,2765,E40,2753
-133,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.12,"Duda,J","Anand,V",0-1,2753,E48,2753
-134,Online Olym KO Stage 2020,chess.com INT,2020.08.29,3.11,"Anand,V","Duda,J",0-1,2753,B90,2753
-135,TCh-POL Ekstraliga 2020,Warsaw POL,2020.08.31,6.1,"Kryvoruchko,Y","Duda,J",0-1,2753,B51,2682
-136,TCh-POL Ekstraliga 2020,Warsaw POL,2020.09.02,8.2,"Harikrishna,P","Duda,J",1/2-1/2,2753,E53,2732
-137,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.3,"Duda,J","Firouzja,Alireza",0-1,2728,B19,2757
-138,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.2,"Caruana,F","Duda,J",1-0,2757,D10,2828
-139,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.2,"Duda,J","Aronian,L",0-1,2767,C48,2757
-140,8th Norway Armageddon,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1-0,2757,B51,2633
-141,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1/2-1/2,2757,B23,2633
-142,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
-143,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
-144,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.3,"Duda,J","Tari,A",1-0,2633,C70,2757
-145,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",1/2-1/2,2757,B36,2767
-146,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",0-1,2757,C10,2767
-147,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",1/2-1/2,2828,B48,2757
-148,8th Norway Armageddon,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",0-1,2828,A09,2757
-149,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.2,"Firouzja,Alireza","Duda,J",1-0,2757,D78,2728
-150,Speed Chess Invitational,chess.com INT,2020.10.25,1.9,"Duda,J",Le Tuan Minh,1-0,2501,D02,2757
-151,Speed Chess Invitational,chess.com INT,2020.10.25,1.8,Le Tuan Minh,"Duda,J",1/2-1/2,2757,D02,2501
-152,Speed Chess Invitational,chess.com INT,2020.10.25,1.7,"Duda,J",Le Tuan Minh,1-0,2501,D03,2757
-153,Speed Chess Invitational,chess.com INT,2020.10.25,1.11,"Duda,J",Le Tuan Minh,1-0,2501,D15,2757
-154,Speed Chess Invitational,chess.com INT,2020.10.25,1.10,Le Tuan Minh,"Duda,J",0-1,2757,D02,2501
-155,Speed Chess Invitational,chess.com INT,2020.10.25,1.2,Le Tuan Minh,"Duda,J",0-1,2757,A46,2501
-156,Speed Chess Invitational,chess.com INT,2020.10.25,1.5,"Duda,J",Le Tuan Minh,1-0,2501,B29,2757
-157,Speed Chess Invitational,chess.com INT,2020.10.25,1.1,"Duda,J",Le Tuan Minh,1-0,2501,B29,2757
-158,Speed Chess Invitational,chess.com INT,2020.10.25,1.4,Le Tuan Minh,"Duda,J",1-0,2757,A46,2501
-159,Speed Chess Invitational,chess.com INT,2020.10.25,1.3,"Duda,J",Le Tuan Minh,0-1,2501,B29,2757
-160,Speed Chess Invitational,chess.com INT,2020.10.25,1.6,Le Tuan Minh,"Duda,J",1-0,2757,B08,2501
-161,Speed Chess Invitational,chess.com INT,2020.10.25,2.12,"Xiong,Jeffery","Duda,J",0-1,2757,C10,2709
-162,Speed Chess Invitational,chess.com INT,2020.10.25,2.2,"Xiong,Jeffery","Duda,J",1-0,2757,E36,2709
-163,Speed Chess Invitational,chess.com INT,2020.10.25,2.3,"Duda,J","Xiong,Jeffery",1/2-1/2,2709,B90,2757
-164,Speed Chess Invitational,chess.com INT,2020.10.25,2.4,"Xiong,Jeffery","Duda,J",1/2-1/2,2757,D85,2709
-165,Speed Chess Invitational,chess.com INT,2020.10.25,2.11,"Duda,J","Xiong,Jeffery",0-1,2709,B46,2757
-166,Speed Chess Invitational,chess.com INT,2020.10.25,2.1,"Duda,J","Xiong,Jeffery",1-0,2709,B33,2757
-167,Speed Chess Invitational,chess.com INT,2020.10.25,2.10,"Xiong,Jeffery","Duda,J",0-1,2757,A48,2709
-168,Speed Chess Invitational,chess.com INT,2020.10.25,2.5,"Duda,J","Xiong,Jeffery",1-0,2709,B30,2757
-169,Speed Chess Invitational,chess.com INT,2020.10.25,2.9,"Duda,J","Xiong,Jeffery",1-0,2709,C19,2757
-170,Speed Chess Invitational,chess.com INT,2020.10.25,2.8,"Xiong,Jeffery","Duda,J",1-0,2757,A48,2709
-171,Speed Chess Invitational,chess.com INT,2020.10.25,2.7,"Duda,J","Xiong,Jeffery",1-0,2709,C02,2757
-172,Speed Chess Invitational,chess.com INT,2020.10.25,2.6,"Xiong,Jeffery","Duda,J",0-1,2757,D92,2709
-173,Speed Chess Invitational,chess.com INT,2020.10.25,3.4,"Grischuk,A","Duda,J",1/2-1/2,2757,D11,2777
-174,Speed Chess Invitational,chess.com INT,2020.10.25,3.10,"Grischuk,A","Duda,J",1-0,2757,B90,2777
-175,Speed Chess Invitational,chess.com INT,2020.10.25,3.9,"Duda,J","Grischuk,A",1-0,2777,E68,2757
-176,Speed Chess Invitational,chess.com INT,2020.10.25,3.8,"Grischuk,A","Duda,J",0-1,2757,D02,2777
-177,Speed Chess Invitational,chess.com INT,2020.10.25,3.7,"Duda,J","Grischuk,A",1/2-1/2,2777,E60,2757
-178,Speed Chess Invitational,chess.com INT,2020.10.25,3.6,"Grischuk,A","Duda,J",1/2-1/2,2757,D52,2777
-179,Speed Chess Invitational,chess.com INT,2020.10.25,3.5,"Duda,J","Grischuk,A",1-0,2777,B90,2757
-180,Speed Chess Invitational,chess.com INT,2020.10.25,3.11,"Duda,J","Grischuk,A",1-0,2777,E68,2757
-181,Speed Chess Invitational,chess.com INT,2020.10.25,3.3,"Duda,J","Grischuk,A",1-0,2777,B90,2757
-182,Speed Chess Invitational,chess.com INT,2020.10.25,3.2,"Grischuk,A","Duda,J",1-0,2757,D52,2777
-183,Speed Chess Invitational,chess.com INT,2020.10.25,3.1,"Duda,J","Grischuk,A",1-0,2777,C53,2757
-184,Speed Chess Invitational,chess.com INT,2020.10.25,4.6,"Karjakin,Sergey","Duda,J",1-0,2757,C47,2752
-185,Speed Chess Invitational,chess.com INT,2020.10.25,4.4,"Karjakin,Sergey","Duda,J",0-1,2757,C42,2752
-186,Speed Chess Invitational,chess.com INT,2020.10.25,4.3,"Duda,J","Karjakin,Sergey",1/2-1/2,2752,C67,2757
-187,Speed Chess Invitational,chess.com INT,2020.10.25,4.14,"Karjakin,Sergey","Duda,J",0-1,2757,A01,2752
-188,Speed Chess Invitational,chess.com INT,2020.10.25,4.5,"Duda,J","Karjakin,Sergey",1/2-1/2,2752,D55,2757
-189,Speed Chess Invitational,chess.com INT,2020.10.25,4.7,"Duda,J","Karjakin,Sergey",1-0,2752,A13,2757
-190,Speed Chess Invitational,chess.com INT,2020.10.25,4.8,"Karjakin,Sergey","Duda,J",1/2-1/2,2757,B97,2752
-191,Speed Chess Invitational,chess.com INT,2020.10.25,4.1,"Duda,J","Karjakin,Sergey",1/2-1/2,2752,C53,2757
-192,Speed Chess Invitational,chess.com INT,2020.10.25,4.2,"Karjakin,Sergey","Duda,J",1-0,2757,B90,2752
-193,Speed Chess Invitational,chess.com INT,2020.10.25,4.11,"Duda,J","Karjakin,Sergey",1-0,2752,A13,2757
-194,Speed Chess Invitational,chess.com INT,2020.10.25,4.9,"Duda,J","Karjakin,Sergey",1-0,2752,A09,2757
-195,Speed Chess Invitational,chess.com INT,2020.10.25,4.12,"Karjakin,Sergey","Duda,J",0-1,2757,B90,2752
-196,Speed Chess Invitational,chess.com INT,2020.10.25,4.10,"Karjakin,Sergey","Duda,J",0-1,2757,B90,2752
-197,Speed Chess Invitational,chess.com INT,2020.10.25,4.13,"Duda,J","Karjakin,Sergey",1-0,2752,A09,2757
-198,chess.com Speed 2020,chess.com INT,2020.11.15,1.23,"Caruana,F","Duda,J",1-0,2743,B90,2823
-199,chess.com Speed 2020,chess.com INT,2020.11.15,1.22,"Duda,J","Caruana,F",1-0,2823,C53,2743
-200,chess.com Speed 2020,chess.com INT,2020.11.15,1.24,"Duda,J","Caruana,F",1-0,2823,C53,2743
-201,chess.com Speed 2020,chess.com INT,2020.11.15,1.25,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-202,chess.com Speed 2020,chess.com INT,2020.11.15,1.27,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-203,chess.com Speed 2020,chess.com INT,2020.11.15,1.28,"Duda,J","Caruana,F",1/2-1/2,2823,E53,2743
-204,chess.com Speed 2020,chess.com INT,2020.11.15,1.31,"Caruana,F","Duda,J",0-1,2743,C42,2823
-205,chess.com Speed 2020,chess.com INT,2020.11.15,1.26,"Duda,J","Caruana,F",1/2-1/2,2823,C42,2743
-206,chess.com Speed 2020,chess.com INT,2020.11.15,1.18,"Caruana,F","Duda,J",0-1,2743,B90,2823
-207,chess.com Speed 2020,chess.com INT,2020.11.15,1.34,"Duda,J","Caruana,F",1-0,2823,E83,2743
-208,chess.com Speed 2020,chess.com INT,2020.11.15,1.35,"Caruana,F","Duda,J",1-0,2743,C49,2823
-209,chess.com Speed 2020,chess.com INT,2020.11.15,1.36,"Duda,J","Caruana,F",1-0,2823,E63,2743
-210,chess.com Speed 2020,chess.com INT,2020.11.15,1.37,"Caruana,F","Duda,J",0-1,2743,D78,2823
-211,chess.com Speed 2020,chess.com INT,2020.11.15,1.38,"Duda,J","Caruana,F",1-0,2823,E53,2743
-212,chess.com Speed 2020,chess.com INT,2020.11.15,1.39,"Caruana,F","Duda,J",0-1,2743,B90,2823
-213,chess.com Speed 2020,chess.com INT,2020.11.15,1.13,"Duda,J","Caruana,F",0-1,2823,C11,2743
-214,chess.com Speed 2020,chess.com INT,2020.11.15,1.12,"Caruana,F","Duda,J",1-0,2743,B52,2823
-215,chess.com Speed 2020,chess.com INT,2020.11.15,1.21,"Caruana,F","Duda,J",1-0,2743,B90,2823
-216,chess.com Speed 2020,chess.com INT,2020.11.15,1.19,"Duda,J","Caruana,F",1-0,2823,C11,2743
-217,chess.com Speed 2020,chess.com INT,2020.11.15,1.32,"Duda,J","Caruana,F",1-0,2823,E49,2743
-218,chess.com Speed 2020,chess.com INT,2020.11.15,1.17,"Duda,J","Caruana,F",1-0,2823,C11,2743
-219,chess.com Speed 2020,chess.com INT,2020.11.15,1.33,"Caruana,F","Duda,J",0-1,2743,A46,2823
-220,chess.com Speed 2020,chess.com INT,2020.11.15,1.16,"Caruana,F","Duda,J",0-1,2743,B90,2823
-221,chess.com Speed 2020,chess.com INT,2020.11.15,1.11,"Duda,J","Caruana,F",0-1,2823,C11,2743
-222,chess.com Speed 2020,chess.com INT,2020.11.15,1.15,"Duda,J","Caruana,F",0-1,2823,C11,2743
-223,chess.com Speed 2020,chess.com INT,2020.11.15,1.14,"Caruana,F","Duda,J",0-1,2743,B90,2823
-224,chess.com Speed 2020,chess.com INT,2020.11.19,2.35,"Duda,J","So,W",1-0,2770,C36,2743
-225,chess.com Speed 2020,chess.com INT,2020.11.19,2.36,"So,W","Duda,J",0-1,2743,E60,2770
-226,chess.com Speed 2020,chess.com INT,2020.11.19,2.32,"So,W","Duda,J",1-0,2743,D45,2770
-227,chess.com Speed 2020,chess.com INT,2020.11.19,2.37,"Duda,J","So,W",0-1,2770,C25,2743
-228,chess.com Speed 2020,chess.com INT,2020.11.19,2.27,"So,W","Duda,J",1-0,2743,D77,2770
-229,chess.com Speed 2020,chess.com INT,2020.11.19,2.34,"So,W","Duda,J",0-1,2743,A60,2770
-230,chess.com Speed 2020,chess.com INT,2020.11.19,2.26,"Duda,J","So,W",0-1,2770,A29,2743
-231,chess.com Speed 2020,chess.com INT,2020.11.19,2.25,"So,W","Duda,J",1-0,2743,D78,2770
-232,chess.com Speed 2020,chess.com INT,2020.11.19,2.24,"Duda,J","So,W",1/2-1/2,2770,E49,2743
-233,chess.com Speed 2020,chess.com INT,2020.11.19,2.28,"Duda,J","So,W",0-1,2770,D41,2743
-234,chess.com Speed 2020,chess.com INT,2020.11.19,2.31,"Duda,J","So,W",1-0,2770,D40,2743
-235,chess.com Speed 2020,chess.com INT,2020.11.19,2.29,"So,W","Duda,J",1-0,2743,A44,2770
-236,chess.com Speed 2020,chess.com INT,2020.11.19,2.39,"Duda,J","So,W",1/2-1/2,2770,A45,2743
-237,chess.com Speed 2020,chess.com INT,2020.11.19,2.33,"Duda,J","So,W",0-1,2770,D41,2743
-238,chess.com Speed 2020,chess.com INT,2020.11.19,2.23,"So,W","Duda,J",1/2-1/2,2743,E37,2770
-239,chess.com Speed 2020,chess.com INT,2020.11.19,2.22,"Duda,J","So,W",0-1,2770,E48,2743
-240,chess.com Speed 2020,chess.com INT,2020.11.19,2.21,"So,W","Duda,J",1-0,2743,E38,2770
-241,chess.com Speed 2020,chess.com INT,2020.11.19,2.18,"Duda,J","So,W",0-1,2770,C50,2743
-242,chess.com Speed 2020,chess.com INT,2020.11.19,2.17,"So,W","Duda,J",1-0,2743,B92,2770
-243,chess.com Speed 2020,chess.com INT,2020.11.19,2.16,"Duda,J","So,W",1-0,2770,C50,2743
-244,chess.com Speed 2020,chess.com INT,2020.11.19,2.15,"So,W","Duda,J",1/2-1/2,2743,B90,2770
-245,chess.com Speed 2020,chess.com INT,2020.11.19,2.14,"Duda,J","So,W",0-1,2770,C50,2743
-246,chess.com Speed 2020,chess.com INT,2020.11.19,2.13,"So,W","Duda,J",0-1,2743,E42,2770
-247,chess.com Speed 2020,chess.com INT,2020.11.19,2.12,"Duda,J","So,W",1-0,2770,C42,2743
-248,chess.com Speed 2020,chess.com INT,2020.11.19,2.11,"So,W","Duda,J",1/2-1/2,2743,B90,2770
-249,chess.com Speed 2020,chess.com INT,2020.11.19,2.38,"So,W","Duda,J",1/2-1/2,2743,B47,2770
-250,Skilling Open Prelim,chess24.com INT,2020.11.22,1.3,"Nakamura,Hi","Duda,J",1/2-1/2,2743,C43,2736
-251,Skilling Open Prelim,chess24.com INT,2020.11.22,2.6,"Duda,J",Le Quang Liem,1/2-1/2,2709,D41,2743
-252,Skilling Open Prelim,chess24.com INT,2020.11.22,3.4,"Vidit,S","Duda,J",1/2-1/2,2743,D85,2726
-253,Skilling Open Prelim,chess24.com INT,2020.11.22,4.5,"Duda,J","So,W",0-1,2770,D37,2743
-254,Skilling Open Prelim,chess24.com INT,2020.11.22,5.5,"Svidler,P","Duda,J",1/2-1/2,2743,D78,2723
-255,Skilling Open Prelim,chess24.com INT,2020.11.23,6.4,"Duda,J","Nepomniachtchi,I",0-1,2784,D85,2743
-256,Skilling Open Prelim,chess24.com INT,2020.11.23,7.6,"Carlsen,M","Duda,J",1-0,2743,D11,2862
-257,Skilling Open Prelim,chess24.com INT,2020.11.23,8.3,"Duda,J","Radjabov,T",0-1,2765,A05,2743
-258,Skilling Open Prelim,chess24.com INT,2020.11.23,9.7,"Anton Guijarro,D","Duda,J",1-0,2743,D35,2675
-259,Skilling Open Prelim,chess24.com INT,2020.11.23,10.2,"Duda,J","Firouzja,Alireza",1-0,2749,B10,2743
-260,Skilling Open Prelim,chess24.com INT,2020.11.24,11.8,"Aronian,L","Duda,J",1-0,2743,C24,2781
-261,Skilling Open Prelim,chess24.com INT,2020.11.24,12.1,"Vachier Lagrave,M","Duda,J",1-0,2743,C42,2784
-262,Skilling Open Prelim,chess24.com INT,2020.11.24,13.8,"Duda,J",Ding Liren,1-0,2791,D45,2743
-263,Skilling Open Prelim,chess24.com INT,2020.11.24,14.2,"Giri,A","Duda,J",1/2-1/2,2743,C42,2764
-264,Skilling Open Prelim,chess24.com INT,2020.11.24,15.7,"Duda,J","Karjakin,Sergey",0-1,2752,D37,2743
-265,Euro Online Blitz Quali,Tornelo INT,2020.12.18,1.1,"Yankelevich,L","Duda,J",1/2-1/2,2743,E62,2416
-266,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.4,"Esipenko,Andrey","Duda,J",1/2-1/2,2743,C42,2677
-267,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.4,"Duda,J","Grandelius,N",0-1,2663,A30,2743
-268,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.4,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
-269,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.3,"Duda,J","Giri,A",1/2-1/2,2764,D87,2743
-270,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.7,"Wojtaszek,R","Duda,J",1/2-1/2,2743,D41,2705
-271,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
-272,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.6,"Firouzja,Alireza","Duda,J",1-0,2743,D02,2749
-273,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.2,"Duda,J","Anton Guijarro,D",1/2-1/2,2679,C50,2743
-274,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.2,"Tari,A","Duda,J",1/2-1/2,2743,B51,2625
-275,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2671,E60,2743
-276,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.2,"Donchenko,Alexa","Duda,J",1/2-1/2,2743,D35,2668
-277,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.6,"Vachier Lagrave,M","Duda,J",1/2-1/2,2743,C42,2784
-278,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.7,"Duda,J","Harikrishna,P",1/2-1/2,2732,D45,2743
-279,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.7,"Duda,J","Nepomniachtchi,I",0-1,2789,D87,2743
-280,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.3,"Nakamura,Hi","Duda,J",1/2-1/2,2743,D41,2736
-281,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.6,"Duda,J","Vidit,S",1/2-1/2,2726,D40,2743
-282,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.4,"Radjabov,T","Duda,J",1/2-1/2,2743,D41,2765
-283,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.5,"Duda,J",Ding Liren,1-0,2791,D38,2743
-284,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.5,"Carlsen,M","Duda,J",1/2-1/2,2743,A18,2862
-285,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.4,"Duda,J","Vachier Lagrave,M",1/2-1/2,2784,D97,2743
-286,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.6,"So,W","Duda,J",1-0,2743,D35,2770
-287,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.3,"Duda,J","Aronian,L",1/2-1/2,2781,C78,2743
-288,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.7,"Bluebaum,M","Duda,J",0-1,2743,A46,2670
-289,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.2,"Duda,J","Shankland,S",1/2-1/2,2691,D87,2743
-290,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.8,"Dominguez Perez,L","Duda,J",1-0,2743,C42,2758
-291,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.1,"Duda,J","Dubov,Daniil",1-0,2710,D47,2743
-292,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,14.8,"Duda,J","Grischuk,A",1-0,2777,A15,2743
-293,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.2,"Giri,A","Duda,J",1/2-1/2,2743,E42,2764
-294,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.11,"So,W","Duda,J",1/2-1/2,2743,C42,2770
-295,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.13,"So,W","Duda,J",1-0,2743,A06,2770
-296,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.12,"Duda,J","So,W",1-0,2770,A06,2743
-297,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.14,"Duda,J","So,W",0-1,2770,A06,2743
-298,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.22,"So,W","Duda,J",1-0,2743,E94,2770
-299,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.21,"Duda,J","So,W",0-1,2770,A22,2743
-300,European Online CC PlayC,Tornelo INT,2021.03.29,1.3,"Duda,J","Tomashevsky,E",1-0,2706,C53,2729
-301,European Online CC PlayC,Tornelo INT,2021.03.29,2.2,"Agrest,E","Duda,J",0-1,2729,A45,2568
-302,European Online CC PlayC,Tornelo INT,2021.03.29,3.2,"Duda,J","Fedoseev,Vl3",1-0,2687,D37,2729
-303,European Online CC PlayC,Tornelo INT,2021.03.29,4.3,"Adams,Mi","Duda,J",1/2-1/2,2729,B90,2716
-304,European Online CC PlayC,Tornelo INT,2021.03.29,5.1,"Duda,J","Vachier Lagrave,M",1/2-1/2,2758,B11,2729
-305,European Online CC Final,Tornelo INT,2021.03.30,1.1,"Van Foreest,Jorden","Duda,J",0-1,2729,B90,2701
-306,European Online CC Final,Tornelo INT,2021.03.30,2.1,"Duda,J","Artemiev,V",1/2-1/2,2709,C50,2729
-307,European Online CC Final,Tornelo INT,2021.03.30,3.1,"Goryachkina,A","Duda,J",0-1,2729,D41,2593
-308,European Online CC Final,Tornelo INT,2021.03.30,4.1,"Duda,J","Adams,Mi",1-0,2716,D37,2729
-309,European Online CC Final,Tornelo INT,2021.03.31,5.1,"Fedoseev,Vl3","Duda,J",1-0,2729,B90,2687
-310,European Online CC Final,Tornelo INT,2021.03.31,6.1,"Duda,J","Vidit,S",1/2-1/2,2726,D41,2729
-311,European Online CC Final,Tornelo INT,2021.03.31,7.1,"Bluebaum,M","Duda,J",0-1,2729,A46,2670
-312,European Online CC Final,Tornelo INT,2021.03.31,8.1,"Duda,J","Mamedyarov,S",1-0,2770,B40,2729
-313,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,1.8,"Duda,J","Praggnanandhaa,R",0-1,2608,D37,2729
-314,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,2.2,"So,W","Duda,J",0-1,2729,A46,2770
-315,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,3.7,"Duda,J","Mamedyarov,S",0-1,2770,E10,2729
-316,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,4.3,"Karjakin,Sergey","Duda,J",1/2-1/2,2729,B81,2757
-317,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,5.6,"Duda,J",Le Quang Liem,1-0,2709,E10,2729
-318,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,6.4,"Dominguez Perez,L","Duda,J",1/2-1/2,2729,B90,2758
-319,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,7.5,"Duda,J","Vidit,S",0-1,2726,D02,2729
-320,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,8.5,"Radjabov,T","Duda,J",1/2-1/2,2729,D52,2765
-321,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,9.4,"Duda,J","Tari,A",0-1,2639,C20,2729
-322,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,10.6,"Aronian,L","Duda,J",1-0,2729,D02,2781
-323,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,11.3,"Duda,J","Christiansen,Johan-Sebastian",1-0,2618,A58,2729
-324,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,12.7,"Carlsen,M","Duda,J",1-0,2729,B90,2847
-325,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,13.2,"Duda,J","Nakamura,Hi",1/2-1/2,2736,D57,2729
-326,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,14.8,"Firouzja,Alireza","Duda,J",0-1,2729,A46,2759
-327,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,15.1,"Duda,J","Jones,G",1-0,2670,E97,2729
-328,Shenzhen Evening Rapid,chess.com INT,2021.04.29,1.1,Yu Yangyi,"Duda,J",1-0,2729,E41,2709
-329,Shenzhen Evening Rapid,chess.com INT,2021.04.29,2.1,"Duda,J","Rapport,R",0-1,2763,E32,2729
-330,Shenzhen Evening Rapid,chess.com INT,2021.04.29,3.1,Wei Yi,"Duda,J",0-1,2729,B90,2732
-331,Shenzhen Evening Rapid,chess.com INT,2021.04.30,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D38,2729
-332,Shenzhen Evening Rapid,chess.com INT,2021.04.30,5.1,"Rapport,R","Duda,J",1/2-1/2,2729,A14,2763
-333,Shenzhen Evening Rapid,chess.com INT,2021.04.30,6.1,"Duda,J",Wei Yi,1-0,2732,A10,2729
-334,Shenzhen Evening Blitz,chess.com INT,2021.05.01,1.1,Yu Yangyi,"Duda,J",0-1,2729,D11,2709
-335,Shenzhen Evening Blitz,chess.com INT,2021.05.01,2.1,"Duda,J","Rapport,R",1-0,2763,E12,2729
-336,Shenzhen Evening Blitz,chess.com INT,2021.05.01,3.1,Wei Yi,"Duda,J",0-1,2729,B90,2732
-337,Shenzhen Evening Blitz,chess.com INT,2021.05.01,4.1,"Duda,J",Yu Yangyi,1/2-1/2,2709,D37,2729
-338,Shenzhen Evening Blitz,chess.com INT,2021.05.01,5.1,"Rapport,R","Duda,J",1/2-1/2,2729,A15,2763
-339,Shenzhen Evening Blitz,chess.com INT,2021.05.01,6.1,"Duda,J",Wei Yi,1-0,2732,D45,2729
-340,3rd Prague Masters 2021,Prague CZE,2021.06.14,1.4,"Duda,J","Navara,D",1-0,2697,C65,2729
-341,3rd Prague Masters 2021,Prague CZE,2021.06.15,2.2,"Shankland,S","Duda,J",1-0,2729,B90,2691
-342,3rd Prague Masters 2021,Prague CZE,2021.06.16,3.1,"Duda,J","Abasov,N",1/2-1/2,2665,D35,2729
-343,3rd Prague Masters 2021,Prague CZE,2021.06.17,4.4,"Nguyen,Thai Dai Van","Duda,J",1/2-1/2,2729,E00,2577
-344,3rd Prague Masters 2021,Prague CZE,2021.06.18,5.3,"Duda,J","Van Foreest,Jorden",1-0,2701,C80,2729
-345,3rd Prague Masters 2021,Prague CZE,2021.06.19,6.4,"Grandelius,N","Duda,J",0-1,2729,C02,2670
-346,3rd Prague Masters 2021,Prague CZE,2021.06.20,7.4,"Duda,J","Wojtaszek,R",1-0,2687,C84,2729
-347,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,1.4,"Erigaisi,Arjun","Duda,J",1/2-1/2,2729,E00,2567
-348,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,2.5,"Duda,J","Vidit,S",1/2-1/2,2726,A35,2729
-349,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,3.5,"Firouzja,Alireza","Duda,J",0-1,2729,A45,2759
-350,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,4.4,"Duda,J",Hou Yifan,1-0,2658,E16,2729
-351,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,5.6,"So,W","Duda,J",1-0,2729,E49,2770
-352,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,6.3,"Duda,J","Svidler,P",1/2-1/2,2714,E60,2729
-353,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,7.7,"Salem,AR","Duda,J",1-0,2729,E54,2682
-354,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,8.2,"Duda,J","Carlsen,M",1/2-1/2,2847,D37,2729
-355,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,9.8,"Giri,A","Duda,J",1/2-1/2,2729,B90,2780
-356,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,10.1,"Aronian,L","Duda,J",1/2-1/2,2729,D10,2781
-357,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,11.8,"Duda,J","Dubov,Daniil",1-0,2714,C84,2729
-358,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,12.2,"Artemiev,V","Duda,J",1-0,2729,D42,2704
-359,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,13.7,"Duda,J","Adhiban,Baskaran",0-1,2660,C78,2729
-360,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,14.3,Ding Liren,"Duda,J",0-1,2729,A30,2799
-361,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,15.6,"Duda,J","Gukesh,D",1-0,2578,D32,2729
-362,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.12,Ding Liren,"Duda,J",1/2-1/2,2729,D43,2799
-363,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.13,"Duda,J",Ding Liren,1/2-1/2,2799,D41,2729
-364,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.14,Ding Liren,"Duda,J",1/2-1/2,2729,D43,2799
-365,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.11,"Duda,J",Ding Liren,1/2-1/2,2799,D38,2729
-366,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.22,"Duda,J",Ding Liren,0-1,2799,C02,2729
-367,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.23,Ding Liren,"Duda,J",1-0,2729,D52,2799
-368,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.24,"Duda,J",Ding Liren,0-1,2799,C59,2729
-369,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.21,Ding Liren,"Duda,J",0-1,2729,D43,2799
-370,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.5,"Duda,J","Saric,Iv",1/2-1/2,2653,A45,2738
-371,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.2,"Giri,A","Duda,J",1/2-1/2,2738,B52,2776
-372,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.4,"Duda,J","Van Foreest,Jorden",1/2-1/2,2688,B12,2738
-373,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B11,2749
-374,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.3,"Duda,J","Nepomniachtchi,I",1/2-1/2,2792,E49,2738
-375,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.4,"Mamedyarov,S","Duda,J",0-1,2738,D36,2782
-376,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
-377,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B90,2778
-378,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.1,"Duda,J","Korobov,A",1-0,2683,E83,2738
-379,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B12,2778
-380,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
-381,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.5,"Duda,J","Kasparov,G",1-0,2812,B96,2738
-382,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.2,"Korobov,A","Duda,J",0-1,2738,D10,2683
-383,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.4,"Duda,J","Mamedyarov,S",1-0,2782,D22,2738
-384,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.3,"Giri,A","Duda,J",1/2-1/2,2738,D10,2776
-385,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.3,"Duda,J","Vachier Lagrave,M",1/2-1/2,2749,D85,2738
-386,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.4,"Nepomniachtchi,I","Duda,J",1-0,2738,A13,2792
-387,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.2,"Duda,J","Van Foreest,Jorden",0-1,2688,C02,2738
-388,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.5,"Duda,J","Grischuk,A",0-1,2778,C53,2738
-389,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
-390,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.5,"Kasparov,G","Duda,J",0-1,2738,B92,2812
-391,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.2,"Duda,J","Korobov,A",1-0,2683,C14,2738
-392,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.4,"Mamedyarov,S","Duda,J",1-0,2738,D45,2782
-393,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.3,"Duda,J","Giri,A",1-0,2776,D00,2738
-394,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B10,2749
-395,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.4,"Duda,J","Nepomniachtchi,I",1-0,2792,D38,2738
-396,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.2,"Van Foreest,Jorden","Duda,J",0-1,2738,B94,2688
-397,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Duda,J","Vazquez,Guillermo",1-0,2527,D38,2738
-398,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vazquez,Guillermo","Duda,J",1/2-1/2,2738,B52,2527
-399,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Sevian,Samuel","Duda,J",1/2-1/2,2738,C43,2647
-400,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Duda,J","Sevian,Samuel",1-0,2647,E36,2738
-401,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Duda,J","Idani,P",1/2-1/2,2614,B90,2738
-402,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Idani,P","Duda,J",0-1,2738,C42,2614
-403,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Grischuk,A","Duda,J",1/2-1/2,2738,D37,2778
-404,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Duda,J","Grischuk,A",1/2-1/2,2778,D41,2738
-405,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Duda,J","Grischuk,A",1-0,2778,C65,2738
-406,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Grischuk,A","Duda,J",1/2-1/2,2738,A07,2778
-407,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Vidit,S","Duda,J",1/2-1/2,2738,E06,2726
-408,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Duda,J","Vidit,S",1-0,2726,C78,2738
-409,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
-410,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
-411,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
-412,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
-413,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Karjakin,Sergey","Duda,J",1/2-1/2,2738,D37,2757
-414,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Duda,J","Karjakin,Sergey",1-0,2757,D41,2738
-415,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,1.1,"Dominguez Perez,L","Duda,J",1-0,2738,B90,2758
-416,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,2.1,"Duda,J","So,W",0-1,2772,C48,2738
-417,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,3.1,"Mamedyarov,S","Duda,J",1/2-1/2,2738,D35,2782
-418,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,4.1,"Duda,J","Vidit,S",1/2-1/2,2726,A05,2738
-419,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,5.1,"Artemiev,V","Duda,J",1/2-1/2,2738,A15,2704
-420,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,6.1,"Duda,J","Le, Quang Liem",1-0,2709,A07,2738
-421,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,7.1,"Giri,A","Duda,J",1/2-1/2,2738,D97,2776
-422,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,8.1,"Duda,J","Firouzja,Alireza",1/2-1/2,2759,A45,2738
-423,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,9.1,"Liang,Awonder","Duda,J",0-1,2738,B11,2587
-424,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,10.1,"Duda,J","Naroditsky,D",1-0,2623,E81,2738
-425,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,11.1,"Aronian,L","Duda,J",1/2-1/2,2738,C17,2782
-426,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,12.1,"Duda,J","Hansen,Eric",1/2-1/2,2606,E32,2738
-427,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,13.1,"Van Foreest,Jorden","Duda,J",0-1,2738,D30,2698
-428,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,14.1,"Duda,J","Vachier Lagrave,M",1-0,2751,E60,2738
-429,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,15.1,"Carlsen,M","Duda,J",1/2-1/2,2738,B40,2847
-430,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.11,"Carlsen,M","Duda,J",1-0,2738,A07,2847
-431,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.12,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
-432,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.13,"Carlsen,M","Duda,J",1-0,2738,B40,2847
-433,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.21,"Duda,J","Carlsen,M",0-1,2847,C65,2738
-434,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.23,"Duda,J","Carlsen,M",0-1,2847,A22,2738
-435,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.22,"Carlsen,M","Duda,J",1/2-1/2,2738,B40,2847
-436,Online Olym Top DivD 2021,chess.com INT,2021.09.08,1.4,"Duda,J","Fier,A",1-0,2564,E10,2756
-437,Online Olym Top DivD 2021,chess.com INT,2021.09.08,2.3,"Bok,B","Duda,J",1/2-1/2,2756,D35,2619
-438,Online Olym Top DivD 2021,chess.com INT,2021.09.08,3.3,"Duda,J","Howell,D",1-0,2658,E60,2756
-439,Online Olym Top DivD 2021,chess.com INT,2021.09.09,4.4,"Gokerkan,Cem Kaan","Duda,J",0-1,2756,B12,2465
-440,Online Olym Top DivD 2021,chess.com INT,2021.09.09,5.2,"Duda,J","Cori,J",1-0,2654,D00,2756
-441,Online Olym Top DivD 2021,chess.com INT,2021.09.09,6.5,"Albornoz Cabrera,Carlos Daniel","Duda,J",0-1,2756,D58,2567
-442,Online Olym Top DivD 2021,chess.com INT,2021.09.10,7.1,"Duda,J","Arenas,D",1-0,2455,E11,2756
-443,Online Olym Top DivD 2021,chess.com INT,2021.09.10,8.5,"Duda,J","Xiong,Jeffery",1-0,2700,D00,2756
-444,Online Olym Top DivD 2021,chess.com INT,2021.09.10,9.2,"Noritsyn,N","Duda,J",0-1,2756,B12,2512
-445,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.41,Ding Liren,"Duda,J",1-0,2756,D37,2799
-446,Online Olym KO Stage 2021,chess.com INT,2021.09.13,1.42,"Duda,J",Ding Liren,1-0,2799,C67,2756
-447,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.1,"Carlsen,M","Duda,J",1-0,2756,D41,2855
-448,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.3,"Carlsen,M","Duda,J",1/2-1/2,2756,B51,2855
-449,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.2,"Duda,J","Carlsen,M",0-1,2855,E60,2756
-450,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.1,"Giri,A","Duda,J",0-1,2756,B90,2777
-451,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.4,"Duda,J","Giri,A",1-0,2777,E60,2756
-452,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.3,"Giri,A","Duda,J",1/2-1/2,2756,D11,2777
-453,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.2,"Duda,J","Giri,A",0-1,2777,E60,2756
-454,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.6,"Mamedyarov,S","Duda,J",1/2-1/2,2756,D45,2762
-455,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.5,"Duda,J","Mamedyarov,S",1-0,2762,D85,2756
-456,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.3,"Duda,J","Mamedyarov,S",1/2-1/2,2762,D85,2756
-457,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.4,"Mamedyarov,S","Duda,J",1/2-1/2,2756,E21,2762
-458,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.2,"Mamedyarov,S","Duda,J",1-0,2756,D41,2762
-459,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.1,"Duda,J","Mamedyarov,S",1-0,2762,D85,2756
-460,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.3,"Radjabov,T","Duda,J",0-1,2756,D52,2763
-461,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.2,"Duda,J","Radjabov,T",1/2-1/2,2763,B31,2756
-462,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.1,"Radjabov,T","Duda,J",1-0,2756,A15,2763
-463,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.4,"Duda,J","Radjabov,T",0-1,2763,B31,2756
-464,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.3,"Duda,J","Vachier Lagrave,M",0-1,2763,B90,2756
-465,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.1,"Duda,J","Vachier Lagrave,M",1/2-1/2,2763,B12,2756
-466,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.2,"Vachier Lagrave,M","Duda,J",1-0,2756,B10,2763
-467,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.4,"Duda,J","Aronian,L",1/2-1/2,2782,A56,2756
-468,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.1,"Aronian,L","Duda,J",0-1,2756,C19,2782
-469,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.2,"Duda,J","Aronian,L",1/2-1/2,2782,E04,2756
-470,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.3,"Aronian,L","Duda,J",1/2-1/2,2756,C19,2782
-471,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.3,"Duda,J","Artemiev,V",1-0,2699,D37,2756
-472,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.2,"Artemiev,V","Duda,J",1/2-1/2,2756,A14,2699
-473,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.1,"Duda,J","Artemiev,V",1/2-1/2,2699,D32,2756
-474,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.4,"Artemiev,V","Duda,J",1/2-1/2,2756,D02,2699
-475,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.5,"So,W","Duda,J",1-0,2756,A34,2778
-476,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.4,"Duda,J","So,W",1/2-1/2,2778,D37,2756
-477,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.3,"So,W","Duda,J",1/2-1/2,2756,A13,2778
-478,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.2,"Duda,J","So,W",1/2-1/2,2778,D27,2756
-479,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.1,"So,W","Duda,J",1/2-1/2,2756,E60,2778
-480,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.6,"Duda,J","So,W",1/2-1/2,2778,A13,2756
-481,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.1,"Duda,J","Nakamura,Hi",0-1,2736,D37,2756
-482,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.3,"Duda,J","Nakamura,Hi",0-1,2736,A28,2756
-483,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.4,"Nakamura,Hi","Duda,J",1-0,2756,C00,2736
-484,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.2,"Nakamura,Hi","Duda,J",0-1,2756,E60,2736
-485,chess.com Speed 2021,chess.com INT,2021.11.08,1.12,"Duda,J","Giri,A",0-1,2774,A45,2756
-486,chess.com Speed 2021,chess.com INT,2021.11.08,1.33,"Duda,J","Giri,A",0-1,2774,D02,2756
-487,chess.com Speed 2021,chess.com INT,2021.11.08,1.14,"Duda,J","Giri,A",1-0,2774,A45,2756
-488,chess.com Speed 2021,chess.com INT,2021.11.08,1.18,"Duda,J","Giri,A",0-1,2774,E60,2756
-489,chess.com Speed 2021,chess.com INT,2021.11.08,1.15,"Giri,A","Duda,J",0-1,2756,D78,2774
-490,chess.com Speed 2021,chess.com INT,2021.11.08,1.16,"Duda,J","Giri,A",0-1,2774,D02,2756
-491,chess.com Speed 2021,chess.com INT,2021.11.08,1.35,"Duda,J","Giri,A",0-1,2774,D43,2756
-492,chess.com Speed 2021,chess.com INT,2021.11.08,1.34,"Giri,A","Duda,J",1-0,2756,C04,2774
-493,chess.com Speed 2021,chess.com INT,2021.11.08,1.11,"Giri,A","Duda,J",1/2-1/2,2756,B36,2774
-494,chess.com Speed 2021,chess.com INT,2021.11.08,1.23,"Giri,A","Duda,J",1-0,2756,B13,2774
-495,chess.com Speed 2021,chess.com INT,2021.11.08,1.39,"Duda,J","Giri,A",1-0,2774,D43,2756
-496,chess.com Speed 2021,chess.com INT,2021.11.08,1.38,"Giri,A","Duda,J",0-1,2756,B40,2774
-497,chess.com Speed 2021,chess.com INT,2021.11.08,1.37,"Duda,J","Giri,A",1/2-1/2,2774,A06,2756
-498,chess.com Speed 2021,chess.com INT,2021.11.08,1.17,"Giri,A","Duda,J",0-1,2756,B12,2774
-499,chess.com Speed 2021,chess.com INT,2021.11.08,1.13,"Giri,A","Duda,J",1/2-1/2,2756,A35,2774
-500,chess.com Speed 2021,chess.com INT,2021.11.08,1.21,"Giri,A","Duda,J",0-1,2756,B12,2774
-501,chess.com Speed 2021,chess.com INT,2021.11.08,1.22,"Duda,J","Giri,A",0-1,2774,A48,2756
-502,chess.com Speed 2021,chess.com INT,2021.11.08,1.36,"Giri,A","Duda,J",1-0,2756,B40,2774
-503,chess.com Speed 2021,chess.com INT,2021.11.08,1.24,"Duda,J","Giri,A",1-0,2774,E60,2756
-504,chess.com Speed 2021,chess.com INT,2021.11.08,1.25,"Giri,A","Duda,J",1/2-1/2,2756,B13,2774
-505,chess.com Speed 2021,chess.com INT,2021.11.08,1.26,"Duda,J","Giri,A",0-1,2774,E60,2756
-506,chess.com Speed 2021,chess.com INT,2021.11.08,1.27,"Giri,A","Duda,J",1/2-1/2,2756,B13,2774
-507,chess.com Speed 2021,chess.com INT,2021.11.08,1.28,"Duda,J","Giri,A",1-0,2774,B90,2756
-508,chess.com Speed 2021,chess.com INT,2021.11.08,1.29,"Giri,A","Duda,J",1/2-1/2,2756,C07,2774
-509,chess.com Speed 2021,chess.com INT,2021.11.08,1.31,"Duda,J","Giri,A",1-0,2774,D85,2756
-510,chess.com Speed 2021,chess.com INT,2021.11.08,1.32,"Giri,A","Duda,J",1-0,2756,C07,2774
-511,23rd European Teams,Terme Catez SLO,2021.11.12,1.4,"Duda,J","Hillarp Persson,T",1-0,2528,B90,2756
-512,23rd European Teams,Terme Catez SLO,2021.11.13,2.4,"Nabaty,T","Duda,J",1/2-1/2,2756,D02,2649
-513,23rd European Teams,Terme Catez SLO,2021.11.14,3.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2651,E32,2756
-514,23rd European Teams,Terme Catez SLO,2021.11.15,4.2,"Grischuk,A","Duda,J",1/2-1/2,2756,C42,2773
-515,23rd European Teams,Terme Catez SLO,2021.11.18,6.6,"Navara,D","Duda,J",1/2-1/2,2756,B12,2699
-516,23rd European Teams,Terme Catez SLO,2021.11.19,7.6,"Duda,J","Nisipeanu,LD",1-0,2651,B40,2756
-517,23rd European Teams,Terme Catez SLO,2021.11.20,8.3,"Duda,J","Shirov,A",1/2-1/2,2673,C53,2756
-518,23rd European Teams,Terme Catez SLO,2021.11.21,9.4,"Jobava,Ba","Duda,J",0-1,2756,C15,2582
-519,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,1,"Wojtaszek,R","Duda,J",1/2-1/2,2756,E07,2700
-520,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,2,"Duda,J","Wojtaszek,R",0-1,2700,A07,2756
-521,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,3,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
-522,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,4,"Duda,J","Wojtaszek,R",1-0,2700,A29,2756
-523,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,5,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
-524,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,6,"Duda,J","Wojtaszek,R",1/2-1/2,2700,B90,2756
-525,European Blitz 2021,Katowice POL,2021.12.17,1.1,"Duda,J","Adamczyk,Zuzanna",1-0,2047,B10,2760
-526,European Blitz 2021,Katowice POL,2021.12.17,2.1,"Adamczyk,Zuzanna","Duda,J",0-1,2760,A62,2047
-527,European Blitz 2021,Katowice POL,2021.12.17,3.1,"Hasterok,Mateusz","Duda,J",0-1,2760,E20,2132
-528,European Blitz 2021,Katowice POL,2021.12.17,4.1,"Duda,J","Hasterok,Mateusz",1-0,2132,D37,2760
-529,European Blitz 2021,Katowice POL,2021.12.17,5.1,"Duda,J","Walter,Szymon",1-0,2286,B40,2760
-530,European Blitz 2021,Katowice POL,2021.12.17,6.1,"Walter,Szymon","Duda,J",0-1,2760,B23,2286
-531,European Blitz 2021,Katowice POL,2021.12.17,7.1,"Keinanen,Toivo","Duda,J",0-1,2760,A46,2468
-532,European Blitz 2021,Katowice POL,2021.12.17,8.1,"Duda,J","Keinanen,Toivo",1-0,2468,D31,2760
-533,European Blitz 2021,Katowice POL,2021.12.17,9.1,"Duda,J","Blohberger,Felix",1-0,2503,B90,2760
-534,European Blitz 2021,Katowice POL,2021.12.17,10.1,"Blohberger,Felix","Duda,J",1/2-1/2,2760,A46,2503
-535,European Blitz 2021,Katowice POL,2021.12.17,11.1,"Duda,J","Vetoshko,V",1-0,2501,D31,2760
-536,European Blitz 2021,Katowice POL,2021.12.17,12.1,"Vetoshko,V","Duda,J",0-1,2760,B92,2501
-537,European Blitz 2021,Katowice POL,2021.12.17,13.1,"Demchenko,A","Duda,J",0-1,2760,B29,2654
-538,European Blitz 2021,Katowice POL,2021.12.17,14.1,"Duda,J","Demchenko,A",1-0,2654,C75,2760
-539,European Blitz 2021,Katowice POL,2021.12.17,15.1,"Sadzikowski,D","Duda,J",1/2-1/2,2760,D43,2525
-540,European Blitz 2021,Katowice POL,2021.12.17,16.1,"Duda,J","Sadzikowski,D",1-0,2525,D30,2760
-541,European Blitz 2021,Katowice POL,2021.12.17,17.1,"Duda,J","Durarbayli,V",1-0,2615,C88,2760
-542,European Blitz 2021,Katowice POL,2021.12.17,18.1,"Durarbayli,V","Duda,J",1/2-1/2,2760,B20,2615
-543,European Blitz 2021,Katowice POL,2021.12.17,19.1,"Duda,J","Klekowski,M",0-1,2479,A46,2760
-544,European Blitz 2021,Katowice POL,2021.12.17,20.1,"Klekowski,M","Duda,J",1/2-1/2,2760,A17,2479
-545,European Blitz 2021,Katowice POL,2021.12.17,21.1,"Schneider,Il","Duda,J",0-1,2760,A45,2479
-546,European Blitz 2021,Katowice POL,2021.12.17,22.1,"Duda,J","Schneider,Il",0-1,2479,B00,2760
-547,World Rapid 2021,Warsaw POL,2021.12.26,1.3,"Duda,J","Gabuzyan,H",1-0,2589,A60,2760
-548,World Rapid 2021,Warsaw POL,2021.12.26,2.3,"Vakhidov,J","Duda,J",0-1,2760,A27,2552
-549,World Rapid 2021,Warsaw POL,2021.12.26,3.1,"Duda,J","Volokitin,And",1-0,2677,D38,2760
-550,World Rapid 2021,Warsaw POL,2021.12.26,4.2,"Alekseenko,K","Duda,J",0-1,2760,C77,2702
-551,World Rapid 2021,Warsaw POL,2021.12.26,5.2,"Duda,J","Jobava,Ba",1/2-1/2,2588,D25,2760
-552,World Rapid 2021,Warsaw POL,2021.12.27,6.2,"Nepomniachtchi,I","Duda,J",1-0,2760,C88,2782
-553,World Rapid 2021,Warsaw POL,2021.12.27,7.6,"Duda,J","Hovhannisyan,R",1-0,2643,D11,2760
-554,World Rapid 2021,Warsaw POL,2021.12.27,8.2,"Duda,J","Movsesian,S",1-0,2608,D12,2760
-555,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
-556,World Rapid 2021,Warsaw POL,2021.12.28,10.4,"Duda,J","Cheparinov,I",1/2-1/2,2664,D37,2760
-557,World Rapid 2021,Warsaw POL,2021.12.28,11.3,"Caruana,F","Duda,J",1/2-1/2,2760,E32,2792
-558,World Rapid 2021,Warsaw POL,2021.12.28,12.5,"Duda,J","Salem,AR",1-0,2690,D35,2760
-559,World Rapid 2021,Warsaw POL,2021.12.28,13.3,"Abdusattorov,Nodirbek","Duda,J",1/2-1/2,2760,A18,2633
-560,World Blitz 2021,Warsaw POL,2021.12.29,1.6,"Duda,J","Chigaev,M",1-0,2632,E94,2760
-561,World Blitz 2021,Warsaw POL,2021.12.29,2.2,"Demidov,M","Duda,J",1-0,2760,A05,2556
-562,World Blitz 2021,Warsaw POL,2021.12.29,3.31,"Duda,J","Krasenkow,M",1-0,2576,A21,2760
-563,World Blitz 2021,Warsaw POL,2021.12.29,4.17,"Petrosian,TL","Duda,J",1/2-1/2,2760,A05,2573
-564,World Blitz 2021,Warsaw POL,2021.12.29,5.17,"Duda,J","Tang,Andrew",1-0,2519,C60,2760
-565,World Blitz 2021,Warsaw POL,2021.12.29,6.9,"Ter Sahakyan,S","Duda,J",0-1,2760,C88,2637
-566,World Blitz 2021,Warsaw POL,2021.12.29,7.6,"Vidit,S","Duda,J",0-1,2760,E60,2727
-567,World Blitz 2021,Warsaw POL,2021.12.29,8.4,"Duda,J","Ivic,Velimir",1-0,2606,B31,2760
-568,World Blitz 2021,Warsaw POL,2021.12.29,9.3,"Duda,J","Aronian,L",0-1,2772,A18,2760
-569,World Blitz 2021,Warsaw POL,2021.12.29,10.5,"Amin,B","Duda,J",1/2-1/2,2760,A05,2680
-570,World Blitz 2021,Warsaw POL,2021.12.29,11.6,"Duda,J","Socko,B",1-0,2642,A13,2760
-571,World Blitz 2021,Warsaw POL,2021.12.29,12.5,"Maghsoodloo,Parham","Duda,J",1-0,2760,E43,2701
-572,World Blitz TB 2021,Warsaw POL,2021.12.30,1,"Vachier Lagrave,M","Duda,J",1/2-1/2,2760,C84,2761
-573,World Blitz TB 2021,Warsaw POL,2021.12.30,2,"Duda,J","Vachier Lagrave,M",1/2-1/2,2761,D27,2760
-574,World Blitz TB 2021,Warsaw POL,2021.12.30,3,"Vachier Lagrave,M","Duda,J",1-0,2760,C84,2761
-575,World Blitz 2021,Warsaw POL,2021.12.30,13.8,"Duda,J","Martirosyan,Haik M.",0-1,2621,A29,2760
-576,World Blitz 2021,Warsaw POL,2021.12.30,14.13,"Durarbayli,V","Duda,J",0-1,2760,C28,2615
-577,World Blitz 2021,Warsaw POL,2021.12.30,15.10,"Duda,J","Karjakin,Sergey",1-0,2743,A13,2760
-578,World Blitz 2021,Warsaw POL,2021.12.30,16.6,"Fedoseev,Vl3","Duda,J",0-1,2760,D80,2704
-579,World Blitz 2021,Warsaw POL,2021.12.30,17.5,"Duda,J","Kravtsiv,M",1-0,2604,A09,2760
-580,World Blitz 2021,Warsaw POL,2021.12.30,18.3,"Duda,J","Dubov,Daniil",0-1,2720,B50,2760
-581,World Blitz 2021,Warsaw POL,2021.12.30,19.6,"Oparin,G","Duda,J",0-1,2760,A05,2681
-582,World Blitz 2021,Warsaw POL,2021.12.30,20.4,"Alekseenko,K","Duda,J",0-1,2760,C85,2702
-583,World Blitz 2021,Warsaw POL,2021.12.30,21.2,"Duda,J","Artemiev,V",1-0,2700,D37,2760
-584,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.5,"Duda,J","Rapport,R",1-0,2763,D02,2760
-585,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2760,D41,2612
-586,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
-587,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.3,"Mamedyarov,S","Duda,J",1-0,2760,D41,2767
-588,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.6,"Duda,J","Karjakin,Sergey",1/2-1/2,2743,D20,2760
-589,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.2,"Vidit,S","Duda,J",1/2-1/2,2760,D41,2727
-590,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.5,"Duda,J","Caruana,F",0-1,2792,D02,2760
-591,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.7,"Dubov,Daniil","Duda,J",1/2-1/2,2760,E04,2720
-592,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.4,"Duda,J","Esipenko,Andrey",1/2-1/2,2714,E00,2760
-593,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.2,"Giri,A","Duda,J",1/2-1/2,2760,A18,2772
-594,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.6,"Duda,J","Shankland,S",1/2-1/2,2708,D02,2760
-595,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2702,D43,2760
-596,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.6,"Grandelius,N","Duda,J",1/2-1/2,2760,B66,2672
-597,Airthings Masters Prelim,chess24.com INT,2022.02.19,1.5,"Kosteniuk,A","Duda,J",0-1,2760,B51,2516
-598,Airthings Masters Prelim,chess24.com INT,2022.02.19,2.4,"Duda,J","Keymer,Vincent",0-1,2664,A07,2760
-599,Airthings Masters Prelim,chess24.com INT,2022.02.19,3.6,"Niemann,Hans Moke","Duda,J",1-0,2760,D00,2642
-600,Airthings Masters Prelim,chess24.com INT,2022.02.19,4.3,"Duda,J","Praggnanandhaa,R",1-0,2612,C50,2760
-601,Airthings Masters Prelim,chess24.com INT,2022.02.20,5.7,"Le, Quang Liem","Duda,J",1-0,2760,D30,2709
-602,Airthings Masters Prelim,chess24.com INT,2022.02.20,6.2,"Duda,J","Hansen,Eric",0-1,2606,C96,2760
-603,Airthings Masters Prelim,chess24.com INT,2022.02.20,7.8,Ding Liren,"Duda,J",1/2-1/2,2760,D41,2799
-604,Airthings Masters Prelim,chess24.com INT,2022.02.20,8.1,"Artemiev,V","Duda,J",1/2-1/2,2760,A08,2700
-605,Airthings Masters Prelim,chess24.com INT,2022.02.21,9.8,"Duda,J","Aronian,L",0-1,2772,D39,2760
-606,Airthings Masters Prelim,chess24.com INT,2022.02.21,10.2,"Mamedyarov,S","Duda,J",1/2-1/2,2760,D16,2767
-607,Airthings Masters Prelim,chess24.com INT,2022.02.21,11.7,"Duda,J","Giri,A",1-0,2772,D38,2760
-608,Airthings Masters Prelim,chess24.com INT,2022.02.21,12.3,"Carlsen,M","Duda,J",1-0,2760,B23,2865
-609,Airthings Masters Prelim,chess24.com INT,2022.02.22,13.6,"Duda,J","Abdusattorov,Nodirbek",1/2-1/2,2651,D86,2760
-610,Airthings Masters Prelim,chess24.com INT,2022.02.22,14.4,"Esipenko,Andrey","Duda,J",0-1,2760,C50,2714
-611,Airthings Masters Prelim,chess24.com INT,2022.02.22,15.5,"Duda,J","Nepomniachtchi,I",1/2-1/2,2773,C65,2760
-612,Charity Cup Prelim,chess24.com INT,2022.03.19,1.3,"Carlsen,M","Duda,J",1/2-1/2,2750,A07,2864
-613,Charity Cup Prelim,chess24.com INT,2022.03.19,2.6,"Duda,J","Navara,D",1-0,2700,C65,2750
-614,Charity Cup Prelim,chess24.com INT,2022.03.19,3.4,"Rapport,R","Duda,J",1/2-1/2,2750,C44,2762
-615,Charity Cup Prelim,chess24.com INT,2022.03.19,4.5,"Duda,J","Lei,Tingjie",1/2-1/2,2535,C50,2750
-616,Charity Cup Prelim,chess24.com INT,2022.03.20,5.5,"Praggnanandhaa,R","Duda,J",0-1,2750,E21,2619
-617,Charity Cup Prelim,chess24.com INT,2022.03.20,6.4,"Duda,J","Van Foreest,Jorden",1-0,2714,A11,2750
-618,Charity Cup Prelim,chess24.com INT,2022.03.20,7.6,"Anton Guijarro,D","Duda,J",1/2-1/2,2750,D05,2694
-619,Charity Cup Prelim,chess24.com INT,2022.03.20,8.3,"Duda,J","Jones,G",1-0,2672,E81,2750
-620,Charity Cup Prelim,chess24.com INT,2022.03.21,9.7,"Le, Quang Liem","Duda,J",1-0,2750,D45,2709
-621,Charity Cup Prelim,chess24.com INT,2022.03.21,10.2,"Duda,J","Ju,Wenjun",0-1,2560,D02,2750
-622,Charity Cup Prelim,chess24.com INT,2022.03.21,11.8,"Vidit,S","Duda,J",1-0,2750,D10,2723
-623,Charity Cup Prelim,chess24.com INT,2022.03.21,12.1,"Niemann,Hans Moke","Duda,J",0-1,2750,A18,2642
-624,Charity Cup Prelim,chess24.com INT,2022.03.22,13.8,"Duda,J","Harikrishna,P",0-1,2716,E12,2750
-625,Charity Cup Prelim,chess24.com INT,2022.03.22,14.2,"Hansen,Eric","Duda,J",0-1,2750,B52,2606
-626,Charity Cup Prelim,chess24.com INT,2022.03.22,15.7,"Duda,J",Ding Liren,1/2-1/2,2799,D38,2750
-627,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.12,"Duda,J","Anton Guijarro,D",1-0,2694,C77,2750
-628,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.13,"Anton Guijarro,D","Duda,J",1/2-1/2,2750,A13,2694
-629,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.11,"Anton Guijarro,D","Duda,J",0-1,2750,C67,2694
-630,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.22,"Duda,J","Le, Quang Liem",1/2-1/2,2709,A07,2750
-631,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.24,"Duda,J","Le, Quang Liem",1/2-1/2,2709,A05,2750
-632,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.23,"Le, Quang Liem","Duda,J",1/2-1/2,2750,D41,2709
-633,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.11,"Le, Quang Liem","Duda,J",0-1,2750,D37,2709
-634,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.11,"Carlsen,M","Duda,J",1/2-1/2,2750,E04,2864
-635,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.13,"Carlsen,M","Duda,J",1-0,2750,A29,2864
-636,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.12,"Duda,J","Carlsen,M",0-1,2864,D45,2750
-637,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.23,"Duda,J","Carlsen,M",1-0,2864,C44,2750
-638,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.22,"Carlsen,M","Duda,J",0-1,2750,B10,2864
-639,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.32,"Duda,J","Carlsen,M",0-1,2864,B12,2750
-640,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.24,"Carlsen,M","Duda,J",1/2-1/2,2750,C42,2864
-641,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.21,"Duda,J","Carlsen,M",0-1,2864,B31,2750
-642,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.31,"Carlsen,M","Duda,J",1-0,2750,D02,2864
-643,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
-644,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
-645,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
-646,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Duda,J","Giri,A",1/2-1/2,2773,D85,2750
-647,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.5,"Duda,J","Giri,A",1-0,2773,A48,2750
-648,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.6,"Giri,A","Duda,J",0-1,2750,A13,2773
-649,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Duda,J","Giri,A",1/2-1/2,2773,A48,2750
-650,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Giri,A","Duda,J",1/2-1/2,2750,D91,2773
-651,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Giri,A","Duda,J",1/2-1/2,2750,D85,2773
-652,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Van Foreest,Jorden","Duda,J",0-1,2750,C50,2714
-653,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Duda,J","Van Foreest,Jorden",1/2-1/2,2714,D12,2750
-654,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Van Foreest,Jorden","Duda,J",0-1,2750,C49,2714
-655,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Duda,J","Mamedyarov,S",0-1,2771,D38,2750
-656,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Mamedyarov,S","Duda,J",1/2-1/2,2750,E60,2771
-657,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.4,"Mamedyarov,S","Duda,J",1/2-1/2,2750,D94,2771
-658,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.5,"Mamedyarov,S","Duda,J",0-1,2750,E60,2771
-659,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.6,"Duda,J","Mamedyarov,S",1-0,2771,D45,2750
-660,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Duda,J","Mamedyarov,S",1-0,2771,D38,2750
-661,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.6,"Duda,J","Le, Quang Liem",0-1,2709,A35,2750
-662,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.5,"Le, Quang Liem","Duda,J",1-0,2750,E12,2709
-663,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Duda,J","Le, Quang Liem",1/2-1/2,2709,A13,2750
-664,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Le, Quang Liem","Duda,J",1/2-1/2,2750,D85,2709
-665,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Duda,J","Le, Quang Liem",1-0,2709,A13,2750
-666,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Le, Quang Liem","Duda,J",1-0,2750,D85,2709
-667,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Praggnanandhaa,R","Duda,J",0-1,2750,D87,2624
-668,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Duda,J","Praggnanandhaa,R",1/2-1/2,2624,A21,2750
-669,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Duda,J","Praggnanandhaa,R",1-0,2624,A20,2750
-670,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Duda,J","Hansen,Eric",1-0,2606,C65,2750
-671,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Hansen,Eric","Duda,J",1/2-1/2,2750,C65,2606
-672,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Hansen,Eric","Duda,J",0-1,2750,C65,2606
-673,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.5,"Duda,J","Gavrilescu,David",1-0,2518,C11,2750
-674,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.2,"Caruana,F","Duda,J",1-0,2750,D35,2786
-675,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.4,"Duda,J","Rapport,R",1-0,2776,E98,2750
-676,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.3,"Wojtaszek,R","Duda,J",0-1,2750,B06,2696
-677,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.3,"Duda,J","So,W",0-1,2776,C65,2750
-678,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
-679,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.2,"Duda,J","Shevchenko,Kirill",1/2-1/2,2644,D12,2750
-680,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.5,"Aronian,L","Duda,J",0-1,2750,C24,2765
-681,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.1,"Duda,J","Korobov,A",1-0,2671,E71,2750
-682,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
-683,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.3,"Duda,J","So,W",0-1,2776,C65,2750
-684,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.4,"Caruana,F","Duda,J",1/2-1/2,2750,C67,2786
-685,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.2,"Duda,J","Rapport,R",1/2-1/2,2776,A61,2750
-686,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.5,"Wojtaszek,R","Duda,J",0-1,2750,E60,2696
-687,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.1,"Aronian,L","Duda,J",1/2-1/2,2750,C50,2765
-688,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.5,"Duda,J","Korobov,A",1-0,2671,E12,2750
-689,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.2,"Gavrilescu,David","Duda,J",0-1,2750,B29,2518
-690,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.4,"Duda,J","Shevchenko,Kirill",1-0,2644,D12,2750
-691,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
-692,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.3,"So,W","Duda,J",0-1,2750,A25,2776
-693,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.4,"Duda,J","Caruana,F",0-1,2786,A21,2750
-694,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.2,"Rapport,R","Duda,J",0-1,2750,C46,2776
-695,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.5,"Duda,J","Wojtaszek,R",1-0,2696,B23,2750
-696,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.1,"Duda,J","Aronian,L",1/2-1/2,2765,A13,2750
-697,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.5,"Korobov,A","Duda,J",1-0,2750,A33,2671
-698,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.2,"Duda,J","Gavrilescu,David",1-0,2518,D50,2750
-699,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.4,"Shevchenko,Kirill","Duda,J",0-1,2750,C02,2644
-700,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.1,"Duda,J","Rapport,R",1/2-1/2,2764,B44,2750
-701,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.4,"Duda,J",Ding Liren,1/2-1/2,2806,C50,2750
-702,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.2,"Caruana,F","Duda,J",1/2-1/2,2750,B90,2783
-703,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.3,"Duda,J","Radjabov,T",1/2-1/2,2753,C65,2750
-704,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.3,"Firouzja,Alireza","Duda,J",1/2-1/2,2750,C42,2793
-705,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.4,"Nepomniachtchi,I","Duda,J",1-0,2750,A07,2766
-706,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.2,"Duda,J","Nakamura,Hi",1/2-1/2,2760,E47,2750
-707,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.1,"Rapport,R","Duda,J",1-0,2750,C46,2764
-708,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.4,Ding Liren,"Duda,J",1-0,2750,A13,2806
-709,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.2,"Duda,J","Caruana,F",1-0,2783,C53,2750
-710,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.3,"Radjabov,T","Duda,J",1/2-1/2,2750,A15,2753
-711,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.3,"Duda,J","Firouzja,Alireza",1/2-1/2,2793,D45,2750
-712,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.2,"Nakamura,Hi","Duda,J",1-0,2750,B90,2760
-713,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.4,"Duda,J","Nepomniachtchi,I",1/2-1/2,2766,C43,2750
-714,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,1.4,"Duda,J","Radjabov,T",1-0,2738,C65,2750
-715,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,2.6,"Rapport,R","Duda,J",1/2-1/2,2750,C42,2764
-716,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,3.3,"Duda,J","Wojtaszek,R",1/2-1/2,2708,A07,2750
-717,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,4.7,"Shankland,S","Duda,J",0-1,2750,C43,2720
-718,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,5.2,"Duda,J",Wei Yi,1-0,2727,B51,2750
-719,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,6.8,"Dominguez Perez,L","Duda,J",1/2-1/2,2750,B12,2754
-720,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,7.1,"Duda,J","Niemann,Hans Moke",1-0,2688,E10,2750
-721,FTX Road to Miami Prelim,chess24.com INT,2022.07.11,8.8,"Duda,J","Mamedyarov,S",1/2-1/2,2759,C53,2750
-722,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,9.2,"Erigaisi,Arjun","Duda,J",0-1,2750,D02,2689
-723,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,10.7,"Duda,J","Ju,Wenjun",1-0,2560,C67,2750
-724,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,11.3,"Giri,A","Duda,J",1/2-1/2,2750,C67,2760
-725,FTX Road to Miami Prelim,chess24.com INT,2022.07.12,12.6,"Duda,J","Xiong,Jeffery",1/2-1/2,2691,C65,2750
-726,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,13.4,"Tari,A","Duda,J",1-0,2750,B52,2672
-727,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,14.5,"Duda,J","Sevian,Samuel",1-0,2684,E49,2750
-728,FTX Road to Miami Prelim,chess24.com INT,2022.07.13,15.5,"Aronian,L","Duda,J",1/2-1/2,2750,E15,2775
-729,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.12,"Duda,J","Giri,A",1/2-1/2,2760,B51,2750
-730,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.11,"Giri,A","Duda,J",1/2-1/2,2750,A07,2760
-731,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.14,"Duda,J","Giri,A",1/2-1/2,2760,B51,2750
-732,FTX Road to Miami KO 2022,chess24.com INT,2022.07.14,1.13,"Giri,A","Duda,J",0-1,2750,A07,2760
-733,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.14,"Duda,J","Aronian,L",0-1,2775,D20,2750
-734,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.13,"Aronian,L","Duda,J",1/2-1/2,2750,E46,2775
-735,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.12,"Duda,J","Aronian,L",0-1,2775,D20,2750
-736,FTX Road to Miami KO 2022,chess24.com INT,2022.07.15,2.11,"Aronian,L","Duda,J",1/2-1/2,2750,E21,2775
-737,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,1,"Ivanchuk,V","Duda,J",0-1,2750,C19,2678
-738,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,2,"Duda,J","Ivanchuk,V",1-0,2678,C50,2750
-739,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,3,"Ivanchuk,V","Duda,J",0-1,2750,B15,2678
-740,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,4,"Duda,J","Ivanchuk,V",1-0,2678,D37,2750
-741,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,5,"Ivanchuk,V","Duda,J",0-1,2750,C42,2678
-742,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,6,"Duda,J","Ivanchuk,V",0-1,2678,A80,2750
-743,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,7,"Ivanchuk,V","Duda,J",0-1,2750,C33,2678
-744,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,8,"Duda,J","Ivanchuk,V",1-0,2678,A43,2750
-745,44th Olympiad 2022,Chennai IND,2022.07.31,3.5,"Smirnov,Ant","Duda,J",0-1,2750,D45,2600
-746,44th Olympiad 2022,Chennai IND,2022.08.01,4.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2692,E06,2750
-747,44th Olympiad 2022,Chennai IND,2022.08.02,5.5,"Moussard,J","Duda,J",1/2-1/2,2750,C65,2672
-748,44th Olympiad 2022,Chennai IND,2022.08.03,6.5,"Duda,J","Indjic,A",1/2-1/2,2620,A77,2750
-749,44th Olympiad 2022,Chennai IND,2022.08.05,7.13,"Duda,J","Paragua,M",0-1,2461,B90,2750
-750,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Niemann,Hans Moke","Duda,J",1-0,2740,E60,2687
-751,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Niemann,Hans Moke","Duda,J",0-1,2740,D00,2687
-752,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Duda,J","Niemann,Hans Moke",1-0,2687,B33,2740
-753,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Duda,J","Aronian,L",0-1,2775,C55,2740
-754,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Aronian,L","Duda,J",1/2-1/2,2740,D02,2775
-755,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Duda,J","Aronian,L",1/2-1/2,2775,C55,2740
-756,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.6,"Aronian,L","Duda,J",1-0,2740,A13,2775
-757,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.5,"Duda,J","Aronian,L",1/2-1/2,2775,C44,2740
-758,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Aronian,L","Duda,J",0-1,2740,D31,2775
-759,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Duda,J","Le,Quang Liem",0-1,2728,C50,2740
-760,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Le,Quang Liem","Duda,J",1-0,2740,A13,2728
-761,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Le,Quang Liem","Duda,J",1/2-1/2,2740,D37,2728
-762,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Firouzja,Alireza","Duda,J",1-0,2740,E53,2778
-763,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Duda,J","Firouzja,Alireza",1-0,2778,D41,2740
-764,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Firouzja,Alireza","Duda,J",1-0,2740,C65,2778
-765,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2778,A18,2740
-766,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
-767,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
-768,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
-769,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
-770,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
-771,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
-772,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Duda,J","Praggnanandhaa,R",1/2-1/2,2661,D41,2740
-773,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2740,A07,2661
-774,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Duda,J","Praggnanandhaa,R",0-1,2661,A22,2740
-775,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Duda,J","Praggnanandhaa,R",1-0,2661,A45,2740
-776,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
-777,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Duda,J","Giri,A",1-0,2760,C67,2740
-778,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Duda,J","Giri,A",1/2-1/2,2760,B51,2740
-779,?,?,????.??.??,?,?,?,0-1,,,
+22,TCh-POL Ekstraliga 2020,Warsaw POL,2020.08.31,6.1,"Kryvoruchko,Y","Duda,J",0-1,2753,B51,2682
+23,TCh-POL Ekstraliga 2020,Warsaw POL,2020.09.02,8.2,"Harikrishna,P","Duda,J",1/2-1/2,2753,E53,2732
+24,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.3,"Duda,J","Firouzja,Alireza",0-1,2728,B19,2757
+25,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.2,"Caruana,F","Duda,J",1-0,2757,D10,2828
+26,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.2,"Duda,J","Aronian,L",0-1,2767,C48,2757
+27,8th Norway Armageddon,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1-0,2757,B51,2633
+28,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.3,"Tari,A","Duda,J",1/2-1/2,2757,B23,2633
+29,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
+30,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
+31,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.3,"Duda,J","Tari,A",1-0,2633,C70,2757
+32,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",1/2-1/2,2757,B36,2767
+33,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.3,"Aronian,L","Duda,J",0-1,2757,C10,2767
+34,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",1/2-1/2,2828,B48,2757
+35,8th Norway Armageddon,Stavanger NOR,2020.10.15,9.3,"Duda,J","Caruana,F",0-1,2828,A09,2757
+36,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.2,"Firouzja,Alireza","Duda,J",1-0,2757,D78,2728
+37,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.4,"Esipenko,Andrey","Duda,J",1/2-1/2,2743,C42,2677
+38,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.4,"Duda,J","Grandelius,N",0-1,2663,A30,2743
+39,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.4,"Caruana,F","Duda,J",1/2-1/2,2743,C42,2823
+40,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.3,"Duda,J","Giri,A",1/2-1/2,2764,D87,2743
+41,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.7,"Wojtaszek,R","Duda,J",1/2-1/2,2743,D41,2705
+42,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
+43,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.6,"Firouzja,Alireza","Duda,J",1-0,2743,D02,2749
+44,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.2,"Duda,J","Anton Guijarro,D",1/2-1/2,2679,C50,2743
+45,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.2,"Tari,A","Duda,J",1/2-1/2,2743,B51,2625
+46,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2671,E60,2743
+47,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.2,"Donchenko,Alexa","Duda,J",1/2-1/2,2743,D35,2668
+48,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.6,"Vachier Lagrave,M","Duda,J",1/2-1/2,2743,C42,2784
+49,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.7,"Duda,J","Harikrishna,P",1/2-1/2,2732,D45,2743
+50,3rd Prague Masters 2021,Prague CZE,2021.06.14,1.4,"Duda,J","Navara,D",1-0,2697,C65,2729
+51,3rd Prague Masters 2021,Prague CZE,2021.06.15,2.2,"Shankland,S","Duda,J",1-0,2729,B90,2691
+52,3rd Prague Masters 2021,Prague CZE,2021.06.16,3.1,"Duda,J","Abasov,N",1/2-1/2,2665,D35,2729
+53,3rd Prague Masters 2021,Prague CZE,2021.06.17,4.4,"Nguyen,Thai Dai Van","Duda,J",1/2-1/2,2729,E00,2577
+54,3rd Prague Masters 2021,Prague CZE,2021.06.18,5.3,"Duda,J","Van Foreest,Jorden",1-0,2701,C80,2729
+55,3rd Prague Masters 2021,Prague CZE,2021.06.19,6.4,"Grandelius,N","Duda,J",0-1,2729,C02,2670
+56,3rd Prague Masters 2021,Prague CZE,2021.06.20,7.4,"Duda,J","Wojtaszek,R",1-0,2687,C84,2729
+57,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,1.5,"Duda,J","Saric,Iv",1/2-1/2,2653,A45,2738
+58,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,2.2,"Giri,A","Duda,J",1/2-1/2,2738,B52,2776
+59,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.07,3.4,"Duda,J","Van Foreest,Jorden",1/2-1/2,2688,B12,2738
+60,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,4.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B11,2749
+61,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,5.3,"Duda,J","Nepomniachtchi,I",1/2-1/2,2792,E49,2738
+62,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.08,6.4,"Mamedyarov,S","Duda,J",0-1,2738,D36,2782
+63,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,7.2,"Duda,J","Anand,V",1/2-1/2,2753,C65,2738
+64,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,8.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B90,2778
+65,GCT Rapid Croatia 2021,Zagreb CRO,2021.07.09,9.1,"Duda,J","Korobov,A",1-0,2683,E83,2738
+66,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,1.5,"Grischuk,A","Duda,J",1/2-1/2,2738,B12,2778
+67,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,2.1,"Anand,V","Duda,J",1-0,2738,B12,2753
+68,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,3.5,"Duda,J","Kasparov,G",1-0,2812,B96,2738
+69,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,4.2,"Korobov,A","Duda,J",0-1,2738,D10,2683
+70,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,5.4,"Duda,J","Mamedyarov,S",1-0,2782,D22,2738
+71,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,6.3,"Giri,A","Duda,J",1/2-1/2,2738,D10,2776
+72,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,7.3,"Duda,J","Vachier Lagrave,M",1/2-1/2,2749,D85,2738
+73,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,8.4,"Nepomniachtchi,I","Duda,J",1-0,2738,A13,2792
+74,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.10,9.2,"Duda,J","Van Foreest,Jorden",0-1,2688,C02,2738
+75,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,10.5,"Duda,J","Grischuk,A",0-1,2778,C53,2738
+76,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,11.1,"Duda,J","Anand,V",1/2-1/2,2753,A30,2738
+77,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,12.5,"Kasparov,G","Duda,J",0-1,2738,B92,2812
+78,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,13.2,"Duda,J","Korobov,A",1-0,2683,C14,2738
+79,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,14.4,"Mamedyarov,S","Duda,J",1-0,2738,D45,2782
+80,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,15.3,"Duda,J","Giri,A",1-0,2776,D00,2738
+81,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,16.3,"Vachier Lagrave,M","Duda,J",1-0,2738,B10,2749
+82,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,17.4,"Duda,J","Nepomniachtchi,I",1-0,2792,D38,2738
+83,GCT Blitz Croatia 2021,Zagreb CRO,2021.07.11,18.2,"Van Foreest,Jorden","Duda,J",0-1,2738,B94,2688
+84,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Duda,J","Vazquez,Guillermo",1-0,2527,D38,2738
+85,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Vazquez,Guillermo","Duda,J",1/2-1/2,2738,B52,2527
+86,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Sevian,Samuel","Duda,J",1/2-1/2,2738,C43,2647
+87,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Duda,J","Sevian,Samuel",1-0,2647,E36,2738
+88,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Duda,J","Idani,P",1/2-1/2,2614,B90,2738
+89,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Idani,P","Duda,J",0-1,2738,C42,2614
+90,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Grischuk,A","Duda,J",1/2-1/2,2738,D37,2778
+91,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Duda,J","Grischuk,A",1/2-1/2,2778,D41,2738
+92,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Duda,J","Grischuk,A",1-0,2778,C65,2738
+93,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Grischuk,A","Duda,J",1/2-1/2,2738,A07,2778
+94,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Vidit,S","Duda,J",1/2-1/2,2738,E06,2726
+95,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Duda,J","Vidit,S",1-0,2726,C78,2738
+96,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
+97,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
+98,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
+99,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
+100,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Karjakin,Sergey","Duda,J",1/2-1/2,2738,D37,2757
+101,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Duda,J","Karjakin,Sergey",1-0,2757,D41,2738
+102,23rd European Teams,Terme Catez SLO,2021.11.12,1.4,"Duda,J","Hillarp Persson,T",1-0,2528,B90,2756
+103,23rd European Teams,Terme Catez SLO,2021.11.13,2.4,"Nabaty,T","Duda,J",1/2-1/2,2756,D02,2649
+104,23rd European Teams,Terme Catez SLO,2021.11.14,3.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2651,E32,2756
+105,23rd European Teams,Terme Catez SLO,2021.11.15,4.2,"Grischuk,A","Duda,J",1/2-1/2,2756,C42,2773
+106,23rd European Teams,Terme Catez SLO,2021.11.18,6.6,"Navara,D","Duda,J",1/2-1/2,2756,B12,2699
+107,23rd European Teams,Terme Catez SLO,2021.11.19,7.6,"Duda,J","Nisipeanu,LD",1-0,2651,B40,2756
+108,23rd European Teams,Terme Catez SLO,2021.11.20,8.3,"Duda,J","Shirov,A",1/2-1/2,2673,C53,2756
+109,23rd European Teams,Terme Catez SLO,2021.11.21,9.4,"Jobava,Ba","Duda,J",0-1,2756,C15,2582
+110,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,1,"Wojtaszek,R","Duda,J",1/2-1/2,2756,E07,2700
+111,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,2,"Duda,J","Wojtaszek,R",0-1,2700,A07,2756
+112,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,3,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
+113,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,4,"Duda,J","Wojtaszek,R",1-0,2700,A29,2756
+114,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,5,"Wojtaszek,R","Duda,J",0-1,2756,E06,2700
+115,Polish Supercup 2021,Bydgoszcz POL,2021.11.27,6,"Duda,J","Wojtaszek,R",1/2-1/2,2700,B90,2756
+116,European Blitz 2021,Katowice POL,2021.12.17,1.1,"Duda,J","Adamczyk,Zuzanna",1-0,2047,B10,2760
+117,European Blitz 2021,Katowice POL,2021.12.17,2.1,"Adamczyk,Zuzanna","Duda,J",0-1,2760,A62,2047
+118,European Blitz 2021,Katowice POL,2021.12.17,3.1,"Hasterok,Mateusz","Duda,J",0-1,2760,E20,2132
+119,European Blitz 2021,Katowice POL,2021.12.17,4.1,"Duda,J","Hasterok,Mateusz",1-0,2132,D37,2760
+120,European Blitz 2021,Katowice POL,2021.12.17,5.1,"Duda,J","Walter,Szymon",1-0,2286,B40,2760
+121,European Blitz 2021,Katowice POL,2021.12.17,6.1,"Walter,Szymon","Duda,J",0-1,2760,B23,2286
+122,European Blitz 2021,Katowice POL,2021.12.17,7.1,"Keinanen,Toivo","Duda,J",0-1,2760,A46,2468
+123,European Blitz 2021,Katowice POL,2021.12.17,8.1,"Duda,J","Keinanen,Toivo",1-0,2468,D31,2760
+124,European Blitz 2021,Katowice POL,2021.12.17,9.1,"Duda,J","Blohberger,Felix",1-0,2503,B90,2760
+125,European Blitz 2021,Katowice POL,2021.12.17,10.1,"Blohberger,Felix","Duda,J",1/2-1/2,2760,A46,2503
+126,European Blitz 2021,Katowice POL,2021.12.17,11.1,"Duda,J","Vetoshko,V",1-0,2501,D31,2760
+127,European Blitz 2021,Katowice POL,2021.12.17,12.1,"Vetoshko,V","Duda,J",0-1,2760,B92,2501
+128,European Blitz 2021,Katowice POL,2021.12.17,13.1,"Demchenko,A","Duda,J",0-1,2760,B29,2654
+129,European Blitz 2021,Katowice POL,2021.12.17,14.1,"Duda,J","Demchenko,A",1-0,2654,C75,2760
+130,European Blitz 2021,Katowice POL,2021.12.17,15.1,"Sadzikowski,D","Duda,J",1/2-1/2,2760,D43,2525
+131,European Blitz 2021,Katowice POL,2021.12.17,16.1,"Duda,J","Sadzikowski,D",1-0,2525,D30,2760
+132,European Blitz 2021,Katowice POL,2021.12.17,17.1,"Duda,J","Durarbayli,V",1-0,2615,C88,2760
+133,European Blitz 2021,Katowice POL,2021.12.17,18.1,"Durarbayli,V","Duda,J",1/2-1/2,2760,B20,2615
+134,European Blitz 2021,Katowice POL,2021.12.17,19.1,"Duda,J","Klekowski,M",0-1,2479,A46,2760
+135,European Blitz 2021,Katowice POL,2021.12.17,20.1,"Klekowski,M","Duda,J",1/2-1/2,2760,A17,2479
+136,European Blitz 2021,Katowice POL,2021.12.17,21.1,"Schneider,Il","Duda,J",0-1,2760,A45,2479
+137,European Blitz 2021,Katowice POL,2021.12.17,22.1,"Duda,J","Schneider,Il",0-1,2479,B00,2760
+138,World Rapid 2021,Warsaw POL,2021.12.26,1.3,"Duda,J","Gabuzyan,H",1-0,2589,A60,2760
+139,World Rapid 2021,Warsaw POL,2021.12.26,2.3,"Vakhidov,J","Duda,J",0-1,2760,A27,2552
+140,World Rapid 2021,Warsaw POL,2021.12.26,3.1,"Duda,J","Volokitin,And",1-0,2677,D38,2760
+141,World Rapid 2021,Warsaw POL,2021.12.26,4.2,"Alekseenko,K","Duda,J",0-1,2760,C77,2702
+142,World Rapid 2021,Warsaw POL,2021.12.26,5.2,"Duda,J","Jobava,Ba",1/2-1/2,2588,D25,2760
+143,World Rapid 2021,Warsaw POL,2021.12.27,6.2,"Nepomniachtchi,I","Duda,J",1-0,2760,C88,2782
+144,World Rapid 2021,Warsaw POL,2021.12.27,7.6,"Duda,J","Hovhannisyan,R",1-0,2643,D11,2760
+145,World Rapid 2021,Warsaw POL,2021.12.27,8.2,"Duda,J","Movsesian,S",1-0,2608,D12,2760
+146,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
+147,World Rapid 2021,Warsaw POL,2021.12.28,10.4,"Duda,J","Cheparinov,I",1/2-1/2,2664,D37,2760
+148,World Rapid 2021,Warsaw POL,2021.12.28,11.3,"Caruana,F","Duda,J",1/2-1/2,2760,E32,2792
+149,World Rapid 2021,Warsaw POL,2021.12.28,12.5,"Duda,J","Salem,AR",1-0,2690,D35,2760
+150,World Rapid 2021,Warsaw POL,2021.12.28,13.3,"Abdusattorov,Nodirbek","Duda,J",1/2-1/2,2760,A18,2633
+151,World Blitz 2021,Warsaw POL,2021.12.29,1.6,"Duda,J","Chigaev,M",1-0,2632,E94,2760
+152,World Blitz 2021,Warsaw POL,2021.12.29,2.2,"Demidov,M","Duda,J",1-0,2760,A05,2556
+153,World Blitz 2021,Warsaw POL,2021.12.29,3.31,"Duda,J","Krasenkow,M",1-0,2576,A21,2760
+154,World Blitz 2021,Warsaw POL,2021.12.29,4.17,"Petrosian,TL","Duda,J",1/2-1/2,2760,A05,2573
+155,World Blitz 2021,Warsaw POL,2021.12.29,5.17,"Duda,J","Tang,Andrew",1-0,2519,C60,2760
+156,World Blitz 2021,Warsaw POL,2021.12.29,6.9,"Ter Sahakyan,S","Duda,J",0-1,2760,C88,2637
+157,World Blitz 2021,Warsaw POL,2021.12.29,7.6,"Vidit,S","Duda,J",0-1,2760,E60,2727
+158,World Blitz 2021,Warsaw POL,2021.12.29,8.4,"Duda,J","Ivic,Velimir",1-0,2606,B31,2760
+159,World Blitz 2021,Warsaw POL,2021.12.29,9.3,"Duda,J","Aronian,L",0-1,2772,A18,2760
+160,World Blitz 2021,Warsaw POL,2021.12.29,10.5,"Amin,B","Duda,J",1/2-1/2,2760,A05,2680
+161,World Blitz 2021,Warsaw POL,2021.12.29,11.6,"Duda,J","Socko,B",1-0,2642,A13,2760
+162,World Blitz 2021,Warsaw POL,2021.12.29,12.5,"Maghsoodloo,Parham","Duda,J",1-0,2760,E43,2701
+163,World Blitz TB 2021,Warsaw POL,2021.12.30,1,"Vachier Lagrave,M","Duda,J",1/2-1/2,2760,C84,2761
+164,World Blitz TB 2021,Warsaw POL,2021.12.30,2,"Duda,J","Vachier Lagrave,M",1/2-1/2,2761,D27,2760
+165,World Blitz TB 2021,Warsaw POL,2021.12.30,3,"Vachier Lagrave,M","Duda,J",1-0,2760,C84,2761
+166,World Blitz 2021,Warsaw POL,2021.12.30,13.8,"Duda,J","Martirosyan,Haik M.",0-1,2621,A29,2760
+167,World Blitz 2021,Warsaw POL,2021.12.30,14.13,"Durarbayli,V","Duda,J",0-1,2760,C28,2615
+168,World Blitz 2021,Warsaw POL,2021.12.30,15.10,"Duda,J","Karjakin,Sergey",1-0,2743,A13,2760
+169,World Blitz 2021,Warsaw POL,2021.12.30,16.6,"Fedoseev,Vl3","Duda,J",0-1,2760,D80,2704
+170,World Blitz 2021,Warsaw POL,2021.12.30,17.5,"Duda,J","Kravtsiv,M",1-0,2604,A09,2760
+171,World Blitz 2021,Warsaw POL,2021.12.30,18.3,"Duda,J","Dubov,Daniil",0-1,2720,B50,2760
+172,World Blitz 2021,Warsaw POL,2021.12.30,19.6,"Oparin,G","Duda,J",0-1,2760,A05,2681
+173,World Blitz 2021,Warsaw POL,2021.12.30,20.4,"Alekseenko,K","Duda,J",0-1,2760,C85,2702
+174,World Blitz 2021,Warsaw POL,2021.12.30,21.2,"Duda,J","Artemiev,V",1-0,2700,D37,2760
+175,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.5,"Duda,J","Rapport,R",1-0,2763,D02,2760
+176,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2760,D41,2612
+177,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
+178,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.3,"Mamedyarov,S","Duda,J",1-0,2760,D41,2767
+179,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.6,"Duda,J","Karjakin,Sergey",1/2-1/2,2743,D20,2760
+180,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.2,"Vidit,S","Duda,J",1/2-1/2,2760,D41,2727
+181,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.5,"Duda,J","Caruana,F",0-1,2792,D02,2760
+182,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.7,"Dubov,Daniil","Duda,J",1/2-1/2,2760,E04,2720
+183,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.4,"Duda,J","Esipenko,Andrey",1/2-1/2,2714,E00,2760
+184,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.26,10.2,"Giri,A","Duda,J",1/2-1/2,2760,A18,2772
+185,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.6,"Duda,J","Shankland,S",1/2-1/2,2708,D02,2760
+186,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.6,"Duda,J","Van Foreest,Jorden",1/2-1/2,2702,D43,2760
+187,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.30,13.6,"Grandelius,N","Duda,J",1/2-1/2,2760,B66,2672
+188,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
+189,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
+190,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
+191,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Duda,J","Giri,A",1/2-1/2,2773,D85,2750
+192,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.5,"Duda,J","Giri,A",1-0,2773,A48,2750
+193,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.6,"Giri,A","Duda,J",0-1,2750,A13,2773
+194,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Duda,J","Giri,A",1/2-1/2,2773,A48,2750
+195,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Giri,A","Duda,J",1/2-1/2,2750,D91,2773
+196,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Giri,A","Duda,J",1/2-1/2,2750,D85,2773
+197,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Van Foreest,Jorden","Duda,J",0-1,2750,C50,2714
+198,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Duda,J","Van Foreest,Jorden",1/2-1/2,2714,D12,2750
+199,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Van Foreest,Jorden","Duda,J",0-1,2750,C49,2714
+200,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Duda,J","Mamedyarov,S",0-1,2771,D38,2750
+201,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Mamedyarov,S","Duda,J",1/2-1/2,2750,E60,2771
+202,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.4,"Mamedyarov,S","Duda,J",1/2-1/2,2750,D94,2771
+203,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.5,"Mamedyarov,S","Duda,J",0-1,2750,E60,2771
+204,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.6,"Duda,J","Mamedyarov,S",1-0,2771,D45,2750
+205,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Duda,J","Mamedyarov,S",1-0,2771,D38,2750
+206,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.6,"Duda,J","Le, Quang Liem",0-1,2709,A35,2750
+207,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.5,"Le, Quang Liem","Duda,J",1-0,2750,E12,2709
+208,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Duda,J","Le, Quang Liem",1/2-1/2,2709,A13,2750
+209,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Le, Quang Liem","Duda,J",1/2-1/2,2750,D85,2709
+210,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Duda,J","Le, Quang Liem",1-0,2709,A13,2750
+211,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Le, Quang Liem","Duda,J",1-0,2750,D85,2709
+212,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Praggnanandhaa,R","Duda,J",0-1,2750,D87,2624
+213,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Duda,J","Praggnanandhaa,R",1/2-1/2,2624,A21,2750
+214,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Duda,J","Praggnanandhaa,R",1-0,2624,A20,2750
+215,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Duda,J","Hansen,Eric",1-0,2606,C65,2750
+216,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Hansen,Eric","Duda,J",1/2-1/2,2750,C65,2606
+217,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Hansen,Eric","Duda,J",0-1,2750,C65,2606
+218,Superbet Rapid 2022,Warsaw POL,2022.05.19,1.5,"Duda,J","Gavrilescu,David",1-0,2518,C11,2750
+219,Superbet Rapid 2022,Warsaw POL,2022.05.19,2.2,"Caruana,F","Duda,J",1-0,2750,D35,2786
+220,Superbet Rapid 2022,Warsaw POL,2022.05.19,3.4,"Duda,J","Rapport,R",1-0,2776,E98,2750
+221,Superbet Rapid 2022,Warsaw POL,2022.05.20,4.3,"Wojtaszek,R","Duda,J",0-1,2750,B06,2696
+222,Superbet Rapid 2022,Warsaw POL,2022.05.20,5.3,"Duda,J","So,W",0-1,2776,C65,2750
+223,Superbet Rapid 2022,Warsaw POL,2022.05.20,6.4,"Anand,V","Duda,J",1/2-1/2,2750,C02,2751
+224,Superbet Rapid 2022,Warsaw POL,2022.05.21,7.2,"Duda,J","Shevchenko,Kirill",1/2-1/2,2644,D12,2750
+225,Superbet Rapid 2022,Warsaw POL,2022.05.21,8.5,"Aronian,L","Duda,J",0-1,2750,C24,2765
+226,Superbet Rapid 2022,Warsaw POL,2022.05.21,9.1,"Duda,J","Korobov,A",1-0,2671,E71,2750
+227,Superbet Blitz 2022,Warsaw POL,2022.05.22,1.3,"Anand,V","Duda,J",1-0,2750,C65,2751
+228,Superbet Blitz 2022,Warsaw POL,2022.05.22,2.3,"Duda,J","So,W",0-1,2776,C65,2750
+229,Superbet Blitz 2022,Warsaw POL,2022.05.22,3.4,"Caruana,F","Duda,J",1/2-1/2,2750,C67,2786
+230,Superbet Blitz 2022,Warsaw POL,2022.05.22,4.2,"Duda,J","Rapport,R",1/2-1/2,2776,A61,2750
+231,Superbet Blitz 2022,Warsaw POL,2022.05.22,5.5,"Wojtaszek,R","Duda,J",0-1,2750,E60,2696
+232,Superbet Blitz 2022,Warsaw POL,2022.05.22,6.1,"Aronian,L","Duda,J",1/2-1/2,2750,C50,2765
+233,Superbet Blitz 2022,Warsaw POL,2022.05.22,7.5,"Duda,J","Korobov,A",1-0,2671,E12,2750
+234,Superbet Blitz 2022,Warsaw POL,2022.05.22,8.2,"Gavrilescu,David","Duda,J",0-1,2750,B29,2518
+235,Superbet Blitz 2022,Warsaw POL,2022.05.22,9.4,"Duda,J","Shevchenko,Kirill",1-0,2644,D12,2750
+236,Superbet Blitz 2022,Warsaw POL,2022.05.23,10.3,"Duda,J","Anand,V",1-0,2751,C43,2750
+237,Superbet Blitz 2022,Warsaw POL,2022.05.23,11.3,"So,W","Duda,J",0-1,2750,A25,2776
+238,Superbet Blitz 2022,Warsaw POL,2022.05.23,12.4,"Duda,J","Caruana,F",0-1,2786,A21,2750
+239,Superbet Blitz 2022,Warsaw POL,2022.05.23,13.2,"Rapport,R","Duda,J",0-1,2750,C46,2776
+240,Superbet Blitz 2022,Warsaw POL,2022.05.23,14.5,"Duda,J","Wojtaszek,R",1-0,2696,B23,2750
+241,Superbet Blitz 2022,Warsaw POL,2022.05.23,15.1,"Duda,J","Aronian,L",1/2-1/2,2765,A13,2750
+242,Superbet Blitz 2022,Warsaw POL,2022.05.23,16.5,"Korobov,A","Duda,J",1-0,2750,A33,2671
+243,Superbet Blitz 2022,Warsaw POL,2022.05.23,17.2,"Duda,J","Gavrilescu,David",1-0,2518,D50,2750
+244,Superbet Blitz 2022,Warsaw POL,2022.05.23,18.4,"Shevchenko,Kirill","Duda,J",0-1,2750,C02,2644
+245,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.1,"Duda,J","Rapport,R",1/2-1/2,2764,B44,2750
+246,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.4,"Duda,J",Ding Liren,1/2-1/2,2806,C50,2750
+247,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.2,"Caruana,F","Duda,J",1/2-1/2,2750,B90,2783
+248,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.3,"Duda,J","Radjabov,T",1/2-1/2,2753,C65,2750
+249,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.3,"Firouzja,Alireza","Duda,J",1/2-1/2,2750,C42,2793
+250,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.4,"Nepomniachtchi,I","Duda,J",1-0,2750,A07,2766
+251,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.2,"Duda,J","Nakamura,Hi",1/2-1/2,2760,E47,2750
+252,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.1,"Rapport,R","Duda,J",1-0,2750,C46,2764
+253,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.4,Ding Liren,"Duda,J",1-0,2750,A13,2806
+254,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.2,"Duda,J","Caruana,F",1-0,2783,C53,2750
+255,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.3,"Radjabov,T","Duda,J",1/2-1/2,2750,A15,2753
+256,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.3,"Duda,J","Firouzja,Alireza",1/2-1/2,2793,D45,2750
+257,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.2,"Nakamura,Hi","Duda,J",1-0,2750,B90,2760
+258,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.4,"Duda,J","Nepomniachtchi,I",1/2-1/2,2766,C43,2750
+259,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,1,"Ivanchuk,V","Duda,J",0-1,2750,C19,2678
+260,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,2,"Duda,J","Ivanchuk,V",1-0,2678,C50,2750
+261,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,3,"Ivanchuk,V","Duda,J",0-1,2750,B15,2678
+262,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,4,"Duda,J","Ivanchuk,V",1-0,2678,D37,2750
+263,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,5,"Ivanchuk,V","Duda,J",0-1,2750,C42,2678
+264,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,6,"Duda,J","Ivanchuk,V",0-1,2678,A80,2750
+265,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,7,"Ivanchuk,V","Duda,J",0-1,2750,C33,2678
+266,Duda-Ivanchuk Help UKR m,Europe-Echecs INT,2022.07.20,8,"Duda,J","Ivanchuk,V",1-0,2678,A43,2750
+267,44th Olympiad 2022,Chennai IND,2022.07.31,3.5,"Smirnov,Ant","Duda,J",0-1,2750,D45,2600
+268,44th Olympiad 2022,Chennai IND,2022.08.01,4.4,"Duda,J","Deac,Bogdan-Daniel",1/2-1/2,2692,E06,2750
+269,44th Olympiad 2022,Chennai IND,2022.08.02,5.5,"Moussard,J","Duda,J",1/2-1/2,2750,C65,2672
+270,44th Olympiad 2022,Chennai IND,2022.08.03,6.5,"Duda,J","Indjic,A",1/2-1/2,2620,A77,2750
+271,44th Olympiad 2022,Chennai IND,2022.08.05,7.13,"Duda,J","Paragua,M",0-1,2461,B90,2750
+272,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Niemann,Hans Moke","Duda,J",1-0,2740,E60,2687
+273,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Niemann,Hans Moke","Duda,J",0-1,2740,D00,2687
+274,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Duda,J","Niemann,Hans Moke",1-0,2687,B33,2740
+275,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Duda,J","Aronian,L",0-1,2775,C55,2740
+276,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Aronian,L","Duda,J",1/2-1/2,2740,D02,2775
+277,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Duda,J","Aronian,L",1/2-1/2,2775,C55,2740
+278,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.6,"Aronian,L","Duda,J",1-0,2740,A13,2775
+279,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.5,"Duda,J","Aronian,L",1/2-1/2,2775,C44,2740
+280,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Aronian,L","Duda,J",0-1,2740,D31,2775
+281,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Duda,J","Le,Quang Liem",0-1,2728,C50,2740
+282,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Le,Quang Liem","Duda,J",1-0,2740,A13,2728
+283,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Le,Quang Liem","Duda,J",1/2-1/2,2740,D37,2728
+284,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Firouzja,Alireza","Duda,J",1-0,2740,E53,2778
+285,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Duda,J","Firouzja,Alireza",1-0,2778,D41,2740
+286,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Firouzja,Alireza","Duda,J",1-0,2740,C65,2778
+287,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2778,A18,2740
+288,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
+289,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
+290,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
+291,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
+292,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
+293,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
+294,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Duda,J","Praggnanandhaa,R",1/2-1/2,2661,D41,2740
+295,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Praggnanandhaa,R","Duda,J",1/2-1/2,2740,A07,2661
+296,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Duda,J","Praggnanandhaa,R",0-1,2661,A22,2740
+297,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Duda,J","Praggnanandhaa,R",1-0,2661,A45,2740
+298,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Praggnanandhaa,R","Duda,J",0-1,2740,A07,2661
+299,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Duda,J","Giri,A",1-0,2760,C67,2740
+300,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Duda,J","Giri,A",1/2-1/2,2760,B51,2740
+301,?,?,????.??.??,?,?,?,0-1,,,

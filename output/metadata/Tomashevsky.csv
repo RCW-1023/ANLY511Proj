@@ -1,263 +1,66 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-0,PRO League Group Stage,chess.com INT,2020.01.08,1,"Xu,Xiangyu","Tomashevsky,E",1-0,2705,A45,2580
-1,PRO League Group Stage,chess.com INT,2020.01.08,1,Wei Yi,"Tomashevsky,E",1/2-1/2,2705,E90,2732
-2,PRO League Group Stage,chess.com INT,2020.01.08,1,"Tomashevsky,E","Bai,Jinshi",1-0,2618,A11,2705
-3,PRO League Group Stage,chess.com INT,2020.01.08,1,"Tomashevsky,E",Wen Yang,1/2-1/2,2594,D35,2705
-4,PRO League Group Stage,chess.com INT,2020.01.15,2,"Firat,B","Tomashevsky,E",1/2-1/2,2705,C88,2474
-5,PRO League Group Stage,chess.com INT,2020.01.15,2,"Tomashevsky,E","Sanal,V",1-0,2569,A30,2705
-6,PRO League Group Stage,chess.com INT,2020.01.15,2,"Solak,D","Tomashevsky,E",1-0,2705,C67,2594
-7,PRO League Group Stage,chess.com INT,2020.01.15,2,"Tomashevsky,E","Dastan,B",1/2-1/2,2572,A11,2705
-8,PRO League Group Stage,chess.com INT,2020.01.23,3,"Tomashevsky,E","Martirosyan,Haik M.",1-0,2613,A20,2705
-9,PRO League Group Stage,chess.com INT,2020.01.23,3,"Andriasian,Z","Tomashevsky,E",1/2-1/2,2705,C67,2611
-10,PRO League Group Stage,chess.com INT,2020.01.23,3,"Tomashevsky,E","Sargsyan,Shant",1/2-1/2,2601,E10,2705
-11,PRO League Group Stage,chess.com INT,2020.01.23,3,"Petrosian,TL","Tomashevsky,E",1/2-1/2,2705,A07,2601
-12,PRO League Group Stage,chess.com INT,2020.01.29,4,"Tomashevsky,E","Plat,V",1-0,2589,A20,2705
-13,PRO League Group Stage,chess.com INT,2020.01.29,4,"Livaic,Leon","Tomashevsky,E",0-1,2705,A45,2495
-14,PRO League Group Stage,chess.com INT,2020.01.29,4,"Tomashevsky,E",Le Tuan Minh,1/2-1/2,2501,A11,2705
-15,PRO League Group Stage,chess.com INT,2020.01.29,4,"Saric,A","Tomashevsky,E",1/2-1/2,2705,D38,2559
-16,Bundesliga 2019-20,Speyer GER,2020.02.08,5.4,"Vrolijk,Liam","Tomashevsky,E",1/2-1/2,2712,E11,2462
-17,Bundesliga 2019-20,Speyer GER,2020.02.09,6.3,"Tomashevsky,E","Ganguly,S",1/2-1/2,2644,A06,2712
-18,6th Nutcracker Classical,Moscow RUS,2020.03.04,1.3,"Yuffa,D","Tomashevsky,E",0-1,2701,D30,2594
-19,6th Nutcracker Classical,Moscow RUS,2020.03.05,2.3,"Sarana,A","Tomashevsky,E",1/2-1/2,2701,A22,2652
-20,6th Nutcracker Classical,Moscow RUS,2020.03.06,3.3,"Tomashevsky,E","Lomasov,Semyon",1-0,2533,E11,2701
-21,6th Nutcracker Classical,Moscow RUS,2020.03.07,4.3,"Tomashevsky,E","Esipenko,Andrey",1/2-1/2,2672,C67,2701
-22,6th Nutcracker Rapid,Moscow RUS,2020.03.08,1.3,"Yuffa,D","Tomashevsky,E",0-1,2701,E06,2594
-23,6th Nutcracker Rapid,Moscow RUS,2020.03.08,2.3,"Tomashevsky,E","Lomasov,Semyon",1-0,2533,E11,2701
-24,6th Nutcracker Rapid,Moscow RUS,2020.03.08,3.3,"Sarana,A","Tomashevsky,E",1-0,2701,A29,2652
-25,6th Nutcracker Rapid,Moscow RUS,2020.03.08,4.3,"Tomashevsky,E","Esipenko,Andrey",1/2-1/2,2672,C77,2701
-26,6th Nutcracker Rapid,Moscow RUS,2020.03.09,5.3,"Esipenko,Andrey","Tomashevsky,E",1/2-1/2,2701,A28,2672
-27,6th Nutcracker Rapid,Moscow RUS,2020.03.09,6.3,"Tomashevsky,E","Sarana,A",0-1,2652,D73,2701
-28,6th Nutcracker Rapid,Moscow RUS,2020.03.09,7.3,"Lomasov,Semyon","Tomashevsky,E",0-1,2701,B11,2533
-29,6th Nutcracker Rapid,Moscow RUS,2020.03.09,8.3,"Tomashevsky,E","Yuffa,D",1-0,2594,B51,2701
-30,Play for Russia Prelim,lichess.org INT,2020.05.12,1.3,"Karjakin,Sergey","Tomashevsky,E",1/2-1/2,2706,C50,2752
-31,Play for Russia Prelim,lichess.org INT,2020.05.12,2.2,"Tomashevsky,E","Grischuk,A",1/2-1/2,2777,E68,2706
-32,Play for Russia Prelim,lichess.org INT,2020.05.12,3.4,"Svidler,P","Tomashevsky,E",1/2-1/2,2706,C65,2723
-33,Play for Russia Prelim,lichess.org INT,2020.05.12,4.1,"Riazantsev,A","Tomashevsky,E",1/2-1/2,2706,E12,2638
-34,Play for Russia Prelim,lichess.org INT,2020.05.12,5.4,"Tomashevsky,E","Inarkiev,E",1-0,2661,A06,2706
-35,Play for Russia Prelim,lichess.org INT,2020.05.12,6.3,"Tomashevsky,E","Nepomniachtchi,I",1-0,2784,A35,2706
-36,Play for Russia Prelim,lichess.org INT,2020.05.12,7.2,"Kramnik,V","Tomashevsky,E",1-0,2706,D35,2753
-37,Play for Russia Prelim,lichess.org INT,2020.05.13,8.3,"Tomashevsky,E","Karjakin,Sergey",0-1,2752,D37,2706
-38,Play for Russia Prelim,lichess.org INT,2020.05.13,9.2,"Grischuk,A","Tomashevsky,E",1/2-1/2,2706,D02,2777
-39,Play for Russia Prelim,lichess.org INT,2020.05.13,10.4,"Tomashevsky,E","Svidler,P",1/2-1/2,2723,A15,2706
-40,Play for Russia Prelim,lichess.org INT,2020.05.13,11.1,"Tomashevsky,E","Riazantsev,A",1-0,2638,D35,2706
-41,Play for Russia Prelim,lichess.org INT,2020.05.13,12.4,"Inarkiev,E","Tomashevsky,E",1/2-1/2,2706,D02,2661
-42,Play for Russia Prelim,lichess.org INT,2020.05.13,13.2,"Tomashevsky,E","Kramnik,V",1-0,2753,A06,2706
-43,Play for Russia Prelim,lichess.org INT,2020.05.13,14.3,"Nepomniachtchi,I","Tomashevsky,E",1/2-1/2,2706,C47,2784
-44,Play for Russia Final,lichess.org INT,2020.05.14,1.1,"Tomashevsky,E","Svidler,P",1-0,2723,A20,2706
-45,Play for Russia Final,lichess.org INT,2020.05.14,1.2,"Svidler,P","Tomashevsky,E",1/2-1/2,2706,A01,2723
-46,Play for Russia Final,lichess.org INT,2020.05.14,2.1,"Tomashevsky,E","Grischuk,A",0-1,2777,E90,2706
-47,Play for Russia Final,lichess.org INT,2020.05.14,2.3,"Tomashevsky,E","Grischuk,A",0-1,2777,A29,2706
-48,Play for Russia Final,lichess.org INT,2020.05.14,2.2,"Grischuk,A","Tomashevsky,E",1-0,2706,D02,2777
-49,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Tomashevsky,E","Womacka,M",1-0,2435,A30,2706
-50,Titled Tuesday 7th July,chess.com INT,2020.07.07,2,"Rozman,Levy","Tomashevsky,E",1-0,2706,C28,2343
-51,Titled Tuesday 7th July,chess.com INT,2020.07.07,3,"Tomashevsky,E","Iskusnyh,S",1-0,2473,B36,2706
-52,Titled Tuesday 7th July,chess.com INT,2020.07.07,4,"Fus,Jakub","Tomashevsky,E",0-1,2706,B13,2370
-53,Titled Tuesday 7th July,chess.com INT,2020.07.07,5,"Tomashevsky,E","Kozionov,Kirill",1-0,2470,A48,2706
-54,Titled Tuesday 7th July,chess.com INT,2020.07.07,6,"Tomashevsky,E","Khanin,S",1-0,2482,A48,2706
-55,Titled Tuesday 7th July,chess.com INT,2020.07.07,7,"Cardoso Cardoso,Jose Gabriel","Tomashevsky,E",0-1,2706,A07,2414
-56,Titled Tuesday 7th July,chess.com INT,2020.07.07,8,"Martirosyan,Haik M.","Tomashevsky,E",1-0,2706,D55,2617
-57,Titled Tuesday 7th July,chess.com INT,2020.07.07,10,"Murzin,Volodar","Tomashevsky,E",1-0,2706,C67,2465
-58,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Markidis,K","Tomashevsky,E",0-1,2706,B13,2148
-59,Titled Tuesday 14th July,chess.com INT,2020.07.14,2,"Tomashevsky,E","Aditya,Mittal",1-0,2438,A09,2706
-60,Titled Tuesday 14th July,chess.com INT,2020.07.14,3,"Heinemann,Josefine","Tomashevsky,E",0-1,2706,B19,2281
-61,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Tomashevsky,E","Iniyan,P",1-0,2506,E67,2706
-62,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Gukesh,D","Tomashevsky,E",1-0,2706,E51,2563
-63,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Tomashevsky,E","Garcia Cardenas,P",1-0,2422,D31,2706
-64,Titled Tuesday 14th July,chess.com INT,2020.07.14,8,"Harsha,B","Tomashevsky,E",0-1,2706,E18,2509
-65,Titled Tuesday 14th July,chess.com INT,2020.07.14,9,"Hess,Ro","Tomashevsky,E",1/2-1/2,2706,E32,2591
-66,Titled Tuesday 14th July,chess.com INT,2020.07.14,10,"Tomashevsky,E","Vastrukhin,O",1/2-1/2,2401,A36,2706
-67,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Pereira,Geanfrancesco","Tomashevsky,E",0-1,2706,C51,2016
-68,Titled Tuesday 21st July,chess.com INT,2020.07.21,2,"Tomashevsky,E","Skatchkov,Valery",1-0,2242,A20,2706
-69,Titled Tuesday 21st July,chess.com INT,2020.07.21,3,"Samadov,Read","Tomashevsky,E",1-0,2706,E00,2332
-70,Titled Tuesday 21st July,chess.com INT,2020.07.21,4,"Tomashevsky,E","Ghimpu,Samuel-Timotei",1-0,2302,E47,2706
-71,Titled Tuesday 21st July,chess.com INT,2020.07.21,5,"Tomashevsky,E","Mammadov,Z",1-0,2417,A07,2706
-72,Titled Tuesday 21st July,chess.com INT,2020.07.21,6,"Priasmoro,Novendra","Tomashevsky,E",0-1,2706,C69,2502
-73,Titled Tuesday 21st July,chess.com INT,2020.07.21,7,"Tomashevsky,E","Pichot,A",0-1,2630,A06,2706
-74,Titled Tuesday 21st July,chess.com INT,2020.07.21,8,"Krzyzanowski,M","Tomashevsky,E",0-1,2706,C88,2521
-75,Titled Tuesday 21st July,chess.com INT,2020.07.21,10,"Rodrigue-Lemieux,Shawn","Tomashevsky,E",0-1,2706,A20,2276
-76,SCO National Chess Online,chess.com INT,2020.09.26,1.3,"Jumabayev,R","Tomashevsky,E",0-1,2706,B13,2654
-77,SCO National Chess Online,chess.com INT,2020.09.26,2.3,"Tomashevsky,E",Lu Shanglei,1-0,2615,A05,2706
-78,SCO National Chess Online,chess.com INT,2020.09.26,3.4,"Abdusattorov,Nodirbek","Tomashevsky,E",1/2-1/2,2706,B13,2627
-79,SCO National Chess Online,chess.com INT,2020.09.26,4.2,"Tomashevsky,E","Amonatov,F",1/2-1/2,2622,E67,2706
-80,SCO National Chess Online,chess.com INT,2020.09.26,5.5,"Aravindh,Chithambaram VR.","Tomashevsky,E",1/2-1/2,2706,B13,2641
-81,SCO National Chess Online,chess.com INT,2020.09.27,6.1,"Aleksandrov,A","Tomashevsky,E",1/2-1/2,2706,E43,2608
-82,SCO National Chess Online,chess.com INT,2020.09.27,8.2,Ma Qun,"Tomashevsky,E",1/2-1/2,2706,C49,2630
-83,SCO National Chess Online,chess.com INT,2020.09.27,9.4,"Tomashevsky,E","Esenbek Uulu,I",1-0,2190,A30,2706
-84,Yuri Razuvaev Mem Final,chess.com INT,2020.11.06,1,"Tomashevsky,E","Kramnik,V",0-1,2753,C10,2706
-85,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,1.4,"Tomashevsky,E","Kobalia,M",1-0,2614,A06,2706
-86,Yuri Razuvaev Mem Final,chess.com INT,2020.11.06,2,"Kramnik,V","Tomashevsky,E",1/2-1/2,2706,A05,2753
-87,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,2.2,"Gelfand,B","Tomashevsky,E",1/2-1/2,2706,A40,2676
-88,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,3.3,"Tomashevsky,E","Motylev,A",1-0,2641,A06,2706
-89,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,4.3,"Lautier,J","Tomashevsky,E",0-1,2706,E16,2658
-90,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,5.2,"Tomashevsky,E","Nepomniachtchi,I",1-0,2784,A06,2706
-91,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,6.4,"Potkin,V","Tomashevsky,E",0-1,2706,E18,2583
-92,Yuri Razuvaev Mem 2020,chess.com INT,2020.11.06,7.1,"Tomashevsky,E","Kramnik,V",1/2-1/2,2753,A15,2706
-93,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,1,"Tomashevsky,E","Grochal,J",1-0,2335,A15,2706
-94,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,2,"Pazos Porta,A","Tomashevsky,E",0-1,2706,A22,2373
-95,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,3,"Tomashevsky,E","Herrera Reyes,J",1-0,2304,A30,2706
-96,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,4,"Postny,E","Tomashevsky,E",1/2-1/2,2706,D80,2605
-97,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,5,"Tomashevsky,E","Gorodetzky,David",0-1,2495,A13,2706
-98,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,6,"Kovalev,De","Tomashevsky,E",1-0,2706,D13,2487
-99,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,7,"Tomashevsky,E","Greet,A",1-0,2417,A13,2706
-100,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,8,"Terletsky,O","Tomashevsky,E",1/2-1/2,2706,C47,2224
-101,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,9,"Iljin,T","Tomashevsky,E",0-1,2706,E28,2281
-102,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,10,"Tomashevsky,E","Manafov,Vugar",0-1,2236,A15,2706
-103,Titled Tuesday 12th Jan,chess.com INT,2021.01.12,11,"Jianu,V","Tomashevsky,E",1-0,2706,A49,2532
-104,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,1,"Greet,A","Tomashevsky,E",0-1,2706,B12,2417
-105,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,2,"Tomashevsky,E","Trent,L",1-0,2399,A42,2706
-106,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,3,"Valdes,Le","Tomashevsky,E",0-1,2706,A07,2402
-107,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,4,"Tomashevsky,E","Jaracz,P",1/2-1/2,2456,C77,2706
-108,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,5,"Tomashevsky,E","Gorodetzky,David",1-0,2495,D02,2706
-109,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,6,"Kobo,Ori","Tomashevsky,E",1-0,2706,E20,2460
-110,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,7,"Tomashevsky,E","Sapunov,E",1-0,2461,E90,2706
-111,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,8,"Obregon,A","Tomashevsky,E",1/2-1/2,2706,B12,2525
-112,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,9,"Tomashevsky,E","Yanchenko,R",0-1,2467,D11,2706
-113,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,10,"Lee,Jun Hyeok","Tomashevsky,E",0-1,2706,C88,2404
-114,Titled Tuesday 19th Jan,chess.com INT,2021.01.19,11,"Tomashevsky,E","Shahade,G",0-1,2476,C84,2706
-115,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,1,"Przybylski,W","Tomashevsky,E",0-1,2706,C15,2321
-116,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,2,"Tomashevsky,E","Hjartarson,J",1-0,2525,B05,2706
-117,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,3,"Krysa,L","Tomashevsky,E",1/2-1/2,2706,B10,2544
-118,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,4,"Tomashevsky,E","Firat,B",1-0,2466,C00,2706
-119,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,5,"Livaic,Leon","Tomashevsky,E",0-1,2706,E12,2507
-120,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,6,"Tomashevsky,E","Aravindh,Chithambaram VR.",1-0,2641,A16,2706
-121,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,7,"Sychev,K","Tomashevsky,E",0-1,2706,A46,2572
-122,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,8,"Tomashevsky,E","Artemiev,V",1-0,2709,A25,2706
-123,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,9,"Nakamura,Hi","Tomashevsky,E",1-0,2706,D11,2736
-124,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,10,"Tomashevsky,E","Drygalov,Andrey",1-0,2493,A11,2706
-125,Titled Tuesday 26th Jan,chess.com INT,2021.01.26,11,"Xiong,Jeffery","Tomashevsky,E",1-0,2706,C45,2709
-126,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,1,"Novikov,E","Tomashevsky,E",0-1,2706,A47,2276
-127,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,2,"Tomashevsky,E","Taboas Rodriguez,D",1-0,2364,C00,2706
-128,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,3,"Ivanisevic,I","Tomashevsky,E",1-0,2706,A22,2606
-129,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,5,"Halkias,S","Tomashevsky,E",0-1,2706,D15,2567
-130,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,6,"Tomashevsky,E","Tekeyev,Z",1-0,2396,A29,2706
-131,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,7,"Chigaev,M","Tomashevsky,E",1-0,2706,B12,2631
-132,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,8,"Tomashevsky,E","Kobalia,M",1-0,2587,A05,2706
-133,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,9,"Ivanov,Ol UKR","Tomashevsky,E",0-1,2706,B18,2458
-134,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,10,"Tomashevsky,E","Svane,R",1-0,2613,A34,2706
-135,Titled Tuesday 2nd Feb,chess.com INT,2021.02.02,11,"Sarana,A","Tomashevsky,E",0-1,2706,B11,2649
-136,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,1,"Derraugh,Geordie","Tomashevsky,E",0-1,2706,B08,2169
-137,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,3,"Shahaliyev,Ismayil","Tomashevsky,E",1-0,2706,A09,2413
-138,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,4,"Tomashevsky,E","Kalashian,D",1-0,2398,E90,2706
-139,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,5,"Mikhailovsky,Vladimir","Tomashevsky,E",0-1,2706,A45,2228
-140,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,6,"Tomashevsky,E","Baklan,V",1-0,2587,A20,2706
-141,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,7,"Triapishko,Alexandr","Tomashevsky,E",0-1,2706,E16,2510
-142,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,8,"Tomashevsky,E","Zierk,S",1-0,2499,A25,2706
-143,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,9,"Firouzja,Alireza","Tomashevsky,E",1/2-1/2,2706,A45,2749
-144,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,10,"Tomashevsky,E","Khusnutdinov,R",0-1,2484,A13,2706
-145,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,11,"Holt,C","Tomashevsky,E",1-0,2706,E32,2549
-146,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,1,"Tomashevsky,E","Msellek,I",1-0,2342,B40,2706
-147,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,2,"Grinev,V","Tomashevsky,E",0-1,2706,A28,2441
-148,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,3,"Tomashevsky,E","Nguyen,Quoc Hy",1-0,2242,A16,2706
-149,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,4,"Durarbayli,V","Tomashevsky,E",1-0,2706,B11,2606
-150,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,5,"Tomashevsky,E","Samunenkov,Ihor",1-0,2209,B36,2706
-151,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,7,"Tomashevsky,E","Paichadze,L",1-0,2565,A17,2706
-152,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,8,"Gadimbayli,Abdulla","Tomashevsky,E",0-1,2706,B10,2470
-153,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,9,"Artemiev,V","Tomashevsky,E",1/2-1/2,2706,A06,2709
-154,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,10,"Tomashevsky,E","Kozak,Adam",1-0,2518,A13,2706
-155,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,11,"Demchenko,A","Tomashevsky,E",1-0,2706,B18,2610
-156,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,1,"Tomashevsky,E","Winterberg,L",1-0,2389,A15,2706
-157,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,3,"Tomashevsky,E","Yuan,Qingyu",1-0,2373,C41,2706
-158,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,4,"Ivanisevic,I","Tomashevsky,E",1-0,2706,C53,2606
-159,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,5,"Tomashevsky,E","Bakalchuk,Johnatan",1-0,2441,A16,2706
-160,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,6,"Kaasen,Tor Fredrik","Tomashevsky,E",0-1,2706,C88,2381
-161,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,7,"Tomashevsky,E","Gabrielian,A",1/2-1/2,2448,A16,2706
-162,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,8,"Tomashevsky,E","Dang,H",1-0,2350,A15,2706
-163,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,9,"Zierk,S","Tomashevsky,E",1-0,2706,C50,2499
-164,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,10,"Erdogdu,M","Tomashevsky,E",0-1,2706,C01,2396
-165,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,11,"Tomashevsky,E","Shipov,S",1/2-1/2,2541,A07,2706
-166,European Online CC PlayC,Tornelo INT,2021.03.29,1.3,"Duda,J","Tomashevsky,E",1-0,2706,C53,2729
-167,European Online CC PlayC,Tornelo INT,2021.03.29,2.1,"Rapport,R","Tomashevsky,E",1/2-1/2,2706,A13,2763
-168,European Online CC PlayC,Tornelo INT,2021.03.29,3.3,"Tomashevsky,E","Azarov,S",1/2-1/2,2604,A91,2706
-169,European Online CC PlayC,Tornelo INT,2021.03.29,4.2,"Fedoseev,Vl3","Tomashevsky,E",1/2-1/2,2706,C65,2687
-170,European Online CC PlayC,Tornelo INT,2021.03.29,5.2,"Tomashevsky,E","Adams,Mi",0-1,2716,A20,2706
-171,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,1,"Meissner,F","Tomashevsky,E",0-1,2706,C01,2362
-172,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,2,"Tomashevsky,E","Kretov,E",1-0,2269,A30,2706
-173,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,4,"Tomashevsky,E","Shapkin,Anatoliy",1/2-1/2,2283,A30,2706
-174,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,5,"Macovei,Andrei","Tomashevsky,E",0-1,2706,C10,2453
-175,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,6,"Tomashevsky,E","Petrovskyi,Vadym",1-0,2138,E17,2706
-176,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,7,"Kobo,Ori","Tomashevsky,E",0-1,2706,E20,2460
-177,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,8,"Tomashevsky,E","Ibarra Jerez,JC",1-0,2553,A20,2706
-178,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,9,"Tomashevsky,E","Nakamura,Hi",0-1,2736,A20,2706
-179,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,10,"Demidov,M","Tomashevsky,E",1/2-1/2,2706,D02,2523
-180,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,11,"Tomashevsky,E","Eljanov,P",1-0,2672,A46,2706
-181,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,1,"Manukian,Ar","Tomashevsky,E",0-1,2706,B12,2196
-182,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,3,"Araujo Sanchez,Josue","Tomashevsky,E",0-1,2706,A15,2337
-183,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,4,"Tomashevsky,E","Rustemov,A",1/2-1/2,2525,D02,2706
-184,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,5,"Arabidze,M","Tomashevsky,E",1/2-1/2,2706,D02,2437
-185,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,6,"Tomashevsky,E","Gusarov,G",1-0,2354,B10,2706
-186,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,7,"Maly,Al","Tomashevsky,E",1/2-1/2,2706,E16,2371
-187,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,8,"Tomashevsky,E","Najer,E",0-1,2648,A20,2706
-188,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,9,"Ortega,Mariano","Tomashevsky,E",1-0,2706,B13,2463
-189,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,10,"Tomashevsky,E","Egorov,E",1-0,2293,A10,2706
-190,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,11,"Tomashevsky,E","Vlachos,Anatole",1-0,2438,A91,2706
-191,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,1,"Tomashevsky,E","Ronka,E",0-1,2303,A13,2706
-192,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,2,"Zhukov,Maksim","Tomashevsky,E",0-1,2706,E47,2090
-193,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,3,"Tomashevsky,E","Mustafayev,Farid",1-0,2334,D38,2706
-194,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,4,"Aldokhin,I","Tomashevsky,E",1-0,2706,B16,2413
-195,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,5,"Tomashevsky,E","Albuquerque Junior,Wellington S.",1/2-1/2,2209,B51,2706
-196,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,6,"Khachatryan,Anna","Tomashevsky,E",0-1,2706,E51,2024
-197,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,7,"Tomashevsky,E","Sarkar,J",1-0,2365,B50,2706
-198,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,8,"Dobrowolski,P","Tomashevsky,E",1-0,2706,B03,2413
-199,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,9,"Tomashevsky,E","Vovk,Or",1-0,2315,A40,2706
-200,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,10,"Shevtchenko,O","Tomashevsky,E",1/2-1/2,2706,C07,2054
-201,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,11,"Tomashevsky,E","Blomqvist,E",1-0,2535,B17,2706
-202,European Hybrid Qual 2021,Tornelo INT,2021.05.26,2.1,"Tomashevsky,E","Michalik,P",1-0,2594,A15,2706
-203,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.2,"Michalik,P","Tomashevsky,E",1/2-1/2,2706,C67,2594
-204,European Hybrid Qual 2021,Tornelo INT,2021.05.28,3.1,"Gajewski,G","Tomashevsky,E",1/2-1/2,2706,E16,2596
-205,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.3,"Tomashevsky,E","Gajewski,G",1/2-1/2,2596,D02,2706
-206,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.2,"Tomashevsky,E","Gajewski,G",1/2-1/2,2596,D02,2706
-207,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.4,"Gajewski,G","Tomashevsky,E",0-1,2706,A40,2596
-208,European Hybrid Swiss TB,Tornelo INT,2021.05.30,1.2,"Svane,R","Tomashevsky,E",0-1,2706,D78,2615
-209,European Hybrid Swiss TB,Tornelo INT,2021.05.30,2.2,"Tomashevsky,E","Motylev,A",1/2-1/2,2641,D02,2706
-210,European Hybrid Swiss TB,Tornelo INT,2021.05.30,3.2,"Martirosyan,Haik M.","Tomashevsky,E",1-0,2706,D37,2637
-211,European Hybrid Swiss TB,Tornelo INT,2021.05.30,4.8,"Tomashevsky,E","Deac,Bogdan-Daniel",1/2-1/2,2627,D02,2706
-212,European Hybrid Swiss TB,Tornelo INT,2021.05.30,5.8,"Yilmaz,M","Tomashevsky,E",1/2-1/2,2706,E16,2630
-213,European Hybrid Swiss TB,Tornelo INT,2021.05.30,6.6,"Alekseev,Evgeny","Tomashevsky,E",1/2-1/2,2706,C50,2617
-214,European Hybrid Swiss TB,Tornelo INT,2021.05.30,7.8,"Tomashevsky,E","Jobava,Ba",1/2-1/2,2603,A11,2706
-215,European Hybrid Swiss TB,Tornelo INT,2021.05.30,8.8,"Tomashevsky,E","Zvjaginsev,V",1-0,2614,A20,2706
-216,European Hybrid Swiss TB,Tornelo INT,2021.05.30,9.5,"Ivanisevic,I","Tomashevsky,E",0-1,2706,E43,2606
-217,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Iniyan,P","Tomashevsky,E",0-1,2706,C67,2506
-218,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Tomashevsky,E","Iniyan,P",1-0,2506,E63,2706
-219,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Tomashevsky,E","Idani,P",1/2-1/2,2614,D44,2706
-220,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Idani,P","Tomashevsky,E",1/2-1/2,2706,C67,2614
-221,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.4,"Idani,P","Tomashevsky,E",1-0,2706,C65,2614
-222,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.3,"Tomashevsky,E","Idani,P",1/2-1/2,2614,D44,2706
-223,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,1.4,"Tomashevsky,E","Protopopova,Anastasiya",1-0,2286,A36,2706
-224,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,2.4,"Ivlev,Aleksey","Tomashevsky,E",1-0,2706,E06,2315
-225,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,3.24,"Tomashevsky,E","Mishin,Al",1-0,2172,A43,2706
-226,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,4.14,"Shapiro,Dav","Tomashevsky,E",1/2-1/2,2706,A45,2395
-227,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,5.20,"Tomashevsky,E","Bulatov,R",1-0,2222,A15,2706
-228,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,6.11,"Stupak,K","Tomashevsky,E",1/2-1/2,2706,E06,2485
-229,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,7.11,"Tomashevsky,E","Rostovtsev,Dmitry",1-0,2163,E62,2706
-230,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,8.5,"Gabrielian,A","Tomashevsky,E",1/2-1/2,2706,C25,2460
-231,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,9.8,"Tomashevsky,E","Danin,A",1-0,2525,A05,2706
-232,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,10.5,"Rudenko,Naum","Tomashevsky,E",0-1,2706,B18,2294
-233,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,11.4,"Tomashevsky,E","Sarana,A",1/2-1/2,2640,A06,2706
-234,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,1.5,"Andreikin,D","Tomashevsky,E",1/2-1/2,2708,D37,2728
-235,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,2.1,"Matlakov,M","Tomashevsky,E",1/2-1/2,2708,C84,2683
-236,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,3.5,"Tomashevsky,E","Paravyan,D",1/2-1/2,2660,A04,2708
-237,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,4.2,"Korobov,A","Tomashevsky,E",1/2-1/2,2708,D37,2685
-238,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,5.4,"Tomashevsky,E","Gelfand,B",1/2-1/2,2680,A04,2708
-239,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,6.3,"Alekseenko,K","Tomashevsky,E",1/2-1/2,2708,C65,2693
-240,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,7.3,"Tomashevsky,E","Giri,A",0-1,2777,A06,2708
-241,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,8.4,"Vitiugov,N","Tomashevsky,E",1/2-1/2,2708,E35,2727
-242,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,9.2,"Tomashevsky,E","Abdusattorov,Nodirbek",1/2-1/2,2648,A04,2708
-243,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,1,"Tomashevsky,E","Sasikiran,K",1-0,2650,A22,2708
-244,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,2,"Keymer,Vincent","Tomashevsky,E",1/2-1/2,2708,A04,2664
-245,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,3,"Tomashevsky,E","Kamsky,G",1/2-1/2,2657,D78,2708
-246,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,4,"Volokitin,And","Tomashevsky,E",1-0,2708,C55,2681
-247,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,5,"Tomashevsky,E","Niemann,Hans Moke",0-1,2642,A20,2708
-248,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,6,"Ivanchuk,V","Tomashevsky,E",1-0,2708,D39,2678
-249,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,7,"Tomashevsky,E","Hansen,Eric",1/2-1/2,2606,C84,2708
-250,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,8,"Ponkratov,P","Tomashevsky,E",0-1,2708,A00,2641
-251,Chess.com Rapid Wk1 Swiss,chess.com INT,2022.02.12,9,"Tomashevsky,E","Swiercz,D",1-0,2656,B30,2708
-252,TCh-RUS Premier 2022,Sochi RUS,2022.05.01,1.3,"Najer,E","Tomashevsky,E",1-0,2708,C84,2659
-253,TCh-RUS Premier 2022,Sochi RUS,2022.05.02,2.2,"Tomashevsky,E","Matlakov,M",1/2-1/2,2674,B33,2708
-254,TCh-RUS Premier 2022,Sochi RUS,2022.05.04,3.4,"Sjugirov,S","Tomashevsky,E",1/2-1/2,2708,C50,2696
-255,TCh-RUS Premier 2022,Sochi RUS,2022.05.07,5.4,"Tomashevsky,E","Artemiev,V",1/2-1/2,2700,D43,2708
-256,TCh-RUS Premier 2022,Sochi RUS,2022.05.08,6.2,"Grischuk,A","Tomashevsky,E",1/2-1/2,2708,D40,2742
-257,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.17,1.2,"Tomashevsky,E","Saeed,I",1-0,2366,A30,2702
-258,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,2.2,"Vokhidov,Shamsiddin","Tomashevsky,E",0-1,2702,C84,2552
-259,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,3.1,"Tomashevsky,E","Sadhwani,Raunak",1/2-1/2,2622,E49,2702
-260,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.19,4.1,"Tomashevsky,E","Erigaisi,Arjun",1/2-1/2,2689,A11,2702
-261,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.20,5.5,"Jobava,Ba","Tomashevsky,E",1/2-1/2,2702,E54,2585
+0,Bundesliga 2019-20,Speyer GER,2020.02.08,5.4,"Vrolijk,Liam","Tomashevsky,E",1/2-1/2,2712,E11,2462
+1,Bundesliga 2019-20,Speyer GER,2020.02.09,6.3,"Tomashevsky,E","Ganguly,S",1/2-1/2,2644,A06,2712
+2,6th Nutcracker Classical,Moscow RUS,2020.03.04,1.3,"Yuffa,D","Tomashevsky,E",0-1,2701,D30,2594
+3,6th Nutcracker Classical,Moscow RUS,2020.03.05,2.3,"Sarana,A","Tomashevsky,E",1/2-1/2,2701,A22,2652
+4,6th Nutcracker Classical,Moscow RUS,2020.03.06,3.3,"Tomashevsky,E","Lomasov,Semyon",1-0,2533,E11,2701
+5,6th Nutcracker Classical,Moscow RUS,2020.03.07,4.3,"Tomashevsky,E","Esipenko,Andrey",1/2-1/2,2672,C67,2701
+6,6th Nutcracker Rapid,Moscow RUS,2020.03.08,1.3,"Yuffa,D","Tomashevsky,E",0-1,2701,E06,2594
+7,6th Nutcracker Rapid,Moscow RUS,2020.03.08,2.3,"Tomashevsky,E","Lomasov,Semyon",1-0,2533,E11,2701
+8,6th Nutcracker Rapid,Moscow RUS,2020.03.08,3.3,"Sarana,A","Tomashevsky,E",1-0,2701,A29,2652
+9,6th Nutcracker Rapid,Moscow RUS,2020.03.08,4.3,"Tomashevsky,E","Esipenko,Andrey",1/2-1/2,2672,C77,2701
+10,6th Nutcracker Rapid,Moscow RUS,2020.03.09,5.3,"Esipenko,Andrey","Tomashevsky,E",1/2-1/2,2701,A28,2672
+11,6th Nutcracker Rapid,Moscow RUS,2020.03.09,6.3,"Tomashevsky,E","Sarana,A",0-1,2652,D73,2701
+12,6th Nutcracker Rapid,Moscow RUS,2020.03.09,7.3,"Lomasov,Semyon","Tomashevsky,E",0-1,2701,B11,2533
+13,6th Nutcracker Rapid,Moscow RUS,2020.03.09,8.3,"Tomashevsky,E","Yuffa,D",1-0,2594,B51,2701
+14,European Hybrid Qual 2021,Tornelo INT,2021.05.26,2.1,"Tomashevsky,E","Michalik,P",1-0,2594,A15,2706
+15,European Hybrid Qual 2021,Tornelo INT,2021.05.27,2.2,"Michalik,P","Tomashevsky,E",1/2-1/2,2706,C67,2594
+16,European Hybrid Qual 2021,Tornelo INT,2021.05.28,3.1,"Gajewski,G","Tomashevsky,E",1/2-1/2,2706,E16,2596
+17,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.3,"Tomashevsky,E","Gajewski,G",1/2-1/2,2596,D02,2706
+18,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.2,"Tomashevsky,E","Gajewski,G",1/2-1/2,2596,D02,2706
+19,European Hybrid Qual 2021,Tornelo INT,2021.05.29,3.4,"Gajewski,G","Tomashevsky,E",0-1,2706,A40,2596
+20,European Hybrid Swiss TB,Tornelo INT,2021.05.30,1.2,"Svane,R","Tomashevsky,E",0-1,2706,D78,2615
+21,European Hybrid Swiss TB,Tornelo INT,2021.05.30,2.2,"Tomashevsky,E","Motylev,A",1/2-1/2,2641,D02,2706
+22,European Hybrid Swiss TB,Tornelo INT,2021.05.30,3.2,"Martirosyan,Haik M.","Tomashevsky,E",1-0,2706,D37,2637
+23,European Hybrid Swiss TB,Tornelo INT,2021.05.30,4.8,"Tomashevsky,E","Deac,Bogdan-Daniel",1/2-1/2,2627,D02,2706
+24,European Hybrid Swiss TB,Tornelo INT,2021.05.30,5.8,"Yilmaz,M","Tomashevsky,E",1/2-1/2,2706,E16,2630
+25,European Hybrid Swiss TB,Tornelo INT,2021.05.30,6.6,"Alekseev,Evgeny","Tomashevsky,E",1/2-1/2,2706,C50,2617
+26,European Hybrid Swiss TB,Tornelo INT,2021.05.30,7.8,"Tomashevsky,E","Jobava,Ba",1/2-1/2,2603,A11,2706
+27,European Hybrid Swiss TB,Tornelo INT,2021.05.30,8.8,"Tomashevsky,E","Zvjaginsev,V",1-0,2614,A20,2706
+28,European Hybrid Swiss TB,Tornelo INT,2021.05.30,9.5,"Ivanisevic,I","Tomashevsky,E",0-1,2706,E43,2606
+29,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Iniyan,P","Tomashevsky,E",0-1,2706,C67,2506
+30,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Tomashevsky,E","Iniyan,P",1-0,2506,E63,2706
+31,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Tomashevsky,E","Idani,P",1/2-1/2,2614,D44,2706
+32,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Idani,P","Tomashevsky,E",1/2-1/2,2706,C67,2614
+33,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.4,"Idani,P","Tomashevsky,E",1-0,2706,C65,2614
+34,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.20,3.3,"Tomashevsky,E","Idani,P",1/2-1/2,2614,D44,2706
+35,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,1.4,"Tomashevsky,E","Protopopova,Anastasiya",1-0,2286,A36,2706
+36,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,2.4,"Ivlev,Aleksey","Tomashevsky,E",1-0,2706,E06,2315
+37,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,3.24,"Tomashevsky,E","Mishin,Al",1-0,2172,A43,2706
+38,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.29,4.14,"Shapiro,Dav","Tomashevsky,E",1/2-1/2,2706,A45,2395
+39,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,5.20,"Tomashevsky,E","Bulatov,R",1-0,2222,A15,2706
+40,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,6.11,"Stupak,K","Tomashevsky,E",1/2-1/2,2706,E06,2485
+41,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,7.11,"Tomashevsky,E","Rostovtsev,Dmitry",1-0,2163,E62,2706
+42,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.30,8.5,"Gabrielian,A","Tomashevsky,E",1/2-1/2,2706,C25,2460
+43,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,9.8,"Tomashevsky,E","Danin,A",1-0,2525,A05,2706
+44,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,10.5,"Rudenko,Naum","Tomashevsky,E",0-1,2706,B18,2294
+45,V I Zilberstein Mem 2021,Bryansk RUS,2021.07.31,11.4,"Tomashevsky,E","Sarana,A",1/2-1/2,2640,A06,2706
+46,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,1.5,"Andreikin,D","Tomashevsky,E",1/2-1/2,2708,D37,2728
+47,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,2.1,"Matlakov,M","Tomashevsky,E",1/2-1/2,2708,C84,2683
+48,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,3.5,"Tomashevsky,E","Paravyan,D",1/2-1/2,2660,A04,2708
+49,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,4.2,"Korobov,A","Tomashevsky,E",1/2-1/2,2708,D37,2685
+50,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.11,5.4,"Tomashevsky,E","Gelfand,B",1/2-1/2,2680,A04,2708
+51,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,6.3,"Alekseenko,K","Tomashevsky,E",1/2-1/2,2708,C65,2693
+52,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,7.3,"Tomashevsky,E","Giri,A",0-1,2777,A06,2708
+53,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,8.4,"Vitiugov,N","Tomashevsky,E",1/2-1/2,2708,E35,2727
+54,Tolstoy Mem 2021,Yasnaya Polyana RUS,2021.09.12,9.2,"Tomashevsky,E","Abdusattorov,Nodirbek",1/2-1/2,2648,A04,2708
+55,TCh-RUS Premier 2022,Sochi RUS,2022.05.01,1.3,"Najer,E","Tomashevsky,E",1-0,2708,C84,2659
+56,TCh-RUS Premier 2022,Sochi RUS,2022.05.02,2.2,"Tomashevsky,E","Matlakov,M",1/2-1/2,2674,B33,2708
+57,TCh-RUS Premier 2022,Sochi RUS,2022.05.04,3.4,"Sjugirov,S","Tomashevsky,E",1/2-1/2,2708,C50,2696
+58,TCh-RUS Premier 2022,Sochi RUS,2022.05.07,5.4,"Tomashevsky,E","Artemiev,V",1/2-1/2,2700,D43,2708
+59,TCh-RUS Premier 2022,Sochi RUS,2022.05.08,6.2,"Grischuk,A","Tomashevsky,E",1/2-1/2,2708,D40,2742
+60,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.17,1.2,"Tomashevsky,E","Saeed,I",1-0,2366,A30,2702
+61,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,2.2,"Vokhidov,Shamsiddin","Tomashevsky,E",0-1,2702,C84,2552
+62,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.18,3.1,"Tomashevsky,E","Sadhwani,Raunak",1/2-1/2,2622,E49,2702
+63,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.19,4.1,"Tomashevsky,E","Erigaisi,Arjun",1/2-1/2,2689,A11,2702
+64,28th Abu Dhabi Masters,Abu Dhabi UAE,2022.08.20,5.5,"Jobava,Ba","Tomashevsky,E",1/2-1/2,2702,E54,2585

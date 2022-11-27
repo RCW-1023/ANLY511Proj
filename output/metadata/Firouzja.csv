@@ -1,1194 +1,247 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-0,PRO League Group Stage,chess.com INT,2020.01.06,1,"Smirnov,Ant","Firouzja,Alireza",1/2-1/2,2723,B01,2604
-1,PRO League Group Stage,chess.com INT,2020.01.06,1,"Firouzja,Alireza","Naroditsky,D",1-0,2621,A07,2723
-2,PRO League Group Stage,chess.com INT,2020.01.06,1,"Sarana,A","Firouzja,Alireza",0-1,2723,A56,2656
-3,PRO League Group Stage,chess.com INT,2020.01.06,1,"Firouzja,Alireza","Zierk,S",1-0,2509,A05,2723
-4,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.11,1.7,"Firouzja,Alireza","Kovalev,Vl",1-0,2660,C92,2723
-5,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.12,2.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2723,D20,2758
-6,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.13,3.5,"Firouzja,Alireza","Artemiev,V",1-0,2731,B12,2723
-7,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.14,4.4,"So,W","Firouzja,Alireza",1-0,2723,D27,2765
-8,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.16,5.5,"Firouzja,Alireza","Giri,A",1-0,2768,D31,2723
-9,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.17,6.5,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2723,B90,2726
-10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.18,7.4,"Firouzja,Alireza","Xiong,Jeffery",1-0,2712,C65,2723
-11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.19,8.5,"Van Foreest,Jorden","Firouzja,Alireza",1/2-1/2,2723,B90,2644
-12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.21,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2872,C65,2723
-13,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.22,10.5,"Caruana,F","Firouzja,Alireza",1-0,2723,E71,2822
-14,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.3,"Firouzja,Alireza","Anand,V",0-1,2758,E20,2723
-15,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.2,"Vitiugov,N","Firouzja,Alireza",1/2-1/2,2723,C78,2747
-16,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.6,"Firouzja,Alireza","Dubov,Daniil",1/2-1/2,2683,D02,2723
-17,PRO League Group Stage,chess.com INT,2020.02.03,5,"Firouzja,Alireza","Dominguez Perez,L",1-0,2758,B23,2726
-18,PRO League Group Stage,chess.com INT,2020.02.03,5,"Caruana,F","Firouzja,Alireza",0-1,2726,C65,2842
-19,PRO League Group Stage,chess.com INT,2020.02.03,5,"Firouzja,Alireza",Le Quang Liem,1/2-1/2,2713,C67,2726
-20,PRO League Group Stage,chess.com INT,2020.02.03,5,"So,W","Firouzja,Alireza",1-0,2726,E09,2770
-21,PRO League Group Stage,chess.com INT,2020.02.10,6,"Cori,J","Firouzja,Alireza",1/2-1/2,2726,D55,2652
-22,PRO League Group Stage,chess.com INT,2020.02.10,6,"Firouzja,Alireza","Tang,Andrew",1-0,2537,A13,2726
-23,PRO League Group Stage,chess.com INT,2020.02.10,6,"Firouzja,Alireza","Robson,R",0-1,2673,A06,2726
-24,PRO League Group Stage,chess.com INT,2020.02.10,6,"Shimanov,A","Firouzja,Alireza",0-1,2726,C53,2587
-25,2nd Prague Masters 2019,Prague CZE,2020.02.12,1.2,"Firouzja,Alireza","Ragger,M",1/2-1/2,2670,C84,2726
-26,2nd Prague Masters 2019,Prague CZE,2020.02.13,2.2,"Grandelius,N","Firouzja,Alireza",1/2-1/2,2726,C67,2659
-27,2nd Prague Masters 2019,Prague CZE,2020.02.14,3.1,"Firouzja,Alireza","Harikrishna,P",1-0,2713,C84,2726
-28,2nd Prague Masters 2019,Prague CZE,2020.02.15,4.3,"Firouzja,Alireza","Vitiugov,N",1/2-1/2,2731,C84,2726
-29,2nd Prague Masters 2019,Prague CZE,2020.02.16,5.5,"Vidit,S","Firouzja,Alireza",1-0,2726,D13,2721
-30,2nd Prague Masters 2020,Prague CZE,2020.02.18,6.4,"Firouzja,Alireza","Navara,D",1/2-1/2,2717,C50,2726
-31,2nd Prague Masters 2020,Prague CZE,2020.02.19,7.4,"Duda,J","Firouzja,Alireza",0-1,2726,A11,2755
-32,2nd Prague Masters 2020,Prague CZE,2020.02.20,8.3,"Firouzja,Alireza","Shankland,S",1/2-1/2,2683,C50,2726
-33,2nd Prague Masters TB,Prague CZE,2020.02.21,1,"Vidit,S","Firouzja,Alireza",0-1,2726,E10,2721
-34,2nd Prague Masters TB,Prague CZE,2020.02.21,2,"Firouzja,Alireza","Vidit,S",1-0,2721,B30,2726
-35,2nd Prague Masters 2020,Prague CZE,2020.02.21,9.3,"Anton Guijarro,D","Firouzja,Alireza",1/2-1/2,2726,E92,2697
-36,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.11,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",0-1,2702,E00,2594
-37,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.7,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",1-0,2702,B06,2594
-38,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.2,"Firouzja,Alireza","Oleksiyenko,Mykhaylo",1-0,2594,A00,2702
-39,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.3,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",0-1,2702,A07,2594
-40,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.10,"Firouzja,Alireza","Oleksiyenko,Mykhaylo",1-0,2594,D02,2702
-41,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.9,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",0-1,2702,D02,2594
-42,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.5,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",1-0,2702,B29,2594
-43,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.1,"Oleksiyenko,Mykhaylo","Firouzja,Alireza",0-1,2702,B01,2594
-44,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.4,"Firouzja,Alireza","Oleksiyenko,Mykhaylo",1-0,2594,A00,2702
-45,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.8,"Firouzja,Alireza","Oleksiyenko,Mykhaylo",1-0,2594,A05,2702
-46,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.28,2.6,"Firouzja,Alireza","Oleksiyenko,Mykhaylo",1-0,2594,A00,2702
-47,PRO League KO Stage 2020,chess.com INT,2020.03.02,1,"Firouzja,Alireza","Meshkovs,Nikita",1-0,2582,C47,2728
-48,PRO League KO Stage 2020,chess.com INT,2020.03.02,1,"Hellers,F","Firouzja,Alireza",0-1,2728,D73,2592
-49,PRO League KO Stage 2020,chess.com INT,2020.03.02,1,"Amin,B","Firouzja,Alireza",0-1,2728,B10,2667
-50,PRO League KO Stage 2020,chess.com INT,2020.03.02,1,"Firouzja,Alireza","Grandelius,N",1-0,2651,A13,2728
-51,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.8,"Firouzja,Alireza","Fressinet,L",1-0,2633,A00,2702
-52,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.10,"Firouzja,Alireza","Fressinet,L",1-0,2633,C48,2702
-53,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.2,"Firouzja,Alireza","Fressinet,L",1-0,2633,A00,2702
-54,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.1,"Fressinet,L","Firouzja,Alireza",0-1,2702,A46,2633
-55,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.11,"Fressinet,L","Firouzja,Alireza",0-1,2702,D37,2633
-56,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.9,"Fressinet,L","Firouzja,Alireza",0-1,2702,D56,2633
-57,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.3,"Fressinet,L","Firouzja,Alireza",1-0,2702,A50,2633
-58,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.6,"Firouzja,Alireza","Fressinet,L",1-0,2633,A00,2702
-59,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.5,"Fressinet,L","Firouzja,Alireza",1-0,2702,A56,2633
-60,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.4,"Firouzja,Alireza","Fressinet,L",1-0,2633,A00,2702
-61,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.03,3.7,"Fressinet,L","Firouzja,Alireza",0-1,2702,D37,2633
-62,PRO League KO Stage 2020,chess.com INT,2020.03.13,2,"Firouzja,Alireza","Nyzhnyk,I",0-1,2665,D78,2728
-63,PRO League KO Stage 2020,chess.com INT,2020.03.13,2,"Robson,R","Firouzja,Alireza",1/2-1/2,2728,C65,2673
-64,PRO League KO Stage 2020,chess.com INT,2020.03.13,2,"Cori,J","Firouzja,Alireza",1-0,2728,D02,2652
-65,PRO League KO Stage 2020,chess.com INT,2020.03.13,2,"Firouzja,Alireza","Shimanov,A",1-0,2593,E91,2728
-66,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.2,"Bluebaum,M","Firouzja,Alireza",1/2-1/2,2702,D07,2643
-67,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.7,"Bluebaum,M","Firouzja,Alireza",0-1,2702,D35,2643
-68,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.9,"Bluebaum,M","Firouzja,Alireza",0-1,2702,D02,2643
-69,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.10,"Firouzja,Alireza","Bluebaum,M",1-0,2643,C11,2702
-70,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.6,"Firouzja,Alireza","Bluebaum,M",1-0,2643,C11,2702
-71,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.4,"Bluebaum,M","Firouzja,Alireza",1/2-1/2,2702,D07,2643
-72,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.3,"Firouzja,Alireza","Bluebaum,M",1-0,2643,C11,2702
-73,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.8,"Firouzja,Alireza","Bluebaum,M",1-0,2643,C11,2702
-74,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.1,"Firouzja,Alireza","Bluebaum,M",1-0,2643,C11,2702
-75,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.25,4.5,"Firouzja,Alireza","Bluebaum,M",1-0,2643,B10,2702
-76,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.9,"Firouzja,Alireza","Meier,Geo",0-1,2628,A10,2702
-77,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.8,"Meier,Geo","Firouzja,Alireza",0-1,2702,A14,2628
-78,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.7,"Firouzja,Alireza","Meier,Geo",1/2-1/2,2628,A10,2702
-79,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.10,"Meier,Geo","Firouzja,Alireza",0-1,2702,A07,2628
-80,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.6,"Meier,Geo","Firouzja,Alireza",1-0,2702,A37,2628
-81,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.1,"Firouzja,Alireza","Meier,Geo",1-0,2628,E11,2702
-82,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.4,"Meier,Geo","Firouzja,Alireza",0-1,2702,A37,2628
-83,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.3,"Firouzja,Alireza","Meier,Geo",1-0,2628,A10,2702
-84,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.2,"Meier,Geo","Firouzja,Alireza",0-1,2702,A37,2628
-85,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.11,"Firouzja,Alireza","Meier,Geo",1-0,2628,A10,2702
-86,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.05,5.5,"Firouzja,Alireza","Meier,Geo",1-0,2628,A10,2702
-87,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.7,"Firouzja,Alireza","Narayanan,SL",1-0,2611,B10,2702
-88,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.14,"Narayanan,SL","Firouzja,Alireza",1-0,2702,D02,2611
-89,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.2,"Narayanan,SL","Firouzja,Alireza",0-1,2702,D33,2611
-90,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.13,"Firouzja,Alireza","Narayanan,SL",1-0,2611,B10,2702
-91,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.12,"Narayanan,SL","Firouzja,Alireza",1-0,2702,D02,2611
-92,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.11,"Firouzja,Alireza","Narayanan,SL",1/2-1/2,2611,B97,2702
-93,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.3,"Firouzja,Alireza","Narayanan,SL",1/2-1/2,2611,C28,2702
-94,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.10,"Narayanan,SL","Firouzja,Alireza",1/2-1/2,2702,E94,2611
-95,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.9,"Firouzja,Alireza","Narayanan,SL",1-0,2611,C25,2702
-96,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.8,"Narayanan,SL","Firouzja,Alireza",1-0,2702,D30,2611
-97,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.1,"Firouzja,Alireza","Narayanan,SL",1-0,2611,B97,2702
-98,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.6,"Narayanan,SL","Firouzja,Alireza",1/2-1/2,2702,A46,2611
-99,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.5,"Firouzja,Alireza","Narayanan,SL",1-0,2611,C26,2702
-100,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.4,"Narayanan,SL","Firouzja,Alireza",1-0,2702,D02,2611
-101,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.10,6.15,"Firouzja,Alireza","Narayanan,SL",1-0,2611,B50,2702
-102,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.1,"Carlsen,M","Firouzja,Alireza",0-1,2702,D38,2876
-103,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.15,"Carlsen,M","Firouzja,Alireza",1-0,2702,E47,2876
-104,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.14,"Firouzja,Alireza","Carlsen,M",1-0,2876,C28,2702
-105,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.12,"Firouzja,Alireza","Carlsen,M",0-1,2876,C65,2702
-106,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.11,"Carlsen,M","Firouzja,Alireza",1-0,2702,B90,2876
-107,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.10,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B04,2702
-108,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.9,"Carlsen,M","Firouzja,Alireza",0-1,2702,D02,2876
-109,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.16,"Firouzja,Alireza","Carlsen,M",1-0,2876,B23,2702
-110,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.8,"Firouzja,Alireza","Carlsen,M",0-1,2876,B04,2702
-111,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B23,2702
-112,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.5,"Carlsen,M","Firouzja,Alireza",1-0,2702,C77,2876
-113,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.4,"Firouzja,Alireza","Carlsen,M",1-0,2876,B04,2702
-114,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.3,"Carlsen,M","Firouzja,Alireza",1-0,2702,C77,2876
-115,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.2,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B04,2702
-116,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.7,"Carlsen,M","Firouzja,Alireza",0-1,2702,B40,2876
-117,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.13,"Carlsen,M","Firouzja,Alireza",0-1,2702,B40,2876
-118,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.2,"Firouzja,Alireza",Ding Liren,0-1,2791,B90,2728
-119,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.1,Ding Liren,"Firouzja,Alireza",1/2-1/2,2728,E51,2791
-120,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.4,"Firouzja,Alireza",Ding Liren,1/2-1/2,2791,C65,2728
-121,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2728,A07,2791
-122,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.4,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2863,C65,2728
-123,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.3,"Carlsen,M","Firouzja,Alireza",1-0,2728,D38,2863
-124,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.2,"Firouzja,Alireza","Carlsen,M",1-0,2863,B30,2728
-125,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D38,2863
-126,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.3,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,D37,2728
-127,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,B01,2736
-128,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.1,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,D37,2728
-129,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.2,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,E06,2736
-130,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.1,"Firouzja,Alireza","Caruana,F",0-1,2835,D11,2728
-131,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.2,"Caruana,F","Firouzja,Alireza",1-0,2728,D12,2835
-132,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.4,"Caruana,F","Firouzja,Alireza",1-0,2728,E60,2835
-133,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.3,"Firouzja,Alireza","Caruana,F",1-0,2835,D11,2728
-134,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.2,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,D12,2728
-135,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.4,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,D13,2728
-136,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.1,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,E39,2778
-137,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.3,"Vachier Lagrave,M","Firouzja,Alireza",0-1,2728,E39,2778
-138,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.3,"Firouzja,Alireza","Giri,A",1-0,2764,D85,2728
-139,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.2,"Giri,A","Firouzja,Alireza",1-0,2728,B12,2764
-140,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.1,"Firouzja,Alireza","Giri,A",1-0,2764,E51,2728
-141,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.4,"Giri,A","Firouzja,Alireza",1/2-1/2,2728,B12,2764
-142,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,B12,2784
-143,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2784,A81,2728
-144,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2784,A81,2728
-145,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2728,B12,2784
-146,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.5,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,B12,2784
-147,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.2,"Firouzja,Alireza",Wei Yi,1/2-1/2,2732,D43,2728
-148,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.2,"Harikrishna,P","Firouzja,Alireza",1/2-1/2,2728,B10,2719
-149,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.3,"Firouzja,Alireza","Dominguez Perez,L",1/2-1/2,2758,A28,2728
-150,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.1,"Firouzja,Alireza","Artemiev,V",1/2-1/2,2716,B46,2728
-151,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.3,"Aronian,L","Firouzja,Alireza",1-0,2728,A13,2773
-152,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.2,Wei Yi,"Firouzja,Alireza",1-0,2728,B10,2732
-153,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.2,"Firouzja,Alireza","Vidit,S",1-0,2726,C28,2728
-154,Online Nations Cup Prelim,chess.com INT,2020.05.08,8.3,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,D37,2728
-155,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.1,"Karjakin,Sergey","Firouzja,Alireza",0-1,2728,B12,2752
-156,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.3,"Firouzja,Alireza","Aronian,L",1-0,2773,C27,2728
-157,Titled Tuesday 12th May,chess.com INT,2020.05.12,1,"Firouzja,Alireza","Miroshnik,Ekaterina",1-0,2139,C11,2728
-158,Titled Tuesday 12th May,chess.com INT,2020.05.12,2,"Shubin,Kirill","Firouzja,Alireza",0-1,2728,B53,2429
-159,Titled Tuesday 12th May,chess.com INT,2020.05.12,4,"Le Ruyet,L","Firouzja,Alireza",0-1,2728,A07,2245
-160,Titled Tuesday 12th May,chess.com INT,2020.05.12,5,"Firouzja,Alireza","Guzman,Ch",1-0,2258,E18,2728
-161,Titled Tuesday 12th May,chess.com INT,2020.05.12,6,"Ynojosa,F","Firouzja,Alireza",0-1,2728,B22,2393
-162,Titled Tuesday 12th May,chess.com INT,2020.05.12,7,"Firouzja,Alireza","Dobrov,V",1-0,2478,C65,2728
-163,Titled Tuesday 12th May,chess.com INT,2020.05.12,8,"Ramirez,Alej","Firouzja,Alireza",0-1,2728,E68,2567
-164,Titled Tuesday 12th May,chess.com INT,2020.05.12,10,"Mamedyarov,S","Firouzja,Alireza",0-1,2728,E62,2764
-165,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.11,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2778,E71,2728
-166,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.12,"Vachier Lagrave,M","Firouzja,Alireza",0-1,2728,A14,2778
-167,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.13,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2778,E71,2728
-168,Chessbrah Inv May 2020,chess.com INT,2020.05.15,1.14,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,A06,2778
-169,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.2,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2728,D38,2777
-170,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.3,"Firouzja,Alireza","Grischuk,A",1/2-1/2,2777,C65,2728
-171,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.4,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2728,D38,2777
-172,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.1,"Firouzja,Alireza","Grischuk,A",1/2-1/2,2777,D37,2728
-173,Chessbrah Inv May 2020,chess.com INT,2020.05.16,2.5,"Grischuk,A","Firouzja,Alireza",0-1,2728,D38,2777
-174,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.6,"Firouzja,Alireza","Giri,A",1-0,2764,B23,2728
-175,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.5,"Giri,A","Firouzja,Alireza",0-1,2728,D38,2764
-176,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.4,"Firouzja,Alireza","Giri,A",1-0,2764,C65,2728
-177,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.3,"Giri,A","Firouzja,Alireza",1/2-1/2,2728,B12,2764
-178,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.2,"Firouzja,Alireza","Giri,A",1-0,2764,B50,2728
-179,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.1,"Giri,A","Firouzja,Alireza",1-0,2728,E06,2764
-180,Chessbrah Inv May 2020,chess.com INT,2020.05.16,3.7,"Giri,A","Firouzja,Alireza",0-1,2728,B12,2764
-181,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,1,"Firouzja,Alireza","Rouast,Joseph",1-0,1808,A00,2728
-182,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,2,"Suez Panama,G","Firouzja,Alireza",0-1,2728,A01,1943
-183,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,3,"Firouzja,Alireza","Buksa,N",1-0,2410,B23,2728
-184,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,4,"Suarez Uriel,A","Firouzja,Alireza",0-1,2728,B00,2340
-185,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,5,"Firouzja,Alireza","Glek,I",1-0,2475,D00,2728
-186,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,6,"Vedmediuc,S","Firouzja,Alireza",1-0,2728,B00,2464
-187,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,7,"Firouzja,Alireza","Degardin,S",0-1,2267,B50,2728
-188,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,8,"Derige Kane,Yan","Firouzja,Alireza",0-1,2728,A45,2236
-189,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,9,"Firouzja,Alireza","Cornette,Deimante",1-0,2400,E40,2728
-190,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,10,"Firouzja,Alireza","Valles Moreno,I",1-0,2417,E81,2728
-191,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,11,"Marcelin,C","Firouzja,Alireza",0-1,2728,A48,2444
-192,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,12,"Bellahcene,B","Firouzja,Alireza",0-1,2728,B90,2501
-193,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,13,"Firouzja,Alireza","Baklan,V",1/2-1/2,2587,A46,2728
-194,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,14,"Firouzja,Alireza","Ivanchuk,V",1/2-1/2,2678,E12,2728
-195,ch-FRA Blitz Online Qual,Europe-Chess INT,2020.05.16,15,"Guseinov,G","Firouzja,Alireza",1/2-1/2,2728,C69,2665
-196,ch-FRA Blitz Online Final,Europe-Chess INT,2020.05.17,1.2,"Firouzja,Alireza","Piorun,K",0-1,2601,D38,2728
-197,ch-FRA Blitz Online Final,Europe-Chess INT,2020.05.17,1.1,"Piorun,K","Firouzja,Alireza",1-0,2728,E46,2601
-198,Titled Tuesday 19th May,chess.com INT,2020.05.19,2,"Firouzja,Alireza","Shubin,Kirill",1-0,2429,C00,2728
-199,Titled Tuesday 19th May,chess.com INT,2020.05.19,3,"Fakhrutdinov,Timur","Firouzja,Alireza",0-1,2728,B92,2501
-200,Titled Tuesday 19th May,chess.com INT,2020.05.19,4,"Firouzja,Alireza","Baklan,V",1-0,2587,B67,2728
-201,Titled Tuesday 19th May,chess.com INT,2020.05.19,5,"Maghalashvili,Da","Firouzja,Alireza",0-1,2728,A07,2456
-202,Titled Tuesday 19th May,chess.com INT,2020.05.19,6,"Jones,G","Firouzja,Alireza",0-1,2728,B23,2670
-203,Titled Tuesday 19th May,chess.com INT,2020.05.19,7,"Firouzja,Alireza","Fedoseev,Vl3",0-1,2678,C78,2728
-204,Titled Tuesday 19th May,chess.com INT,2020.05.19,8,"Bocharov,D","Firouzja,Alireza",0-1,2728,E68,2524
-205,Titled Tuesday 19th May,chess.com INT,2020.05.19,9,"Firouzja,Alireza","Wojtaszek,R",1-0,2719,B12,2728
-206,Titled Tuesday 19th May,chess.com INT,2020.05.19,10,"Safarli,E","Firouzja,Alireza",1/2-1/2,2728,B14,2598
-207,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.2,"Aronian,L","Firouzja,Alireza",1-0,2728,D05,2773
-208,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.5,"Firouzja,Alireza",Ding Liren,1/2-1/2,2791,C65,2728
-209,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.3,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,D05,2736
-210,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.4,"Firouzja,Alireza",Yu Yangyi,1/2-1/2,2709,C42,2728
-211,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.4,Wei Yi,"Firouzja,Alireza",1/2-1/2,2728,B12,2732
-212,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.3,"Firouzja,Alireza","Duda,J",1-0,2753,D37,2728
-213,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.5,"So,W","Firouzja,Alireza",1/2-1/2,2728,D85,2770
-214,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.2,"Firouzja,Alireza","Karjakin,Sergey",0-1,2752,D37,2728
-215,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.6,"Dubov,Daniil","Firouzja,Alireza",1/2-1/2,2728,B14,2699
-216,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.1,"Grischuk,A","Firouzja,Alireza",0-1,2728,E97,2777
-217,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.6,"Firouzja,Alireza","Carlsen,M",0-1,2863,A07,2728
-218,Titled Tuesday 26th May,chess.com INT,2020.05.26,1,"Firouzja,Alireza","Leve,Nitai",1-0,2128,C11,2728
-219,Titled Tuesday 26th May,chess.com INT,2020.05.26,4,"Firouzja,Alireza","Hosseinzadeh,N",1-0,2217,E12,2728
-220,Titled Tuesday 26th May,chess.com INT,2020.05.26,5,"Preotu,Razvan","Firouzja,Alireza",0-1,2728,B61,2487
-221,Titled Tuesday 26th May,chess.com INT,2020.05.26,6,"Firouzja,Alireza","Khanin,S",1/2-1/2,2482,D86,2728
-222,Titled Tuesday 9th June,chess.com INT,2020.06.09,1,"Bujisho,B","Firouzja,Alireza",0-1,2728,A45,2290
-223,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,1.2,"Firouzja,Alireza","Esipenko,Andrey",1-0,2682,B01,2728
-224,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,1.1,"Firouzja,Alireza","Esipenko,Andrey",1/2-1/2,2682,B01,2728
-225,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,2.2,"Kovalev,Vl","Firouzja,Alireza",0-1,2728,C00,2648
-226,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,2.1,"Firouzja,Alireza","Kovalev,Vl",1-0,2648,C47,2728
-227,Titled Tuesday 9th June,chess.com INT,2020.06.09,2,"Firouzja,Alireza","Lazavik,Denis",1-0,2424,C92,2728
-228,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,3.2,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2728,A14,2778
-229,Titled Tuesday 9th June,chess.com INT,2020.06.09,3,"Khanin,S","Firouzja,Alireza",0-1,2728,C02,2482
-230,Titled Tues 9th Jun Final,chess.com INT,2020.06.09,3.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2778,E71,2728
-231,Titled Tuesday 9th June,chess.com INT,2020.06.09,4,"Firouzja,Alireza","Vaibhav,S",1-0,2600,B12,2728
-232,Titled Tuesday 9th June,chess.com INT,2020.06.09,5,"Firouzja,Alireza","Praggnanandhaa,R",1-0,2608,B30,2728
-233,Titled Tuesday 9th June,chess.com INT,2020.06.09,6,"Fedoseev,Vl3","Firouzja,Alireza",0-1,2728,C01,2678
-234,Titled Tuesday 9th June,chess.com INT,2020.06.09,7,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2728,D27,2778
-235,Titled Tuesday 9th June,chess.com INT,2020.06.09,8,"Firouzja,Alireza",Le Tuan Minh,1-0,2501,B29,2728
-236,Titled Tuesday 9th June,chess.com INT,2020.06.09,9,"Abdusattorov,Nodirbek","Firouzja,Alireza",1/2-1/2,2728,C11,2627
-237,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,1,"Firouzja,Alireza","Stephan,V",1-0,2439,A61,2728
-238,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,2,"Edouard,R","Firouzja,Alireza",0-1,2728,E97,2649
-239,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,3,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,A46,2728
-240,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,4,"Gukesh,D","Firouzja,Alireza",0-1,2728,C11,2563
-241,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,5,"Firouzja,Alireza","Medvegy,Z",1-0,2524,A46,2728
-242,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,6,"Firouzja,Alireza","Mamedov,Rau",1-0,2654,D02,2728
-243,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,7,"Bauer,Ch","Firouzja,Alireza",0-1,2728,C50,2623
-244,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,8,"Firouzja,Alireza","Dardha,Daniel",1-0,2449,A46,2728
-245,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,9,"Maurizzi,Marc Andria","Firouzja,Alireza",0-1,2728,A48,2433
-246,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,10,"Firouzja,Alireza","Studer,N",1-0,2580,A08,2728
-247,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,11,"Guliyev,N","Firouzja,Alireza",0-1,2728,C01,2529
-248,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,12,"Firouzja,Alireza","Keymer,Vincent",1/2-1/2,2558,D03,2728
-249,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,13,"Lagarde,Max","Firouzja,Alireza",0-1,2728,C02,2655
-250,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,14,"Firouzja,Alireza","Murzin,Volodar",0-1,2465,A48,2728
-251,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,15,"Maghsoodloo,Parham","Firouzja,Alireza",1/2-1/2,2728,C67,2676
-252,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.2,"Lagarde,Max","Firouzja,Alireza",0-1,2728,C00,2655
-253,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.1,"Firouzja,Alireza","Lagarde,Max",1-0,2655,A46,2728
-254,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.3,"Firouzja,Alireza","Lagarde,Max",1-0,2655,A81,2728
-255,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.4,"Lagarde,Max","Firouzja,Alireza",1/2-1/2,2728,C29,2655
-256,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.2,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,A48,2728
-257,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.4,"Firouzja,Alireza","Ivanchuk,V",1/2-1/2,2678,A81,2728
-258,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.3,"Ivanchuk,V","Firouzja,Alireza",0-1,2728,A49,2678
-259,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.1,"Ivanchuk,V","Firouzja,Alireza",0-1,2728,E70,2678
-260,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.1,"Firouzja,Alireza","Maghsoodloo,Parham",1-0,2676,A46,2728
-261,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.3,"Firouzja,Alireza","Maghsoodloo,Parham",1/2-1/2,2676,D02,2728
-262,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.4,"Maghsoodloo,Parham","Firouzja,Alireza",0-1,2728,A00,2676
-263,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.2,"Maghsoodloo,Parham","Firouzja,Alireza",1/2-1/2,2728,C02,2676
-264,Titled Tuesday 16th June,chess.com INT,2020.06.16,1,"Kim,Se","Firouzja,Alireza",0-1,2728,E70,2295
-265,Titled Tuesday 16th June,chess.com INT,2020.06.16,2,"Firouzja,Alireza","Gabdrakhmanov,Azat",1/2-1/2,2328,B43,2728
-266,Titled Tuesday 16th June,chess.com INT,2020.06.16,3,"Firouzja,Alireza","Munkhzul,Turmunkh",1-0,2278,D58,2728
-267,Titled Tuesday 16th June,chess.com INT,2020.06.16,4,"Kalashian,D","Firouzja,Alireza",0-1,2728,C07,2398
-268,Titled Tuesday 16th June,chess.com INT,2020.06.16,5,"Firouzja,Alireza","Starozhilov,L",1-0,2318,A49,2728
-269,Titled Tuesday 16th June,chess.com INT,2020.06.16,6,"Moskalenko,A","Firouzja,Alireza",0-1,2728,A45,2515
-270,Titled Tuesday 16th June,chess.com INT,2020.06.16,7,"Firouzja,Alireza","Kamsky,G",0-1,2674,B06,2728
-271,Titled Tuesday 16th June,chess.com INT,2020.06.16,8,"Aravindh,Chithambaram VR.","Firouzja,Alireza",0-1,2728,A05,2641
-272,Titled Tuesday 16th June,chess.com INT,2020.06.16,9,"Firouzja,Alireza","Svane,R",0-1,2613,D03,2728
-273,Titled Tue 23rd Jun Final,chess.com INT,2020.06.23,1.1,"Firouzja,Alireza","Salem,AR",0-1,2682,E92,2728
-274,Titled Tuesday 23rd June,chess.com INT,2020.06.23,2,"Firouzja,Alireza","Colas,Joshua",1-0,2255,D37,2728
-275,Titled Tuesday 23rd June,chess.com INT,2020.06.23,3,"Kushagra,Mohan","Firouzja,Alireza",0-1,2728,B18,2351
-276,Titled Tuesday 23rd June,chess.com INT,2020.06.23,4,"Firouzja,Alireza","Kobo,Ori",1-0,2449,B08,2728
-277,Titled Tuesday 23rd June,chess.com INT,2020.06.23,5,"Bluebaum,M","Firouzja,Alireza",0-1,2728,E92,2647
-278,Titled Tuesday 23rd June,chess.com INT,2020.06.23,6,"Firouzja,Alireza","Alekseenko,K",1/2-1/2,2696,D03,2728
-279,Titled Tuesday 23rd June,chess.com INT,2020.06.23,7,"Sjugirov,S","Firouzja,Alireza",0-1,2728,C92,2675
-280,Titled Tuesday 23rd June,chess.com INT,2020.06.23,8,"Firouzja,Alireza","Salem,AR",1-0,2682,E92,2728
-281,Titled Tuesday 23rd June,chess.com INT,2020.06.23,9,"Onischuk,V","Firouzja,Alireza",0-1,2728,C00,2633
-282,Titled Tuesday 23rd June,chess.com INT,2020.06.23,10,"Firouzja,Alireza","Martirosyan,Haik M.",1/2-1/2,2617,C49,2728
-283,Titled Tuesday 30th June,chess.com INT,2020.06.30,1,"Garcia Ramos,Daniel","Firouzja,Alireza",0-1,2728,B54,2367
-284,Titled Tuesday 30th June,chess.com INT,2020.06.30,2,"Firouzja,Alireza","Belyakov,B",1-0,2481,C65,2728
-285,Titled Tuesday 30th June,chess.com INT,2020.06.30,3,"Rozum,I","Firouzja,Alireza",0-1,2728,E62,2566
-286,Titled Tuesday 30th June,chess.com INT,2020.06.30,4,"Firouzja,Alireza","Jobava,Ba",1-0,2603,D10,2728
-287,Titled Tuesday 30th June,chess.com INT,2020.06.30,5,"Tabatabaei,M","Firouzja,Alireza",1/2-1/2,2728,B23,2629
-288,Titled Tuesday 30th June,chess.com INT,2020.06.30,6,"Firouzja,Alireza","Jumabayev,R",0-1,2654,C77,2728
-289,Titled Tuesday 30th June,chess.com INT,2020.06.30,7,"Sipila,V","Firouzja,Alireza",1-0,2728,A01,2402
-290,Titled Tuesday 7th July,chess.com INT,2020.07.07,1,"Obrien,Matthew","Firouzja,Alireza",0-1,2728,B90,2156
-291,Titled Tuesday 7th July,chess.com INT,2020.07.07,2,"Firouzja,Alireza","Igambergenov,A",1-0,2420,A57,2728
-292,Titled Tuesday 7th July,chess.com INT,2020.07.07,3,"Yanchenko,R","Firouzja,Alireza",0-1,2728,E60,2467
-293,Titled Tuesday 7th July,chess.com INT,2020.07.07,4,"Firouzja,Alireza","Amin,B",0-1,2686,E92,2728
-294,Titled Tuesday 7th July,chess.com INT,2020.07.07,5,"Vovk,Or","Firouzja,Alireza",0-1,2728,A00,2315
-295,Titled Tuesday 7th July,chess.com INT,2020.07.07,6,"Firouzja,Alireza","Harutjunyan,G",1-0,2439,B15,2728
-296,Titled Tuesday 7th July,chess.com INT,2020.07.07,7,"Alekseenko,K","Firouzja,Alireza",0-1,2728,B10,2696
-297,Titled Tuesday 7th July,chess.com INT,2020.07.07,8,"Firouzja,Alireza","Shevchenko,Kirill",1-0,2592,A05,2728
-298,Titled Tuesday 7th July,chess.com INT,2020.07.07,9,"Firouzja,Alireza","Bortnyk,Olexandr",1-0,2598,D37,2728
-299,Titled Tuesday 7th July,chess.com INT,2020.07.07,10,"Caruana,F","Firouzja,Alireza",1-0,2728,B13,2835
-300,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,1,"Aditya,Mittal","Firouzja,Alireza",0-1,2728,E73,2438
-301,Titled Tuesday 14th July,chess.com INT,2020.07.14,1,"Ozdemir,Serhan Berat","Firouzja,Alireza",0-1,2728,B56,2191
-302,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,2,"Firouzja,Alireza","Lazavik,Denis",1/2-1/2,2424,D19,2728
-303,Titled Tuesday 14th July,chess.com INT,2020.07.14,2,"Firouzja,Alireza","Hnydiuk,A",1-0,2411,B46,2728
-304,Titled Tuesday 14th July,chess.com INT,2020.07.14,3,"Priasmoro,Novendra","Firouzja,Alireza",0-1,2728,B62,2502
-305,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,4,"Firouzja,Alireza","Gukesh,D",1-0,2563,D78,2728
-306,Titled Tuesday 14th July,chess.com INT,2020.07.14,4,"Firouzja,Alireza","Visakh,N R",1-0,2516,E18,2728
-307,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,5,Nguyen Ngoc Truong Son,"Firouzja,Alireza",1/2-1/2,2728,A10,2641
-308,Titled Tuesday 14th July,chess.com INT,2020.07.14,5,"Vokhidov,Shamsiddin","Firouzja,Alireza",1-0,2728,B51,2512
-309,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,6,"Maly,Al","Firouzja,Alireza",0-1,2728,E98,2371
-310,Titled Tuesday 14th July,chess.com INT,2020.07.14,6,"Firouzja,Alireza","Zierk,S",0-1,2499,D27,2728
-311,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,7,"Firouzja,Alireza","Bluebaum,M",1/2-1/2,2647,C11,2728
-312,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,8,"Smirnov,Ant","Firouzja,Alireza",1/2-1/2,2728,A49,2597
-313,33rd Leon Blitz Open 2020,chess.com INT,2020.07.14,9,"Firouzja,Alireza","Matlakov,M",0-1,2685,D45,2728
-314,Titled Tuesday 21st July,chess.com INT,2020.07.21,1,"Firouzja,Alireza","Borisova,Ekaterina",0-1,2283,E10,2728
-315,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,1,"Quintin Navarro,A","Firouzja,Alireza",0-1,2728,A16,2383
-316,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,2,"Mikhailovsky,Vladimir","Firouzja,Alireza",0-1,2728,A45,2228
-317,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,2,"Firouzja,Alireza","Espinosa Veloz,E",1-0,2485,C78,2728
-318,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,3,"Gharibyan,Mamikon","Firouzja,Alireza",1-0,2728,E73,2432
-319,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,3,"Firouzja,Alireza","Ostrovskiy,Al",1-0,2425,A40,2728
-320,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,4,"Firouzja,Alireza","Janaszak,Daw",1-0,2356,B06,2728
-321,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,4,"Firouzja,Alireza","Bocharov,D",1-0,2524,A46,2728
-322,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,5,"Mchedlishvili,M","Firouzja,Alireza",0-1,2728,B07,2570
-323,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,5,"Alekseenko,K","Firouzja,Alireza",1-0,2728,C11,2696
-324,Titled Tue 4th Aug 10am,chess.com INT,2020.08.04,6,"Firouzja,Alireza","Sorokin,Aleksey",0-1,2521,A48,2728
-325,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,6,"Firouzja,Alireza","Kobo,Ori",1-0,2449,B06,2728
-326,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,7,"Jones,G","Firouzja,Alireza",0-1,2728,A00,2670
-327,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,8,"Firouzja,Alireza","Moskalenko,A",0-1,2515,B12,2728
-328,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,9,"Firouzja,Alireza","Meshkovs,Nikita",1-0,2585,C92,2728
-329,Titled Tue 4th Aug 2pm,chess.com INT,2020.08.04,10,"Melkumyan,H","Firouzja,Alireza",1-0,2728,E81,2663
-330,Titled Tue 11th Aug,chess.com INT,2020.08.11,1,"Altman,Joshua","Firouzja,Alireza",0-1,2728,E10,1926
-331,Titled Tue 11th Aug,chess.com INT,2020.08.11,2,"Firouzja,Alireza","Warmerdam,Max",1-0,2506,C77,2728
-332,Titled Tue 11th Aug,chess.com INT,2020.08.11,3,"Sorkin,I","Firouzja,Alireza",0-1,2728,D02,2383
-333,Titled Tue 11th Aug,chess.com INT,2020.08.11,4,"Firouzja,Alireza","Hess,Ro",1-0,2591,C65,2728
-334,Titled Tue 11th Aug,chess.com INT,2020.08.11,5,"Nagy,Ga1","Firouzja,Alireza",1-0,2728,D37,2478
-335,Titled Tue 11th Aug,chess.com INT,2020.08.11,6,"Firouzja,Alireza","Bachmann,Ax",1-0,2599,B00,2728
-336,Titled Tue 11th Aug,chess.com INT,2020.08.11,7,"Kuzubov,Y","Firouzja,Alireza",0-1,2728,D30,2643
-337,Titled Tue 11th Aug,chess.com INT,2020.08.11,8,"Firouzja,Alireza","Zubov,A UKR",1-0,2589,B41,2728
-338,Titled Tue 11th Aug,chess.com INT,2020.08.11,9,"Firouzja,Alireza","Abdusattorov,Nodirbek",0-1,2627,C82,2728
-339,Titled Tue 11th Aug,chess.com INT,2020.08.11,10,Tran Tuan Minh,"Firouzja,Alireza",0-1,2728,E70,2518
-340,Titled Tue 18th Aug,chess.com INT,2020.08.18,1,"Firouzja,Alireza","Jian,Alex",1-0,2089,D37,2728
-341,Titled Tue 18th Aug,chess.com INT,2020.08.18,2,"Bagrationi,A","Firouzja,Alireza",0-1,2728,B47,2467
-342,Titled Tue 18th Aug,chess.com INT,2020.08.18,3,"Firouzja,Alireza","Kazakouski,Valery",0-1,2473,D38,2728
-343,Titled Tue 18th Aug,chess.com INT,2020.08.18,4,"Iskusnyh,S","Firouzja,Alireza",1-0,2728,E06,2473
-344,Titled Tue 25th Aug,chess.com INT,2020.08.25,1,"Firouzja,Alireza","Baskin,R",1-0,2390,C92,2728
-345,Titled Tue 25th Aug,chess.com INT,2020.08.25,2,"Nguyen,Hong Anh","Firouzja,Alireza",0-1,2728,E10,1970
-346,Titled Tue 25th Aug,chess.com INT,2020.08.25,3,"Firouzja,Alireza","Arjun,Kalyan",0-1,2477,C88,2728
-347,Titled Tue 25th Aug,chess.com INT,2020.08.25,4,"Mezentsev,Iv","Firouzja,Alireza",1/2-1/2,2728,D02,2354
-348,Titled Tue 25th Aug,chess.com INT,2020.08.25,5,"Stoyanov,Tsvetan","Firouzja,Alireza",0-1,2728,B53,2387
-349,Titled Tue 25th Aug,chess.com INT,2020.08.25,6,"Firouzja,Alireza","Iljin,T",1-0,2273,B30,2728
-350,Titled Tue 25th Aug,chess.com INT,2020.08.25,7,"Gurvich,Vitaly","Firouzja,Alireza",0-1,2728,B10,2230
-351,Titled Tue 25th Aug,chess.com INT,2020.08.25,9,"Bluebaum,M","Firouzja,Alireza",0-1,2728,E94,2647
-352,Titled Tue 25th Aug,chess.com INT,2020.08.25,10,"Firouzja,Alireza","Korobov,A",0-1,2688,B30,2728
-353,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.12,"Paravyan,D","Firouzja,Alireza",0-1,2728,C50,2653
-354,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.11,"Firouzja,Alireza","Paravyan,D",1-0,2653,E94,2728
-355,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.10,"Paravyan,D","Firouzja,Alireza",0-1,2728,E90,2653
-356,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.9,"Firouzja,Alireza","Paravyan,D",1-0,2653,C25,2728
-357,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.8,"Paravyan,D","Firouzja,Alireza",1-0,2728,A48,2653
-358,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.7,"Firouzja,Alireza","Paravyan,D",0-1,2653,D37,2728
-359,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.6,"Paravyan,D","Firouzja,Alireza",0-1,2728,B62,2653
-360,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.5,"Firouzja,Alireza","Paravyan,D",0-1,2653,C65,2728
-361,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.4,"Paravyan,D","Firouzja,Alireza",0-1,2728,B56,2653
-362,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.3,"Firouzja,Alireza","Paravyan,D",1/2-1/2,2653,C67,2728
-363,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.2,"Paravyan,D","Firouzja,Alireza",0-1,2728,C36,2653
-364,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.1,"Firouzja,Alireza","Paravyan,D",1/2-1/2,2653,C65,2728
-365,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.3,"Rothuis,V","Firouzja,Alireza",1/2-1/2,2728,B89,2346
-366,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.4,"Firouzja,Alireza","Rothuis,V",1-0,2346,B10,2728
-367,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.5,"Rothuis,V","Firouzja,Alireza",0-1,2728,B47,2346
-368,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.2,"Firouzja,Alireza","Rothuis,V",1-0,2346,A00,2728
-369,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.7,"Rothuis,V","Firouzja,Alireza",1/2-1/2,2728,B31,2346
-370,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.8,"Firouzja,Alireza","Rothuis,V",1-0,2346,C49,2728
-371,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.9,"Rothuis,V","Firouzja,Alireza",0-1,2728,B89,2346
-372,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.1,"Rothuis,V","Firouzja,Alireza",1/2-1/2,2728,B90,2346
-373,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.6,"Firouzja,Alireza","Rothuis,V",1/2-1/2,2346,B01,2728
-374,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.2,"Naroditsky,D","Firouzja,Alireza",1-0,2728,B22,2621
-375,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.7,"Firouzja,Alireza","Naroditsky,D",0-1,2621,C87,2728
-376,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.6,"Naroditsky,D","Firouzja,Alireza",1-0,2728,B51,2621
-377,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.5,"Firouzja,Alireza","Naroditsky,D",0-1,2621,E92,2728
-378,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.4,"Naroditsky,D","Firouzja,Alireza",1/2-1/2,2728,A01,2621
-379,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.3,"Firouzja,Alireza","Naroditsky,D",0-1,2621,E92,2728
-380,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.8,"Naroditsky,D","Firouzja,Alireza",1-0,2728,B10,2621
-381,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.1,"Firouzja,Alireza","Naroditsky,D",1-0,2621,D07,2728
-382,Titled Tues 1st Sep Final,chess.com INT,2020.09.01,1.1,"Kuzubov,Y","Firouzja,Alireza",1-0,2728,A48,2643
-383,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,2,"Sengupta,D","Firouzja,Alireza",0-1,2728,A48,2527
-384,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,3,"Firouzja,Alireza","Shahade,G",1-0,2476,D77,2728
-385,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,4,"Ostrovskiy,Al","Firouzja,Alireza",0-1,2728,A45,2425
-386,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,5,"Firouzja,Alireza","Gukesh,D",1-0,2563,D02,2728
-387,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,6,"Firouzja,Alireza","Sychev,K",1-0,2572,D79,2728
-388,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,7,"Izoria,Z","Firouzja,Alireza",1/2-1/2,2728,A15,2602
-389,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,8,"Firouzja,Alireza","Jobava,Ba",1-0,2603,D12,2728
-390,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,9,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,C65,2736
-391,Titled Tuesday 1st Sept,chess.com INT,2020.09.01,10,"Firouzja,Alireza","Pantsulaia,L",1-0,2553,A43,2728
-392,Titled Tues 8th Sep Final,chess.com INT,2020.09.08,1.1,"Firouzja,Alireza","Abdusattorov,Nodirbek",0-1,2627,D02,2728
-393,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,1,"Florescu,C","Firouzja,Alireza",0-1,2728,B47,2293
-394,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,2,"Firouzja,Alireza","Valdes,Le",1-0,2402,A49,2728
-395,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,3,"Mekhitarian,K","Firouzja,Alireza",1-0,2728,B48,2554
-396,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,4,"Firouzja,Alireza","Leiva,G",1-0,2391,A05,2728
-397,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,5,"Firouzja,Alireza","Mozharov,M",1-0,2558,A05,2728
-398,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,6,"Arjun,Kalyan","Firouzja,Alireza",0-1,2728,B41,2477
-399,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,7,"Firouzja,Alireza","Grandelius,N",1-0,2662,D02,2728
-400,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,8,"Sjugirov,S","Firouzja,Alireza",0-1,2728,B51,2675
-401,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,9,"Firouzja,Alireza","Xiong,Jeffery",1-0,2709,A49,2728
-402,Titled Tuesday 8th Sept,chess.com INT,2020.09.08,10,"Kuzubov,Y","Firouzja,Alireza",1/2-1/2,2728,E06,2643
-403,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,1.4,"Firouzja,Alireza","Aronian,L",0-1,2773,D78,2728
-404,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,2.3,"Harikrishna,P","Firouzja,Alireza",1/2-1/2,2728,D37,2732
-405,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,3.3,"Firouzja,Alireza","Xiong,Jeffery",1/2-1/2,2709,A07,2728
-406,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,4.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,B12,2736
-407,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,5.2,"Firouzja,Alireza","So,W",1/2-1/2,2770,C42,2728
-408,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,6.5,"Dominguez Perez,L","Firouzja,Alireza",1-0,2728,B12,2758
-409,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,7.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,E20,2728
-410,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,8.5,"Firouzja,Alireza","Grischuk,A",1/2-1/2,2777,C53,2728
-411,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,9.2,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2728,B10,2784
-412,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,1.4,"Aronian,L","Firouzja,Alireza",1-0,2728,E73,2773
-413,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,2.2,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2784,B08,2728
-414,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,3.5,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2728,D02,2777
-415,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,4.1,"Nakamura,Hi","Firouzja,Alireza",1-0,2728,B51,2736
-416,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,5.5,"Firouzja,Alireza","Dominguez Perez,L",1/2-1/2,2758,C82,2728
-417,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,6.2,"So,W","Firouzja,Alireza",1/2-1/2,2728,D37,2770
-418,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,7.4,"Firouzja,Alireza","Carlsen,M",0-1,2863,C65,2728
-419,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,8.3,"Xiong,Jeffery","Firouzja,Alireza",1-0,2728,A46,2709
-420,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,9.3,"Firouzja,Alireza","Harikrishna,P",1-0,2732,B12,2728
-421,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,10.4,"Firouzja,Alireza","Aronian,L",0-1,2773,C65,2728
-422,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,11.3,"Harikrishna,P","Firouzja,Alireza",0-1,2728,E21,2732
-423,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,12.3,"Firouzja,Alireza","Xiong,Jeffery",0-1,2709,B01,2728
-424,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,13.4,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,C65,2728
-425,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,14.2,"Firouzja,Alireza","So,W",1/2-1/2,2770,C65,2728
-426,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,15.5,"Dominguez Perez,L","Firouzja,Alireza",0-1,2728,B67,2758
-427,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,16.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,B13,2863
-428,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,17.5,"Firouzja,Alireza","Grischuk,A",1-0,2777,C28,2728
-429,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,18.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2728,A01,2784
-430,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.3,"Duda,J","Firouzja,Alireza",0-1,2728,B19,2757
-431,8th Norway Armageddon,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D35,2863
-432,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,D35,2863
-433,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1/2-1/2,2828,A08,2728
-434,8th Norway Armageddon,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1-0,2828,D04,2728
-435,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.2,"Aronian,L","Firouzja,Alireza",1/2-1/2,2728,B19,2767
-436,8th Norway Armageddon,Stavanger NOR,2020.10.08,4.2,"Aronian,L","Firouzja,Alireza",0-1,2728,B19,2767
-437,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.3,"Firouzja,Alireza","Tari,A",1-0,2633,C53,2728
-438,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.3,"Tari,A","Firouzja,Alireza",0-1,2728,B13,2633
-439,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2767,D78,2728
-440,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.2,"Firouzja,Alireza","Aronian,L",1-0,2767,C46,2728
-441,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1-0,2728,B12,2828
-442,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1/2-1/2,2728,B12,2828
-443,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,A05,2728
-444,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.2,"Firouzja,Alireza","Duda,J",1-0,2757,D78,2728
-445,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,1,"Neelotpal,D","Firouzja,Alireza",0-1,2728,C50,2425
-446,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,2,"Firouzja,Alireza","Dhulipalla,Bala Chandra Prasad",1-0,2441,A02,2728
-447,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,3,"Kazakouski,Valery","Firouzja,Alireza",0-1,2728,E09,2473
-448,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,4,"Firouzja,Alireza","Gorshtein,Ido",1-0,2382,A02,2728
-449,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,5,"Jones,G","Firouzja,Alireza",1/2-1/2,2728,C44,2670
-450,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,6,"Firouzja,Alireza","Yoo,Christopher Woojin",1-0,2455,A02,2728
-451,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,7,"Kokarev,Dm","Firouzja,Alireza",1/2-1/2,2728,B54,2621
-452,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,8,"Firouzja,Alireza","Quparadze,G",0-1,2463,A02,2728
-453,Titled Tuesday 20th Oct,chess.com INT,2020.10.20,9,"Mekhitarian,K","Firouzja,Alireza",1-0,2728,B90,2554
-454,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,2,"Firouzja,Alireza","Bodnar,N",1-0,2434,E00,2728
-455,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,3,"Novikov,E","Firouzja,Alireza",0-1,2728,A40,2276
-456,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,4,"Firouzja,Alireza","Chernobay,A",1-0,2490,A00,2728
-457,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,5,"Goltsev,Dmitry","Firouzja,Alireza",0-1,2728,C00,2312
-458,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,6,"Firouzja,Alireza","Kamsky,G",1/2-1/2,2672,A00,2728
-459,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,7,"Firouzja,Alireza","Zierk,S",1-0,2499,A00,2728
-460,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,8,"Kovalev,Vl","Firouzja,Alireza",0-1,2728,B00,2648
-461,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,9,"Firouzja,Alireza","Indjic,A",1-0,2618,A00,2728
-462,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,10,"Jumabayev,R","Firouzja,Alireza",0-1,2728,A40,2654
-463,Titled Tuesday 27th Oct,chess.com INT,2020.10.27,11,"Firouzja,Alireza","Sychev,K",1-0,2572,C70,2728
-464,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,1,"Rodchenkov,S","Firouzja,Alireza",0-1,2728,B00,2346
-465,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,2,"Firouzja,Alireza","Chernobay,A",1-0,2490,A00,2728
-466,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,3,"Livaic,Leon","Firouzja,Alireza",0-1,2728,A40,2507
-467,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,4,"Firouzja,Alireza","Onischuk,V",0-1,2633,A00,2728
-468,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,5,"Nasuta,G","Firouzja,Alireza",0-1,2728,B00,2535
-469,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,6,"Firouzja,Alireza","Ostrovskiy,Al",1-0,2427,A00,2728
-470,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,7,"Firouzja,Alireza","Gumularz,Szymon",1-0,2526,A00,2728
-471,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,8,"Paravyan,D","Firouzja,Alireza",1/2-1/2,2728,C72,2653
-472,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,9,"Firouzja,Alireza","Vastrukhin,O",1-0,2401,A00,2728
-473,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,10,"Giri,A","Firouzja,Alireza",0-1,2728,A40,2764
-474,Titled Tuesday 3rd Nov,chess.com INT,2020.11.03,11,"Firouzja,Alireza","Xiong,Jeffery",0-1,2709,B24,2728
-475,chess.com Speed 2020,chess.com INT,2020.11.05,1.33,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,B93,2676
-476,chess.com Speed 2020,chess.com INT,2020.11.05,1.27,"Fedoseev,Vl3","Firouzja,Alireza",0-1,2749,E62,2676
-477,chess.com Speed 2020,chess.com INT,2020.11.05,1.14,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,E12,2676
-478,chess.com Speed 2020,chess.com INT,2020.11.05,1.35,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,B13,2676
-479,chess.com Speed 2020,chess.com INT,2020.11.05,1.28,"Firouzja,Alireza","Fedoseev,Vl3",0-1,2676,A07,2749
-480,chess.com Speed 2020,chess.com INT,2020.11.05,1.31,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,C01,2676
-481,chess.com Speed 2020,chess.com INT,2020.11.05,1.32,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,E63,2749
-482,chess.com Speed 2020,chess.com INT,2020.11.05,1.15,"Firouzja,Alireza","Fedoseev,Vl3",1/2-1/2,2676,D78,2749
-483,chess.com Speed 2020,chess.com INT,2020.11.05,1.26,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,A07,2749
-484,chess.com Speed 2020,chess.com INT,2020.11.05,1.17,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,D78,2749
-485,chess.com Speed 2020,chess.com INT,2020.11.05,1.18,"Fedoseev,Vl3","Firouzja,Alireza",1/2-1/2,2749,E73,2676
-486,chess.com Speed 2020,chess.com INT,2020.11.05,1.36,"Firouzja,Alireza","Fedoseev,Vl3",1/2-1/2,2676,D78,2749
-487,chess.com Speed 2020,chess.com INT,2020.11.05,1.37,"Fedoseev,Vl3","Firouzja,Alireza",0-1,2749,B67,2676
-488,chess.com Speed 2020,chess.com INT,2020.11.05,1.38,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,B12,2749
-489,chess.com Speed 2020,chess.com INT,2020.11.05,1.41,"Fedoseev,Vl3","Firouzja,Alireza",1/2-1/2,2749,B13,2676
-490,chess.com Speed 2020,chess.com INT,2020.11.05,1.13,"Firouzja,Alireza","Fedoseev,Vl3",1/2-1/2,2676,C83,2749
-491,chess.com Speed 2020,chess.com INT,2020.11.05,1.44,"Firouzja,Alireza","Fedoseev,Vl3",0-1,2676,A05,2749
-492,chess.com Speed 2020,chess.com INT,2020.11.05,1.16,"Fedoseev,Vl3","Firouzja,Alireza",1/2-1/2,2749,E62,2676
-493,chess.com Speed 2020,chess.com INT,2020.11.05,1.19,"Firouzja,Alireza","Fedoseev,Vl3",1/2-1/2,2676,A08,2749
-494,chess.com Speed 2020,chess.com INT,2020.11.05,1.43,"Fedoseev,Vl3","Firouzja,Alireza",0-1,2749,B51,2676
-495,chess.com Speed 2020,chess.com INT,2020.11.05,1.42,"Firouzja,Alireza","Fedoseev,Vl3",0-1,2676,D78,2749
-496,chess.com Speed 2020,chess.com INT,2020.11.05,1.34,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,D78,2749
-497,chess.com Speed 2020,chess.com INT,2020.11.05,1.12,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,E06,2676
-498,chess.com Speed 2020,chess.com INT,2020.11.05,1.25,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,E62,2676
-499,chess.com Speed 2020,chess.com INT,2020.11.05,1.24,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,D77,2749
-500,chess.com Speed 2020,chess.com INT,2020.11.05,1.23,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,E62,2676
-501,chess.com Speed 2020,chess.com INT,2020.11.05,1.22,"Firouzja,Alireza","Fedoseev,Vl3",1-0,2676,D78,2749
-502,chess.com Speed 2020,chess.com INT,2020.11.05,1.21,"Fedoseev,Vl3","Firouzja,Alireza",1/2-1/2,2749,E62,2676
-503,chess.com Speed 2020,chess.com INT,2020.11.05,1.11,"Firouzja,Alireza","Fedoseev,Vl3",0-1,2676,A00,2749
-504,Skilling Open Prelim,chess24.com INT,2020.11.22,1.5,"Vidit,S","Firouzja,Alireza",1/2-1/2,2749,E06,2726
-505,Skilling Open Prelim,chess24.com INT,2020.11.22,2.4,"Firouzja,Alireza","So,W",1-0,2770,D04,2749
-506,Skilling Open Prelim,chess24.com INT,2020.11.22,3.6,"Svidler,P","Firouzja,Alireza",1/2-1/2,2749,B10,2723
-507,Skilling Open Prelim,chess24.com INT,2020.11.22,4.3,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2784,E60,2749
-508,Skilling Open Prelim,chess24.com INT,2020.11.22,5.7,"Carlsen,M","Firouzja,Alireza",1-0,2749,D35,2862
-509,Skilling Open Prelim,chess24.com INT,2020.11.23,6.2,"Firouzja,Alireza","Radjabov,T",0-1,2765,C46,2749
-510,Skilling Open Prelim,chess24.com INT,2020.11.23,7.8,"Anton Guijarro,D","Firouzja,Alireza",0-1,2749,E71,2675
-511,Skilling Open Prelim,chess24.com INT,2020.11.23,8.1,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B10,2784
-512,Skilling Open Prelim,chess24.com INT,2020.11.23,9.8,"Firouzja,Alireza","Aronian,L",1-0,2781,A07,2749
-513,Skilling Open Prelim,chess24.com INT,2020.11.23,10.2,"Duda,J","Firouzja,Alireza",1-0,2749,B10,2743
-514,Skilling Open Prelim,chess24.com INT,2020.11.24,11.7,"Firouzja,Alireza",Ding Liren,1-0,2791,C50,2749
-515,Skilling Open Prelim,chess24.com INT,2020.11.24,12.3,"Giri,A","Firouzja,Alireza",0-1,2749,B67,2764
-516,Skilling Open Prelim,chess24.com INT,2020.11.24,13.6,"Firouzja,Alireza","Karjakin,Sergey",1-0,2752,D77,2749
-517,Skilling Open Prelim,chess24.com INT,2020.11.24,14.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,B19,2736
-518,Skilling Open Prelim,chess24.com INT,2020.11.24,15.5,"Firouzja,Alireza",Le Quang Liem,0-1,2709,A05,2749
-519,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,1,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C73,2678
-520,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,2,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,A45,2749
-521,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,3,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C72,2678
-522,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,4,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,A45,2749
-523,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,5,"Ivanchuk,V","Firouzja,Alireza",1/2-1/2,2749,C72,2678
-524,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,6,"Firouzja,Alireza","Ivanchuk,V",1/2-1/2,2678,C10,2749
-525,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,7,"Ivanchuk,V","Firouzja,Alireza",1-0,2749,B92,2678
-526,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,8,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,B41,2749
-527,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,9,"Ivanchuk,V","Firouzja,Alireza",1-0,2749,C42,2678
-528,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,10,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,E15,2749
-529,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,11,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C76,2678
-530,Chess.com Bullet Open 2,chess.com INT,2020.12.19,1,"Kulkarni,R","Firouzja,Alireza",0-1,2749,B06,2321
-531,Chess.com Bullet Open 1,chess.com INT,2020.12.19,1,"Firouzja,Alireza","Hristodoulou,P",1-0,2302,D04,2749
-532,Chess.com Bullet Open 2,chess.com INT,2020.12.19,2,"Firouzja,Alireza","Bazeev,G",1-0,2398,A40,2749
-533,Chess.com Bullet Open 1,chess.com INT,2020.12.19,2,"Piorun,K","Firouzja,Alireza",0-1,2749,A01,2615
-534,Chess.com Bullet Open 2,chess.com INT,2020.12.19,3,"Nagy,Ga1","Firouzja,Alireza",1-0,2749,A10,2495
-535,Chess.com Bullet Open 1,chess.com INT,2020.12.19,3,"Firouzja,Alireza","Moranda,W",1-0,2618,D05,2749
-536,Chess.com Bullet Open 2,chess.com INT,2020.12.19,4,"Firouzja,Alireza","Wang,Jalen",1-0,2123,B00,2749
-537,Chess.com Bullet Open 1,chess.com INT,2020.12.19,4,"Sevian,Samuel","Firouzja,Alireza",0-1,2749,A46,2660
-538,Chess.com Bullet Open 1,chess.com INT,2020.12.19,5,"Firouzja,Alireza","Narayanan,SL",1-0,2618,A40,2749
-539,Chess.com Bullet Open 2,chess.com INT,2020.12.19,5,"Paravyan,D","Firouzja,Alireza",0-1,2749,B10,2647
-540,Chess.com Bullet Open 2,chess.com INT,2020.12.19,6,"Firouzja,Alireza","Pultinevicius,Paulius",1-0,2501,B13,2749
-541,Chess.com Bullet Open 1,chess.com INT,2020.12.19,6,"Sadhwani,Raunak","Firouzja,Alireza",1-0,2749,A05,2545
-542,Chess.com Bullet Open 1,chess.com INT,2020.12.19,7,"Firouzja,Alireza","Bortnyk,Mykola",0-1,2473,D04,2749
-543,Chess.com Bullet Open 2,chess.com INT,2020.12.19,7,"Oparin,G","Firouzja,Alireza",0-1,2749,A40,2652
-544,Chess.com Bullet Open 2,chess.com INT,2020.12.19,8,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C60,2749
-545,Chess.com Bullet Open 1,chess.com INT,2020.12.19,8,"Triapishko,Alexandr","Firouzja,Alireza",0-1,2749,A40,2507
-546,Chess.com Bullet Open 2,chess.com INT,2020.12.19,9,"Nihal,Sarin","Firouzja,Alireza",0-1,2749,A01,2620
-547,Chess.com Bullet Open 1,chess.com INT,2020.12.19,9,"Firouzja,Alireza","Artemiev,V",1-0,2711,A47,2749
-548,Chess.com Bullet Open 2,chess.com INT,2020.12.19,10,"Nabaty,T","Firouzja,Alireza",0-1,2749,B07,2638
-549,Chess.com Bullet Open 1,chess.com INT,2020.12.19,10,"Nihal,Sarin","Firouzja,Alireza",0-1,2749,A45,2620
-550,Chess.com Bullet Open 2,chess.com INT,2020.12.19,11,"Firouzja,Alireza","Praggnanandhaa,R",1-0,2608,B40,2749
-551,Chess.com Bullet Open 1,chess.com INT,2020.12.19,11,"Firouzja,Alireza","Fedoseev,Vl3",1/2-1/2,2674,D02,2749
-552,Chess.com Bullet Open 2,chess.com INT,2020.12.19,12,"Firouzja,Alireza","Matlakov,M",1-0,2698,B10,2749
-553,Chess.com Bullet Open 1,chess.com INT,2020.12.19,12,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,D05,2736
-554,Chess.com Bullet Open 1,chess.com INT,2020.12.19,13,"Firouzja,Alireza","Can,Isik",1/2-1/2,2380,D19,2749
-555,Chess.com Bullet Open 2,chess.com INT,2020.12.19,13,"Bortnyk,Mykola","Firouzja,Alireza",0-1,2749,B06,2473
-556,Chess.com Bullet Open 1,chess.com INT,2020.12.19,14,"Svane,R","Firouzja,Alireza",0-1,2749,A04,2613
-557,Chess.com Bullet Open 2,chess.com INT,2020.12.19,14,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2559,C00,2749
-558,Chess.com Bullet Open 2,chess.com INT,2020.12.19,15,"Pichot,A","Firouzja,Alireza",1-0,2749,B06,2630
-559,Chess.com Bullet Open 1,chess.com INT,2020.12.19,15,"Firouzja,Alireza","Xiong,Jeffery",1-0,2709,D04,2749
-560,Chess.com Bullet Open 1,chess.com INT,2020.12.19,16,"Naroditsky,D","Firouzja,Alireza",1-0,2749,A01,2621
-561,Chess.com Bullet Open 2,chess.com INT,2020.12.19,16,"Firouzja,Alireza","Martinez Alcantara,Jose Eduardo",1-0,2620,B50,2749
-562,Chess.com Bullet Open 2,chess.com INT,2020.12.19,17,"Sadhwani,Raunak","Firouzja,Alireza",0-1,2749,A04,2545
-563,Chess.com Bullet Open 1,chess.com INT,2020.12.19,17,"Erigaisi,Arjun","Firouzja,Alireza",1-0,2749,A42,2559
-564,Chess.com Bullet Open 2,chess.com INT,2020.12.19,18,"Firouzja,Alireza","Supi,L",1/2-1/2,2572,B40,2749
-565,Chess.com Bullet Open 1,chess.com INT,2020.12.19,18,"Firouzja,Alireza","Holt,C",1-0,2549,A06,2749
-566,Chess.com Bullet Open 2,chess.com INT,2020.12.19,19,"Fernandez,Dan SIN","Firouzja,Alireza",0-1,2749,A10,2466
-567,Chess.com Bullet Open 1,chess.com INT,2020.12.19,19,"Firouzja,Alireza","Djordjevic,Vu",1-0,2350,E20,2749
-568,Chess.com Bullet Open 1,chess.com INT,2020.12.19,20,"Tang,Andrew","Firouzja,Alireza",1-0,2749,E39,2538
-569,Chess.com Bullet Open 2,chess.com INT,2020.12.19,20,"Firouzja,Alireza","Jacobson,Brandon",0-1,2487,B50,2749
-570,Chess.com Bullet Open 1,chess.com INT,2020.12.19,21,"Firouzja,Alireza","Nogerbek,Kazybek",0-1,2328,B06,2749
-571,Chess.com Bullet Open 2,chess.com INT,2020.12.19,21,"Firouzja,Alireza","Keinanen,Toivo",1-0,2460,C00,2749
-572,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.2,"Erigaisi,Arjun","Firouzja,Alireza",0-1,2749,A48,2559
-573,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.3,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2559,B63,2749
-574,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.4,"Erigaisi,Arjun","Firouzja,Alireza",0-1,2749,C46,2559
-575,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.1,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2559,D05,2749
-576,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.5,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2559,C02,2749
-577,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.6,"Erigaisi,Arjun","Firouzja,Alireza",0-1,2749,A28,2559
-578,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.7,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2559,C02,2749
-579,Chess.com Bullet Open KO,chess.com INT,2020.12.20,2.8,"Erigaisi,Arjun","Firouzja,Alireza",0-1,2749,C77,2559
-580,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.5,"Tang,Andrew","Firouzja,Alireza",1-0,2749,E32,2538
-581,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.6,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C92,2749
-582,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.8,"Firouzja,Alireza","Tang,Andrew",1/2-1/2,2538,D31,2749
-583,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.7,"Tang,Andrew","Firouzja,Alireza",0-1,2749,E32,2538
-584,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.1,"Tang,Andrew","Firouzja,Alireza",0-1,2749,E32,2538
-585,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.3,"Tang,Andrew","Firouzja,Alireza",1-0,2749,A45,2538
-586,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.4,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C02,2749
-587,Chess.com Bullet Open KO,chess.com INT,2020.12.20,3.2,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C60,2749
-588,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.7,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,A05,2736
-589,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.1,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,D05,2736
-590,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.3,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,D05,2736
-591,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.4,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,D05,2749
-592,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.9,"Nakamura,Hi","Firouzja,Alireza",1/2-1/2,2749,C28,2736
-593,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.5,"Nakamura,Hi","Firouzja,Alireza",1-0,2749,B23,2736
-594,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.6,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,D05,2749
-595,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.2,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,D05,2749
-596,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.8,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,C46,2749
-597,Chess.com Bullet Open KO,chess.com INT,2020.12.20,4.10,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,D05,2749
-598,Levitov Christmas Final,lichess.org INT,2020.12.24,1.5,"Gadimbayli,Abdulla","Firouzja,Alireza",1/2-1/2,2749,B42,2470
-599,Levitov Christmas Final,lichess.org INT,2020.12.24,1.8,"Firouzja,Alireza","Gadimbayli,Abdulla",1-0,2470,C40,2749
-600,Levitov Christmas Final,lichess.org INT,2020.12.24,1.7,"Gadimbayli,Abdulla","Firouzja,Alireza",1-0,2749,C47,2470
-601,Levitov Christmas Final,lichess.org INT,2020.12.24,1.4,"Firouzja,Alireza","Gadimbayli,Abdulla",1-0,2470,C40,2749
-602,Levitov Christmas Final,lichess.org INT,2020.12.24,1.6,"Firouzja,Alireza","Gadimbayli,Abdulla",1/2-1/2,2470,C02,2749
-603,Levitov Christmas Final,lichess.org INT,2020.12.24,1.3,"Gadimbayli,Abdulla","Firouzja,Alireza",0-1,2749,B48,2470
-604,Levitov Christmas Final,lichess.org INT,2020.12.24,1.2,"Firouzja,Alireza","Gadimbayli,Abdulla",1-0,2470,C40,2749
-605,Levitov Christmas Final,lichess.org INT,2020.12.24,1.1,"Gadimbayli,Abdulla","Firouzja,Alireza",1-0,2749,C47,2470
-606,Levitov Christmas Final,lichess.org INT,2020.12.24,2.6,"Bortnyk,Olexandr","Firouzja,Alireza",0-1,2749,B20,2598
-607,Levitov Christmas Final,lichess.org INT,2020.12.24,2.3,"Firouzja,Alireza","Bortnyk,Olexandr",1-0,2598,C41,2749
-608,Levitov Christmas Final,lichess.org INT,2020.12.24,2.1,"Firouzja,Alireza","Bortnyk,Olexandr",0-1,2598,C41,2749
-609,Levitov Christmas Final,lichess.org INT,2020.12.24,2.2,"Bortnyk,Olexandr","Firouzja,Alireza",1/2-1/2,2749,B20,2598
-610,Levitov Christmas Final,lichess.org INT,2020.12.24,2.4,"Bortnyk,Olexandr","Firouzja,Alireza",1/2-1/2,2749,B22,2598
-611,Levitov Christmas Final,lichess.org INT,2020.12.24,2.5,"Firouzja,Alireza","Bortnyk,Olexandr",1-0,2598,C41,2749
-612,Levitov Christmas Final,lichess.org INT,2020.12.24,2.7,"Firouzja,Alireza","Bortnyk,Olexandr",1-0,2598,B07,2749
-613,Levitov Christmas Final,lichess.org INT,2020.12.25,3.7,"Savchenko,B","Firouzja,Alireza",0-1,2749,B10,2551
-614,Levitov Christmas Final,lichess.org INT,2020.12.25,3.8,"Firouzja,Alireza","Savchenko,B",1/2-1/2,2551,A05,2749
-615,Levitov Christmas Final,lichess.org INT,2020.12.25,3.6,"Firouzja,Alireza","Savchenko,B",1/2-1/2,2551,B90,2749
-616,Levitov Christmas Final,lichess.org INT,2020.12.25,3.9,"Firouzja,Alireza","Savchenko,B",1-0,2551,B90,2749
-617,Levitov Christmas Final,lichess.org INT,2020.12.25,3.5,"Savchenko,B","Firouzja,Alireza",1/2-1/2,2749,B44,2551
-618,Levitov Christmas Final,lichess.org INT,2020.12.25,3.4,"Firouzja,Alireza","Savchenko,B",0-1,2551,D52,2749
-619,Levitov Christmas Final,lichess.org INT,2020.12.25,3.3,"Savchenko,B","Firouzja,Alireza",0-1,2749,B44,2551
-620,Levitov Christmas Final,lichess.org INT,2020.12.25,3.2,"Firouzja,Alireza","Savchenko,B",1/2-1/2,2551,D85,2749
-621,Levitov Christmas Final,lichess.org INT,2020.12.25,3.1,"Savchenko,B","Firouzja,Alireza",1-0,2749,C53,2551
-622,Levitov Christmas Final,lichess.org INT,2020.12.25,4.1,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2749,E15,2777
-623,Levitov Christmas Final,lichess.org INT,2020.12.25,4.8,"Firouzja,Alireza","Grischuk,A",1-0,2777,D37,2749
-624,Levitov Christmas Final,lichess.org INT,2020.12.25,4.7,"Grischuk,A","Firouzja,Alireza",1-0,2749,C65,2777
-625,Levitov Christmas Final,lichess.org INT,2020.12.25,4.6,"Firouzja,Alireza","Grischuk,A",1-0,2777,C26,2749
-626,Levitov Christmas Final,lichess.org INT,2020.12.25,4.5,"Grischuk,A","Firouzja,Alireza",0-1,2749,B67,2777
-627,Levitov Christmas Final,lichess.org INT,2020.12.25,4.10,"Firouzja,Alireza","Grischuk,A",1-0,2777,B50,2749
-628,Levitov Christmas Final,lichess.org INT,2020.12.25,4.9,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2749,B12,2777
-629,Levitov Christmas Final,lichess.org INT,2020.12.25,4.4,"Firouzja,Alireza","Grischuk,A",0-1,2777,A45,2749
-630,Levitov Christmas Final,lichess.org INT,2020.12.25,4.3,"Grischuk,A","Firouzja,Alireza",1-0,2749,C77,2777
-631,Levitov Christmas Final,lichess.org INT,2020.12.25,4.2,"Firouzja,Alireza","Grischuk,A",1-0,2777,D37,2749
-632,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.1,"Carlsen,M","Firouzja,Alireza",1-0,2749,D37,2862
-633,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.2,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B12,2784
-634,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.7,"Firouzja,Alireza","Anton Guijarro,D",1-0,2679,D02,2749
-635,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.7,"Tari,A","Firouzja,Alireza",1/2-1/2,2749,B12,2625
-636,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.2,"Firouzja,Alireza","Van Foreest,Jorden",1/2-1/2,2671,D02,2749
-637,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.7,"Donchenko,Alexa","Firouzja,Alireza",0-1,2749,D31,2668
-638,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.6,"Firouzja,Alireza","Duda,J",1-0,2743,D02,2749
-639,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.3,"Harikrishna,P","Firouzja,Alireza",0-1,2749,D10,2732
-640,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.5,"Firouzja,Alireza","Esipenko,Andrey",1/2-1/2,2677,D02,2749
-641,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.4,"Grandelius,N","Firouzja,Alireza",1/2-1/2,2749,B67,2663
-642,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.5,"Firouzja,Alireza","Caruana,F",1/2-1/2,2823,C53,2749
-643,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.4,"Giri,A","Firouzja,Alireza",1/2-1/2,2749,C11,2764
-644,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.6,"Firouzja,Alireza","Wojtaszek,R",1/2-1/2,2705,A07,2749
-645,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,1,"Grieve,Harry","Firouzja,Alireza",0-1,2749,A45,2351
-646,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,2,"Firouzja,Alireza","Iskusnyh,S",1-0,2473,D11,2749
-647,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,3,"Shapkin,Anatoliy","Firouzja,Alireza",0-1,2749,E00,2283
-648,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,4,"Firouzja,Alireza","Onischuk,V",1/2-1/2,2622,B07,2749
-649,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,5,"Wagner,De","Firouzja,Alireza",0-1,2749,A55,2581
-650,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,6,"Zhigalko,S","Firouzja,Alireza",0-1,2749,C52,2572
-651,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,7,"Firouzja,Alireza","Svidler,P",0-1,2714,D91,2749
-652,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,8,"Firouzja,Alireza","Iskandarov,M",1-0,2535,A48,2749
-653,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,9,"Ter Sahakyan,S","Firouzja,Alireza",1/2-1/2,2749,B06,2640
-654,Titled Tuesday 9th Feb,chess.com INT,2021.02.09,10,"Firouzja,Alireza","Kamsky,G",1/2-1/2,2665,D00,2749
-655,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,1,"Firouzja,Alireza","Kovanova,B",1-0,2325,D51,2749
-656,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,2,"Iskusnyh,S","Firouzja,Alireza",0-1,2749,E60,2473
-657,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,3,"Firouzja,Alireza","Erdogdu,M",1-0,2396,D00,2749
-658,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,4,"Lobanov,Sergei","Firouzja,Alireza",0-1,2749,B98,2516
-659,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,5,"Firouzja,Alireza","Grandelius,N",1-0,2663,D00,2749
-660,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,6,"Tabatabaei,M","Firouzja,Alireza",0-1,2749,A48,2629
-661,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,7,"Firouzja,Alireza","Bortnyk,Olexandr",1-0,2598,C41,2749
-662,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,8,Le Quang Liem,"Firouzja,Alireza",1-0,2749,A48,2709
-663,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,9,"Firouzja,Alireza","Tomashevsky,E",1/2-1/2,2706,A45,2749
-664,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,10,"Hansen,Eric","Firouzja,Alireza",1-0,2749,B51,2606
-665,Titled Tuesday 16th Feb,chess.com INT,2021.02.16,11,"Firouzja,Alireza","Chigaev,M",1-0,2631,A45,2749
-666,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,1,"Carlsen,M","Firouzja,Alireza",0-1,2749,A48,2862
-667,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,2,"Firouzja,Alireza","Carlsen,M",1-0,2862,B06,2749
-668,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,3,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-669,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,4,"Firouzja,Alireza","Carlsen,M",0-1,2862,B41,2749
-670,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,5,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-671,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,B01,2749
-672,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,7,"Carlsen,M","Firouzja,Alireza",0-1,2749,A14,2862
-673,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,8,"Firouzja,Alireza","Carlsen,M",0-1,2862,B06,2749
-674,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,9,"Carlsen,M","Firouzja,Alireza",1-0,2749,B90,2862
-675,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,10,"Firouzja,Alireza","Carlsen,M",0-1,2862,A57,2749
-676,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,11,"Carlsen,M","Firouzja,Alireza",1-0,2749,A18,2862
-677,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,12,"Firouzja,Alireza","Carlsen,M",1-0,2862,A56,2749
-678,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,13,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,E68,2862
-679,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,14,"Firouzja,Alireza","Carlsen,M",0-1,2862,B06,2749
-680,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,15,"Carlsen,M","Firouzja,Alireza",1-0,2749,B90,2862
-681,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,16,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,C44,2749
-682,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,17,"Carlsen,M","Firouzja,Alireza",1-0,2749,B43,2862
-683,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,18,"Firouzja,Alireza","Carlsen,M",1-0,2862,D06,2749
-684,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,19,"Carlsen,M","Firouzja,Alireza",1-0,2749,C18,2862
-685,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,20,"Firouzja,Alireza","Carlsen,M",0-1,2862,D20,2749
-686,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,21,"Carlsen,M","Firouzja,Alireza",1-0,2749,A01,2862
-687,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,22,"Firouzja,Alireza","Carlsen,M",0-1,2862,E11,2749
-688,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,23,"Carlsen,M","Firouzja,Alireza",1-0,2749,D79,2862
-689,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,24,"Firouzja,Alireza","Carlsen,M",0-1,2862,E93,2749
-690,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,25,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,D37,2862
-691,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,26,"Firouzja,Alireza","Carlsen,M",0-1,2862,B04,2749
-692,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,27,"Carlsen,M","Firouzja,Alireza",1-0,2749,E92,2862
-693,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,28,"Firouzja,Alireza","Carlsen,M",0-1,2862,A42,2749
-694,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,29,"Carlsen,M","Firouzja,Alireza",1-0,2749,B63,2862
-695,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,30,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-696,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,31,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-697,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,2,"Munkhgal,G","Firouzja,Alireza",0-1,2749,A45,2502
-698,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,3,"Firouzja,Alireza","Quintiliano Pinto,R",1-0,2469,D00,2749
-699,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,4,"Jacobson,Brandon","Firouzja,Alireza",0-1,2749,B92,2491
-700,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,5,"Firouzja,Alireza","Jobava,Ba",1-0,2603,A45,2749
-701,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,6,"Firouzja,Alireza","Svane,R",1-0,2613,D00,2749
-702,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,7,"Naroditsky,D","Firouzja,Alireza",1/2-1/2,2749,C85,2621
-703,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,8,"Vastrukhin,O","Firouzja,Alireza",1/2-1/2,2749,A07,2401
-704,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,9,"Firouzja,Alireza","Kuzubov,Y",1-0,2642,A45,2749
-705,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,10,"Fedoseev,Vl3","Firouzja,Alireza",1-0,2749,E04,2687
-706,Titled Tuesday 23rd Feb,chess.com INT,2021.02.23,11,"Firouzja,Alireza","Iturrizaga,E",1-0,2607,D51,2749
-707,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,1,"Firouzja,Alireza","Carlsen,M",0-1,2862,D20,2749
-708,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,2,"Carlsen,M","Firouzja,Alireza",1-0,2749,B34,2862
-709,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,E70,2749
-710,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,4,"Carlsen,M","Firouzja,Alireza",0-1,2749,A15,2862
-711,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,5,"Firouzja,Alireza","Carlsen,M",1-0,2862,B04,2749
-712,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,6,"Carlsen,M","Firouzja,Alireza",1-0,2749,B54,2862
-713,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,7,"Firouzja,Alireza","Carlsen,M",1-0,2862,D20,2749
-714,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,8,"Carlsen,M","Firouzja,Alireza",1-0,2749,B33,2862
-715,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,9,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,A58,2749
-716,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,10,"Carlsen,M","Firouzja,Alireza",1-0,2749,A48,2862
-717,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,11,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-718,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,12,"Carlsen,M","Firouzja,Alireza",1-0,2749,C45,2862
-719,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,13,"Firouzja,Alireza","Carlsen,M",1-0,2862,C00,2749
-720,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,14,"Carlsen,M","Firouzja,Alireza",0-1,2749,B06,2862
-721,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,15,"Firouzja,Alireza","Carlsen,M",0-1,2862,D35,2749
-722,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,16,"Carlsen,M","Firouzja,Alireza",1-0,2749,B06,2862
-723,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,17,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D00,2749
-724,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,18,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,C45,2862
-725,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,19,"Firouzja,Alireza","Carlsen,M",0-1,2862,C20,2749
-726,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,20,"Carlsen,M","Firouzja,Alireza",0-1,2749,B01,2862
-727,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,21,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-728,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,22,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,B06,2862
-729,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,23,"Firouzja,Alireza","Carlsen,M",0-1,2862,C21,2749
-730,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,24,"Carlsen,M","Firouzja,Alireza",1-0,2749,B06,2862
-731,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,25,"Firouzja,Alireza","Carlsen,M",0-1,2862,A57,2749
-732,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,26,"Carlsen,M","Firouzja,Alireza",1-0,2749,A15,2862
-733,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,27,"Firouzja,Alireza","Carlsen,M",0-1,2862,A42,2749
-734,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,28,"Carlsen,M","Firouzja,Alireza",1-0,2749,B54,2862
-735,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,29,"Firouzja,Alireza","Carlsen,M",1-0,2862,B01,2749
-736,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,30,"Carlsen,M","Firouzja,Alireza",1-0,2749,B76,2862
-737,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,31,"Firouzja,Alireza","Carlsen,M",0-1,2862,B04,2749
-738,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,32,"Carlsen,M","Firouzja,Alireza",0-1,2749,D37,2862
-739,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,33,"Firouzja,Alireza","Carlsen,M",0-1,2862,D45,2749
-740,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,1,"Firouzja,Alireza","Buksa,N",1-0,2419,D00,2749
-741,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,2,"Klimkowski,Jan","Firouzja,Alireza",0-1,2749,B01,2296
-742,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,3,"Firouzja,Alireza","Maze,S",0-1,2547,A45,2749
-743,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,5,"Najer,E","Firouzja,Alireza",1/2-1/2,2749,A50,2648
-744,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,6,"Firouzja,Alireza","Matinian,N",1-0,2470,A45,2749
-745,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,7,"Tica,Sven","Firouzja,Alireza",0-1,2749,A48,2397
-746,Titled Tuesday 2nd Mar,chess.com INT,2021.03.02,8,"Firouzja,Alireza","Anisimov,P2",1/2-1/2,2527,A45,2749
-747,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,1,"Firouzja,Alireza","Lammens,Tim",1/2-1/2,2250,B33,2759
-748,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,2,"Atakhan,Abtin","Firouzja,Alireza",0-1,2759,A06,2294
-749,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,3,"Firouzja,Alireza","Gombocz,Ferenc Jr.",1-0,2280,C71,2759
-750,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,5,"Firouzja,Alireza","Leszko,Bence",1-0,2311,C00,2759
-751,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,6,"Timofeev,Arty","Firouzja,Alireza",0-1,2759,A20,2594
-752,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,7,"Firouzja,Alireza","Andreikin,D",1-0,2725,B23,2759
-753,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,8,"Firouzja,Alireza","Howell,D",1-0,2658,C60,2759
-754,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,9,"Artemiev,V","Firouzja,Alireza",1-0,2759,A16,2709
-755,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,10,"Sevian,Samuel","Firouzja,Alireza",0-1,2759,B90,2660
-756,Titled Tuesday 9th Mar,chess.com INT,2021.03.09,11,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2789,B23,2759
-757,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,1.8,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2759,A07,2758
-758,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,2.1,"Giri,A","Firouzja,Alireza",1/2-1/2,2759,B67,2776
-759,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,3.8,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2847,D05,2759
-760,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,4.2,"Anton Guijarro,D","Firouzja,Alireza",1-0,2759,E60,2673
-761,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,5.7,"Firouzja,Alireza","Grandelius,N",1-0,2670,A48,2759
-762,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,6.3,"Mamedyarov,S","Firouzja,Alireza",0-1,2759,B22,2770
-763,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,7.6,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2789,A45,2759
-764,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,8.4,"Karjakin,Sergey","Firouzja,Alireza",1-0,2759,B12,2757
-765,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,9.5,"Firouzja,Alireza","Radjabov,T",1-0,2765,E98,2759
-766,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,10.5,"Pichot,A","Firouzja,Alireza",0-1,2759,B10,2630
-767,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,11.4,"Firouzja,Alireza","So,W",1/2-1/2,2770,D02,2759
-768,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,12.6,"Aronian,L","Firouzja,Alireza",1/2-1/2,2759,D02,2781
-769,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,13.3,"Firouzja,Alireza","Dubov,Daniil",1/2-1/2,2710,D78,2759
-770,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.13,"So,W","Firouzja,Alireza",1/2-1/2,2759,B12,2770
-771,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.12,"Firouzja,Alireza","So,W",0-1,2770,C53,2759
-772,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.11,"So,W","Firouzja,Alireza",1-0,2759,B52,2770
-773,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.23,"Firouzja,Alireza","So,W",0-1,2770,A45,2759
-774,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.22,"So,W","Firouzja,Alireza",1-0,2759,B12,2770
-775,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.21,"Firouzja,Alireza","So,W",1/2-1/2,2770,C50,2759
-776,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,1,"Firouzja,Alireza","Kulkarni,R",1-0,2321,E10,2759
-777,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,2,"Rosen,E","Firouzja,Alireza",0-1,2759,A45,2353
-778,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,3,"Firouzja,Alireza","Lovkov,R",1-0,2419,D00,2759
-779,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,4,"Firouzja,Alireza","Gadimbayli,Abdulla",1-0,2470,D00,2759
-780,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,5,"Bernadskiy,V","Firouzja,Alireza",0-1,2759,B00,2599
-781,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,6,"Firouzja,Alireza","Matlakov,M",1-0,2688,A46,2759
-782,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,7,"Chigaev,M","Firouzja,Alireza",0-1,2759,B00,2631
-783,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,8,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,C65,2736
-784,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,9,"Firouzja,Alireza","Svidler,P",0-1,2714,A45,2759
-785,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,10,"Anisimov,P2","Firouzja,Alireza",1-0,2759,B00,2527
-786,Titled Tuesday 23rd Mar,chess.com INT,2021.03.23,11,"Firouzja,Alireza","Ivic,Velimir",0-1,2581,A01,2759
-787,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,2,"Tejedor Fuente,Enrique","Firouzja,Alireza",0-1,2759,B00,2434
-788,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,3,"Firouzja,Alireza","Petrovskyi,Vadym",1-0,2138,A45,2759
-789,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,4,"Firouzja,Alireza","Kamsky,G",1-0,2665,D00,2759
-790,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,5,"Gavrilescu,David","Firouzja,Alireza",0-1,2759,B00,2476
-791,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,6,"Firouzja,Alireza","Chigaev,M",1-0,2631,A45,2759
-792,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,7,"Ibarra Jerez,JC","Firouzja,Alireza",0-1,2759,A04,2553
-793,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,9,"Firouzja,Alireza","Pridorozhni,A",1/2-1/2,2580,D00,2759
-794,Titled Tuesday 30th Mar,chess.com INT,2021.03.30,10,"Naroditsky,D","Firouzja,Alireza",0-1,2759,A45,2621
-795,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Jacobson,Brandon","Firouzja,Alireza",0-1,2759,E97,2491
-796,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Koziol,Kamil","Firouzja,Alireza",0-1,2759,B92,2276
-797,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Nozdrachev,V","Firouzja,Alireza",1-0,2759,B90,2500
-798,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Zhigalko,S",1/2-1/2,2572,B30,2759
-799,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Svane,R","Firouzja,Alireza",0-1,2759,A14,2613
-800,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Yilmaz,M","Firouzja,Alireza",1/2-1/2,2759,E12,2630
-801,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Tapie,P",1-0,2286,B32,2759
-802,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Mikhailov,Vi","Firouzja,Alireza",0-1,2759,A05,2428
-803,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Potapova,Margarita",1-0,2277,B90,2759
-804,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Matinian,N",1-0,2470,B06,2759
-805,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Chigaev,M",1-0,2631,B06,2759
-806,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Bortnyk,Olexandr","Firouzja,Alireza",0-1,2759,A45,2598
-807,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Tsydypov,Z",1-0,2565,B40,2759
-808,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Abdusattorov,Nodirbek",1-0,2627,B10,2759
-809,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Malyshev,Vasilij","Firouzja,Alireza",0-1,2759,B95,2353
-810,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Nersissian,G","Firouzja,Alireza",0-1,2759,B26,2035
-811,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Kryakvin,D",1-0,2577,D19,2759
-812,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Bodek,Michael",1/2-1/2,2397,C10,2759
-813,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Deac,Bogdan-Daniel","Firouzja,Alireza",0-1,2759,B90,2625
-814,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Mitrabha,G","Firouzja,Alireza",1/2-1/2,2759,A04,2467
-815,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Rasulov,Vu",1-0,2478,B90,2759
-816,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Zhigalko,S","Firouzja,Alireza",1/2-1/2,2759,C50,2572
-817,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Mamedyarov,S",0-1,2770,B11,2759
-818,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Beerdsen,Thomas",0-1,2453,C45,2759
-819,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Rasulov,Vu","Firouzja,Alireza",1-0,2759,C67,2478
-820,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Muradli,Mahammad",1-0,2449,B90,2759
-821,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Firouzja,Alireza","Obregon Rivero,J",0-1,2520,B30,2759
-822,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Saric,A","Firouzja,Alireza",0-1,2759,D37,2543
-823,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.2,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A01,2709
-824,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.4,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A12,2709
-825,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.5,"Firouzja,Alireza","Artemiev,V",1-0,2709,A42,2759
-826,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.1,"Firouzja,Alireza","Artemiev,V",0-1,2709,D00,2759
-827,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.3,"Firouzja,Alireza","Artemiev,V",0-1,2709,B06,2759
-828,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.7,"Firouzja,Alireza","Artemiev,V",0-1,2709,B23,2759
-829,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.8,"Artemiev,V","Firouzja,Alireza",0-1,2759,A01,2709
-830,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.6,"Artemiev,V","Firouzja,Alireza",0-1,2759,A45,2709
-831,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.10,"Artemiev,V","Firouzja,Alireza",0-1,2759,A05,2709
-832,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.11,"Firouzja,Alireza","Artemiev,V",0-1,2709,B06,2759
-833,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.9,"Firouzja,Alireza","Artemiev,V",0-1,2709,B06,2759
-834,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.13,"Firouzja,Alireza","Artemiev,V",0-1,2709,A40,2759
-835,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.14,"Artemiev,V","Firouzja,Alireza",1-0,2759,A06,2709
-836,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.12,"Artemiev,V","Firouzja,Alireza",0-1,2759,A01,2709
-837,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.16,"Artemiev,V","Firouzja,Alireza",0-1,2759,A01,2709
-838,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.17,"Firouzja,Alireza","Artemiev,V",1-0,2709,A42,2759
-839,Chess.com SIG Bullet KO,chess.com INT,2021.04.06,1.15,"Firouzja,Alireza","Artemiev,V",1-0,2709,A40,2759
-840,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,1,"Firouzja,Alireza","Calin,Alexandru",1-0,2107,A45,2759
-841,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,2,"Maltsevskaya,Aleksandra","Firouzja,Alireza",0-1,2759,B00,2331
-842,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,3,"Firouzja,Alireza","Manafov,Vugar",1-0,2236,A45,2759
-843,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,4,"Kadric,D","Firouzja,Alireza",0-1,2759,B00,2581
-844,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,5,"Firouzja,Alireza","Abdrlauf,Elham",1-0,2338,D63,2759
-845,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,6,"Bortnyk,Olexandr","Firouzja,Alireza",1/2-1/2,2759,C24,2598
-846,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,7,"Firouzja,Alireza","Perez Ponsa,F",1-0,2554,B23,2759
-847,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,8,"Xiong,Jeffery","Firouzja,Alireza",0-1,2759,A47,2709
-848,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,9,"Firouzja,Alireza","Jobava,Ba",1-0,2603,C26,2759
-849,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,10,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,A45,2759
-850,Titled Tuesday 6th Apr,chess.com INT,2021.04.06,11,"Svidler,P","Firouzja,Alireza",0-1,2759,A15,2714
-851,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.2,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,A45,2759
-852,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.3,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,B10,2736
-853,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.1,"Nakamura,Hi","Firouzja,Alireza",1-0,2759,B40,2736
-854,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.5,"Nakamura,Hi","Firouzja,Alireza",1-0,2759,C45,2736
-855,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.4,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,B06,2759
-856,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.6,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,B06,2759
-857,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.13,"Nakamura,Hi","Firouzja,Alireza",1-0,2759,B10,2736
-858,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.7,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,A01,2736
-859,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.15,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,A01,2736
-860,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.16,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,B01,2759
-861,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.17,"Nakamura,Hi","Firouzja,Alireza",1-0,2759,A01,2736
-862,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.18,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,B06,2759
-863,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.8,"Firouzja,Alireza","Nakamura,Hi",0-1,2736,B06,2759
-864,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.9,"Nakamura,Hi","Firouzja,Alireza",1-0,2759,B10,2736
-865,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.10,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,B06,2759
-866,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.11,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,B10,2736
-867,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.12,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,B06,2759
-868,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,2.14,"Firouzja,Alireza","Nakamura,Hi",1-0,2736,D06,2759
-869,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.2,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C60,2759
-870,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.12,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C79,2759
-871,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.10,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C64,2759
-872,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.13,"Tang,Andrew","Firouzja,Alireza",0-1,2759,E32,2538
-873,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.14,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C77,2759
-874,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.15,"Tang,Andrew","Firouzja,Alireza",1-0,2759,E32,2538
-875,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.16,"Firouzja,Alireza","Tang,Andrew",0-1,2538,C26,2759
-876,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.11,"Tang,Andrew","Firouzja,Alireza",1-0,2759,A45,2538
-877,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.8,"Firouzja,Alireza","Tang,Andrew",0-1,2538,C10,2759
-878,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.6,"Firouzja,Alireza","Tang,Andrew",0-1,2538,C64,2759
-879,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.5,"Tang,Andrew","Firouzja,Alireza",0-1,2759,E32,2538
-880,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.4,"Firouzja,Alireza","Tang,Andrew",1-0,2538,C60,2759
-881,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.3,"Tang,Andrew","Firouzja,Alireza",0-1,2759,E32,2538
-882,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.9,"Tang,Andrew","Firouzja,Alireza",0-1,2759,E32,2538
-883,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.1,"Tang,Andrew","Firouzja,Alireza",0-1,2759,E32,2538
-884,Chess.com SIG Bullet KO,chess.com INT,2021.04.07,3.7,"Tang,Andrew","Firouzja,Alireza",0-1,2759,A45,2538
-885,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,1,"Shamsi,Mohammadho","Firouzja,Alireza",0-1,2759,B00,2217
-886,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,2,"Firouzja,Alireza","Espinosa Veloz,E",1-0,2485,B50,2759
-887,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,3,"Krzyzanowski,M","Firouzja,Alireza",1/2-1/2,2759,A40,2503
-888,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,4,"Djordjevic,Vu","Firouzja,Alireza",0-1,2759,A45,2350
-889,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,5,"Firouzja,Alireza","Raja,Rithvik R",1-0,2408,A45,2759
-890,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,6,"Vlassov,N","Firouzja,Alireza",0-1,2759,B22,2306
-891,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,7,"Firouzja,Alireza","Yoo,Christopher Woojin",1-0,2455,A45,2759
-892,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,8,"Andreikin,D","Firouzja,Alireza",1-0,2759,E90,2725
-893,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,9,"Firouzja,Alireza","Csonka,B",1-0,2498,A45,2759
-894,Titled Tuesday 13th Apr,chess.com INT,2021.04.13,10,"Firouzja,Alireza","Jobava,Ba",0-1,2603,D00,2759
-895,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,1,"Firouzja,Alireza","Janaszak,Daw",1-0,2348,A45,2759
-896,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,2,"Enchev,I","Firouzja,Alireza",0-1,2759,A40,2501
-897,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,3,"Firouzja,Alireza","Deepan,C",0-1,2535,A45,2759
-898,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,4,"Mortazavi,A","Firouzja,Alireza",0-1,2759,A04,2333
-899,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,5,"Firouzja,Alireza","Perez Gormaz,M",1-0,2413,D00,2759
-900,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,6,"Spyropoulos,Nikolaos","Firouzja,Alireza",0-1,2759,B56,2425
-901,Titled Tuesday 20th Apr,chess.com INT,2021.04.20,7,"Firouzja,Alireza","Kamsky,G",0-1,2665,A45,2759
-902,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,1.7,"Firouzja,Alireza","So,W",1-0,2770,D02,2759
-903,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,2.3,"Mamedyarov,S","Firouzja,Alireza",1-0,2759,D37,2770
-904,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,3.6,"Firouzja,Alireza","Karjakin,Sergey",1-0,2757,D04,2759
-905,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,4.4,Le Quang Liem,"Firouzja,Alireza",1/2-1/2,2759,D15,2709
-906,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,5.5,"Firouzja,Alireza","Dominguez Perez,L",1-0,2758,D02,2759
-907,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,6.5,"Vidit,S","Firouzja,Alireza",1/2-1/2,2759,D10,2726
-908,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,7.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2765,A46,2759
-909,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,8.6,"Tari,A","Firouzja,Alireza",1-0,2759,B13,2639
-910,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,9.3,"Firouzja,Alireza","Aronian,L",1-0,2781,D02,2759
-911,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,10.7,"Christiansen,Johan-Sebastian","Firouzja,Alireza",0-1,2759,B22,2618
-912,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,11.2,"Firouzja,Alireza","Carlsen,M",0-1,2847,D12,2759
-913,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,13.1,"Firouzja,Alireza","Jones,G",1-0,2670,E98,2759
-914,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,14.8,"Firouzja,Alireza","Duda,J",0-1,2729,A46,2759
-915,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,15.2,"Praggnanandhaa,R","Firouzja,Alireza",1/2-1/2,2759,D12,2608
-916,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.11,"Mamedyarov,S","Firouzja,Alireza",1-0,2759,D15,2770
-917,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.12,"Firouzja,Alireza","Mamedyarov,S",1/2-1/2,2770,C80,2759
-918,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.13,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2759,E21,2770
-919,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.14,"Firouzja,Alireza","Mamedyarov,S",0-1,2770,D42,2759
-920,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.23,"Firouzja,Alireza","Mamedyarov,S",0-1,2770,A15,2759
-921,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.21,"Firouzja,Alireza","Mamedyarov,S",0-1,2770,D02,2759
-922,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.22,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2759,A58,2770
-923,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,1,"Dubov,Daniil","Firouzja,Alireza",1-0,2759,E04,2710
-924,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,2,"Firouzja,Alireza","Dubov,Daniil",1-0,2710,B56,2759
-925,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,3,"Dubov,Daniil","Firouzja,Alireza",1/2-1/2,2759,A57,2710
-926,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,4,"Firouzja,Alireza","Dubov,Daniil",0-1,2710,B60,2759
-927,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,5,"Dubov,Daniil","Firouzja,Alireza",0-1,2759,E70,2710
-928,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,6,"Firouzja,Alireza","Dubov,Daniil",1-0,2710,D70,2759
-929,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,7,"Dubov,Daniil","Firouzja,Alireza",1-0,2759,D80,2710
-930,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,8,"Firouzja,Alireza","Dubov,Daniil",0-1,2710,D70,2759
-931,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,9,"Dubov,Daniil","Firouzja,Alireza",1-0,2759,E70,2710
-932,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,10,"Firouzja,Alireza","Dubov,Daniil",1-0,2710,C78,2759
-933,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,11,"Dubov,Daniil","Firouzja,Alireza",0-1,2759,E70,2710
-934,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,12,"Firouzja,Alireza","Dubov,Daniil",1-0,2710,D96,2759
-935,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,13,"Dubov,Daniil","Firouzja,Alireza",1/2-1/2,2759,D02,2710
-936,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,14,"Firouzja,Alireza","Dubov,Daniil",0-1,2710,B52,2759
-937,Levitov Dubov-Firouzja Bl,lichess.org INT,2021.05.19,15,"Dubov,Daniil","Firouzja,Alireza",0-1,2759,B96,2710
-938,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.7,"Dubov,Daniil","Firouzja,Alireza",0-1,2759,E61,2710
-939,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.2,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2847,C65,2759
-940,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.8,"Nakamura,Hi","Firouzja,Alireza",0-1,2759,A58,2736
-941,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.1,"Aronian,L","Firouzja,Alireza",1-0,2759,D37,2781
-942,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,15.8,"Firouzja,Alireza","Svidler,P",1/2-1/2,2714,A04,2759
-943,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.1,"Firouzja,Alireza","So,W",1/2-1/2,2770,C53,2759
-944,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.5,"Firouzja,Alireza","Svidler,P",1/2-1/2,2714,D02,2759
-945,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.2,"Radjabov,T","Firouzja,Alireza",1-0,2759,D43,2765
-946,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.4,"Firouzja,Alireza","Caruana,F",1/2-1/2,2820,C50,2759
-947,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.3,"Bacrot,E","Firouzja,Alireza",1/2-1/2,2759,A06,2678
-948,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2763,B45,2759
-949,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2759,C50,2792
-950,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2781,C50,2759
-951,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.5,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,C70,2760
-952,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.3,"Radjabov,T","Firouzja,Alireza",0-1,2759,D37,2765
-953,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.3,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2760,B40,2759
-954,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.4,"Svidler,P","Firouzja,Alireza",1/2-1/2,2759,B30,2714
-955,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.2,"Firouzja,Alireza","Aronian,L",1-0,2781,A45,2759
-956,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.5,"Kramnik,V","Firouzja,Alireza",0-1,2759,B90,2753
-957,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.1,"Rapport,R","Firouzja,Alireza",0-1,2759,A04,2763
-958,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.5,"Firouzja,Alireza","So,W",0-1,2770,A45,2759
-959,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2759,B30,2792
-960,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.4,"Firouzja,Alireza","Caruana,F",0-1,2820,C55,2759
-961,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.3,"Firouzja,Alireza","Radjabov,T",1-0,2765,C28,2759
-962,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.3,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,B30,2760
-963,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.4,"Firouzja,Alireza","Svidler,P",1-0,2714,C28,2759
-964,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.2,"Aronian,L","Firouzja,Alireza",1/2-1/2,2759,D02,2781
-965,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.5,"Firouzja,Alireza","Kramnik,V",1-0,2753,C26,2759
-966,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.1,"Firouzja,Alireza","Rapport,R",0-1,2763,B40,2759
-967,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.5,"So,W","Firouzja,Alireza",1-0,2759,E49,2770
-968,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.2,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C11,2759
-969,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.4,"Caruana,F","Firouzja,Alireza",1-0,2759,B30,2820
-970,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,1.6,"Firouzja,Alireza","Carlsen,M",1-0,2847,C26,2759
-971,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,2.4,"Giri,A","Firouzja,Alireza",1-0,2759,B30,2780
-972,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,3.5,"Firouzja,Alireza","Duda,J",0-1,2729,A45,2759
-973,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,4.5,"Dubov,Daniil","Firouzja,Alireza",1/2-1/2,2759,D37,2714
-974,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,5.4,"Firouzja,Alireza","Artemiev,V",0-1,2704,C50,2759
-975,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,6.6,"Adhiban,Baskaran","Firouzja,Alireza",0-1,2759,E26,2660
-976,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,7.3,"Firouzja,Alireza",Ding Liren,0-1,2799,D02,2759
-977,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,8.7,"Gukesh,D","Firouzja,Alireza",0-1,2759,A58,2578
-978,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,9.2,"Firouzja,Alireza","Erigaisi,Arjun",1/2-1/2,2567,C42,2759
-979,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,10.8,"Vidit,S","Firouzja,Alireza",1/2-1/2,2759,A81,2726
-980,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,11.1,"Firouzja,Alireza","Aronian,L",0-1,2781,C27,2759
-981,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,12.8,"Firouzja,Alireza",Hou Yifan,1-0,2658,C11,2759
-982,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,13.2,"So,W","Firouzja,Alireza",1/2-1/2,2759,E32,2770
-983,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,14.7,"Firouzja,Alireza","Svidler,P",1-0,2714,B90,2759
-984,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,15.3,"Salem,AR","Firouzja,Alireza",0-1,2759,A49,2682
-985,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Firouzja,Alireza","Sindarov,Javokhir",1/2-1/2,2558,A15,2759
-986,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B90,2558
-987,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.6,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B90,2558
-988,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.5,"Firouzja,Alireza","Sindarov,Javokhir",0-1,2558,E91,2759
-989,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.4,"Firouzja,Alireza","Sindarov,Javokhir",1/2-1/2,2558,D96,2759
-990,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.3,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B10,2558
-991,Chessable Masters Prelim,chess24.com INT,2021.07.31,1.8,"Firouzja,Alireza","So,W",1/2-1/2,2772,C67,2759
-992,Chessable Masters Prelim,chess24.com INT,2021.07.31,2.2,"Aronian,L","Firouzja,Alireza",1/2-1/2,2759,D37,2782
-993,Chessable Masters Prelim,chess24.com INT,2021.07.31,3.7,"Firouzja,Alireza","Tari,A",1-0,2639,C88,2759
-994,Chessable Masters Prelim,chess24.com INT,2021.07.31,4.3,"Iturrizaga Bonelli,Eduardo","Firouzja,Alireza",1/2-1/2,2759,A34,2607
-995,Chessable Masters Prelim,chess24.com INT,2021.07.31,5.6,"Firouzja,Alireza","Ju,Wenjun",1-0,2560,C65,2759
-996,Chessable Masters Prelim,chess24.com INT,2021.08.01,6.4,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A04,2704
-997,Chessable Masters Prelim,chess24.com INT,2021.08.01,7.5,"Firouzja,Alireza","Harikrishna,P",0-1,2730,B12,2759
-998,Chessable Masters Prelim,chess24.com INT,2021.08.01,8.5,"Anton Guijarro,D","Firouzja,Alireza",0-1,2759,D37,2673
-999,Chessable Masters Prelim,chess24.com INT,2021.08.01,9.4,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,C67,2759
-1000,Chessable Masters Prelim,chess24.com INT,2021.08.01,10.6,"Koneru,H","Firouzja,Alireza",0-1,2759,E60,2586
-1001,Chessable Masters Prelim,chess24.com INT,2021.08.02,11.3,"Firouzja,Alireza","Le, Quang Liem",1-0,2709,C55,2759
-1002,Chessable Masters Prelim,chess24.com INT,2021.08.02,12.7,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2759,D37,2782
-1003,Chessable Masters Prelim,chess24.com INT,2021.08.02,13.2,"Firouzja,Alireza","Adhiban,Baskaran",1-0,2660,B52,2759
-1004,Chessable Masters Prelim,chess24.com INT,2021.08.02,15.1,"Firouzja,Alireza","Mishra,Abhimanyu",1-0,2504,D04,2759
-1005,Chessable Masters KO,chess24.com INT,2021.08.03,1.12,"Le, Quang Liem","Firouzja,Alireza",1-0,2759,D02,2709
-1006,Chessable Masters KO,chess24.com INT,2021.08.03,1.13,"Firouzja,Alireza","Le, Quang Liem",1/2-1/2,2709,C92,2759
-1007,Chessable Masters KO,chess24.com INT,2021.08.03,1.14,"Le, Quang Liem","Firouzja,Alireza",1-0,2759,A43,2709
-1008,Chessable Masters KO,chess24.com INT,2021.08.03,1.11,"Firouzja,Alireza","Le, Quang Liem",1/2-1/2,2709,C55,2759
-1009,Chessable Masters KO,chess24.com INT,2021.08.04,1.22,"Firouzja,Alireza","Le, Quang Liem",0-1,2709,C92,2759
-1010,Chessable Masters KO,chess24.com INT,2021.08.04,1.21,"Le, Quang Liem","Firouzja,Alireza",1-0,2759,A48,2709
-1011,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,1.5,"Liang,Awonder","Firouzja,Alireza",1/2-1/2,2759,C78,2587
-1012,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,2.4,"Firouzja,Alireza","Aronian,L",1/2-1/2,2782,C42,2759
-1013,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,3.6,"Van Foreest,Jorden","Firouzja,Alireza",1/2-1/2,2759,C78,2698
-1014,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,4.3,"Firouzja,Alireza","Carlsen,M",1-0,2847,B01,2759
-1015,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,5.7,"So,W","Firouzja,Alireza",1/2-1/2,2759,C50,2772
-1016,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,6.2,"Firouzja,Alireza","Vidit,S",0-1,2726,C82,2759
-1017,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,7.8,"Le, Quang Liem","Firouzja,Alireza",0-1,2759,D37,2709
-1018,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,8.1,"Duda,J","Firouzja,Alireza",1/2-1/2,2759,A45,2738
-1019,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,9.8,"Firouzja,Alireza","Naroditsky,D",1/2-1/2,2623,C92,2759
-1020,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,10.2,"Hansen,Eric","Firouzja,Alireza",0-1,2759,C50,2606
-1021,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,11.7,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2751,D90,2759
-1022,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,12.3,"Dominguez Perez,L","Firouzja,Alireza",0-1,2759,C50,2758
-1023,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,13.6,"Firouzja,Alireza","Mamedyarov,S",1/2-1/2,2782,C67,2759
-1024,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,14.4,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A06,2704
-1025,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,15.5,"Firouzja,Alireza","Giri,A",1/2-1/2,2776,D13,2759
-1026,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.11,"Firouzja,Alireza","So,W",1-0,2772,E20,2759
-1027,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.12,"So,W","Firouzja,Alireza",0-1,2759,D35,2772
-1028,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.13,"Firouzja,Alireza","So,W",1/2-1/2,2772,B51,2759
-1029,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.24,"Firouzja,Alireza","So,W",0-1,2772,C01,2759
-1030,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.21,"So,W","Firouzja,Alireza",1/2-1/2,2759,A13,2772
-1031,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.32,"Firouzja,Alireza","So,W",1-0,2772,C42,2759
-1032,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.31,"So,W","Firouzja,Alireza",1/2-1/2,2759,B15,2772
-1033,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.23,"So,W","Firouzja,Alireza",1-0,2759,C50,2772
-1034,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.22,"Firouzja,Alireza","So,W",1-0,2772,C67,2759
-1035,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.11,"Artemiev,V","Firouzja,Alireza",1-0,2759,A14,2704
-1036,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.14,"Firouzja,Alireza","Artemiev,V",1-0,2704,C65,2759
-1037,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.13,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A20,2704
-1038,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.12,"Firouzja,Alireza","Artemiev,V",1/2-1/2,2704,C65,2759
-1039,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.24,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A07,2704
-1040,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.22,"Artemiev,V","Firouzja,Alireza",0-1,2759,E54,2704
-1041,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.23,"Firouzja,Alireza","Artemiev,V",0-1,2704,B18,2759
-1042,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.32,"Artemiev,V","Firouzja,Alireza",1/2-1/2,2759,A05,2704
-1043,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.33,"Artemiev,V","Firouzja,Alireza",1-0,2759,A45,2704
-1044,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.21,"Firouzja,Alireza","Artemiev,V",1/2-1/2,2704,C67,2759
-1045,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.31,"Firouzja,Alireza","Artemiev,V",1/2-1/2,2704,C60,2759
-1046,9th Norway Armageddon,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
-1047,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
-1048,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2754,C78,2792
-1049,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2754,C34,2792
-1050,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",0-1,2758,A01,2754
-1051,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",1/2-1/2,2758,C53,2754
-1052,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.2,"Rapport,R","Firouzja,Alireza",1-0,2754,D90,2760
-1053,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.3,"Firouzja,Alireza","Tari,A",1-0,2642,C50,2754
-1054,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.1,"Carlsen,M","Firouzja,Alireza",1-0,2754,C78,2855
-1055,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.3,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C50,2754
-1056,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.3,"Karjakin,Sergey","Firouzja,Alireza",0-1,2754,B90,2758
-1057,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.3,"Tari,A","Firouzja,Alireza",0-1,2754,B90,2642
-1058,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.2,"Firouzja,Alireza","Rapport,R",1-0,2760,B30,2754
-1059,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.3,"Firouzja,Alireza","Abasov,N",1-0,2638,C43,2770
-1060,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.2,"Swiercz,D","Firouzja,Alireza",0-1,2770,B93,2647
-1061,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.1,"Firouzja,Alireza","Predke,A",1-0,2666,C92,2770
-1062,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.1,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2770,D19,2704
-1063,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2763,B90,2770
-1064,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.1,"Shirov,A","Firouzja,Alireza",1/2-1/2,2770,B12,2659
-1065,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.1,"Firouzja,Alireza","Najer,E",1-0,2654,C43,2770
-1066,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.1,"Firouzja,Alireza","Sasikiran,K",1-0,2640,C53,2770
-1067,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.1,"Caruana,F","Firouzja,Alireza",1-0,2770,B12,2800
-1068,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.1,"Firouzja,Alireza","Howell,D",1-0,2658,C50,2770
-1069,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.1,"Oparin,G","Firouzja,Alireza",1/2-1/2,2770,C65,2654
-1070,23rd European Teams,Terme Catez SLO,2021.11.12,1.3,"Ragger,M","Firouzja,Alireza",0-1,2770,B11,2668
-1071,23rd European Teams,Terme Catez SLO,2021.11.13,2.3,"Firouzja,Alireza","Saric,Iv",1/2-1/2,2665,B90,2770
-1072,23rd European Teams,Terme Catez SLO,2021.11.14,3.3,"Erdos,V","Firouzja,Alireza",0-1,2770,B11,2615
-1073,23rd European Teams,Terme Catez SLO,2021.11.15,4.5,"Firouzja,Alireza","Yilmaz,M",1-0,2626,B90,2770
-1074,23rd European Teams,Terme Catez SLO,2021.11.16,5.3,"Sargissian,G","Firouzja,Alireza",0-1,2770,D19,2664
-1075,23rd European Teams,Terme Catez SLO,2021.11.18,6.5,"Firouzja,Alireza","Mastrovasilis,D",1-0,2619,B47,2770
-1076,23rd European Teams,Terme Catez SLO,2021.11.19,7.4,"Firouzja,Alireza","Jobava,Ba",1-0,2582,B12,2770
-1077,23rd European Teams,Terme Catez SLO,2021.11.20,8.2,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2770,C78,2773
-1078,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Firouzja,Alireza","Mamedyarov,S",1-0,2765,C50,2770
-1079,World Rapid 2021,Warsaw POL,2021.12.26,1.33,"Firouzja,Alireza","Costachi,M",1/2-1/2,2463,C72,2804
-1080,World Rapid 2021,Warsaw POL,2021.12.26,2.46,"Martirosyan,Haik M.","Firouzja,Alireza",0-1,2804,D76,2621
-1081,World Rapid 2021,Warsaw POL,2021.12.26,3.26,"Firouzja,Alireza","Jakubowski,K",1-0,2471,D02,2804
-1082,World Rapid 2021,Warsaw POL,2021.12.26,4.7,"Aronian,L","Firouzja,Alireza",1/2-1/2,2804,B13,2772
-1083,World Rapid 2021,Warsaw POL,2021.12.26,5.14,"Firouzja,Alireza","Nihal,Sarin",1-0,2662,E06,2804
-1084,World Rapid 2021,Warsaw POL,2021.12.27,6.7,"Firouzja,Alireza","Gareev,T",1-0,2573,E33,2804
-1085,World Rapid 2021,Warsaw POL,2021.12.27,7.1,"Carlsen,M","Firouzja,Alireza",1-0,2804,B12,2856
-1086,World Rapid 2021,Warsaw POL,2021.12.27,8.11,"Van Foreest,Jorden","Firouzja,Alireza",1/2-1/2,2804,C50,2702
-1087,World Rapid 2021,Warsaw POL,2021.12.27,9.12,"Firouzja,Alireza","Shevchenko,Kirill",1-0,2655,E98,2804
-1088,World Rapid 2021,Warsaw POL,2021.12.28,10.3,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,C53,2804
-1089,World Rapid 2021,Warsaw POL,2021.12.28,11.8,"Cheparinov,I","Firouzja,Alireza",1/2-1/2,2804,E94,2664
-1090,World Rapid 2021,Warsaw POL,2021.12.28,12.7,"Firouzja,Alireza","Dubov,Daniil",1/2-1/2,2720,B60,2804
-1091,World Rapid 2021,Warsaw POL,2021.12.28,13.6,"Karjakin,Sergey","Firouzja,Alireza",1-0,2804,E92,2743
-1092,World Blitz 2021,Warsaw POL,2021.12.29,1.4,"Firouzja,Alireza","Gareev,T",0-1,2573,A45,2804
-1093,World Blitz 2021,Warsaw POL,2021.12.29,2.57,"Bellahcene,B","Firouzja,Alireza",1/2-1/2,2804,B41,2512
-1094,World Blitz 2021,Warsaw POL,2021.12.29,3.65,"Firouzja,Alireza","Czarnota,P",1/2-1/2,2502,A01,2804
-1095,World Blitz 2021,Warsaw POL,2021.12.29,4.59,"Kantor,G","Firouzja,Alireza",0-1,2804,E71,2575
-1096,World Blitz 2021,Warsaw POL,2021.12.29,5.38,"Firouzja,Alireza","Theodorou,Nikolas",1-0,2577,C60,2804
-1097,World Blitz 2021,Warsaw POL,2021.12.29,6.23,"Indjic,A","Firouzja,Alireza",1-0,2804,E97,2623
-1098,World Blitz 2021,Warsaw POL,2021.12.29,7.39,"Firouzja,Alireza","Postny,E",1-0,2557,C88,2804
-1099,World Blitz 2021,Warsaw POL,2021.12.29,8.25,"Firouzja,Alireza","Saraci,Nderim",1-0,2486,C76,2804
-1100,World Blitz 2021,Warsaw POL,2021.12.29,9.18,"Predke,A","Firouzja,Alireza",1-0,2804,E48,2682
-1101,World Blitz 2021,Warsaw POL,2021.12.29,10.28,"Mastrovasilis,D","Firouzja,Alireza",0-1,2804,B51,2627
-1102,World Blitz 2021,Warsaw POL,2021.12.29,11.17,"Firouzja,Alireza","Abdusattorov,Nodirbek",1-0,2633,A45,2804
-1103,World Blitz 2021,Warsaw POL,2021.12.29,12.11,"Adly,A","Firouzja,Alireza",0-1,2804,D02,2596
-1104,World Blitz 2021,Warsaw POL,2021.12.30,13.9,"Firouzja,Alireza","Karjakin,Sergey",0-1,2743,D02,2804
-1105,World Blitz 2021,Warsaw POL,2021.12.30,14.12,"Firouzja,Alireza","Moroni,L",1-0,2575,B06,2804
-1106,World Blitz 2021,Warsaw POL,2021.12.30,15.9,"Onischuk,V","Firouzja,Alireza",0-1,2804,A07,2620
-1107,World Blitz 2021,Warsaw POL,2021.12.30,16.7,"Maghsoodloo,Parham","Firouzja,Alireza",1-0,2804,E46,2701
-1108,World Blitz 2021,Warsaw POL,2021.12.30,17.10,"Firouzja,Alireza","Muradli,Mahammad",1-0,2503,B90,2804
-1109,World Blitz 2021,Warsaw POL,2021.12.30,18.7,"Kravtsiv,M","Firouzja,Alireza",0-1,2804,B51,2604
-1110,World Blitz 2021,Warsaw POL,2021.12.30,19.5,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2629,B76,2804
-1111,World Blitz 2021,Warsaw POL,2021.12.30,20.2,"Dubov,Daniil","Firouzja,Alireza",0-1,2804,A49,2720
-1112,World Blitz 2021,Warsaw POL,2021.12.30,21.3,"Firouzja,Alireza","Aronian,L",1-0,2772,C53,2804
-1113,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.1,"Caruana,F","Firouzja,Alireza",1/2-1/2,2804,D35,2786
-1114,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2773,C24,2804
-1115,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.4,"Aronian,L","Firouzja,Alireza",1/2-1/2,2804,D17,2765
-1116,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2776,B45,2804
-1117,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.3,"Deac,Bogdan-Daniel","Firouzja,Alireza",1/2-1/2,2804,E73,2671
-1118,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2804,E39,2759
-1119,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.3,"Firouzja,Alireza","Dominguez Perez,L",1-0,2753,E48,2804
-1120,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.1,"So,W","Firouzja,Alireza",1/2-1/2,2804,E92,2776
-1121,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.3,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2750,D78,2804
-1122,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.4,"Radjabov,T","Firouzja,Alireza",1/2-1/2,2793,D37,2753
-1123,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.1,"Rapport,R","Firouzja,Alireza",1/2-1/2,2793,B53,2764
-1124,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.4,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2760,E32,2793
-1125,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2793,B90,2766
-1126,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.3,"Firouzja,Alireza","Duda,J",1/2-1/2,2750,C42,2793
-1127,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.2,"Firouzja,Alireza","Caruana,F",0-1,2783,E06,2793
-1128,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2793,A20,2806
-1129,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2753,C50,2793
-1130,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.1,"Firouzja,Alireza","Rapport,R",1-0,2764,C65,2793
-1131,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2793,B90,2760
-1132,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2766,C42,2793
-1133,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.3,"Duda,J","Firouzja,Alireza",1/2-1/2,2793,D45,2750
-1134,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.3,"Firouzja,Alireza",Ding Liren,1/2-1/2,2806,C47,2793
-1135,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.2,"Caruana,F","Firouzja,Alireza",0-1,2793,C65,2783
-1136,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.2,"Firouzja,Alireza","Saric,Iv",1-0,2680,B50,2793
-1137,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2793,C50,2766
-1138,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.2,"Firouzja,Alireza","Topalov,V",1-0,2728,C42,2793
-1139,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.5,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2793,E06,2864
-1140,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2760,B50,2793
-1141,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.5,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,A20,2793
-1142,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.2,"Dominguez Perez,L","Firouzja,Alireza",1/2-1/2,2793,C50,2754
-1143,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.4,"Firouzja,Alireza","So,W",1/2-1/2,2773,C67,2793
-1144,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.3,"Van Foreest,Jorden","Firouzja,Alireza",1-0,2793,C67,2678
-1145,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.4,"Firouzja,Alireza","Topalov,V",1/2-1/2,2728,C90,2793
-1146,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.3,"So,W","Firouzja,Alireza",1/2-1/2,2793,C67,2773
-1147,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.3,"Firouzja,Alireza","Dominguez Perez,L",0-1,2754,D00,2793
-1148,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.4,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2793,B13,2760
-1149,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.2,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2766,A45,2793
-1150,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2793,D37,2759
-1151,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.1,"Firouzja,Alireza","Saric,Iv",0-1,2680,B50,2793
-1152,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.5,"Firouzja,Alireza","Carlsen,M",0-1,2864,D43,2793
-1153,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.2,"Van Foreest,Jorden","Firouzja,Alireza",0-1,2793,B07,2678
-1154,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.4,"Topalov,V","Firouzja,Alireza",1/2-1/2,2793,A20,2728
-1155,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.3,"Firouzja,Alireza","So,W",1-0,2773,E46,2793
-1156,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.3,"Dominguez Perez,L","Firouzja,Alireza",0-1,2793,C78,2754
-1157,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.1,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2760,A37,2793
-1158,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2793,C50,2766
-1159,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.3,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,C42,2793
-1160,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.4,"Saric,Iv","Firouzja,Alireza",0-1,2793,C78,2680
-1161,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.4,"Carlsen,M","Firouzja,Alireza",0-1,2793,D37,2864
-1162,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.4,"Firouzja,Alireza","Van Foreest,Jorden",1-0,2678,D12,2793
-1163,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.4,"Firouzja,Alireza","Praggnanandhaa,R",1/2-1/2,2661,B31,2778
-1164,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Firouzja,Alireza","Praggnanandhaa,R",1-0,2661,B31,2778
-1165,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Praggnanandhaa,R","Firouzja,Alireza",1-0,2778,C67,2661
-1166,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Praggnanandhaa,R","Firouzja,Alireza",1-0,2778,C41,2661
-1167,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Le,Quang Liem","Firouzja,Alireza",0-1,2778,D41,2728
-1168,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Firouzja,Alireza","Le,Quang Liem",1-0,2728,C78,2778
-1169,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Firouzja,Alireza","Le,Quang Liem",1/2-1/2,2728,C92,2778
-1170,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.4,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,E46,2778
-1171,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.7,"Firouzja,Alireza","Giri,A",1-0,2760,C84,2778
-1172,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
-1173,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.5,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
-1174,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.6,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,C84,2778
-1175,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,E46,2778
-1176,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
-1177,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Firouzja,Alireza","Duda,J",1-0,2740,E53,2778
-1178,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Duda,J","Firouzja,Alireza",1-0,2778,D41,2740
-1179,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2778,A18,2740
-1180,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Firouzja,Alireza","Duda,J",1-0,2740,C65,2778
-1181,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Niemann,Hans Moke","Firouzja,Alireza",1/2-1/2,2778,E04,2687
-1182,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Firouzja,Alireza","Niemann,Hans Moke",1-0,2687,C65,2778
-1183,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Carlsen,M","Firouzja,Alireza",1-0,2778,A15,2864
-1184,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
-1185,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Carlsen,M","Firouzja,Alireza",1-0,2778,A20,2864
-1186,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2778,E04,2864
-1187,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Firouzja,Alireza","Carlsen,M",1-0,2864,B10,2778
-1188,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
-1189,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Aronian,L","Firouzja,Alireza",1/2-1/2,2778,A28,2775
-1190,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.4,"Firouzja,Alireza","Aronian,L",1-0,2775,C65,2778
-1191,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2775,C84,2778
-1192,?,?,????.??.??,?,?,?,1/2-1/2,,,
+0,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,1,"Firouzja,Alireza","Stephan,V",1-0,2439,A61,2728
+1,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,2,"Edouard,R","Firouzja,Alireza",0-1,2728,E97,2649
+2,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,3,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,A46,2728
+3,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,4,"Gukesh,D","Firouzja,Alireza",0-1,2728,C11,2563
+4,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,5,"Firouzja,Alireza","Medvegy,Z",1-0,2524,A46,2728
+5,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,6,"Firouzja,Alireza","Mamedov,Rau",1-0,2654,D02,2728
+6,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,7,"Bauer,Ch","Firouzja,Alireza",0-1,2728,C50,2623
+7,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,8,"Firouzja,Alireza","Dardha,Daniel",1-0,2449,A46,2728
+8,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,9,"Maurizzi,Marc Andria","Firouzja,Alireza",0-1,2728,A48,2433
+9,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,10,"Firouzja,Alireza","Studer,N",1-0,2580,A08,2728
+10,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,11,"Guliyev,N","Firouzja,Alireza",0-1,2728,C01,2529
+11,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,12,"Firouzja,Alireza","Keymer,Vincent",1/2-1/2,2558,D03,2728
+12,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,13,"Lagarde,Max","Firouzja,Alireza",0-1,2728,C02,2655
+13,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,14,"Firouzja,Alireza","Murzin,Volodar",0-1,2465,A48,2728
+14,C'Chartres Blitz Men,Europe-Echecs INT,2020.06.13,15,"Maghsoodloo,Parham","Firouzja,Alireza",1/2-1/2,2728,C67,2676
+15,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.2,"Lagarde,Max","Firouzja,Alireza",0-1,2728,C00,2655
+16,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.1,"Firouzja,Alireza","Lagarde,Max",1-0,2655,A46,2728
+17,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.3,"Firouzja,Alireza","Lagarde,Max",1-0,2655,A81,2728
+18,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,1.4,"Lagarde,Max","Firouzja,Alireza",1/2-1/2,2728,C29,2655
+19,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.2,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,A48,2728
+20,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.4,"Firouzja,Alireza","Ivanchuk,V",1/2-1/2,2678,A81,2728
+21,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.3,"Ivanchuk,V","Firouzja,Alireza",0-1,2728,A49,2678
+22,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,2.1,"Ivanchuk,V","Firouzja,Alireza",0-1,2728,E70,2678
+23,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.1,"Firouzja,Alireza","Maghsoodloo,Parham",1-0,2676,A46,2728
+24,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.3,"Firouzja,Alireza","Maghsoodloo,Parham",1/2-1/2,2676,D02,2728
+25,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.4,"Maghsoodloo,Parham","Firouzja,Alireza",0-1,2728,A00,2676
+26,C'Chartres Blitz M Final,Europe-Echecs INT,2020.06.14,3.2,"Maghsoodloo,Parham","Firouzja,Alireza",1/2-1/2,2728,C02,2676
+27,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.3,"Duda,J","Firouzja,Alireza",0-1,2728,B19,2757
+28,8th Norway Armageddon,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D35,2863
+29,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,D35,2863
+30,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1/2-1/2,2828,A08,2728
+31,8th Norway Armageddon,Stavanger NOR,2020.10.07,3.3,"Firouzja,Alireza","Caruana,F",1-0,2828,D04,2728
+32,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.2,"Aronian,L","Firouzja,Alireza",1/2-1/2,2728,B19,2767
+33,8th Norway Armageddon,Stavanger NOR,2020.10.08,4.2,"Aronian,L","Firouzja,Alireza",0-1,2728,B19,2767
+34,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.3,"Firouzja,Alireza","Tari,A",1-0,2633,C53,2728
+35,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.3,"Tari,A","Firouzja,Alireza",0-1,2728,B13,2633
+36,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2767,D78,2728
+37,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.2,"Firouzja,Alireza","Aronian,L",1-0,2767,C46,2728
+38,8th Norway Armageddon,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1-0,2728,B12,2828
+39,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.2,"Caruana,F","Firouzja,Alireza",1/2-1/2,2728,B12,2828
+40,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,A05,2728
+41,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.2,"Firouzja,Alireza","Duda,J",1-0,2757,D78,2728
+42,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,1,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C73,2678
+43,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,2,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,A45,2749
+44,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,3,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C72,2678
+45,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,4,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,A45,2749
+46,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,5,"Ivanchuk,V","Firouzja,Alireza",1/2-1/2,2749,C72,2678
+47,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,6,"Firouzja,Alireza","Ivanchuk,V",1/2-1/2,2678,C10,2749
+48,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,7,"Ivanchuk,V","Firouzja,Alireza",1-0,2749,B92,2678
+49,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,8,"Firouzja,Alireza","Ivanchuk,V",1-0,2678,B41,2749
+50,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,9,"Ivanchuk,V","Firouzja,Alireza",1-0,2749,C42,2678
+51,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,10,"Firouzja,Alireza","Ivanchuk,V",0-1,2678,E15,2749
+52,C'Chartres Rapid&Blitz m,Europe-Echecs INT,2020.12.06,11,"Ivanchuk,V","Firouzja,Alireza",0-1,2749,C76,2678
+53,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.1,"Carlsen,M","Firouzja,Alireza",1-0,2749,D37,2862
+54,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.2,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2749,B12,2784
+55,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.7,"Firouzja,Alireza","Anton Guijarro,D",1-0,2679,D02,2749
+56,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.7,"Tari,A","Firouzja,Alireza",1/2-1/2,2749,B12,2625
+57,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.2,"Firouzja,Alireza","Van Foreest,Jorden",1/2-1/2,2671,D02,2749
+58,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.7,"Donchenko,Alexa","Firouzja,Alireza",0-1,2749,D31,2668
+59,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.6,"Firouzja,Alireza","Duda,J",1-0,2743,D02,2749
+60,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.3,"Harikrishna,P","Firouzja,Alireza",0-1,2749,D10,2732
+61,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.5,"Firouzja,Alireza","Esipenko,Andrey",1/2-1/2,2677,D02,2749
+62,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.4,"Grandelius,N","Firouzja,Alireza",1/2-1/2,2749,B67,2663
+63,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.5,"Firouzja,Alireza","Caruana,F",1/2-1/2,2823,C53,2749
+64,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.4,"Giri,A","Firouzja,Alireza",1/2-1/2,2749,C11,2764
+65,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.6,"Firouzja,Alireza","Wojtaszek,R",1/2-1/2,2705,A07,2749
+66,GCT Rapid Paris 2021,Paris FRA,2021.06.18,1.1,"Firouzja,Alireza","So,W",1/2-1/2,2770,C53,2759
+67,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.5,"Firouzja,Alireza","Svidler,P",1/2-1/2,2714,D02,2759
+68,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.2,"Radjabov,T","Firouzja,Alireza",1-0,2759,D43,2765
+69,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.4,"Firouzja,Alireza","Caruana,F",1/2-1/2,2820,C50,2759
+70,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.3,"Bacrot,E","Firouzja,Alireza",1/2-1/2,2759,A06,2678
+71,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2763,B45,2759
+72,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2759,C50,2792
+73,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2781,C50,2759
+74,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.5,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,C70,2760
+75,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.3,"Radjabov,T","Firouzja,Alireza",0-1,2759,D37,2765
+76,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.3,"Firouzja,Alireza","Vachier Lagrave,M",1-0,2760,B40,2759
+77,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.4,"Svidler,P","Firouzja,Alireza",1/2-1/2,2759,B30,2714
+78,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.2,"Firouzja,Alireza","Aronian,L",1-0,2781,A45,2759
+79,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.5,"Kramnik,V","Firouzja,Alireza",0-1,2759,B90,2753
+80,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.1,"Rapport,R","Firouzja,Alireza",0-1,2759,A04,2763
+81,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.5,"Firouzja,Alireza","So,W",0-1,2770,A45,2759
+82,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2759,B30,2792
+83,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.4,"Firouzja,Alireza","Caruana,F",0-1,2820,C55,2759
+84,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.3,"Firouzja,Alireza","Radjabov,T",1-0,2765,C28,2759
+85,GCT Blitz Paris 2021,Paris FRA,2021.06.22,11.3,"Vachier Lagrave,M","Firouzja,Alireza",1-0,2759,B30,2760
+86,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.4,"Firouzja,Alireza","Svidler,P",1-0,2714,C28,2759
+87,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.2,"Aronian,L","Firouzja,Alireza",1/2-1/2,2759,D02,2781
+88,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.5,"Firouzja,Alireza","Kramnik,V",1-0,2753,C26,2759
+89,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.1,"Firouzja,Alireza","Rapport,R",0-1,2763,B40,2759
+90,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.5,"So,W","Firouzja,Alireza",1-0,2759,E49,2770
+91,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.2,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C11,2759
+92,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.4,"Caruana,F","Firouzja,Alireza",1-0,2759,B30,2820
+93,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Firouzja,Alireza","Sindarov,Javokhir",1/2-1/2,2558,A15,2759
+94,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B90,2558
+95,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.6,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B90,2558
+96,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.5,"Firouzja,Alireza","Sindarov,Javokhir",0-1,2558,E91,2759
+97,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.4,"Firouzja,Alireza","Sindarov,Javokhir",1/2-1/2,2558,D96,2759
+98,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.17,2.3,"Sindarov,Javokhir","Firouzja,Alireza",1/2-1/2,2759,B10,2558
+99,9th Norway Armageddon,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+100,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+101,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2754,C78,2792
+102,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2754,C34,2792
+103,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",0-1,2758,A01,2754
+104,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.3,"Firouzja,Alireza","Karjakin,Sergey",1/2-1/2,2758,C53,2754
+105,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.2,"Rapport,R","Firouzja,Alireza",1-0,2754,D90,2760
+106,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.3,"Firouzja,Alireza","Tari,A",1-0,2642,C50,2754
+107,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.1,"Carlsen,M","Firouzja,Alireza",1-0,2754,C78,2855
+108,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.3,"Firouzja,Alireza","Nepomniachtchi,I",1-0,2792,C50,2754
+109,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.3,"Karjakin,Sergey","Firouzja,Alireza",0-1,2754,B90,2758
+110,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.3,"Tari,A","Firouzja,Alireza",0-1,2754,B90,2642
+111,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.2,"Firouzja,Alireza","Rapport,R",1-0,2760,B30,2754
+112,FIDE Grand Swiss 2021,Riga LAT,2021.10.27,1.3,"Firouzja,Alireza","Abasov,N",1-0,2638,C43,2770
+113,FIDE Grand Swiss 2021,Riga LAT,2021.10.28,2.2,"Swiercz,D","Firouzja,Alireza",0-1,2770,B93,2647
+114,FIDE Grand Swiss 2021,Riga LAT,2021.10.29,3.1,"Firouzja,Alireza","Predke,A",1-0,2666,C92,2770
+115,FIDE Grand Swiss 2021,Riga LAT,2021.10.30,4.1,Yu Yangyi,"Firouzja,Alireza",1/2-1/2,2770,D19,2704
+116,FIDE Grand Swiss 2021,Riga LAT,2021.10.31,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2763,B90,2770
+117,FIDE Grand Swiss 2021,Riga LAT,2021.11.01,6.1,"Shirov,A","Firouzja,Alireza",1/2-1/2,2770,B12,2659
+118,FIDE Grand Swiss 2021,Riga LAT,2021.11.03,7.1,"Firouzja,Alireza","Najer,E",1-0,2654,C43,2770
+119,FIDE Grand Swiss 2021,Riga LAT,2021.11.04,8.1,"Firouzja,Alireza","Sasikiran,K",1-0,2640,C53,2770
+120,FIDE Grand Swiss 2021,Riga LAT,2021.11.05,9.1,"Caruana,F","Firouzja,Alireza",1-0,2770,B12,2800
+121,FIDE Grand Swiss 2021,Riga LAT,2021.11.06,10.1,"Firouzja,Alireza","Howell,D",1-0,2658,C50,2770
+122,FIDE Grand Swiss 2021,Riga LAT,2021.11.07,11.1,"Oparin,G","Firouzja,Alireza",1/2-1/2,2770,C65,2654
+123,23rd European Teams,Terme Catez SLO,2021.11.12,1.3,"Ragger,M","Firouzja,Alireza",0-1,2770,B11,2668
+124,23rd European Teams,Terme Catez SLO,2021.11.13,2.3,"Firouzja,Alireza","Saric,Iv",1/2-1/2,2665,B90,2770
+125,23rd European Teams,Terme Catez SLO,2021.11.14,3.3,"Erdos,V","Firouzja,Alireza",0-1,2770,B11,2615
+126,23rd European Teams,Terme Catez SLO,2021.11.15,4.5,"Firouzja,Alireza","Yilmaz,M",1-0,2626,B90,2770
+127,23rd European Teams,Terme Catez SLO,2021.11.16,5.3,"Sargissian,G","Firouzja,Alireza",0-1,2770,D19,2664
+128,23rd European Teams,Terme Catez SLO,2021.11.18,6.5,"Firouzja,Alireza","Mastrovasilis,D",1-0,2619,B47,2770
+129,23rd European Teams,Terme Catez SLO,2021.11.19,7.4,"Firouzja,Alireza","Jobava,Ba",1-0,2582,B12,2770
+130,23rd European Teams,Terme Catez SLO,2021.11.20,8.2,"Grischuk,A","Firouzja,Alireza",1/2-1/2,2770,C78,2773
+131,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Firouzja,Alireza","Mamedyarov,S",1-0,2765,C50,2770
+132,World Rapid 2021,Warsaw POL,2021.12.26,1.33,"Firouzja,Alireza","Costachi,M",1/2-1/2,2463,C72,2804
+133,World Rapid 2021,Warsaw POL,2021.12.26,2.46,"Martirosyan,Haik M.","Firouzja,Alireza",0-1,2804,D76,2621
+134,World Rapid 2021,Warsaw POL,2021.12.26,3.26,"Firouzja,Alireza","Jakubowski,K",1-0,2471,D02,2804
+135,World Rapid 2021,Warsaw POL,2021.12.26,4.7,"Aronian,L","Firouzja,Alireza",1/2-1/2,2804,B13,2772
+136,World Rapid 2021,Warsaw POL,2021.12.26,5.14,"Firouzja,Alireza","Nihal,Sarin",1-0,2662,E06,2804
+137,World Rapid 2021,Warsaw POL,2021.12.27,6.7,"Firouzja,Alireza","Gareev,T",1-0,2573,E33,2804
+138,World Rapid 2021,Warsaw POL,2021.12.27,7.1,"Carlsen,M","Firouzja,Alireza",1-0,2804,B12,2856
+139,World Rapid 2021,Warsaw POL,2021.12.27,8.11,"Van Foreest,Jorden","Firouzja,Alireza",1/2-1/2,2804,C50,2702
+140,World Rapid 2021,Warsaw POL,2021.12.27,9.12,"Firouzja,Alireza","Shevchenko,Kirill",1-0,2655,E98,2804
+141,World Rapid 2021,Warsaw POL,2021.12.28,10.3,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2736,C53,2804
+142,World Rapid 2021,Warsaw POL,2021.12.28,11.8,"Cheparinov,I","Firouzja,Alireza",1/2-1/2,2804,E94,2664
+143,World Rapid 2021,Warsaw POL,2021.12.28,12.7,"Firouzja,Alireza","Dubov,Daniil",1/2-1/2,2720,B60,2804
+144,World Rapid 2021,Warsaw POL,2021.12.28,13.6,"Karjakin,Sergey","Firouzja,Alireza",1-0,2804,E92,2743
+145,World Blitz 2021,Warsaw POL,2021.12.29,1.4,"Firouzja,Alireza","Gareev,T",0-1,2573,A45,2804
+146,World Blitz 2021,Warsaw POL,2021.12.29,2.57,"Bellahcene,B","Firouzja,Alireza",1/2-1/2,2804,B41,2512
+147,World Blitz 2021,Warsaw POL,2021.12.29,3.65,"Firouzja,Alireza","Czarnota,P",1/2-1/2,2502,A01,2804
+148,World Blitz 2021,Warsaw POL,2021.12.29,4.59,"Kantor,G","Firouzja,Alireza",0-1,2804,E71,2575
+149,World Blitz 2021,Warsaw POL,2021.12.29,5.38,"Firouzja,Alireza","Theodorou,Nikolas",1-0,2577,C60,2804
+150,World Blitz 2021,Warsaw POL,2021.12.29,6.23,"Indjic,A","Firouzja,Alireza",1-0,2804,E97,2623
+151,World Blitz 2021,Warsaw POL,2021.12.29,7.39,"Firouzja,Alireza","Postny,E",1-0,2557,C88,2804
+152,World Blitz 2021,Warsaw POL,2021.12.29,8.25,"Firouzja,Alireza","Saraci,Nderim",1-0,2486,C76,2804
+153,World Blitz 2021,Warsaw POL,2021.12.29,9.18,"Predke,A","Firouzja,Alireza",1-0,2804,E48,2682
+154,World Blitz 2021,Warsaw POL,2021.12.29,10.28,"Mastrovasilis,D","Firouzja,Alireza",0-1,2804,B51,2627
+155,World Blitz 2021,Warsaw POL,2021.12.29,11.17,"Firouzja,Alireza","Abdusattorov,Nodirbek",1-0,2633,A45,2804
+156,World Blitz 2021,Warsaw POL,2021.12.29,12.11,"Adly,A","Firouzja,Alireza",0-1,2804,D02,2596
+157,World Blitz 2021,Warsaw POL,2021.12.30,13.9,"Firouzja,Alireza","Karjakin,Sergey",0-1,2743,D02,2804
+158,World Blitz 2021,Warsaw POL,2021.12.30,14.12,"Firouzja,Alireza","Moroni,L",1-0,2575,B06,2804
+159,World Blitz 2021,Warsaw POL,2021.12.30,15.9,"Onischuk,V","Firouzja,Alireza",0-1,2804,A07,2620
+160,World Blitz 2021,Warsaw POL,2021.12.30,16.7,"Maghsoodloo,Parham","Firouzja,Alireza",1-0,2804,E46,2701
+161,World Blitz 2021,Warsaw POL,2021.12.30,17.10,"Firouzja,Alireza","Muradli,Mahammad",1-0,2503,B90,2804
+162,World Blitz 2021,Warsaw POL,2021.12.30,18.7,"Kravtsiv,M","Firouzja,Alireza",0-1,2804,B51,2604
+163,World Blitz 2021,Warsaw POL,2021.12.30,19.5,"Firouzja,Alireza","Erigaisi,Arjun",1-0,2629,B76,2804
+164,World Blitz 2021,Warsaw POL,2021.12.30,20.2,"Dubov,Daniil","Firouzja,Alireza",0-1,2804,A49,2720
+165,World Blitz 2021,Warsaw POL,2021.12.30,21.3,"Firouzja,Alireza","Aronian,L",1-0,2772,C53,2804
+166,Superbet Classic 2022,Bucharest ROU,2022.05.05,1.1,"Caruana,F","Firouzja,Alireza",1/2-1/2,2804,D35,2786
+167,Superbet Classic 2022,Bucharest ROU,2022.05.06,2.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2773,C24,2804
+168,Superbet Classic 2022,Bucharest ROU,2022.05.07,3.4,"Aronian,L","Firouzja,Alireza",1/2-1/2,2804,D17,2765
+169,Superbet Classic 2022,Bucharest ROU,2022.05.08,4.3,"Firouzja,Alireza","Rapport,R",1/2-1/2,2776,B45,2804
+170,Superbet Classic 2022,Bucharest ROU,2022.05.09,5.3,"Deac,Bogdan-Daniel","Firouzja,Alireza",1/2-1/2,2804,E73,2671
+171,Superbet Classic 2022,Bucharest ROU,2022.05.11,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2804,E39,2759
+172,Superbet Classic 2022,Bucharest ROU,2022.05.12,7.3,"Firouzja,Alireza","Dominguez Perez,L",1-0,2753,E48,2804
+173,Superbet Classic 2022,Bucharest ROU,2022.05.13,8.1,"So,W","Firouzja,Alireza",1/2-1/2,2804,E92,2776
+174,Superbet Classic 2022,Bucharest ROU,2022.05.14,9.3,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2750,D78,2804
+175,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.4,"Radjabov,T","Firouzja,Alireza",1/2-1/2,2793,D37,2753
+176,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.1,"Rapport,R","Firouzja,Alireza",1/2-1/2,2793,B53,2764
+177,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.4,"Firouzja,Alireza","Nakamura,Hi",1/2-1/2,2760,E32,2793
+178,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.2,"Nepomniachtchi,I","Firouzja,Alireza",1-0,2793,B90,2766
+179,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.3,"Firouzja,Alireza","Duda,J",1/2-1/2,2750,C42,2793
+180,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.2,"Firouzja,Alireza","Caruana,F",0-1,2783,E06,2793
+181,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.3,Ding Liren,"Firouzja,Alireza",1/2-1/2,2793,A20,2806
+182,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2753,C50,2793
+183,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.1,"Firouzja,Alireza","Rapport,R",1-0,2764,C65,2793
+184,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.4,"Nakamura,Hi","Firouzja,Alireza",1-0,2793,B90,2760
+185,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.2,"Firouzja,Alireza","Nepomniachtchi,I",0-1,2766,C42,2793
+186,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.3,"Duda,J","Firouzja,Alireza",1/2-1/2,2793,D45,2750
+187,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.3,"Firouzja,Alireza",Ding Liren,1/2-1/2,2806,C47,2793
+188,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.2,"Caruana,F","Firouzja,Alireza",0-1,2793,C65,2783
+189,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.2,"Firouzja,Alireza","Saric,Iv",1-0,2680,B50,2793
+190,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.4,"Nepomniachtchi,I","Firouzja,Alireza",1/2-1/2,2793,C50,2766
+191,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.2,"Firouzja,Alireza","Topalov,V",1-0,2728,C42,2793
+192,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.5,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2793,E06,2864
+193,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.1,"Firouzja,Alireza","Vachier Lagrave,M",1/2-1/2,2760,B50,2793
+194,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.5,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,A20,2793
+195,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.2,"Dominguez Perez,L","Firouzja,Alireza",1/2-1/2,2793,C50,2754
+196,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.4,"Firouzja,Alireza","So,W",1/2-1/2,2773,C67,2793
+197,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.3,"Van Foreest,Jorden","Firouzja,Alireza",1-0,2793,C67,2678
+198,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.4,"Firouzja,Alireza","Topalov,V",1/2-1/2,2728,C90,2793
+199,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.3,"So,W","Firouzja,Alireza",1/2-1/2,2793,C67,2773
+200,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.3,"Firouzja,Alireza","Dominguez Perez,L",0-1,2754,D00,2793
+201,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.4,"Vachier Lagrave,M","Firouzja,Alireza",1/2-1/2,2793,B13,2760
+202,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.2,"Firouzja,Alireza","Nepomniachtchi,I",1/2-1/2,2766,A45,2793
+203,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.5,"Mamedyarov,S","Firouzja,Alireza",1/2-1/2,2793,D37,2759
+204,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.1,"Firouzja,Alireza","Saric,Iv",0-1,2680,B50,2793
+205,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.5,"Firouzja,Alireza","Carlsen,M",0-1,2864,D43,2793
+206,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.2,"Van Foreest,Jorden","Firouzja,Alireza",0-1,2793,B07,2678
+207,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.4,"Topalov,V","Firouzja,Alireza",1/2-1/2,2793,A20,2728
+208,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.3,"Firouzja,Alireza","So,W",1-0,2773,E46,2793
+209,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.3,"Dominguez Perez,L","Firouzja,Alireza",0-1,2793,C78,2754
+210,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.1,"Firouzja,Alireza","Vachier Lagrave,M",0-1,2760,A37,2793
+211,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.2,"Nepomniachtchi,I","Firouzja,Alireza",0-1,2793,C50,2766
+212,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.3,"Firouzja,Alireza","Mamedyarov,S",1-0,2759,C42,2793
+213,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.4,"Saric,Iv","Firouzja,Alireza",0-1,2793,C78,2680
+214,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.4,"Carlsen,M","Firouzja,Alireza",0-1,2793,D37,2864
+215,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.4,"Firouzja,Alireza","Van Foreest,Jorden",1-0,2678,D12,2793
+216,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.4,"Firouzja,Alireza","Praggnanandhaa,R",1/2-1/2,2661,B31,2778
+217,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Firouzja,Alireza","Praggnanandhaa,R",1-0,2661,B31,2778
+218,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Praggnanandhaa,R","Firouzja,Alireza",1-0,2778,C67,2661
+219,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Praggnanandhaa,R","Firouzja,Alireza",1-0,2778,C41,2661
+220,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Le,Quang Liem","Firouzja,Alireza",0-1,2778,D41,2728
+221,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Firouzja,Alireza","Le,Quang Liem",1-0,2728,C78,2778
+222,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Firouzja,Alireza","Le,Quang Liem",1/2-1/2,2728,C92,2778
+223,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.4,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,E46,2778
+224,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.7,"Firouzja,Alireza","Giri,A",1-0,2760,C84,2778
+225,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
+226,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.5,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
+227,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.6,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,C84,2778
+228,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Firouzja,Alireza","Giri,A",1/2-1/2,2760,E46,2778
+229,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Giri,A","Firouzja,Alireza",1/2-1/2,2778,E04,2760
+230,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Firouzja,Alireza","Duda,J",1-0,2740,E53,2778
+231,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Duda,J","Firouzja,Alireza",1-0,2778,D41,2740
+232,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Duda,J","Firouzja,Alireza",1/2-1/2,2778,A18,2740
+233,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Firouzja,Alireza","Duda,J",1-0,2740,C65,2778
+234,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Niemann,Hans Moke","Firouzja,Alireza",1/2-1/2,2778,E04,2687
+235,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Firouzja,Alireza","Niemann,Hans Moke",1-0,2687,C65,2778
+236,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Carlsen,M","Firouzja,Alireza",1-0,2778,A15,2864
+237,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+238,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Carlsen,M","Firouzja,Alireza",1-0,2778,A20,2864
+239,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2778,E04,2864
+240,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Firouzja,Alireza","Carlsen,M",1-0,2864,B10,2778
+241,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+242,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Aronian,L","Firouzja,Alireza",1/2-1/2,2778,A28,2775
+243,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.4,"Firouzja,Alireza","Aronian,L",1-0,2775,C65,2778
+244,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.2,"Firouzja,Alireza","Aronian,L",1/2-1/2,2775,C84,2778
+245,?,?,????.??.??,?,?,?,1/2-1/2,,,

@@ -12,1453 +12,249 @@
 10,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.24,11.1,"Duda,J","Carlsen,M",1/2-1/2,2872,C53,2758
 11,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.25,12.1,"Carlsen,M","Artemiev,V",1/2-1/2,2731,D85,2872
 12,82nd Tata Steel GpA,Wijk aan Zee NED,2020.01.26,13.1,"So,W","Carlsen,M",1/2-1/2,2872,C47,2765
-13,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.9,"Carlsen,M","Mamedov,Rau",1-0,2645,A45,2876
-14,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.5,"Carlsen,M","Mamedov,Rau",1/2-1/2,2645,D32,2876
-15,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.8,"Mamedov,Rau","Carlsen,M",0-1,2876,B01,2645
-16,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.6,"Mamedov,Rau","Carlsen,M",1/2-1/2,2876,B01,2645
-17,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.13,"Carlsen,M","Mamedov,Rau",1-0,2645,B52,2876
-18,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.12,"Mamedov,Rau","Carlsen,M",0-1,2876,B01,2645
-19,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.11,"Carlsen,M","Mamedov,Rau",1/2-1/2,2645,B31,2876
-20,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.7,"Carlsen,M","Mamedov,Rau",1-0,2645,B50,2876
-21,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.10,"Mamedov,Rau","Carlsen,M",1-0,2876,B01,2645
-22,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.1,"Carlsen,M","Mamedov,Rau",0-1,2645,D15,2876
-23,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.2,"Mamedov,Rau","Carlsen,M",1-0,2876,B01,2645
-24,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.4,"Mamedov,Rau","Carlsen,M",0-1,2876,B01,2645
-25,Chess24 Banter Blitz Cup,chess24.com INT,2020.02.01,3.3,"Carlsen,M","Mamedov,Rau",1-0,2645,B30,2876
-26,TCh-NOR Ostland Div 1,Norway NOR,2020.03.08,11.51,"Carlsen,M","Ramirez Garrastacho,M",1-0,2135,B30,2862
-27,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.1,"Cheparinov,I","Carlsen,M",1-0,2876,A43,2670
-28,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.10,"Carlsen,M","Cheparinov,I",1-0,2670,A33,2876
-29,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.5,"Cheparinov,I","Carlsen,M",0-1,2876,A58,2670
-30,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.7,"Cheparinov,I","Carlsen,M",0-1,2876,A47,2670
-31,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.6,"Carlsen,M","Cheparinov,I",1-0,2670,A45,2876
-32,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.2,"Carlsen,M","Cheparinov,I",1-0,2670,A45,2876
-33,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.4,"Carlsen,M","Cheparinov,I",1-0,2670,B90,2876
-34,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.3,"Cheparinov,I","Carlsen,M",0-1,2876,D30,2670
-35,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.8,"Carlsen,M","Cheparinov,I",1-0,2670,C70,2876
-36,Chess24 Banter Blitz Cup,chess24.com INT,2020.03.11,4.9,"Cheparinov,I","Carlsen,M",1/2-1/2,2876,D15,2670
-37,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.6,"Carlsen,M","Grandelius,N",1-0,2691,A04,2876
-38,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.5,"Grandelius,N","Carlsen,M",1/2-1/2,2876,A37,2691
-39,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.3,"Grandelius,N","Carlsen,M",0-1,2876,E62,2691
-40,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.9,"Grandelius,N","Carlsen,M",0-1,2876,A04,2691
-41,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.4,"Carlsen,M","Grandelius,N",1-0,2691,A45,2876
-42,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.2,"Carlsen,M","Grandelius,N",1/2-1/2,2691,B90,2876
-43,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.1,"Grandelius,N","Carlsen,M",0-1,2876,D11,2691
-44,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.8,"Carlsen,M","Grandelius,N",1-0,2691,D87,2876
-45,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.7,"Grandelius,N","Carlsen,M",0-1,2876,A15,2691
-46,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.02,5.10,"Carlsen,M","Grandelius,N",1-0,2691,A45,2876
-47,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.7,"Carlsen,M","Sjugirov,S",1-0,2662,B90,2876
-48,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.2,"Sjugirov,S","Carlsen,M",0-1,2876,C77,2662
-49,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.1,"Carlsen,M","Sjugirov,S",1-0,2662,B90,2876
-50,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.3,"Carlsen,M","Sjugirov,S",1-0,2662,B90,2876
-51,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.4,"Sjugirov,S","Carlsen,M",0-1,2876,B56,2662
-52,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.8,"Sjugirov,S","Carlsen,M",0-1,2876,C78,2662
-53,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.9,"Carlsen,M","Sjugirov,S",1-0,2662,C51,2876
-54,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.6,"Sjugirov,S","Carlsen,M",0-1,2876,B96,2662
-55,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.07,6.5,"Carlsen,M","Sjugirov,S",1-0,2662,D00,2876
-56,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.13,"Carlsen,M","Firouzja,Alireza",0-1,2702,B40,2876
-57,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.15,"Carlsen,M","Firouzja,Alireza",1-0,2702,E47,2876
-58,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.14,"Firouzja,Alireza","Carlsen,M",1-0,2876,C28,2702
-59,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.12,"Firouzja,Alireza","Carlsen,M",0-1,2876,C65,2702
-60,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.11,"Carlsen,M","Firouzja,Alireza",1-0,2702,B90,2876
-61,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.10,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B04,2702
-62,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.9,"Carlsen,M","Firouzja,Alireza",0-1,2702,D02,2876
-63,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.16,"Firouzja,Alireza","Carlsen,M",1-0,2876,B23,2702
-64,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.8,"Firouzja,Alireza","Carlsen,M",0-1,2876,B04,2702
-65,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B23,2702
-66,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.5,"Carlsen,M","Firouzja,Alireza",1-0,2702,C77,2876
-67,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.4,"Firouzja,Alireza","Carlsen,M",1-0,2876,B04,2702
-68,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.3,"Carlsen,M","Firouzja,Alireza",1-0,2702,C77,2876
-69,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.2,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2876,B04,2702
-70,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.1,"Carlsen,M","Firouzja,Alireza",0-1,2702,D38,2876
-71,Chess24 Banter Blitz Cup,chess24.com INT,2020.04.15,7.7,"Carlsen,M","Firouzja,Alireza",0-1,2702,B40,2876
-72,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.3,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2863
-73,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.5,"Nakamura,Hi","Carlsen,M",0-1,2863,B80,2736
-74,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.4,"Nakamura,Hi","Carlsen,M",1-0,2863,B82,2736
-75,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.1,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2863
-76,Carlsen Inv Prelim,chess24.com INT,2020.04.18,1.2,"Nakamura,Hi","Carlsen,M",1-0,2863,C78,2736
-77,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.4,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2863,C65,2728
-78,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.3,"Carlsen,M","Firouzja,Alireza",1-0,2728,D38,2863
-79,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.2,"Firouzja,Alireza","Carlsen,M",1-0,2863,B30,2728
-80,Carlsen Inv Prelim,chess24.com INT,2020.04.20,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D38,2863
-81,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.1,"Caruana,F","Carlsen,M",0-1,2863,B03,2835
-82,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.4,"Carlsen,M","Caruana,F",1/2-1/2,2835,C46,2863
-83,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.2,"Carlsen,M","Caruana,F",1-0,2835,D37,2863
-84,Carlsen Inv Prelim,chess24.com INT,2020.04.22,3.3,"Caruana,F","Carlsen,M",1/2-1/2,2863,C78,2835
-85,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2778,B54,2863
-86,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.2,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2863,E60,2778
-87,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.4,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2863,D11,2778
-88,Carlsen Inv Prelim,chess24.com INT,2020.04.24,4.3,"Carlsen,M","Vachier Lagrave,M",1-0,2778,D10,2863
-89,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.4,"Carlsen,M","Giri,A",1/2-1/2,2764,B95,2863
-90,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.3,"Giri,A","Carlsen,M",1/2-1/2,2863,D87,2764
-91,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.1,"Giri,A","Carlsen,M",1/2-1/2,2863,E04,2764
-92,Carlsen Inv Prelim,chess24.com INT,2020.04.26,5.2,"Carlsen,M","Giri,A",0-1,2764,D38,2863
-93,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.3,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A45,2863
-94,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.1,"Carlsen,M","Nepomniachtchi,I",0-1,2784,B54,2863
-95,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.2,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,B00,2784
-96,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.4,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,B30,2784
-97,Carlsen Inv Prelim,chess24.com INT,2020.04.28,6.5,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A48,2863
-98,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.3,Ding Liren,"Carlsen,M",1-0,2863,B30,2791
-99,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.1,Ding Liren,"Carlsen,M",1-0,2863,B00,2791
-100,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.4,"Carlsen,M",Ding Liren,0-1,2791,C34,2863
-101,Carlsen Inv Prelim,chess24.com INT,2020.04.30,7.2,"Carlsen,M",Ding Liren,1-0,2791,B21,2863
-102,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.2,Ding Liren,"Carlsen,M",1-0,2863,C50,2791
-103,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.3,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
-104,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.4,Ding Liren,"Carlsen,M",0-1,2863,D45,2791
-105,Carlsen Inv Final 4,chess24.com INT,2020.05.02,1.1,"Carlsen,M",Ding Liren,1/2-1/2,2791,D02,2863
-106,Carlsen Inv Final 4,chess24.com INT,2020.05.03,2.1,"Carlsen,M","Nakamura,Hi",1-0,2736,A29,2863
-107,Carlsen Inv Final 4,chess24.com INT,2020.05.03,2.4,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,D52,2736
-108,Carlsen Inv Final 4,chess24.com INT,2020.05.03,2.2,"Nakamura,Hi","Carlsen,M",1-0,2863,D37,2736
-109,Carlsen Inv Final 4,chess24.com INT,2020.05.03,2.3,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2863
-110,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,1.5,"Carlsen,M","Svidler,P",1/2-1/2,2723,A22,2863
-111,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,2.2,Le Quang Liem,"Carlsen,M",0-1,2863,D02,2709
-112,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,3.4,"Carlsen,M","Mamedyarov,S",1-0,2764,D00,2863
-113,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,4.3,"Korobov,A","Carlsen,M",1-0,2863,D37,2688
-114,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,5.3,"Carlsen,M","Anton Guijarro,D",1-0,2703,C77,2863
-115,FIDE Steinitz Mem Open,chess24.com INT,2020.05.15,6.4,"Grischuk,A","Carlsen,M",1/2-1/2,2863,D37,2777
-116,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,7.2,"Carlsen,M",Bu Xiangzhi,1-0,2705,C42,2863
-117,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,8.1,"Carlsen,M","Xiong,Jeffery",1-0,2709,D02,2863
-118,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,9.5,"Dubov,Daniil","Carlsen,M",1-0,2863,E90,2699
-119,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,10.5,"Svidler,P","Carlsen,M",1-0,2863,C65,2723
-120,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,11.2,"Carlsen,M",Le Quang Liem,1-0,2709,C46,2863
-121,FIDE Steinitz Mem Open,chess24.com INT,2020.05.16,12.4,"Mamedyarov,S","Carlsen,M",1/2-1/2,2863,D11,2764
-122,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,13.3,"Carlsen,M","Korobov,A",1-0,2688,E90,2863
-123,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,14.3,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2863,A06,2703
-124,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,15.4,"Carlsen,M","Grischuk,A",1-0,2777,B51,2863
-125,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,16.2,Bu Xiangzhi,"Carlsen,M",0-1,2863,D45,2705
-126,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,17.5,"Carlsen,M","Dubov,Daniil",1/2-1/2,2699,C41,2863
-127,FIDE Steinitz Mem Open,chess24.com INT,2020.05.17,18.1,"Xiong,Jeffery","Carlsen,M",1/2-1/2,2863,A40,2709
-128,Lindores Abbey Prelim,chess24.com INT,2020.05.19,1.1,"Carlsen,M","Grischuk,A",1-0,2777,C65,2863
-129,Lindores Abbey Prelim,chess24.com INT,2020.05.19,2.6,"Carlsen,M","Aronian,L",1-0,2773,C42,2863
-130,Lindores Abbey Prelim,chess24.com INT,2020.05.19,3.2,Ding Liren,"Carlsen,M",1/2-1/2,2863,E01,2791
-131,Lindores Abbey Prelim,chess24.com INT,2020.05.19,4.5,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,D37,2863
-132,Lindores Abbey Prelim,chess24.com INT,2020.05.20,5.3,Yu Yangyi,"Carlsen,M",1-0,2863,D45,2709
-133,Lindores Abbey Prelim,chess24.com INT,2020.05.20,6.4,"Carlsen,M",Wei Yi,1-0,2732,B51,2863
-134,Lindores Abbey Prelim,chess24.com INT,2020.05.20,7.4,"Duda,J","Carlsen,M",1-0,2863,A28,2753
-135,Lindores Abbey Prelim,chess24.com INT,2020.05.20,8.3,"Carlsen,M","So,W",1/2-1/2,2770,D86,2863
-136,Lindores Abbey Prelim,chess24.com INT,2020.05.21,9.5,"Karjakin,Sergey","Carlsen,M",1/2-1/2,2863,B81,2752
-137,Lindores Abbey Prelim,chess24.com INT,2020.05.21,10.2,"Carlsen,M","Dubov,Daniil",0-1,2699,C41,2863
-138,Lindores Abbey Prelim,chess24.com INT,2020.05.21,11.6,"Firouzja,Alireza","Carlsen,M",0-1,2863,A07,2728
-139,Lindores Abbey Final 8,chess24.com INT,2020.05.24,1.11,"Carlsen,M","So,W",1-0,2770,E21,2863
-140,Lindores Abbey Final 8,chess24.com INT,2020.05.24,1.13,"Carlsen,M","So,W",1/2-1/2,2770,B13,2863
-141,Lindores Abbey Final 8,chess24.com INT,2020.05.24,1.12,"So,W","Carlsen,M",0-1,2863,C65,2770
-142,Lindores Abbey Final 8,chess24.com INT,2020.05.26,1.21,"So,W","Carlsen,M",0-1,2863,C65,2770
-143,Lindores Abbey Final 8,chess24.com INT,2020.05.26,1.22,"Carlsen,M","So,W",1/2-1/2,2770,C67,2863
-144,Lindores Abbey Final 8,chess24.com INT,2020.05.26,1.23,"So,W","Carlsen,M",0-1,2863,E04,2770
-145,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.11,"Carlsen,M","Nakamura,Hi",1-0,2736,C45,2863
-146,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.12,"Nakamura,Hi","Carlsen,M",0-1,2863,C65,2736
-147,Lindores Abbey Final 8,chess24.com INT,2020.05.28,2.13,"Carlsen,M","Nakamura,Hi",1-0,2736,B06,2863
-148,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.21,"Nakamura,Hi","Carlsen,M",1-0,2863,C65,2736
-149,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.23,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C67,2736
-150,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.22,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C45,2863
-151,Lindores Abbey Final 8,chess24.com INT,2020.05.29,2.24,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C53,2863
-152,Lindores Abbey Final 8,chess24.com INT,2020.05.30,2.34,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C88,2736
-153,Lindores Abbey Final 8,chess24.com INT,2020.05.30,2.31,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C47,2863
-154,Lindores Abbey Final 8,chess24.com INT,2020.05.30,2.32,"Nakamura,Hi","Carlsen,M",1-0,2863,C81,2736
-155,Lindores Abbey Final 8,chess24.com INT,2020.05.30,2.35,"Carlsen,M","Nakamura,Hi",0-1,2736,D37,2863
-156,Lindores Abbey Final 8,chess24.com INT,2020.05.30,2.33,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2863
-157,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.5,"Carlsen,M","Xiong,Jeffery",0-1,2709,B41,2863
-158,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.4,"Xiong,Jeffery","Carlsen,M",1/2-1/2,2863,B30,2709
-159,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.6,"Xiong,Jeffery","Carlsen,M",1/2-1/2,2863,D31,2709
-160,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.1,"Carlsen,M","Xiong,Jeffery",1-0,2709,B14,2863
-161,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.2,"Xiong,Jeffery","Carlsen,M",0-1,2863,D31,2709
-162,Clutch Chess Showdown Int,lichess.org INT,2020.06.06,1.3,"Carlsen,M","Xiong,Jeffery",1-0,2709,B52,2863
-163,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.8,"Carlsen,M","Xiong,Jeffery",1/2-1/2,2709,C00,2863
-164,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.12,"Carlsen,M","Xiong,Jeffery",1-0,2709,B40,2863
-165,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.9,"Xiong,Jeffery","Carlsen,M",0-1,2863,B90,2709
-166,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.7,"Xiong,Jeffery","Carlsen,M",1-0,2863,C45,2709
-167,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.11,"Xiong,Jeffery","Carlsen,M",1/2-1/2,2863,B33,2709
-168,Clutch Chess Showdown Int,lichess.org INT,2020.06.08,1.10,"Carlsen,M","Xiong,Jeffery",1-0,2709,A45,2863
-169,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.2,"Aronian,L","Carlsen,M",0-1,2863,B03,2773
-170,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.4,"Aronian,L","Carlsen,M",1/2-1/2,2863,B30,2773
-171,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.3,"Carlsen,M","Aronian,L",1/2-1/2,2773,A22,2863
-172,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.5,"Carlsen,M","Aronian,L",1-0,2773,A22,2863
-173,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.6,"Aronian,L","Carlsen,M",1/2-1/2,2863,B30,2773
-174,Clutch Chess Showdown Int,lichess.org INT,2020.06.11,2.1,"Carlsen,M","Aronian,L",1-0,2773,A07,2863
-175,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.10,"Carlsen,M","Aronian,L",1/2-1/2,2773,A07,2863
-176,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.8,"Carlsen,M","Aronian,L",1-0,2773,A22,2863
-177,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.11,"Aronian,L","Carlsen,M",1/2-1/2,2863,B30,2773
-178,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.9,"Aronian,L","Carlsen,M",1/2-1/2,2863,B30,2773
-179,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.12,"Carlsen,M","Aronian,L",1/2-1/2,2773,C67,2863
-180,Clutch Chess Showdown Int,lichess.org INT,2020.06.12,2.7,"Aronian,L","Carlsen,M",0-1,2863,B00,2773
-181,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.2,"Caruana,F","Carlsen,M",1/2-1/2,2863,C65,2835
-182,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.3,"Carlsen,M","Caruana,F",1-0,2835,A45,2863
-183,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.1,"Carlsen,M","Caruana,F",1/2-1/2,2835,A22,2863
-184,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.4,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-185,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.5,"Carlsen,M","Caruana,F",1-0,2835,C42,2863
-186,Clutch Chess Showdown Int,lichess.org INT,2020.06.13,3.6,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-187,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.9,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-188,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.11,"Caruana,F","Carlsen,M",1-0,2863,B30,2835
-189,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.10,"Carlsen,M","Caruana,F",1-0,2835,C42,2863
-190,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.8,"Carlsen,M","Caruana,F",1/2-1/2,2835,D37,2863
-191,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.7,"Caruana,F","Carlsen,M",0-1,2863,B30,2835
-192,Clutch Chess Showdown Int,lichess.org INT,2020.06.14,3.12,"Carlsen,M","Caruana,F",1-0,2835,A22,2863
-193,Chessable Masters GpA,chess24.com INT,2020.06.20,1.3,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,B30,2736
-194,Chessable Masters GpA,chess24.com INT,2020.06.20,2.1,"Harikrishna,P","Carlsen,M",0-1,2863,B33,2719
-195,Chessable Masters GpA,chess24.com INT,2020.06.20,3.3,"Carlsen,M","Grischuk,A",1/2-1/2,2777,E21,2863
-196,Chessable Masters GpA,chess24.com INT,2020.06.20,4.2,"Carlsen,M","Dubov,Daniil",0-1,2699,A46,2863
-197,Chessable Masters GpA,chess24.com INT,2020.06.20,5.2,"Artemiev,V","Carlsen,M",1/2-1/2,2863,A06,2716
-198,Chessable Masters GpA,chess24.com INT,2020.06.22,6.3,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2863
-199,Chessable Masters GpA,chess24.com INT,2020.06.22,7.1,"Carlsen,M","Harikrishna,P",1/2-1/2,2719,A48,2863
-200,Chessable Masters GpA,chess24.com INT,2020.06.22,8.3,"Grischuk,A","Carlsen,M",1/2-1/2,2863,B30,2777
-201,Chessable Masters GpA,chess24.com INT,2020.06.22,9.2,"Dubov,Daniil","Carlsen,M",0-1,2863,D43,2699
-202,Chessable Masters GpA,chess24.com INT,2020.06.22,10.2,"Carlsen,M","Artemiev,V",1/2-1/2,2716,A15,2863
-203,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.13,"Carlsen,M","Caruana,F",1/2-1/2,2835,B51,2863
-204,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.11,"Carlsen,M","Caruana,F",1-0,2835,D37,2863
-205,Chessable Masters Final 8,chess24.com INT,2020.06.25,1.12,"Caruana,F","Carlsen,M",0-1,2863,C53,2835
-206,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.22,"Carlsen,M","Caruana,F",1-0,2835,E10,2863
-207,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.21,"Caruana,F","Carlsen,M",1/2-1/2,2863,E46,2835
-208,Chessable Masters Final 8,chess24.com INT,2020.06.27,1.23,"Caruana,F","Carlsen,M",0-1,2863,E25,2835
-209,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.12,Ding Liren,"Carlsen,M",1-0,2863,A13,2791
-210,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.13,"Carlsen,M",Ding Liren,1/2-1/2,2791,D85,2863
-211,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.11,"Carlsen,M",Ding Liren,1-0,2791,D38,2863
-212,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.14,Ding Liren,"Carlsen,M",1/2-1/2,2863,E94,2791
-213,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.15,"Carlsen,M",Ding Liren,1/2-1/2,2791,D38,2863
-214,Chessable Masters Final 8,chess24.com INT,2020.06.30,2.16,Ding Liren,"Carlsen,M",0-1,2863,A20,2791
-215,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.23,Ding Liren,"Carlsen,M",0-1,2863,A20,2791
-216,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.21,Ding Liren,"Carlsen,M",0-1,2863,E90,2791
-217,Chessable Masters Final 8,chess24.com INT,2020.07.01,2.22,"Carlsen,M",Ding Liren,1/2-1/2,2791,D38,2863
-218,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.12,"Carlsen,M","Giri,A",1-0,2764,C65,2863
-219,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.16,"Carlsen,M","Giri,A",1-0,2764,E26,2863
-220,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.13,"Giri,A","Carlsen,M",1/2-1/2,2863,D45,2764
-221,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.15,"Giri,A","Carlsen,M",1/2-1/2,2863,D45,2764
-222,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.14,"Carlsen,M","Giri,A",0-1,2764,B51,2863
-223,Chessable Masters Final 8,chess24.com INT,2020.07.03,3.11,"Giri,A","Carlsen,M",1/2-1/2,2863,D30,2764
-224,Chessable Masters Final 8,chess24.com INT,2020.07.04,3.23,"Carlsen,M","Giri,A",1/2-1/2,2764,A28,2863
-225,Chessable Masters Final 8,chess24.com INT,2020.07.04,3.22,"Giri,A","Carlsen,M",1/2-1/2,2863,D85,2764
-226,Chessable Masters Final 8,chess24.com INT,2020.07.04,3.21,"Carlsen,M","Giri,A",1-0,2764,D41,2863
-227,Chessable Masters Final 8,chess24.com INT,2020.07.04,3.24,"Giri,A","Carlsen,M",1/2-1/2,2863,D52,2764
-228,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.2,"Carlsen,M","Giri,A",1-0,2764,D38,2863
-229,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.1,"Giri,A","Carlsen,M",1/2-1/2,2863,D43,2764
-230,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.3,"Giri,A","Carlsen,M",1/2-1/2,2863,D37,2764
-231,Legends of Chess Prelim,chess24.com INT,2020.07.21,1.4,"Carlsen,M","Giri,A",1-0,2764,E68,2863
-232,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.4,"Anand,V","Carlsen,M",0-1,2863,C65,2753
-233,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.1,"Carlsen,M","Anand,V",1/2-1/2,2753,E26,2863
-234,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.2,"Anand,V","Carlsen,M",1/2-1/2,2863,C64,2753
-235,Legends of Chess Prelim,chess24.com INT,2020.07.22,2.3,"Carlsen,M","Anand,V",1/2-1/2,2753,D38,2863
-236,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.1,"Leko,P","Carlsen,M",1/2-1/2,2863,E66,2663
-237,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.2,"Carlsen,M","Leko,P",1/2-1/2,2663,D42,2863
-238,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.3,"Leko,P","Carlsen,M",1/2-1/2,2863,D45,2663
-239,Legends of Chess Prelim,chess24.com INT,2020.07.23,3.4,"Carlsen,M","Leko,P",1-0,2663,A35,2863
-240,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.1,"Carlsen,M","Gelfand,B",1-0,2676,B33,2863
-241,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.2,"Gelfand,B","Carlsen,M",0-1,2863,D87,2676
-242,Legends of Chess Prelim,chess24.com INT,2020.07.24,4.3,"Carlsen,M","Gelfand,B",1-0,2676,B32,2863
-243,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.4,"Ivanchuk,V","Carlsen,M",1/2-1/2,2863,D37,2678
-244,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.5,"Ivanchuk,V","Carlsen,M",0-1,2863,E00,2678
-245,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.1,"Carlsen,M","Ivanchuk,V",0-1,2678,E11,2863
-246,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.2,"Ivanchuk,V","Carlsen,M",1/2-1/2,2863,D37,2678
-247,Legends of Chess Prelim,chess24.com INT,2020.07.25,5.3,"Carlsen,M","Ivanchuk,V",1-0,2678,E11,2863
-248,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.4,"Carlsen,M",Ding Liren,1/2-1/2,2791,B51,2863
-249,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.1,Ding Liren,"Carlsen,M",1/2-1/2,2863,A05,2791
-250,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.3,Ding Liren,"Carlsen,M",1/2-1/2,2863,D78,2791
-251,Legends of Chess Prelim,chess24.com INT,2020.07.26,6.2,"Carlsen,M",Ding Liren,1-0,2791,D43,2863
-252,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.2,"Carlsen,M","Svidler,P",1/2-1/2,2723,C90,2863
-253,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.4,"Carlsen,M","Svidler,P",1-0,2723,A48,2863
-254,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.1,"Svidler,P","Carlsen,M",1/2-1/2,2863,A20,2723
-255,Legends of Chess Prelim,chess24.com INT,2020.07.27,7.3,"Svidler,P","Carlsen,M",1/2-1/2,2863,A22,2723
-256,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.2,"Carlsen,M","Nepomniachtchi,I",1-0,2784,D85,2863
-257,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A13,2784
-258,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.4,"Carlsen,M","Nepomniachtchi,I",0-1,2784,A41,2863
-259,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A20,2784
-260,Legends of Chess Prelim,chess24.com INT,2020.07.28,8.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2863,A15,2784
-261,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.4,"Kramnik,V","Carlsen,M",0-1,2863,B87,2753
-262,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.3,"Carlsen,M","Kramnik,V",1-0,2753,D35,2863
-263,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.2,"Kramnik,V","Carlsen,M",1/2-1/2,2863,B92,2753
-264,Legends of Chess Prelim,chess24.com INT,2020.07.29,9.1,"Carlsen,M","Kramnik,V",1/2-1/2,2753,C50,2863
-265,Legends of Chess Final,chess24.com INT,2020.07.31,1.13,"Svidler,P","Carlsen,M",0-1,2863,A15,2723
-266,Legends of Chess Final,chess24.com INT,2020.07.31,1.12,"Carlsen,M","Svidler,P",1/2-1/2,2723,B90,2863
-267,Legends of Chess Final,chess24.com INT,2020.07.31,1.11,"Svidler,P","Carlsen,M",0-1,2863,A22,2723
-268,Legends of Chess Final,chess24.com INT,2020.08.01,1.21,"Carlsen,M","Svidler,P",1-0,2723,B90,2863
-269,Legends of Chess Final,chess24.com INT,2020.08.01,1.22,"Svidler,P","Carlsen,M",0-1,2863,A07,2723
-270,Legends of Chess Final,chess24.com INT,2020.08.01,1.23,"Carlsen,M","Svidler,P",1/2-1/2,2723,B51,2863
-271,Legends of Chess Final,chess24.com INT,2020.08.03,2.13,"Nepomniachtchi,I","Carlsen,M",1-0,2863,B90,2784
-272,Legends of Chess Final,chess24.com INT,2020.08.03,2.14,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D79,2863
-273,Legends of Chess Final,chess24.com INT,2020.08.03,2.12,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D85,2863
-274,Legends of Chess Final,chess24.com INT,2020.08.03,2.16,"Carlsen,M","Nepomniachtchi,I",1-0,2784,B06,2863
-275,Legends of Chess Final,chess24.com INT,2020.08.03,2.15,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
-276,Legends of Chess Final,chess24.com INT,2020.08.03,2.11,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
-277,Legends of Chess Final,chess24.com INT,2020.08.04,2.21,"Carlsen,M","Nepomniachtchi,I",1-0,2784,A48,2863
-278,Legends of Chess Final,chess24.com INT,2020.08.04,2.23,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,A41,2863
-279,Legends of Chess Final,chess24.com INT,2020.08.04,2.22,"Nepomniachtchi,I","Carlsen,M",0-1,2863,B90,2784
-280,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.16,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
-281,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.15,Ding Liren,"Carlsen,M",1-0,2863,B13,2791
-282,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.14,"Carlsen,M",Ding Liren,1/2-1/2,2791,C67,2863
-283,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.13,Ding Liren,"Carlsen,M",1/2-1/2,2863,B13,2791
-284,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.17,"Carlsen,M",Ding Liren,1/2-1/2,2791,A48,2863
-285,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.12,"Carlsen,M",Ding Liren,1-0,2791,D02,2863
-286,Carlsen Tour Final 2020,chess24.com INT,2020.08.09,1.11,Ding Liren,"Carlsen,M",1-0,2863,B90,2791
-287,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.22,Ding Liren,"Carlsen,M",0-1,2863,C50,2791
-288,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.21,"Carlsen,M",Ding Liren,1-0,2791,D41,2863
-289,Carlsen Tour Final 2020,chess24.com INT,2020.08.10,1.23,"Carlsen,M",Ding Liren,1/2-1/2,2791,E91,2863
-290,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.32,"Carlsen,M",Ding Liren,1-0,2791,B90,2863
-291,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.31,Ding Liren,"Carlsen,M",1/2-1/2,2863,E62,2791
-292,Carlsen Tour Final 2020,chess24.com INT,2020.08.11,1.33,Ding Liren,"Carlsen,M",0-1,2863,B90,2791
-293,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.41,"Carlsen,M",Ding Liren,1-0,2791,D43,2863
-294,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.42,Ding Liren,"Carlsen,M",1-0,2863,E62,2791
-295,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.43,"Carlsen,M",Ding Liren,1/2-1/2,2791,D37,2863
-296,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.44,Ding Liren,"Carlsen,M",1/2-1/2,2863,E60,2791
-297,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.45,"Carlsen,M",Ding Liren,1/2-1/2,2791,D02,2863
-298,Carlsen Tour Final 2020,chess24.com INT,2020.08.12,1.46,Ding Liren,"Carlsen,M",0-1,2863,E01,2791
-299,Carlsen Tour Final 2020,chess24.com INT,2020.08.14,2.12,"Carlsen,M","Nakamura,Hi",0-1,2736,D37,2863
-300,Carlsen Tour Final 2020,chess24.com INT,2020.08.14,2.13,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,B90,2736
-301,Carlsen Tour Final 2020,chess24.com INT,2020.08.14,2.11,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,B90,2736
-302,Carlsen Tour Final 2020,chess24.com INT,2020.08.14,2.14,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,A28,2863
-303,Carlsen Tour Final 2020,chess24.com INT,2020.08.15,2.25,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,D30,2863
-304,Carlsen Tour Final 2020,chess24.com INT,2020.08.15,2.26,"Nakamura,Hi","Carlsen,M",0-1,2863,C65,2736
-305,Carlsen Tour Final 2020,chess24.com INT,2020.08.15,2.21,"Carlsen,M","Nakamura,Hi",0-1,2736,D37,2863
-306,Carlsen Tour Final 2020,chess24.com INT,2020.08.15,2.23,"Carlsen,M","Nakamura,Hi",1-0,2736,A20,2863
-307,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.32,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C67,2863
-308,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.33,"Nakamura,Hi","Carlsen,M",1-0,2863,C65,2736
-309,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.31,"Nakamura,Hi","Carlsen,M",0-1,2863,C65,2736
-310,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.34,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,D02,2863
-311,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.35,"Nakamura,Hi","Carlsen,M",1-0,2863,C65,2736
-312,Carlsen Tour Final 2020,chess24.com INT,2020.08.16,2.36,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,A20,2863
-313,Carlsen Tour Final 2020,chess24.com INT,2020.08.17,2.43,"Carlsen,M","Nakamura,Hi",1-0,2736,C50,2863
-314,Carlsen Tour Final 2020,chess24.com INT,2020.08.17,2.41,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,A20,2863
-315,Carlsen Tour Final 2020,chess24.com INT,2020.08.17,2.42,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C65,2736
-316,Carlsen Tour Final 2020,chess24.com INT,2020.08.17,2.44,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C65,2736
-317,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.51,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C67,2736
-318,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.55,"Nakamura,Hi","Carlsen,M",0-1,2863,B03,2736
-319,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.54,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,D02,2863
-320,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.53,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C67,2736
-321,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.57,"Carlsen,M","Nakamura,Hi",0-1,2736,E29,2863
-322,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.52,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C50,2863
-323,Carlsen Tour Final 2020,chess24.com INT,2020.08.18,2.56,"Carlsen,M","Nakamura,Hi",0-1,2736,E94,2863
-324,Carlsen Tour Final 2020,chess24.com INT,2020.08.19,2.61,"Carlsen,M","Nakamura,Hi",1-0,2736,E47,2863
-325,Carlsen Tour Final 2020,chess24.com INT,2020.08.19,2.62,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C65,2736
-326,Carlsen Tour Final 2020,chess24.com INT,2020.08.19,2.64,"Nakamura,Hi","Carlsen,M",0-1,2863,C65,2736
-327,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.77,"Nakamura,Hi","Carlsen,M",1/2-1/2,2863,C65,2736
-328,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.71,"Nakamura,Hi","Carlsen,M",0-1,2863,C65,2736
-329,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.74,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,A20,2863
-330,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.72,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,B31,2863
-331,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.75,"Nakamura,Hi","Carlsen,M",1-0,2863,C65,2736
-332,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.73,"Nakamura,Hi","Carlsen,M",1-0,2863,C65,2736
-333,Carlsen Tour Final 2020,chess24.com INT,2020.08.20,2.76,"Carlsen,M","Nakamura,Hi",1-0,2736,A28,2863
-334,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.10,"Svane,R","Carlsen,M",1-0,2863,A04,2613
-335,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.9,"Carlsen,M","Svane,R",1-0,2613,D00,2863
-336,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.8,"Svane,R","Carlsen,M",1/2-1/2,2863,A07,2613
-337,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.7,"Carlsen,M","Svane,R",1-0,2613,D02,2863
-338,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.11,"Carlsen,M","Svane,R",1-0,2613,B10,2863
-339,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.6,"Svane,R","Carlsen,M",1/2-1/2,2863,A07,2613
-340,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.5,"Carlsen,M","Svane,R",0-1,2613,B10,2863
-341,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.4,"Svane,R","Carlsen,M",0-1,2863,A05,2613
-342,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.3,"Carlsen,M","Svane,R",1-0,2613,B10,2863
-343,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.1,"Carlsen,M","Svane,R",1-0,2613,B15,2863
-344,Katara Bullet Final 2020,lichess.org INT,2020.08.26,1.2,"Svane,R","Carlsen,M",1-0,2863,A04,2613
-345,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.2,"Mamedov,Rau","Carlsen,M",0-1,2863,B01,2654
-346,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.7,"Carlsen,M","Mamedov,Rau",1-0,2654,A01,2863
-347,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.4,"Mamedov,Rau","Carlsen,M",1-0,2863,C50,2654
-348,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.3,"Carlsen,M","Mamedov,Rau",1-0,2654,A00,2863
-349,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.8,"Mamedov,Rau","Carlsen,M",1-0,2863,B10,2654
-350,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.6,"Mamedov,Rau","Carlsen,M",0-1,2863,B04,2654
-351,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.9,"Carlsen,M","Mamedov,Rau",1-0,2654,B22,2863
-352,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.1,"Carlsen,M","Mamedov,Rau",1-0,2654,B23,2863
-353,Katara Bullet Final 2020,lichess.org INT,2020.08.26,2.5,"Carlsen,M","Mamedov,Rau",1-0,2654,E92,2863
-354,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.3,"Carlsen,M","Tang,Andrew",0-1,2538,C60,2863
-355,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.11,"Carlsen,M","Tang,Andrew",1-0,2538,C00,2863
-356,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.1,"Carlsen,M","Tang,Andrew",0-1,2538,C60,2863
-357,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.10,"Tang,Andrew","Carlsen,M",0-1,2863,A45,2538
-358,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.9,"Carlsen,M","Tang,Andrew",1-0,2538,C50,2863
-359,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.8,"Tang,Andrew","Carlsen,M",0-1,2863,D45,2538
-360,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.7,"Carlsen,M","Tang,Andrew",0-1,2538,C60,2863
-361,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.6,"Tang,Andrew","Carlsen,M",0-1,2863,A50,2538
-362,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.5,"Carlsen,M","Tang,Andrew",1-0,2538,C50,2863
-363,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.4,"Tang,Andrew","Carlsen,M",0-1,2863,A45,2538
-364,Katara Bullet Final 2020,lichess.org INT,2020.08.26,3.2,"Tang,Andrew","Carlsen,M",1-0,2863,A50,2538
-365,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.10,"Carlsen,M","Naroditsky,D",1-0,2621,A48,2863
-366,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.5,"Naroditsky,D","Carlsen,M",1-0,2863,B04,2621
-367,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.1,"Naroditsky,D","Carlsen,M",1/2-1/2,2863,A01,2621
-368,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.6,"Carlsen,M","Naroditsky,D",0-1,2621,B06,2863
-369,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.4,"Carlsen,M","Naroditsky,D",1-0,2621,C77,2863
-370,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.3,"Naroditsky,D","Carlsen,M",0-1,2863,B10,2621
-371,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.2,"Carlsen,M","Naroditsky,D",1-0,2621,A46,2863
-372,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.8,"Carlsen,M","Naroditsky,D",1-0,2621,B06,2863
-373,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.7,"Naroditsky,D","Carlsen,M",1-0,2863,B10,2621
-374,Katara Bullet Final 2020,lichess.org INT,2020.08.26,4.9,"Naroditsky,D","Carlsen,M",0-1,2863,C67,2621
-375,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,1.1,"Nakamura,Hi","Carlsen,M",0-1,2863,B12,2736
-376,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,2.1,"Carlsen,M","Nepomniachtchi,I",0-1,2784,A20,2863
-377,Saint Louis Rapid 2020,lichess.org INT,2020.09.15,3.1,"So,W","Carlsen,M",1/2-1/2,2863,B51,2770
-378,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,4.1,"Carlsen,M","Aronian,L",1-0,2773,D97,2863
-379,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,5.1,"Dominguez Perez,L","Carlsen,M",0-1,2863,C41,2758
-380,Saint Louis Rapid 2020,lichess.org INT,2020.09.16,6.1,"Carlsen,M","Harikrishna,P",1-0,2732,B12,2863
-381,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,7.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,E20,2728
-382,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,8.1,"Carlsen,M","Xiong,Jeffery",1/2-1/2,2709,C19,2863
-383,Saint Louis Rapid 2020,lichess.org INT,2020.09.17,9.1,"Grischuk,A","Carlsen,M",1-0,2863,B75,2777
-384,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,1.1,"Carlsen,M","Nakamura,Hi",1-0,2736,A22,2863
-385,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,2.5,"Carlsen,M","Xiong,Jeffery",1-0,2709,B46,2863
-386,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,3.2,"Harikrishna,P","Carlsen,M",1-0,2863,B50,2732
-387,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,4.4,"Carlsen,M","Aronian,L",1-0,2773,A22,2863
-388,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,5.3,"Nepomniachtchi,I","Carlsen,M",1-0,2863,A01,2784
-389,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,6.3,"Carlsen,M","Grischuk,A",1-0,2777,D38,2863
-390,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,7.4,"Firouzja,Alireza","Carlsen,M",0-1,2863,C65,2728
-391,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,8.2,"Carlsen,M","Dominguez Perez,L",1-0,2758,D02,2863
-392,Saint Louis Blitz 2020,lichess.org INT,2020.09.18,9.5,"So,W","Carlsen,M",1/2-1/2,2863,C78,2770
-393,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,10.1,"Nakamura,Hi","Carlsen,M",1-0,2863,B42,2736
-394,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,A22,2863
-395,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,12.1,"Carlsen,M","So,W",1-0,2770,D37,2863
-396,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,13.1,"Aronian,L","Carlsen,M",1/2-1/2,2863,C53,2773
-397,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,14.1,"Dominguez Perez,L","Carlsen,M",1/2-1/2,2863,C60,2758
-398,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,15.1,"Carlsen,M","Harikrishna,P",1-0,2732,C02,2863
-399,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,16.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,B13,2863
-400,Saint Louis Blitz 2020,lichess.org INT,2020.09.19,17.1,"Xiong,Jeffery","Carlsen,M",0-1,2863,A01,2709
-401,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.2,"Narayanan,SL","Carlsen,M",0-1,2863,C65,2618
-402,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.6,"Narayanan,SL","Carlsen,M",0-1,2863,C84,2618
-403,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.1,"Carlsen,M","Narayanan,SL",1-0,2618,D38,2863
-404,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.5,"Carlsen,M","Narayanan,SL",1-0,2618,D02,2863
-405,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.4,"Narayanan,SL","Carlsen,M",0-1,2863,D37,2618
-406,Chess24 Banter Final 2020,chess24.com INT,2020.09.22,1.3,"Carlsen,M","Narayanan,SL",1/2-1/2,2618,C65,2863
-407,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.1,"Carlsen,M","Giri,A",1-0,2764,E51,2863
-408,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.7,"Carlsen,M","Giri,A",1-0,2764,E51,2863
-409,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.6,"Giri,A","Carlsen,M",1-0,2863,C53,2764
-410,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.5,"Carlsen,M","Giri,A",1-0,2764,D02,2863
-411,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.3,"Carlsen,M","Giri,A",1-0,2764,E51,2863
-412,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.2,"Giri,A","Carlsen,M",0-1,2863,D37,2764
-413,Chess24 Banter Final 2020,chess24.com INT,2020.09.25,2.4,"Giri,A","Carlsen,M",1/2-1/2,2863,A15,2764
-414,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.2,"Aronian,L","Carlsen,M",1-0,2863,B53,2773
-415,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.3,"Carlsen,M","Aronian,L",1-0,2773,A48,2863
-416,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.4,"Aronian,L","Carlsen,M",0-1,2863,B53,2773
-417,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.5,"Carlsen,M","Aronian,L",1/2-1/2,2773,A37,2863
-418,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.1,"Carlsen,M","Aronian,L",0-1,2773,D90,2863
-419,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.6,"Aronian,L","Carlsen,M",0-1,2863,C53,2773
-420,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.7,"Carlsen,M","Aronian,L",1-0,2773,D86,2863
-421,Chess24 Banter Final 2020,chess24.com INT,2020.09.26,3.8,"Aronian,L","Carlsen,M",0-1,2863,B53,2773
-422,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.3,"Carlsen,M","So,W",1/2-1/2,2770,D41,2863
-423,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.9,"Carlsen,M","So,W",1-0,2770,A37,2863
-424,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.8,"So,W","Carlsen,M",1/2-1/2,2863,B30,2770
-425,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.4,"So,W","Carlsen,M",1-0,2863,C53,2770
-426,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.6,"So,W","Carlsen,M",1-0,2863,B12,2770
-427,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.5,"Carlsen,M","So,W",1-0,2770,A22,2863
-428,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.1,"Carlsen,M","So,W",1-0,2770,A00,2863
-429,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.7,"Carlsen,M","So,W",1/2-1/2,2770,A22,2863
-430,Chess24 Banter Final 2020,chess24.com INT,2020.09.29,4.2,"So,W","Carlsen,M",0-1,2863,B04,2770
-431,8th Norway Armageddon,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",0-1,2863,D37,2767
-432,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",1/2-1/2,2863,E51,2767
-433,8th Norway Armageddon,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D35,2863
-434,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,D35,2863
-435,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.1,"Tari,A","Carlsen,M",0-1,2863,B69,2633
-436,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.1,"Carlsen,M","Caruana,F",1-0,2828,E32,2863
-437,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
-438,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
-439,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",0-1,2863,C67,2828
-440,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",1/2-1/2,2863,B31,2828
-441,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.1,"Carlsen,M","Tari,A",1-0,2633,C84,2863
-442,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,A05,2728
-443,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.1,"Carlsen,M","Aronian,L",0-1,2767,D37,2863
-444,chess.com Speed 2020,chess.com INT,2020.11.02,1.22,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,B30,2862
-445,chess.com Speed 2020,chess.com INT,2020.11.02,1.17,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,C42,2862
-446,chess.com Speed 2020,chess.com INT,2020.11.02,1.18,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,A20,2676
-447,chess.com Speed 2020,chess.com INT,2020.11.02,1.19,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,C50,2862
-448,chess.com Speed 2020,chess.com INT,2020.11.02,1.21,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,A12,2676
-449,chess.com Speed 2020,chess.com INT,2020.11.02,1.16,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,C67,2676
-450,chess.com Speed 2020,chess.com INT,2020.11.02,1.15,"Carlsen,M","Maghsoodloo,Parham",0-1,2676,E49,2862
-451,chess.com Speed 2020,chess.com INT,2020.11.02,1.14,"Maghsoodloo,Parham","Carlsen,M",1/2-1/2,2862,C95,2676
-452,chess.com Speed 2020,chess.com INT,2020.11.02,1.13,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,D31,2862
-453,chess.com Speed 2020,chess.com INT,2020.11.02,1.11,"Carlsen,M","Maghsoodloo,Parham",1/2-1/2,2676,D31,2862
-454,chess.com Speed 2020,chess.com INT,2020.11.02,1.12,"Maghsoodloo,Parham","Carlsen,M",1/2-1/2,2862,B90,2676
-455,chess.com Speed 2020,chess.com INT,2020.11.02,1.32,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,B32,2862
-456,chess.com Speed 2020,chess.com INT,2020.11.02,1.312,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,A00,2862
-457,chess.com Speed 2020,chess.com INT,2020.11.02,1.311,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,B01,2676
-458,chess.com Speed 2020,chess.com INT,2020.11.02,1.310,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,B20,2862
-459,chess.com Speed 2020,chess.com INT,2020.11.02,1.39,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,A01,2676
-460,chess.com Speed 2020,chess.com INT,2020.11.02,1.38,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,B01,2862
-461,chess.com Speed 2020,chess.com INT,2020.11.02,1.37,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,C50,2676
-462,chess.com Speed 2020,chess.com INT,2020.11.02,1.36,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,C11,2862
-463,chess.com Speed 2020,chess.com INT,2020.11.02,1.35,"Maghsoodloo,Parham","Carlsen,M",1-0,2862,C19,2676
-464,chess.com Speed 2020,chess.com INT,2020.11.02,1.28,"Carlsen,M","Maghsoodloo,Parham",1/2-1/2,2676,A05,2862
-465,chess.com Speed 2020,chess.com INT,2020.11.02,1.34,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,A45,2862
-466,chess.com Speed 2020,chess.com INT,2020.11.02,1.33,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,B40,2676
-467,chess.com Speed 2020,chess.com INT,2020.11.02,1.31,"Maghsoodloo,Parham","Carlsen,M",1-0,2862,B07,2676
-468,chess.com Speed 2020,chess.com INT,2020.11.02,1.23,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,A09,2676
-469,chess.com Speed 2020,chess.com INT,2020.11.02,1.27,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,D12,2676
-470,chess.com Speed 2020,chess.com INT,2020.11.02,1.26,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,C01,2862
-471,chess.com Speed 2020,chess.com INT,2020.11.02,1.25,"Maghsoodloo,Parham","Carlsen,M",0-1,2862,B41,2676
-472,chess.com Speed 2020,chess.com INT,2020.11.02,1.24,"Carlsen,M","Maghsoodloo,Parham",1-0,2676,A45,2862
-473,Skilling Open Prelim,chess24.com INT,2020.11.22,1.8,"Nepomniachtchi,I","Carlsen,M",1-0,2862,C60,2784
-474,Skilling Open Prelim,chess24.com INT,2020.11.22,2.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C67,2784
-475,Skilling Open Prelim,chess24.com INT,2020.11.22,3.8,"Carlsen,M","Radjabov,T",1-0,2765,D38,2862
-476,Skilling Open Prelim,chess24.com INT,2020.11.22,4.2,"Anton Guijarro,D","Carlsen,M",0-1,2862,D45,2675
-477,Skilling Open Prelim,chess24.com INT,2020.11.22,5.7,"Carlsen,M","Firouzja,Alireza",1-0,2749,D35,2862
-478,Skilling Open Prelim,chess24.com INT,2020.11.23,6.3,"Aronian,L","Carlsen,M",1/2-1/2,2862,D37,2781
-479,Skilling Open Prelim,chess24.com INT,2020.11.23,7.6,"Carlsen,M","Duda,J",1-0,2743,D11,2862
-480,Skilling Open Prelim,chess24.com INT,2020.11.23,8.4,Ding Liren,"Carlsen,M",1/2-1/2,2862,D37,2791
-481,Skilling Open Prelim,chess24.com INT,2020.11.23,9.5,"Carlsen,M","Giri,A",1/2-1/2,2764,B53,2862
-482,Skilling Open Prelim,chess24.com INT,2020.11.23,10.5,"Karjakin,Sergey","Carlsen,M",1-0,2862,C41,2752
-483,Skilling Open Prelim,chess24.com INT,2020.11.24,11.4,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C24,2862
-484,Skilling Open Prelim,chess24.com INT,2020.11.24,12.6,Le Quang Liem,"Carlsen,M",1/2-1/2,2862,D45,2709
-485,Skilling Open Prelim,chess24.com INT,2020.11.24,13.3,"Carlsen,M","Vidit,S",1-0,2726,C50,2862
-486,Skilling Open Prelim,chess24.com INT,2020.11.24,14.7,"So,W","Carlsen,M",1/2-1/2,2862,E36,2770
-487,Skilling Open Prelim,chess24.com INT,2020.11.24,15.2,"Carlsen,M","Svidler,P",1/2-1/2,2723,B53,2862
-488,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.14,"Giri,A","Carlsen,M",0-1,2862,C50,2764
-489,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.13,"Carlsen,M","Giri,A",1/2-1/2,2764,C47,2862
-490,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.11,"Carlsen,M","Giri,A",1/2-1/2,2764,D38,2862
-491,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.12,"Giri,A","Carlsen,M",1/2-1/2,2862,B31,2764
-492,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.22,"Carlsen,M","Giri,A",1/2-1/2,2764,E60,2862
-493,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.21,"Giri,A","Carlsen,M",1/2-1/2,2862,C53,2764
-494,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.24,"Carlsen,M","Giri,A",1/2-1/2,2764,B22,2862
-495,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.23,"Giri,A","Carlsen,M",1/2-1/2,2862,C67,2764
-496,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,B35,2784
-497,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.11,"Carlsen,M","Nepomniachtchi,I",1-0,2784,D85,2862
-498,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.13,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,D85,2862
-499,Skilling Open KO 2020,chess24.com INT,2020.11.27,2.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C67,2784
-500,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.23,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C84,2784
-501,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.24,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2784,B51,2862
-502,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.21,"Nepomniachtchi,I","Carlsen,M",1-0,2862,C84,2784
-503,Skilling Open KO 2020,chess24.com INT,2020.11.28,2.22,"Carlsen,M","Nepomniachtchi,I",1-0,2784,B22,2862
-504,Skilling Open KO 2020,chess24.com INT,2020.11.29,3.14,"So,W","Carlsen,M",1-0,2862,B33,2770
-505,Skilling Open KO 2020,chess24.com INT,2020.11.29,3.12,"So,W","Carlsen,M",1-0,2862,C50,2770
-506,Skilling Open KO 2020,chess24.com INT,2020.11.29,3.13,"Carlsen,M","So,W",1-0,2770,D38,2862
-507,Skilling Open KO 2020,chess24.com INT,2020.11.29,3.11,"Carlsen,M","So,W",1-0,2770,D41,2862
-508,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.24,"Carlsen,M","So,W",1/2-1/2,2770,C67,2862
-509,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.31,"So,W","Carlsen,M",1-0,2862,B12,2770
-510,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.22,"Carlsen,M","So,W",0-1,2770,D41,2862
-511,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.23,"So,W","Carlsen,M",1/2-1/2,2862,C02,2770
-512,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.32,"Carlsen,M","So,W",1/2-1/2,2770,D40,2862
-513,Skilling Open KO 2020,chess24.com INT,2020.11.30,3.21,"So,W","Carlsen,M",0-1,2862,B12,2770
-514,chess.com Speed 2020,chess.com INT,2020.12.03,2.31,"Artemiev,V","Carlsen,M",1-0,2862,A05,2708
-515,chess.com Speed 2020,chess.com INT,2020.12.03,2.32,"Carlsen,M","Artemiev,V",1/2-1/2,2708,D85,2862
-516,chess.com Speed 2020,chess.com INT,2020.12.03,2.33,"Artemiev,V","Carlsen,M",1/2-1/2,2862,D00,2708
-517,chess.com Speed 2020,chess.com INT,2020.12.03,2.34,"Carlsen,M","Artemiev,V",1-0,2708,B13,2862
-518,chess.com Speed 2020,chess.com INT,2020.12.03,2.35,"Artemiev,V","Carlsen,M",1-0,2862,A01,2708
-519,chess.com Speed 2020,chess.com INT,2020.12.03,2.27,"Carlsen,M","Artemiev,V",1-0,2708,A45,2862
-520,chess.com Speed 2020,chess.com INT,2020.12.03,2.36,"Carlsen,M","Artemiev,V",0-1,2708,B90,2862
-521,chess.com Speed 2020,chess.com INT,2020.12.03,2.37,"Artemiev,V","Carlsen,M",0-1,2862,B06,2708
-522,chess.com Speed 2020,chess.com INT,2020.12.03,2.38,"Carlsen,M","Artemiev,V",1/2-1/2,2708,B53,2862
-523,chess.com Speed 2020,chess.com INT,2020.12.03,2.18,"Artemiev,V","Carlsen,M",0-1,2862,A45,2708
-524,chess.com Speed 2020,chess.com INT,2020.12.03,2.17,"Carlsen,M","Artemiev,V",1-0,2708,D11,2862
-525,chess.com Speed 2020,chess.com INT,2020.12.03,2.12,"Artemiev,V","Carlsen,M",0-1,2862,E60,2708
-526,chess.com Speed 2020,chess.com INT,2020.12.03,2.13,"Carlsen,M","Artemiev,V",1/2-1/2,2708,B18,2862
-527,chess.com Speed 2020,chess.com INT,2020.12.03,2.26,"Artemiev,V","Carlsen,M",0-1,2862,A01,2708
-528,chess.com Speed 2020,chess.com INT,2020.12.03,2.25,"Carlsen,M","Artemiev,V",1-0,2708,B28,2862
-529,chess.com Speed 2020,chess.com INT,2020.12.03,2.24,"Artemiev,V","Carlsen,M",0-1,2862,D37,2708
-530,chess.com Speed 2020,chess.com INT,2020.12.03,2.23,"Carlsen,M","Artemiev,V",0-1,2708,E60,2862
-531,chess.com Speed 2020,chess.com INT,2020.12.03,2.22,"Artemiev,V","Carlsen,M",1/2-1/2,2862,A01,2708
-532,chess.com Speed 2020,chess.com INT,2020.12.03,2.21,"Carlsen,M","Artemiev,V",1/2-1/2,2708,D11,2862
-533,chess.com Speed 2020,chess.com INT,2020.12.03,2.11,"Carlsen,M","Artemiev,V",0-1,2708,B12,2862
-534,chess.com Speed 2020,chess.com INT,2020.12.03,2.14,"Artemiev,V","Carlsen,M",1-0,2862,A30,2708
-535,chess.com Speed 2020,chess.com INT,2020.12.03,2.15,"Carlsen,M","Artemiev,V",1-0,2708,D12,2862
-536,chess.com Speed 2020,chess.com INT,2020.12.03,2.16,"Artemiev,V","Carlsen,M",1/2-1/2,2862,A01,2708
-537,chess.com Speed 2020,chess.com INT,2020.12.12,3.18,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,B31,2784
-538,chess.com Speed 2020,chess.com INT,2020.12.12,3.34,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,B08,2784
-539,chess.com Speed 2020,chess.com INT,2020.12.12,3.35,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B90,2862
-540,chess.com Speed 2020,chess.com INT,2020.12.12,3.11,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D90,2862
-541,chess.com Speed 2020,chess.com INT,2020.12.12,3.12,"Vachier Lagrave,M","Carlsen,M",0-1,2862,C84,2784
-542,chess.com Speed 2020,chess.com INT,2020.12.12,3.21,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,E60,2862
-543,chess.com Speed 2020,chess.com INT,2020.12.12,3.33,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D90,2862
-544,chess.com Speed 2020,chess.com INT,2020.12.12,3.32,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B40,2784
-545,chess.com Speed 2020,chess.com INT,2020.12.12,3.16,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-546,chess.com Speed 2020,chess.com INT,2020.12.12,3.13,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D90,2862
-547,chess.com Speed 2020,chess.com INT,2020.12.12,3.14,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-548,chess.com Speed 2020,chess.com INT,2020.12.12,3.38,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B06,2784
-549,chess.com Speed 2020,chess.com INT,2020.12.12,3.37,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B12,2862
-550,chess.com Speed 2020,chess.com INT,2020.12.12,3.15,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B50,2862
-551,chess.com Speed 2020,chess.com INT,2020.12.12,3.36,"Vachier Lagrave,M","Carlsen,M",0-1,2862,B04,2784
-552,chess.com Speed 2020,chess.com INT,2020.12.12,3.23,"Carlsen,M","Vachier Lagrave,M",1-0,2784,E60,2862
-553,chess.com Speed 2020,chess.com INT,2020.12.12,3.17,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B53,2862
-554,chess.com Speed 2020,chess.com INT,2020.12.12,3.22,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B33,2784
-555,chess.com Speed 2020,chess.com INT,2020.12.12,3.31,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B51,2862
-556,chess.com Speed 2020,chess.com INT,2020.12.12,3.128,"Vachier Lagrave,M","Carlsen,M",1-0,2862,C67,2784
-557,chess.com Speed 2020,chess.com INT,2020.12.12,3.27,"Carlsen,M","Vachier Lagrave,M",1-0,2784,B50,2862
-558,chess.com Speed 2020,chess.com INT,2020.12.12,3.26,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B10,2784
-559,chess.com Speed 2020,chess.com INT,2020.12.12,3.25,"Carlsen,M","Vachier Lagrave,M",1-0,2784,E60,2862
-560,chess.com Speed 2020,chess.com INT,2020.12.12,3.24,"Vachier Lagrave,M","Carlsen,M",1-0,2862,C84,2784
-561,Airthings Masters Prelim,chess24.com INT,2020.12.26,1.4,"Carlsen,M","Aronian,L",1/2-1/2,2781,D38,2862
-562,Airthings Masters Prelim,chess24.com INT,2020.12.26,2.4,"So,W","Carlsen,M",1/2-1/2,2862,E92,2770
-563,Airthings Masters Prelim,chess24.com INT,2020.12.26,3.3,"Carlsen,M","Radjabov,T",1/2-1/2,2765,D37,2862
-564,Airthings Masters Prelim,chess24.com INT,2020.12.26,4.5,"Harikrishna,P","Carlsen,M",1/2-1/2,2862,B33,2732
-565,Airthings Masters Prelim,chess24.com INT,2020.12.27,5.2,"Carlsen,M","Dubov,Daniil",1-0,2702,B31,2862
-566,Airthings Masters Prelim,chess24.com INT,2020.12.27,6.6,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2862,E46,2675
-567,Airthings Masters Prelim,chess24.com INT,2020.12.27,7.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,A15,2862
-568,Airthings Masters Prelim,chess24.com INT,2020.12.27,8.6,"Carlsen,M","Giri,A",1/2-1/2,2764,D94,2862
-569,Airthings Masters Prelim,chess24.com INT,2020.12.28,9.2,"Grischuk,A","Carlsen,M",1/2-1/2,2862,D38,2777
-570,Airthings Masters Prelim,chess24.com INT,2020.12.28,10.5,"Carlsen,M","Nakamura,Hi",1-0,2736,C67,2862
-571,Airthings Masters Prelim,chess24.com INT,2020.12.28,11.3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,B33,2784
-572,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.13,"Carlsen,M","Dubov,Daniil",0-1,2702,A15,2862
-573,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.14,"Dubov,Daniil","Carlsen,M",1/2-1/2,2862,E10,2702
-574,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.12,"Dubov,Daniil","Carlsen,M",1/2-1/2,2862,E04,2702
-575,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.11,"Carlsen,M","Dubov,Daniil",1-0,2702,C77,2862
-576,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.21,"Dubov,Daniil","Carlsen,M",1-0,2862,E10,2702
-577,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.22,"Carlsen,M","Dubov,Daniil",1/2-1/2,2702,C48,2862
-578,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.23,"Dubov,Daniil","Carlsen,M",1-0,2862,E10,2702
-579,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.1,"Carlsen,M","Firouzja,Alireza",1-0,2749,D37,2862
-580,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.1,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2862,B34,2679
-581,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.1,"Carlsen,M","Tari,A",1/2-1/2,2625,D41,2862
-582,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2862,C78,2671
-583,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.1,"Carlsen,M","Donchenko,Alexa",1/2-1/2,2668,B90,2862
-584,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
-585,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.1,"Carlsen,M","Harikrishna,P",1/2-1/2,2732,B47,2862
-586,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.1,"Esipenko,Andrey","Carlsen,M",1-0,2862,B84,2677
-587,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.1,"Carlsen,M","Grandelius,N",1-0,2663,B90,2862
-588,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.1,"Caruana,F","Carlsen,M",1/2-1/2,2862,E00,2823
-589,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.1,"Carlsen,M","Giri,A",1/2-1/2,2764,C53,2862
-590,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2862,D45,2705
-591,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.3,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-592,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.2,"So,W","Carlsen,M",1-0,2862,B52,2770
-593,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.7,"Carlsen,M","Aronian,L",1-0,2781,D38,2862
-594,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.3,"Bluebaum,M","Carlsen,M",0-1,2862,D05,2670
-595,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.6,"Carlsen,M","Shankland,S",1-0,2691,A11,2862
-596,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.4,"Dominguez Perez,L","Carlsen,M",0-1,2862,B75,2758
-597,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.5,"Carlsen,M","Duda,J",1/2-1/2,2743,A18,2862
-598,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.5,"Grischuk,A","Carlsen,M",1/2-1/2,2862,B30,2777
-599,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.4,"Carlsen,M","Giri,A",1/2-1/2,2764,A13,2862
-600,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.6,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2862,C78,2789
-601,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.3,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2862
-602,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.7,"Vidit,S","Carlsen,M",0-1,2862,D30,2726
-603,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.2,"Carlsen,M","Radjabov,T",1/2-1/2,2765,E58,2862
-604,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.8,Ding Liren,"Carlsen,M",1-0,2862,E10,2791
-605,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,14.1,"Dubov,Daniil","Carlsen,M",1/2-1/2,2862,D43,2710
-606,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.8,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,E60,2862
-607,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.12,"Dubov,Daniil","Carlsen,M",1/2-1/2,2862,E10,2710
-608,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.13,"Carlsen,M","Dubov,Daniil",1-0,2710,B01,2862
-609,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.11,"Carlsen,M","Dubov,Daniil",1-0,2710,C55,2862
-610,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.31,"Carlsen,M","Dubov,Daniil",1-0,2710,C55,2862
-611,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.33,"Carlsen,M","Dubov,Daniil",1-0,2710,B31,2862
-612,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.22,"Carlsen,M","Dubov,Daniil",0-1,2710,C55,2862
-613,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.32,"Dubov,Daniil","Carlsen,M",1-0,2862,E10,2710
-614,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.21,"Dubov,Daniil","Carlsen,M",1/2-1/2,2862,E10,2710
-615,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.23,"Dubov,Daniil","Carlsen,M",1-0,2862,E16,2710
-616,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.12,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C95,2784
-617,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.13,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-618,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.11,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-619,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.22,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2784,B90,2862
-620,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.24,"Carlsen,M","Vachier Lagrave,M",0-1,2784,D85,2862
-621,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.23,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B30,2784
-622,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.32,"Vachier Lagrave,M","Carlsen,M",1-0,2862,B30,2784
-623,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.33,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
-624,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.21,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2862,C88,2784
-625,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.31,"Carlsen,M","Vachier Lagrave,M",1-0,2784,A15,2862
-626,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.12,"So,W","Carlsen,M",0-1,2862,C58,2770
-627,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.14,"So,W","Carlsen,M",1-0,2862,C53,2770
-628,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.11,"Carlsen,M","So,W",1/2-1/2,2770,E21,2862
-629,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.13,"Carlsen,M","So,W",1/2-1/2,2770,C67,2862
-630,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.23,"So,W","Carlsen,M",1/2-1/2,2862,C50,2770
-631,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.22,"Carlsen,M","So,W",1/2-1/2,2770,C50,2862
-632,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.21,"So,W","Carlsen,M",1-0,2862,B30,2770
-633,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.24,"Carlsen,M","So,W",1/2-1/2,2770,C50,2862
-634,World Corporate East D,chess.com INT,2021.02.19,1.12,"Carlsen,M","Hassan,Sampath Santosh",1-0,,C30,2862
-635,World Corporate East D,chess.com INT,2021.02.19,2.1,"Korobov,A","Carlsen,M",1/2-1/2,2862,D45,2683
-636,World Corporate East D,chess.com INT,2021.02.19,3.10,"Carlsen,M","Zakharov,AS",1-0,2428,C15,2862
-637,World Corporate East D,chess.com INT,2021.02.20,4.6,"Carlsen,M","Jangle,Hemang J",1-0,1796,A46,2862
-638,World Corporate East D,chess.com INT,2021.02.20,5.7,"Garcia Lopez,Nicolas","Carlsen,M",0-1,2862,B06,2039
-639,World Corporate East D,chess.com INT,2021.02.20,6.7,"Carlsen,M","Ramya,S",1-0,1848,C22,2862
-640,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,1,"Carlsen,M","Firouzja,Alireza",0-1,2749,A48,2862
-641,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,1,"Carlsen,M","Tang,Andrew",1-0,2538,D02,2862
-642,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,2,"Tang,Andrew","Carlsen,M",0-1,2862,A42,2538
-643,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,2,"Firouzja,Alireza","Carlsen,M",1-0,2862,B06,2749
-644,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,3,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-645,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,3,"Carlsen,M","Tang,Andrew",0-1,2538,D00,2862
-646,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,4,"Firouzja,Alireza","Carlsen,M",0-1,2862,B41,2749
-647,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,4,"Tang,Andrew","Carlsen,M",1-0,2862,E33,2538
-648,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,5,"Carlsen,M","Tang,Andrew",0-1,2538,D02,2862
-649,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,5,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-650,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,B01,2749
-651,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,6,"Tang,Andrew","Carlsen,M",0-1,2862,E35,2538
-652,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,7,"Carlsen,M","Tang,Andrew",0-1,2538,D37,2862
-653,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,7,"Carlsen,M","Firouzja,Alireza",0-1,2749,A14,2862
-654,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,8,"Tang,Andrew","Carlsen,M",0-1,2862,A56,2538
-655,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,8,"Firouzja,Alireza","Carlsen,M",0-1,2862,B06,2749
-656,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,9,"Carlsen,M","Tang,Andrew",0-1,2538,C22,2862
-657,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,9,"Carlsen,M","Firouzja,Alireza",1-0,2749,B90,2862
-658,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,10,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D00,2538
-659,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,10,"Firouzja,Alireza","Carlsen,M",0-1,2862,A57,2749
-660,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,11,"Carlsen,M","Firouzja,Alireza",1-0,2749,A18,2862
-661,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,11,"Carlsen,M","Tang,Andrew",0-1,2538,A01,2862
-662,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,12,"Firouzja,Alireza","Carlsen,M",1-0,2862,A56,2749
-663,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,12,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,E39,2538
-664,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,13,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,E68,2862
-665,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,13,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-666,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,14,"Tang,Andrew","Carlsen,M",1-0,2862,E34,2538
-667,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,14,"Firouzja,Alireza","Carlsen,M",0-1,2862,B06,2749
-668,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,15,"Carlsen,M","Firouzja,Alireza",1-0,2749,B90,2862
-669,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,15,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-670,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,16,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,C44,2749
-671,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,16,"Tang,Andrew","Carlsen,M",1-0,2862,D00,2538
-672,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,17,"Carlsen,M","Tang,Andrew",1-0,2538,A01,2862
-673,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,17,"Carlsen,M","Firouzja,Alireza",1-0,2749,B43,2862
-674,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,18,"Firouzja,Alireza","Carlsen,M",1-0,2862,D06,2749
-675,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,18,"Tang,Andrew","Carlsen,M",0-1,2862,E34,2538
-676,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,19,"Carlsen,M","Tang,Andrew",0-1,2538,D37,2862
-677,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,19,"Carlsen,M","Firouzja,Alireza",1-0,2749,C18,2862
-678,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,20,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-679,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,20,"Firouzja,Alireza","Carlsen,M",0-1,2862,D20,2749
-680,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,21,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-681,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,21,"Carlsen,M","Firouzja,Alireza",1-0,2749,A01,2862
-682,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,22,"Firouzja,Alireza","Carlsen,M",0-1,2862,E11,2749
-683,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,22,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D00,2538
-684,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,23,"Carlsen,M","Tang,Andrew",0-1,2538,D37,2862
-685,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,23,"Carlsen,M","Firouzja,Alireza",1-0,2749,D79,2862
-686,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,24,"Firouzja,Alireza","Carlsen,M",0-1,2862,E93,2749
-687,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,24,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D25,2538
-688,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,25,"Carlsen,M","Tang,Andrew",1-0,2538,C00,2862
-689,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,25,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,D37,2862
-690,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,26,"Tang,Andrew","Carlsen,M",1-0,2862,D25,2538
-691,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,26,"Firouzja,Alireza","Carlsen,M",0-1,2862,B04,2749
-692,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,27,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-693,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,27,"Carlsen,M","Firouzja,Alireza",1-0,2749,E92,2862
-694,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,28,"Firouzja,Alireza","Carlsen,M",0-1,2862,A42,2749
-695,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,28,"Tang,Andrew","Carlsen,M",0-1,2862,D02,2538
-696,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,29,"Carlsen,M","Firouzja,Alireza",1-0,2749,B63,2862
-697,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,29,"Carlsen,M","Tang,Andrew",1-0,2538,D31,2862
-698,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,30,"Tang,Andrew","Carlsen,M",1-0,2862,A00,2538
-699,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,30,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-700,Magnus-Alireza Bullet,lichess.org INT,2021.02.22,31,"Carlsen,M","Firouzja,Alireza",1-0,2749,B23,2862
-701,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,31,"Carlsen,M","Tang,Andrew",1-0,2538,C00,2862
-702,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,32,"Tang,Andrew","Carlsen,M",0-1,2862,A57,2538
-703,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,33,"Carlsen,M","Tang,Andrew",1/2-1/2,2538,C02,2862
-704,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,34,"Tang,Andrew","Carlsen,M",0-1,2862,A40,2538
-705,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,35,"Carlsen,M","Tang,Andrew",1-0,2538,C45,2862
-706,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,36,"Tang,Andrew","Carlsen,M",0-1,2862,D25,2538
-707,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,37,"Carlsen,M","Tang,Andrew",0-1,2538,C29,2862
-708,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,38,"Tang,Andrew","Carlsen,M",0-1,2862,D12,2538
-709,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,39,"Carlsen,M","Tang,Andrew",1-0,2538,C44,2862
-710,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,40,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-711,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,41,"Carlsen,M","Tang,Andrew",1-0,2538,C01,2862
-712,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,42,"Tang,Andrew","Carlsen,M",1-0,2862,A41,2538
-713,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,43,"Carlsen,M","Tang,Andrew",1-0,2538,D58,2862
-714,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,44,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-715,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,45,"Carlsen,M","Tang,Andrew",0-1,2538,D31,2862
-716,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,46,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,E34,2538
-717,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,47,"Carlsen,M","Tang,Andrew",1-0,2538,D31,2862
-718,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,48,"Tang,Andrew","Carlsen,M",0-1,2862,D08,2538
-719,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,49,"Carlsen,M","Tang,Andrew",0-1,2538,C45,2862
-720,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,50,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-721,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,51,"Carlsen,M","Tang,Andrew",1-0,2538,A40,2862
-722,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,52,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D02,2538
-723,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,53,"Carlsen,M","Tang,Andrew",1-0,2538,C00,2862
-724,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,54,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D21,2538
-725,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,55,"Carlsen,M","Tang,Andrew",1-0,2538,D58,2862
-726,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,56,"Tang,Andrew","Carlsen,M",1-0,2862,A00,2538
-727,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,57,"Carlsen,M","Tang,Andrew",1-0,2538,C45,2862
-728,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,58,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D12,2538
-729,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,59,"Carlsen,M","Tang,Andrew",0-1,2538,C56,2862
-730,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,60,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-731,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,61,"Carlsen,M","Tang,Andrew",0-1,2538,C45,2862
-732,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,62,"Tang,Andrew","Carlsen,M",0-1,2862,A42,2538
-733,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,63,"Carlsen,M","Tang,Andrew",1/2-1/2,2538,D02,2862
-734,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,64,"Tang,Andrew","Carlsen,M",0-1,2862,D12,2538
-735,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,65,"Carlsen,M","Tang,Andrew",1-0,2538,C10,2862
-736,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,66,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D00,2538
-737,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,67,"Carlsen,M","Tang,Andrew",1-0,2538,C10,2862
-738,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,68,"Tang,Andrew","Carlsen,M",1-0,2862,A53,2538
-739,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,69,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-740,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,70,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-741,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,71,"Carlsen,M","Tang,Andrew",1-0,2538,C00,2862
-742,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,72,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-743,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,73,"Carlsen,M","Tang,Andrew",1-0,2538,C47,2862
-744,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,74,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-745,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,75,"Carlsen,M","Tang,Andrew",1-0,2538,C45,2862
-746,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,76,"Tang,Andrew","Carlsen,M",0-1,2862,D00,2538
-747,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,77,"Carlsen,M","Tang,Andrew",0-1,2538,D37,2862
-748,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,78,"Tang,Andrew","Carlsen,M",1-0,2862,A53,2538
-749,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,79,"Carlsen,M","Tang,Andrew",0-1,2538,C00,2862
-750,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,80,"Tang,Andrew","Carlsen,M",1-0,2862,D12,2538
-751,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,81,"Carlsen,M","Tang,Andrew",1-0,2538,D37,2862
-752,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,82,"Tang,Andrew","Carlsen,M",1/2-1/2,2862,D27,2538
-753,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,83,"Carlsen,M","Tang,Andrew",1-0,2538,C47,2862
-754,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,84,"Tang,Andrew","Carlsen,M",1-0,2862,A00,2538
-755,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,85,"Carlsen,M","Tang,Andrew",1/2-1/2,2538,E09,2862
-756,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,86,"Tang,Andrew","Carlsen,M",1-0,2862,A00,2538
-757,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,87,"Carlsen,M","Tang,Andrew",0-1,2538,D37,2862
-758,Carlsen-Tang Bullet 2021,lichess.org INT,2021.02.22,88,"Tang,Andrew","Carlsen,M",0-1,2862,D27,2538
-759,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,1,"Firouzja,Alireza","Carlsen,M",0-1,2862,D20,2749
-760,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,2,"Carlsen,M","Firouzja,Alireza",1-0,2749,B34,2862
-761,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,E70,2749
-762,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,4,"Carlsen,M","Firouzja,Alireza",0-1,2749,A15,2862
-763,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,5,"Firouzja,Alireza","Carlsen,M",1-0,2862,B04,2749
-764,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,6,"Carlsen,M","Firouzja,Alireza",1-0,2749,B54,2862
-765,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,7,"Firouzja,Alireza","Carlsen,M",1-0,2862,D20,2749
-766,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,8,"Carlsen,M","Firouzja,Alireza",1-0,2749,B33,2862
-767,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,9,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,A58,2749
-768,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,10,"Carlsen,M","Firouzja,Alireza",1-0,2749,A48,2862
-769,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,11,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-770,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,12,"Carlsen,M","Firouzja,Alireza",1-0,2749,C45,2862
-771,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,13,"Firouzja,Alireza","Carlsen,M",1-0,2862,C00,2749
-772,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,14,"Carlsen,M","Firouzja,Alireza",0-1,2749,B06,2862
-773,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,15,"Firouzja,Alireza","Carlsen,M",0-1,2862,D35,2749
-774,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,16,"Carlsen,M","Firouzja,Alireza",1-0,2749,B06,2862
-775,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,17,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D00,2749
-776,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,18,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,C45,2862
-777,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,19,"Firouzja,Alireza","Carlsen,M",0-1,2862,C20,2749
-778,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,20,"Carlsen,M","Firouzja,Alireza",0-1,2749,B01,2862
-779,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,21,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2862,D20,2749
-780,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,22,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2749,B06,2862
-781,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,23,"Firouzja,Alireza","Carlsen,M",0-1,2862,C21,2749
-782,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,24,"Carlsen,M","Firouzja,Alireza",1-0,2749,B06,2862
-783,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,25,"Firouzja,Alireza","Carlsen,M",0-1,2862,A57,2749
-784,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,26,"Carlsen,M","Firouzja,Alireza",1-0,2749,A15,2862
-785,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,27,"Firouzja,Alireza","Carlsen,M",0-1,2862,A42,2749
-786,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,28,"Carlsen,M","Firouzja,Alireza",1-0,2749,B54,2862
-787,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,29,"Firouzja,Alireza","Carlsen,M",1-0,2862,B01,2749
-788,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,30,"Carlsen,M","Firouzja,Alireza",1-0,2749,B76,2862
-789,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,31,"Firouzja,Alireza","Carlsen,M",0-1,2862,B04,2749
-790,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,32,"Carlsen,M","Firouzja,Alireza",0-1,2749,D37,2862
-791,Magnus-Alireza 27th Feb,lichess.org INT,2021.02.27,33,"Firouzja,Alireza","Carlsen,M",0-1,2862,D45,2749
-792,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,1.7,"Van Foreest,Jorden","Carlsen,M",0-1,2847,B27,2701
-793,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,2.2,"Carlsen,M","Vachier Lagrave,M",1-0,2758,A00,2847
-794,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,3.8,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2847,D05,2759
-795,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,4.1,"Giri,A","Carlsen,M",1-0,2847,B36,2776
-796,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,5.8,"Carlsen,M","Anton Guijarro,D",1-0,2673,C77,2847
-797,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,6.2,"Grandelius,N","Carlsen,M",1/2-1/2,2847,B30,2670
-798,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,7.7,"Carlsen,M","Mamedyarov,S",1-0,2770,B40,2847
-799,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,8.3,"Nepomniachtchi,I","Carlsen,M",0-1,2847,B33,2789
-800,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,9.6,"Carlsen,M","Karjakin,Sergey",1-0,2757,D61,2847
-801,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,10.4,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D43,2765
-802,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,11.5,"Carlsen,M","Pichot,A",1-0,2630,B47,2847
-803,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,12.5,"So,W","Carlsen,M",1/2-1/2,2847,D10,2770
-804,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,13.4,"Carlsen,M","Aronian,L",1/2-1/2,2781,D38,2847
-805,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,14.6,"Dubov,Daniil","Carlsen,M",1/2-1/2,2847,D43,2710
-806,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,15.3,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C20,2847
-807,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.11,"Carlsen,M","Aronian,L",1-0,2781,E32,2847
-808,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.13,"Carlsen,M","Aronian,L",1/2-1/2,2781,B51,2847
-809,Magnus Carlsen Inv KO,chess24.com INT,2021.03.16,1.12,"Aronian,L","Carlsen,M",0-1,2847,C77,2781
-810,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.22,"Carlsen,M","Aronian,L",1/2-1/2,2781,C47,2847
-811,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.21,"Aronian,L","Carlsen,M",0-1,2847,C78,2781
-812,Magnus Carlsen Inv KO,chess24.com INT,2021.03.17,1.23,"Aronian,L","Carlsen,M",1/2-1/2,2847,C67,2781
-813,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C83,2789
-814,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,B51,2789
-815,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.13,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D37,2847
-816,Magnus Carlsen Inv KO,chess24.com INT,2021.03.18,2.11,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2789,D37,2847
-817,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.24,"Carlsen,M","Nepomniachtchi,I",1-0,2789,B90,2847
-818,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.31,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C84,2789
-819,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.22,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D35,2847
-820,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.21,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2847,C84,2789
-821,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.32,"Carlsen,M","Nepomniachtchi,I",0-1,2789,D35,2847
-822,Magnus Carlsen Inv KO,chess24.com INT,2021.03.19,2.23,"Nepomniachtchi,I","Carlsen,M",0-1,2847,B40,2789
-823,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.11,"Carlsen,M","So,W",1-0,2770,C46,2847
-824,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.13,"Carlsen,M","So,W",1/2-1/2,2770,C46,2847
-825,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.12,"So,W","Carlsen,M",1/2-1/2,2847,C88,2770
-826,Magnus Carlsen Inv KO,chess24.com INT,2021.03.20,3.14,"So,W","Carlsen,M",0-1,2847,C53,2770
-827,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.22,"Carlsen,M","So,W",1/2-1/2,2770,B52,2847
-828,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.21,"So,W","Carlsen,M",0-1,2847,E20,2770
-829,Magnus Carlsen Inv KO,chess24.com INT,2021.03.21,3.23,"So,W","Carlsen,M",1/2-1/2,2847,A20,2770
-830,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Bortnyk,Olexandr",1/2-1/2,2598,A00,2847
-831,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Yilmaz,M","Carlsen,M",0-1,2847,B00,2630
-832,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Mitrabha,G","Carlsen,M",1-0,2847,A40,2467
-833,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Sarana,A","Carlsen,M",0-1,2847,A41,2649
-834,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Demidov,M",1-0,2523,A00,2847
-835,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Beerdsen,Thomas","Carlsen,M",0-1,2847,C00,2453
-836,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Mitrabha,G",0-1,2467,A00,2847
-837,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Manukian,Ar",1-0,2196,A00,2847
-838,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Shirazi,K","Carlsen,M",0-1,2847,A00,2349
-839,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Petrosyan,M",0-1,2625,A00,2847
-840,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Schneider,Il",1-0,2479,A00,2847
-841,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Mamedyarov,S",1-0,2770,A00,2847
-842,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Sanal,V",1/2-1/2,2572,A00,2847
-843,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Baltag,I","Carlsen,M",0-1,2847,B00,2405
-844,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Musaev,Ra","Carlsen,M",0-1,2847,C00,2231
-845,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Krsnik Cohar,I",1-0,2313,A00,2847
-846,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Dubov,Daniil","Carlsen,M",0-1,2847,D02,2710
-847,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Deac,Bogdan-Daniel",1-0,2625,B20,2847
-848,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Hansen,Eric","Carlsen,M",0-1,2847,B10,2606
-849,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Abdusattorov,Nodirbek","Carlsen,M",0-1,2847,A04,2627
-850,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Dubov,Daniil",1-0,2710,A00,2847
-851,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Hansen,Eric",1-0,2606,D02,2847
-852,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Sanal,V",0-1,2572,A00,2847
-853,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Sahidi,Samir",0-1,2406,A00,2847
-854,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Carlsen,M","Beerdsen,Thomas",1-0,2453,A00,2847
-855,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Mamedyarov,S","Carlsen,M",1-0,2847,A40,2770
-856,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Deac,Bogdan-Daniel","Carlsen,M",0-1,2847,C00,2625
-857,Titled Arena Apr 3rd 2021,lichess.org INT,2021.04.03,?,"Dubov,Daniil","Carlsen,M",0-1,2847,A41,2710
-858,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.22,"Kogan,Ar","Carlsen,M",0-1,2847,A57,2501
-859,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.4,"Carlsen,M","Mendonca,Leon Luke",1-0,2549,A50,2847
-860,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.7,"Carlsen,M","Nihal,Sarin",0-1,2620,C77,2847
-861,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.3,"Carlsen,M","Abdumalik,Z",1-0,2472,C77,2847
-862,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.5,"Gukesh,D","Carlsen,M",0-1,2847,A58,2578
-863,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.6,Lei Tingjie,"Carlsen,M",0-1,2847,A32,2505
-864,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.2,"Praggnanandhaa,R","Carlsen,M",0-1,2847,A45,2608
-865,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.10,"Sokolovsky,Yahli","Carlsen,M",0-1,2847,B41,2442
-866,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.11,"Carlsen,M","Shuvalova,Polina",1-0,2476,A14,2847
-867,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.12,"Carlsen,M","Bjerre,Jonas Buhl",1-0,2550,B92,2847
-868,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.13,"Murzin,Volodar","Carlsen,M",0-1,2847,A06,2478
-869,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.14,"Badelka,Olga","Carlsen,M",0-1,2847,C20,2433
-870,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.1,"Zhu,Jiner","Carlsen,M",0-1,2847,B90,2459
-871,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.9,"Khademalsharieh,S","Carlsen,M",0-1,2847,A43,2494
-872,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.21,"Ganguly,S","Carlsen,M",0-1,2847,B06,2625
-873,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.20,"Carlsen,M","Muzychuk,A",1-0,2535,C77,2847
-874,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.8,"Carlsen,M","Vaishali,R",1-0,2393,E24,2847
-875,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.15,"Carlsen,M","Keymer,Vincent",1/2-1/2,2591,E24,2847
-876,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.16,"Carlsen,M","Yip,Carissa",1-0,2430,C77,2847
-877,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.17,"Mammadzada,G","Carlsen,M",0-1,2847,B01,2443
-878,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.18,"Yoo,Christopher Woojin","Carlsen,M",0-1,2847,B70,2455
-879,Carlsen vs. Challengers,chess24.com INT,2021.04.19,1.19,"Carlsen,M","Liang,Awonder",0-1,2592,A00,2847
-880,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,1,"Artemiev,V","Carlsen,M",0-1,2847,E20,2709
-881,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,2,"Carlsen,M","Artemiev,V",1/2-1/2,2709,B40,2847
-882,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,3,"Artemiev,V","Carlsen,M",1/2-1/2,2847,A01,2709
-883,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,4,"Carlsen,M","Artemiev,V",1/2-1/2,2709,B40,2847
-884,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,5,"Artemiev,V","Carlsen,M",1/2-1/2,2847,B26,2709
-885,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,6,"Carlsen,M","Artemiev,V",1-0,2709,D52,2847
-886,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,7,"Artemiev,V","Carlsen,M",1/2-1/2,2847,A46,2709
-887,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,8,"Carlsen,M","Artemiev,V",1-0,2709,A25,2847
-888,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,9,"Artemiev,V","Carlsen,M",1/2-1/2,2847,C24,2709
-889,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,10,"Carlsen,M","Artemiev,V",1-0,2709,A15,2847
-890,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,11,"Artemiev,V","Carlsen,M",0-1,2847,A45,2709
-891,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,12,"Carlsen,M","Artemiev,V",1/2-1/2,2709,C78,2847
-892,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,13,"Artemiev,V","Carlsen,M",1/2-1/2,2847,A01,2709
-893,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,14,"Carlsen,M","Artemiev,V",1/2-1/2,2709,B90,2847
-894,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,15,"Artemiev,V","Carlsen,M",1/2-1/2,2847,A15,2709
-895,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,16,"Carlsen,M","Artemiev,V",1/2-1/2,2709,D27,2847
-896,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,17,"Artemiev,V","Carlsen,M",0-1,2847,C28,2709
-897,DM Carlsen-Artemiev 2021,chess24.com INT,2021.04.21,18,"Carlsen,M","Artemiev,V",1-0,2709,A50,2847
-898,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,1,"Dubov,Daniil","Carlsen,M",1-0,2847,D02,2710
-899,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,2,"Carlsen,M","Dubov,Daniil",0-1,2710,B60,2847
-900,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,3,"Dubov,Daniil","Carlsen,M",0-1,2847,D02,2710
-901,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,4,"Carlsen,M","Dubov,Daniil",1-0,2710,D32,2847
-902,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,5,"Dubov,Daniil","Carlsen,M",1/2-1/2,2847,E11,2710
-903,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,6,"Carlsen,M","Dubov,Daniil",1-0,2710,B52,2847
-904,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,7,"Dubov,Daniil","Carlsen,M",0-1,2847,D02,2710
-905,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,8,"Carlsen,M","Dubov,Daniil",1/2-1/2,2710,D31,2847
-906,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,9,"Dubov,Daniil","Carlsen,M",1-0,2847,E06,2710
-907,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,10,"Carlsen,M","Dubov,Daniil",1-0,2710,A15,2847
-908,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,11,"Dubov,Daniil","Carlsen,M",0-1,2847,D85,2710
-909,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,12,"Carlsen,M","Dubov,Daniil",0-1,2710,E60,2847
-910,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,13,"Dubov,Daniil","Carlsen,M",0-1,2847,E06,2710
-911,DM Carlsen-Dubov 2021,chess24.com INT,2021.04.22,14,"Carlsen,M","Dubov,Daniil",1-0,2710,B31,2847
-912,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,1.5,"Carlsen,M","Karjakin,Sergey",1/2-1/2,2757,C65,2847
-913,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,2.5,Le Quang Liem,"Carlsen,M",0-1,2847,D37,2709
-914,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,3.4,"Carlsen,M","Dominguez Perez,L",1-0,2758,C53,2847
-915,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,4.6,"Vidit,S","Carlsen,M",1/2-1/2,2847,E34,2726
-916,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,5.3,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C65,2847
-917,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,6.7,"Tari,A","Carlsen,M",0-1,2847,B06,2639
-918,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,7.2,"Carlsen,M","Aronian,L",1/2-1/2,2781,C78,2847
-919,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,8.8,"Christiansen,Johan-Sebastian","Carlsen,M",1/2-1/2,2847,B00,2618
-920,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,9.1,"Carlsen,M","Jones,G",1-0,2670,B72,2847
-921,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,10.8,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C53,2847
-922,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,11.2,"Firouzja,Alireza","Carlsen,M",0-1,2847,D12,2759
-923,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,12.7,"Carlsen,M","Duda,J",1-0,2729,B90,2847
-924,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,13.3,"Praggnanandhaa,R","Carlsen,M",1/2-1/2,2847,D37,2608
-925,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,14.6,"Carlsen,M","So,W",1/2-1/2,2770,C67,2847
-926,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,15.4,"Mamedyarov,S","Carlsen,M",1/2-1/2,2847,D45,2770
-927,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.12,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D41,2765
-928,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.13,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C65,2847
-929,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.14,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D37,2765
-930,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.11,"Carlsen,M","Radjabov,T",1/2-1/2,2765,D37,2847
-931,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.23,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D37,2765
-932,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.21,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D39,2765
-933,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.22,"Carlsen,M","Radjabov,T",1-0,2765,E36,2847
-934,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.24,"Carlsen,M","Radjabov,T",1/2-1/2,2765,B65,2847
-935,NIC Classic KO 2021,chess24.com INT,2021.04.29,2.11,"Aronian,L","Carlsen,M",1-0,2847,A46,2781
-936,NIC Classic KO 2021,chess24.com INT,2021.04.29,2.31,"Carlsen,M","Aronian,L",1/2-1/2,2781,C50,2847
-937,NIC Classic KO 2021,chess24.com INT,2021.04.29,2.33,"Carlsen,M","Aronian,L",1-0,2781,D35,2847
-938,NIC Classic KO 2021,chess24.com INT,2021.04.29,2.32,"Aronian,L","Carlsen,M",1/2-1/2,2847,A46,2781
-939,NIC Classic KO 2021,chess24.com INT,2021.04.30,2.23,"Aronian,L","Carlsen,M",0-1,2847,D02,2781
-940,NIC Classic KO 2021,chess24.com INT,2021.04.30,2.24,"Carlsen,M","Aronian,L",1-0,2781,B51,2847
-941,NIC Classic KO 2021,chess24.com INT,2021.04.30,2.22,"Carlsen,M","Aronian,L",1/2-1/2,2781,C53,2847
-942,NIC Classic KO 2021,chess24.com INT,2021.04.30,2.21,"Aronian,L","Carlsen,M",1/2-1/2,2847,D02,2781
-943,NIC Classic KO 2021,chess24.com INT,2021.05.01,3.12,"Nakamura,Hi","Carlsen,M",1/2-1/2,2847,C65,2736
-944,NIC Classic KO 2021,chess24.com INT,2021.05.01,3.13,"Carlsen,M","Nakamura,Hi",1-0,2736,C53,2847
-945,NIC Classic KO 2021,chess24.com INT,2021.05.01,3.14,"Nakamura,Hi","Carlsen,M",0-1,2847,D11,2736
-946,NIC Classic KO 2021,chess24.com INT,2021.05.01,3.11,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,E32,2847
-947,NIC Classic KO 2021,chess24.com INT,2021.05.02,3.22,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C53,2847
-948,NIC Classic KO 2021,chess24.com INT,2021.05.02,3.23,"Nakamura,Hi","Carlsen,M",0-1,2847,D31,2736
-949,NIC Classic KO 2021,chess24.com INT,2021.05.02,3.21,"Nakamura,Hi","Carlsen,M",1-0,2847,E35,2736
-950,NIC Classic KO 2021,chess24.com INT,2021.05.02,3.24,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,B22,2847
-951,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.8,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,C53,2847
-952,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.2,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2847,C65,2759
-953,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.7,"Carlsen,M","Svidler,P",1/2-1/2,2714,B51,2847
-954,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.3,"Caruana,F","Carlsen,M",1/2-1/2,2847,C67,2820
-955,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,15.6,"Carlsen,M","Radjabov,T",1-0,2765,B30,2847
-956,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.12,"Carlsen,M","Nakamura,Hi",1-0,2736,C50,2847
-957,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.14,"Carlsen,M","Nakamura,Hi",1-0,2736,C50,2847
-958,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.13,"Nakamura,Hi","Carlsen,M",1-0,2847,C65,2736
-959,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.11,"Nakamura,Hi","Carlsen,M",1-0,2847,C80,2736
-960,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.21,"Carlsen,M","Nakamura,Hi",0-1,2736,C50,2847
-961,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.24,"Nakamura,Hi","Carlsen,M",1/2-1/2,2847,C65,2736
-962,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.23,"Carlsen,M","Nakamura,Hi",1/2-1/2,2736,A00,2847
-963,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.31,"Carlsen,M","Nakamura,Hi",1-0,2736,D37,2847
-964,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.22,"Nakamura,Hi","Carlsen,M",0-1,2847,B51,2736
-965,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.32,"Nakamura,Hi","Carlsen,M",0-1,2847,C65,2736
-966,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.12,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D31,2765
-967,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.13,"Carlsen,M","Radjabov,T",1-0,2765,E60,2847
-968,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.11,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C50,2847
-969,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.14,"Radjabov,T","Carlsen,M",1-0,2847,D38,2765
-970,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.22,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C67,2847
-971,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.23,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D41,2765
-972,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.24,"Carlsen,M","Radjabov,T",1-0,2765,B00,2847
-973,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.21,"Radjabov,T","Carlsen,M",0-1,2847,D31,2765
-974,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.13,"So,W","Carlsen,M",1-0,2847,C53,2770
-975,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.12,"Carlsen,M","So,W",1/2-1/2,2770,C67,2847
-976,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.11,"So,W","Carlsen,M",0-1,2847,C53,2770
-977,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.21,"Carlsen,M","So,W",1-0,2770,D40,2847
-978,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.33,"Carlsen,M","So,W",1-0,2770,C50,2847
-979,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.31,"Carlsen,M","So,W",0-1,2770,A00,2847
-980,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.32,"So,W","Carlsen,M",0-1,2847,B51,2770
-981,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.23,"Carlsen,M","So,W",1/2-1/2,2770,D41,2847
-982,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.22,"So,W","Carlsen,M",1-0,2847,B30,2770
-983,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.3,"Carlsen,M","Cardoso Cardoso,Jose Gabriel",1-0,2414,B06,2847
-984,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.2,"Cardoso Cardoso,Jose Gabriel","Carlsen,M",0-1,2847,A59,2414
-985,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.7,"Carlsen,M","Cardoso Cardoso,Jose Gabriel",1-0,2414,B06,2847
-986,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.6,"Cardoso Cardoso,Jose Gabriel","Carlsen,M",1/2-1/2,2847,A01,2414
-987,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.5,"Carlsen,M","Cardoso Cardoso,Jose Gabriel",1-0,2414,B06,2847
-988,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.4,"Cardoso Cardoso,Jose Gabriel","Carlsen,M",0-1,2847,D11,2414
-989,Katara Bullet Final 2021,lichess.org INT,2021.06.23,1.1,"Carlsen,M","Cardoso Cardoso,Jose Gabriel",1-0,2414,E60,2847
-990,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.1,"Bortnyk,Olexandr","Carlsen,M",0-1,2847,C28,2598
-991,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.3,"Bortnyk,Olexandr","Carlsen,M",1-0,2847,C24,2598
-992,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.2,"Carlsen,M","Bortnyk,Olexandr",1-0,2598,A41,2847
-993,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.6,"Carlsen,M","Bortnyk,Olexandr",1-0,2598,A41,2847
-994,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.4,"Carlsen,M","Bortnyk,Olexandr",1/2-1/2,2598,B04,2847
-995,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.5,"Bortnyk,Olexandr","Carlsen,M",1/2-1/2,2847,C24,2598
-996,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.9,"Bortnyk,Olexandr","Carlsen,M",0-1,2847,B22,2598
-997,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.7,"Bortnyk,Olexandr","Carlsen,M",1-0,2847,B10,2598
-998,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.10,"Carlsen,M","Bortnyk,Olexandr",1-0,2598,A55,2847
-999,Katara Bullet Final 2021,lichess.org INT,2021.06.23,2.8,"Carlsen,M","Bortnyk,Olexandr",1-0,2598,A41,2847
-1000,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.8,"Tang,Andrew","Carlsen,M",0-1,2847,A46,2538
-1001,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.2,"Tang,Andrew","Carlsen,M",1-0,2847,A40,2538
-1002,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.3,"Carlsen,M","Tang,Andrew",0-1,2538,C23,2847
-1003,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.4,"Tang,Andrew","Carlsen,M",0-1,2847,D31,2538
-1004,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.5,"Carlsen,M","Tang,Andrew",0-1,2538,C53,2847
-1005,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.6,"Tang,Andrew","Carlsen,M",0-1,2847,A40,2538
-1006,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.7,"Carlsen,M","Tang,Andrew",1-0,2538,D58,2847
-1007,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.1,"Carlsen,M","Tang,Andrew",0-1,2538,C24,2847
-1008,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.9,"Carlsen,M","Tang,Andrew",0-1,2538,C53,2847
-1009,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.10,"Tang,Andrew","Carlsen,M",1-0,2847,E35,2538
-1010,Katara Bullet Final 2021,lichess.org INT,2021.06.23,3.11,"Carlsen,M","Tang,Andrew",0-1,2538,D31,2847
-1011,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,1.6,"Firouzja,Alireza","Carlsen,M",1-0,2847,C26,2759
-1012,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,2.3,"Carlsen,M",Hou Yifan,1-0,2658,D40,2847
-1013,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,4.2,"Carlsen,M","Svidler,P",1-0,2714,B90,2847
-1014,Goldmoney Asian Prelim,chess24.com INT,2021.06.26,5.8,"Salem,AR","Carlsen,M",0-1,2847,D43,2682
-1015,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,6.1,"Aronian,L","Carlsen,M",1-0,2847,B31,2781
-1016,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,7.8,"Carlsen,M","Giri,A",1/2-1/2,2780,C50,2847
-1017,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,8.2,"Duda,J","Carlsen,M",1/2-1/2,2847,D37,2729
-1018,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,9.7,"Carlsen,M","Dubov,Daniil",1-0,2714,C65,2847
-1019,Goldmoney Asian Prelim,chess24.com INT,2021.06.27,10.3,"Artemiev,V","Carlsen,M",1/2-1/2,2847,A29,2704
-1020,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,11.6,"Carlsen,M","Adhiban,Baskaran",1/2-1/2,2660,E97,2847
-1021,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,12.4,Ding Liren,"Carlsen,M",1/2-1/2,2847,E01,2799
-1022,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,13.5,"Carlsen,M","Gukesh,D",1/2-1/2,2578,D00,2847
-1023,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,14.5,"Erigaisi,Arjun","Carlsen,M",1/2-1/2,2847,D11,2567
-1024,Goldmoney Asian Prelim,chess24.com INT,2021.06.28,15.4,"Carlsen,M","Vidit,S",1-0,2726,D41,2847
-1025,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.13,"Carlsen,M","So,W",1-0,2770,A28,2847
-1026,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.11,"Carlsen,M","So,W",1-0,2770,A28,2847
-1027,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.14,"So,W","Carlsen,M",1/2-1/2,2847,C53,2770
-1028,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.29,1.12,"So,W","Carlsen,M",1-0,2847,C53,2770
-1029,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.23,"So,W","Carlsen,M",1-0,2847,C53,2770
-1030,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.22,"Carlsen,M","So,W",1/2-1/2,2770,C67,2847
-1031,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.24,"Carlsen,M","So,W",0-1,2770,D37,2847
-1032,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.21,"So,W","Carlsen,M",0-1,2847,C53,2770
-1033,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.31,"Carlsen,M","So,W",1-0,2770,A29,2847
-1034,Goldmoney Asian Rapid KO,chess24.com INT,2021.06.30,1.32,"So,W","Carlsen,M",1/2-1/2,2847,D31,2770
-1035,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.12,"Carlsen,M","Aronian,L",1-0,2781,E54,2847
-1036,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.11,"Aronian,L","Carlsen,M",1-0,2847,C91,2781
-1037,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.13,"Aronian,L","Carlsen,M",1/2-1/2,2847,B31,2781
-1038,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.01,2.14,"Carlsen,M","Aronian,L",1-0,2781,A45,2847
-1039,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.24,"Aronian,L","Carlsen,M",1-0,2847,C01,2781
-1040,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.21,"Carlsen,M","Aronian,L",0-1,2781,C78,2847
-1041,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.23,"Carlsen,M","Aronian,L",1/2-1/2,2781,C78,2847
-1042,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.31,"Aronian,L","Carlsen,M",1-0,2847,C79,2781
-1043,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.32,"Carlsen,M","Aronian,L",0-1,2781,C53,2847
-1044,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.02,2.22,"Aronian,L","Carlsen,M",1/2-1/2,2847,B31,2781
-1045,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.13,"Carlsen,M",Ding Liren,1/2-1/2,2799,B13,2847
-1046,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.14,Ding Liren,"Carlsen,M",1/2-1/2,2847,E06,2799
-1047,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.12,Ding Liren,"Carlsen,M",1/2-1/2,2847,E06,2799
-1048,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.03,3.11,"Carlsen,M",Ding Liren,1-0,2799,A22,2847
-1049,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.23,Ding Liren,"Carlsen,M",1-0,2847,E60,2799
-1050,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.31,"Carlsen,M",Ding Liren,1-0,2799,C84,2847
-1051,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.32,Ding Liren,"Carlsen,M",1/2-1/2,2847,E01,2799
-1052,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.21,Ding Liren,"Carlsen,M",1-0,2847,E06,2799
-1053,Goldmoney Asian Rapid KO,chess24.com INT,2021.07.04,3.22,"Carlsen,M",Ding Liren,0-1,2799,A01,2847
-1054,San Fermin Masters Final,chess24.com INT,2021.07.10,1.3,"Carlsen,M","Iturrizaga,E",1/2-1/2,2607,B30,2847
-1055,San Fermin Masters Final,chess24.com INT,2021.07.10,1.6,"Iturrizaga,E","Carlsen,M",1-0,2847,A20,2607
-1056,San Fermin Masters Final,chess24.com INT,2021.07.10,1.1,"Carlsen,M","Iturrizaga,E",1-0,2607,B30,2847
-1057,San Fermin Masters Final,chess24.com INT,2021.07.10,1.2,"Iturrizaga,E","Carlsen,M",0-1,2847,A15,2607
-1058,San Fermin Masters Final,chess24.com INT,2021.07.10,1.5,"Carlsen,M","Iturrizaga,E",1-0,2607,A45,2847
-1059,San Fermin Masters Final,chess24.com INT,2021.07.10,1.4,"Iturrizaga,E","Carlsen,M",1/2-1/2,2847,A37,2607
-1060,San Fermin Masters Final,chess24.com INT,2021.07.10,1.7,"Carlsen,M","Iturrizaga,E",1/2-1/2,2607,B30,2847
-1061,San Fermin Masters Final,chess24.com INT,2021.07.11,2.3,"Carlsen,M","So,W",1-0,2772,C88,2847
-1062,San Fermin Masters Final,chess24.com INT,2021.07.11,2.4,"So,W","Carlsen,M",1/2-1/2,2847,B12,2772
-1063,San Fermin Masters Final,chess24.com INT,2021.07.11,2.6,"So,W","Carlsen,M",1/2-1/2,2847,C53,2772
-1064,San Fermin Masters Final,chess24.com INT,2021.07.11,2.1,"Carlsen,M","So,W",1-0,2772,C50,2847
-1065,San Fermin Masters Final,chess24.com INT,2021.07.11,2.2,"So,W","Carlsen,M",0-1,2847,D11,2772
-1066,San Fermin Masters Final,chess24.com INT,2021.07.11,3.7,"Carlsen,M","Aronian,L",1/2-1/2,2782,A45,2847
-1067,San Fermin Masters Final,chess24.com INT,2021.07.11,3.2,"Aronian,L","Carlsen,M",0-1,2847,B50,2782
-1068,San Fermin Masters Final,chess24.com INT,2021.07.11,3.8,"Aronian,L","Carlsen,M",0-1,2847,B90,2782
-1069,San Fermin Masters Final,chess24.com INT,2021.07.11,3.1,"Carlsen,M","Aronian,L",1/2-1/2,2782,C53,2847
-1070,San Fermin Masters Final,chess24.com INT,2021.07.11,3.5,"Carlsen,M","Aronian,L",0-1,2782,C47,2847
-1071,San Fermin Masters Final,chess24.com INT,2021.07.11,3.4,"Aronian,L","Carlsen,M",0-1,2847,B12,2782
-1072,San Fermin Masters Final,chess24.com INT,2021.07.11,3.3,"Carlsen,M","Aronian,L",1-0,2782,A45,2847
-1073,San Fermin Masters Final,chess24.com INT,2021.07.11,3.6,"Aronian,L","Carlsen,M",1-0,2847,C67,2782
-1074,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Martinovic,Sa","Carlsen,M",0-1,2847,D85,2548
-1075,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Carlsen,M","Martinovic,Sa",1-0,2548,B56,2847
-1076,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Carlsen,M","Tari,A",1-0,2639,A13,2847
-1077,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Tari,A","Carlsen,M",0-1,2847,B46,2639
-1078,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E06,2691
-1079,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Carlsen,M","Wojtaszek,R",1/2-1/2,2691,B51,2847
-1080,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E01,2691
-1081,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Carlsen,M","Wojtaszek,R",1-0,2691,E47,2847
-1082,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
-1083,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
-1084,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.7,"Carlsen,M","Esipenko,Andrey",1-0,2716,C65,2847
-1085,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Esipenko,Andrey","Carlsen,M",1-0,2847,C53,2716
-1086,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.8,"Esipenko,Andrey","Carlsen,M",0-1,2847,C53,2716
-1087,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Carlsen,M","Esipenko,Andrey",1-0,2716,E10,2847
-1088,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
-1089,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
-1090,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Bacrot,E","Carlsen,M",0-1,2847,C88,2678
-1091,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Carlsen,M","Bacrot,E",1-0,2678,B52,2847
-1092,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
-1093,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
-1094,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
-1095,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
-1096,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Fedoseev,Vl3","Carlsen,M",0-1,2847,E60,2696
-1097,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Carlsen,M","Fedoseev,Vl3",1-0,2696,B12,2847
-1098,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,1.8,"Carlsen,M","So,W",1-0,2772,E00,2847
-1099,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,2.2,"Vidit,S","Carlsen,M",1/2-1/2,2847,A81,2726
-1100,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,3.7,"Carlsen,M","Le, Quang Liem",1-0,2709,C90,2847
-1101,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,4.3,"Firouzja,Alireza","Carlsen,M",1-0,2847,B01,2759
-1102,Aimchess US Rapid Prelim,chess24.com INT,2021.08.28,5.6,"Carlsen,M","Naroditsky,D",1-0,2623,C02,2847
-1103,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,6.4,"Hansen,Eric","Carlsen,M",0-1,2847,C53,2606
-1104,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,7.5,"Carlsen,M","Vachier Lagrave,M",1-0,2751,D80,2847
-1105,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,8.5,"Dominguez Perez,L","Carlsen,M",1/2-1/2,2847,B01,2758
-1106,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,9.4,"Carlsen,M","Mamedyarov,S",1/2-1/2,2782,D02,2847
-1107,Aimchess US Rapid Prelim,chess24.com INT,2021.08.29,10.6,"Artemiev,V","Carlsen,M",1/2-1/2,2847,E60,2704
-1108,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,11.3,"Carlsen,M","Giri,A",1/2-1/2,2776,B23,2847
-1109,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,12.7,"Liang,Awonder","Carlsen,M",0-1,2847,B46,2587
-1110,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,13.2,"Carlsen,M","Aronian,L",1/2-1/2,2782,D39,2847
-1111,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,14.8,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2847,A41,2698
-1112,Aimchess US Rapid Prelim,chess24.com INT,2021.08.30,15.1,"Carlsen,M","Duda,J",1/2-1/2,2738,B40,2847
-1113,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.11,"Carlsen,M","Duda,J",1-0,2738,A07,2847
-1114,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.12,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
-1115,Aimchess US Rapid KO 2021,chess24.com INT,2021.08.31,1.13,"Carlsen,M","Duda,J",1-0,2738,B40,2847
-1116,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.21,"Duda,J","Carlsen,M",0-1,2847,C65,2738
-1117,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.23,"Duda,J","Carlsen,M",0-1,2847,A22,2738
-1118,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.01,1.22,"Carlsen,M","Duda,J",1/2-1/2,2738,B40,2847
-1119,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.13,"Carlsen,M","Aronian,L",1/2-1/2,2782,C53,2847
-1120,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.14,"Aronian,L","Carlsen,M",1/2-1/2,2847,C78,2782
-1121,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.12,"Aronian,L","Carlsen,M",1/2-1/2,2847,C67,2782
-1122,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.02,2.11,"Carlsen,M","Aronian,L",1/2-1/2,2782,D38,2847
-1123,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.21,"Aronian,L","Carlsen,M",0-1,2847,C88,2782
-1124,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.22,"Carlsen,M","Aronian,L",1/2-1/2,2782,B23,2847
-1125,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.23,"Aronian,L","Carlsen,M",1/2-1/2,2847,C88,2782
-1126,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.03,2.24,"Carlsen,M","Aronian,L",1-0,2782,B92,2847
-1127,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.04,3.12,"Carlsen,M","Artemiev,V",1-0,2704,D32,2847
-1128,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.04,3.14,"Carlsen,M","Artemiev,V",1/2-1/2,2704,B51,2847
-1129,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.04,3.13,"Artemiev,V","Carlsen,M",1-0,2847,A04,2704
-1130,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.04,3.11,"Artemiev,V","Carlsen,M",0-1,2847,A15,2704
-1131,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.05,3.21,"Carlsen,M","Artemiev,V",1-0,2704,D37,2847
-1132,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.05,3.23,"Carlsen,M","Artemiev,V",1-0,2704,B92,2847
-1133,Aimchess US Rapid KO 2021,chess24.com INT,2021.09.05,3.22,"Artemiev,V","Carlsen,M",1/2-1/2,2847,B20,2704
-1134,9th Norway Armageddon,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
-1135,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
-1136,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1-0,2642,C50,2855
-1137,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1/2-1/2,2642,C50,2855
-1138,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,E94,2760
-1139,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,A08,2760
-1140,9th Norway Armageddon,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1-0,2792,A05,2855
-1141,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2792,C67,2855
-1142,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.1,"Karjakin,Sergey","Carlsen,M",1-0,2855,B33,2758
-1143,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.1,"Carlsen,M","Firouzja,Alireza",1-0,2754,C78,2855
-1144,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.1,"Tari,A","Carlsen,M",0-1,2855,C88,2642
-1145,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.1,"Carlsen,M","Rapport,R",1-0,2760,C65,2855
-1146,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.1,"Carlsen,M","Karjakin,Sergey",1-0,2758,C65,2855
-1147,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C53,2792
-1148,9th Norway Armageddon,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C28,2792
-1149,36th ECC Open 2021,Struga MKD,2021.09.20,3.6,"Sarrau,J","Carlsen,M",0-1,2855,A20,2374
-1150,36th ECC Open 2021,Struga MKD,2021.09.21,4.6,"Carlsen,M","Llobel Cortell,E",1-0,2392,B30,2855
-1151,36th ECC Open 2021,Struga MKD,2021.09.22,5.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2855,E62,2762
-1152,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.1,"Carlsen,M","Duda,J",1-0,2756,D41,2855
-1153,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.2,"Duda,J","Carlsen,M",0-1,2855,E60,2756
-1154,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.3,"Carlsen,M","Duda,J",1/2-1/2,2756,B51,2855
-1155,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.2,"Carlsen,M","Mamedyarov,S",1-0,2762,C82,2855
-1156,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.4,"Carlsen,M","Mamedyarov,S",1-0,2762,D31,2855
-1157,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.5,"Carlsen,M","Mamedyarov,S",1-0,2762,D31,2855
-1158,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.3,"Mamedyarov,S","Carlsen,M",1-0,2855,D38,2762
-1159,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.6,"Mamedyarov,S","Carlsen,M",1-0,2855,B20,2762
-1160,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.7,"Carlsen,M","Mamedyarov,S",1-0,2762,D31,2855
-1161,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.1,"Mamedyarov,S","Carlsen,M",1-0,2855,E61,2762
-1162,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.3,"Carlsen,M","Vachier Lagrave,M",0-1,2763,B23,2855
-1163,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.4,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C88,2763
-1164,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.5,"Carlsen,M","Vachier Lagrave,M",1-0,2763,B56,2855
-1165,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.6,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C53,2763
-1166,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.2,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2855,C88,2763
-1167,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.1,"Carlsen,M","Vachier Lagrave,M",1-0,2763,B23,2855
-1168,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.3,"Artemiev,V","Carlsen,M",1/2-1/2,2855,B23,2699
-1169,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.2,"Carlsen,M","Artemiev,V",0-1,2699,B40,2855
-1170,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.1,"Artemiev,V","Carlsen,M",1/2-1/2,2855,B11,2699
-1171,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.4,"Carlsen,M","Artemiev,V",0-1,2699,B40,2855
-1172,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.3,"Carlsen,M","Nakamura,Hi",1-0,2736,C65,2855
-1173,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.1,"Carlsen,M","Nakamura,Hi",1-0,2736,C65,2855
-1174,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.2,"Nakamura,Hi","Carlsen,M",1/2-1/2,2855,E01,2736
-1175,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.5,"Giri,A","Carlsen,M",0-1,2855,B30,2777
-1176,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.4,"Carlsen,M","Giri,A",1/2-1/2,2777,B52,2855
-1177,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.3,"Giri,A","Carlsen,M",1/2-1/2,2855,A15,2777
-1178,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.2,"Carlsen,M","Giri,A",1/2-1/2,2777,A34,2855
-1179,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.1,"Giri,A","Carlsen,M",1/2-1/2,2855,A20,2777
-1180,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.6,"Carlsen,M","Giri,A",1/2-1/2,2777,B51,2855
-1181,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.2,"Radjabov,T","Carlsen,M",1/2-1/2,2855,E94,2763
-1182,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.3,"Carlsen,M","Radjabov,T",0-1,2763,C65,2855
-1183,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.4,"Radjabov,T","Carlsen,M",1-0,2855,B08,2763
-1184,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.1,"Carlsen,M","Radjabov,T",1/2-1/2,2763,C65,2855
-1185,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.3,"Aronian,L","Carlsen,M",1/2-1/2,2855,E60,2782
-1186,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.1,"Aronian,L","Carlsen,M",1-0,2855,B00,2782
-1187,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.2,"Carlsen,M","Aronian,L",1/2-1/2,2782,A18,2855
-1188,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.4,"Carlsen,M","Aronian,L",0-1,2782,E24,2855
-1189,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.1,"Carlsen,M","So,W",1-0,2778,A01,2855
-1190,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.2,"So,W","Carlsen,M",1/2-1/2,2855,B00,2778
-1191,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.3,"Carlsen,M","So,W",1-0,2778,A01,2855
-1192,TCh-NOR Elite 2021-22,Norway NOR,2021.10.29,1.2,"Arvola,B","Carlsen,M",0-1,2855,B14,2471
-1193,WCh 2021,Dubai UAE,2021.11.26,1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
-1194,WCh 2021,Dubai UAE,2021.11.27,2,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2855
-1195,WCh 2021,Dubai UAE,2021.11.28,3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
-1196,WCh 2021,Dubai UAE,2021.11.30,4,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
-1197,WCh 2021,Dubai UAE,2021.12.01,5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
-1198,WCh 2021,Dubai UAE,2021.12.03,6,"Carlsen,M","Nepomniachtchi,I",1-0,2782,D02,2855
-1199,WCh 2021,Dubai UAE,2021.12.04,7,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
-1200,WCh 2021,Dubai UAE,2021.12.05,8,"Carlsen,M","Nepomniachtchi,I",1-0,2782,C43,2855
-1201,WCh 2021,Dubai UAE,2021.12.07,9,"Nepomniachtchi,I","Carlsen,M",0-1,2855,A13,2782
-1202,WCh 2021,Dubai UAE,2021.12.08,10,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
-1203,WCh 2021,Dubai UAE,2021.12.10,11,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C50,2782
-1204,World Rapid 2021,Warsaw POL,2021.12.26,1.1,"Carlsen,M","Gagunashvili,M",1-0,2573,C77,2856
-1205,World Rapid 2021,Warsaw POL,2021.12.26,2.1,"Ter Sahakyan,S","Carlsen,M",1/2-1/2,2856,C88,2637
-1206,World Rapid 2021,Warsaw POL,2021.12.26,3.11,"Carlsen,M","Dreev,A",1-0,2623,D02,2856
-1207,World Rapid 2021,Warsaw POL,2021.12.26,4.1,"Carlsen,M","Harsha,B",1-0,2489,B51,2856
-1208,World Rapid 2021,Warsaw POL,2021.12.26,5.1,"Shirov,A","Carlsen,M",0-1,2856,C84,2704
-1209,World Rapid 2021,Warsaw POL,2021.12.27,6.1,"Jobava,Ba","Carlsen,M",1/2-1/2,2856,D53,2588
-1210,World Rapid 2021,Warsaw POL,2021.12.27,7.1,"Carlsen,M","Firouzja,Alireza",1-0,2804,B12,2856
-1211,World Rapid 2021,Warsaw POL,2021.12.27,8.1,"Grischuk,A","Carlsen,M",1/2-1/2,2856,D36,2764
-1212,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
-1213,World Rapid 2021,Warsaw POL,2021.12.28,10.1,"Abdusattorov,Nodirbek","Carlsen,M",1-0,2856,A28,2633
-1214,World Rapid 2021,Warsaw POL,2021.12.28,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2856
-1215,World Rapid 2021,Warsaw POL,2021.12.28,12.1,"Carlsen,M","Aronian,L",1-0,2772,D27,2856
-1216,World Rapid 2021,Warsaw POL,2021.12.28,13.1,"Nakamura,Hi","Carlsen,M",1/2-1/2,2856,D37,2736
-1217,World Blitz 2021,Warsaw POL,2021.12.29,1.1,"Corrales Jimenez,F","Carlsen,M",0-1,2856,C45,2530
-1218,World Blitz 2021,Warsaw POL,2021.12.29,2.1,"Carlsen,M","Sjugirov,S",1-0,2680,C65,2856
-1219,World Blitz 2021,Warsaw POL,2021.12.29,3.1,"Indjic,A","Carlsen,M",0-1,2856,D37,2623
-1220,World Blitz 2021,Warsaw POL,2021.12.29,4.1,"Carlsen,M","Sychev,K",1-0,2550,B40,2856
-1221,World Blitz 2021,Warsaw POL,2021.12.29,5.1,"Socko,B","Carlsen,M",1-0,2856,E10,2642
-1222,World Blitz 2021,Warsaw POL,2021.12.29,6.1,"Carlsen,M","Fedoseev,Vl3",0-1,2704,E10,2856
-1223,World Blitz 2021,Warsaw POL,2021.12.29,7.1,"Predke,A","Carlsen,M",0-1,2856,D36,2682
-1224,World Blitz 2021,Warsaw POL,2021.12.29,8.1,"Carlsen,M","Gelfand,B",1-0,2663,B23,2856
-1225,World Blitz 2021,Warsaw POL,2021.12.29,9.1,"Mamedyarov,S","Carlsen,M",1-0,2856,A45,2767
-1226,World Blitz 2021,Warsaw POL,2021.12.29,10.1,"Carlsen,M","Kobalia,M",1-0,2596,B12,2856
-1227,World Blitz 2021,Warsaw POL,2021.12.29,11.1,"Sanal,V","Carlsen,M",0-1,2856,B06,2601
-1228,World Blitz 2021,Warsaw POL,2021.12.29,12.1,"Carlsen,M","Erigaisi,Arjun",1/2-1/2,2629,C42,2856
-1229,World Blitz 2021,Warsaw POL,2021.12.30,13.1,"Carlsen,M","Maghsoodloo,Parham",1-0,2701,C02,2856
-1230,World Blitz 2021,Warsaw POL,2021.12.30,14.1,"Martirosyan,Haik M.","Carlsen,M",1/2-1/2,2856,D43,2621
-1231,World Blitz 2021,Warsaw POL,2021.12.30,15.1,"Carlsen,M","Giri,A",0-1,2772,C65,2856
-1232,World Blitz 2021,Warsaw POL,2021.12.30,16.1,"Grischuk,A","Carlsen,M",1-0,2856,E04,2764
-1233,World Blitz 2021,Warsaw POL,2021.12.30,17.1,"Carlsen,M","Mastrovasilis,D",1-0,2627,B46,2856
-1234,World Blitz 2021,Warsaw POL,2021.12.30,18.1,"Alekseenko,K","Carlsen,M",1/2-1/2,2856,C50,2702
-1235,World Blitz 2021,Warsaw POL,2021.12.30,19.1,"Amin,B","Carlsen,M",0-1,2856,B30,2680
-1236,World Blitz 2021,Warsaw POL,2021.12.30,20.1,"Carlsen,M","Nepomniachtchi,I",1-0,2782,A07,2856
-1237,World Blitz 2021,Warsaw POL,2021.12.30,21.1,"Vachier Lagrave,M","Carlsen,M",1-0,2856,C88,2761
-1238,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.1,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2865,D45,2714
-1239,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.1,"Carlsen,M","Giri,A",1-0,2772,E06,2865
-1240,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
-1241,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.1,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2702,D78,2865
-1242,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.2,"Grandelius,N","Carlsen,M",1/2-1/2,2865,B48,2672
-1243,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.1,"Carlsen,M","Rapport,R",1-0,2763,E04,2865
-1244,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.1,"Praggnanandhaa,R","Carlsen,M",0-1,2865,D27,2612
-1245,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.1,"Shankland,S","Carlsen,M",1/2-1/2,2865,D32,2708
-1246,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.1,"Carlsen,M","Mamedyarov,S",1-0,2767,E04,2865
-1247,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.1,"Carlsen,M","Vidit,S",1/2-1/2,2727,C50,2865
-1248,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.1,"Caruana,F","Carlsen,M",0-1,2865,B31,2792
-1249,TCh-NOR Elite 2021-22,Norway NOR,2022.02.05,5.4,"Carlsen,M","Ostmoe,G",1/2-1/2,2466,B10,2865
-1250,Airthings Masters Prelim,chess24.com INT,2022.02.19,1.1,"Carlsen,M","Artemiev,V",1-0,2700,A00,2865
-1251,Airthings Masters Prelim,chess24.com INT,2022.02.19,2.8,"Carlsen,M","Abdusattorov,Nodirbek",1/2-1/2,2651,A00,2865
-1252,Airthings Masters Prelim,chess24.com INT,2022.02.19,3.2,"Esipenko,Andrey","Carlsen,M",1-0,2865,C55,2714
-1253,Airthings Masters Prelim,chess24.com INT,2022.02.19,4.7,"Carlsen,M","Nepomniachtchi,I",0-1,2773,E06,2865
-1254,Airthings Masters Prelim,chess24.com INT,2022.02.20,5.3,"Kosteniuk,A","Carlsen,M",0-1,2865,B40,2516
-1255,Airthings Masters Prelim,chess24.com INT,2022.02.20,6.6,"Carlsen,M","Keymer,Vincent",1-0,2664,A07,2865
-1256,Airthings Masters Prelim,chess24.com INT,2022.02.20,7.4,"Niemann,Hans Moke","Carlsen,M",0-1,2865,A10,2642
-1257,Airthings Masters Prelim,chess24.com INT,2022.02.20,8.5,"Carlsen,M","Praggnanandhaa,R",0-1,2612,D40,2865
-1258,Airthings Masters Prelim,chess24.com INT,2022.02.21,9.5,"Le, Quang Liem","Carlsen,M",0-1,2865,D27,2709
-1259,Airthings Masters Prelim,chess24.com INT,2022.02.21,10.4,"Carlsen,M","Hansen,Eric",0-1,2606,C99,2865
-1260,Airthings Masters Prelim,chess24.com INT,2022.02.21,11.6,Ding Liren,"Carlsen,M",1/2-1/2,2865,E60,2799
-1261,Airthings Masters Prelim,chess24.com INT,2022.02.21,12.3,"Carlsen,M","Duda,J",1-0,2760,B23,2865
-1262,Airthings Masters Prelim,chess24.com INT,2022.02.22,13.7,"Aronian,L","Carlsen,M",1/2-1/2,2865,B31,2772
-1263,Airthings Masters Prelim,chess24.com INT,2022.02.22,14.2,"Carlsen,M","Mamedyarov,S",1-0,2767,E68,2865
-1264,Airthings Masters Prelim,chess24.com INT,2022.02.22,15.8,"Giri,A","Carlsen,M",1/2-1/2,2865,C88,2772
-1265,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.11,"Carlsen,M","Le, Quang Liem",1-0,2709,A29,2865
-1266,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.14,"Le, Quang Liem","Carlsen,M",1/2-1/2,2865,D32,2709
-1267,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.12,"Le, Quang Liem","Carlsen,M",1/2-1/2,2865,D27,2709
-1268,Airthings Masters KO 2022,chess24.com INT,2022.02.23,1.13,"Carlsen,M","Le, Quang Liem",1/2-1/2,2709,D39,2865
-1269,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.13,"Carlsen,M","Artemiev,V",1/2-1/2,2700,A00,2865
-1270,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.11,"Carlsen,M","Artemiev,V",1-0,2700,A25,2865
-1271,Airthings Masters KO 2022,chess24.com INT,2022.02.24,2.12,"Artemiev,V","Carlsen,M",0-1,2865,D91,2700
-1272,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.12,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,B30,2773
-1273,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.11,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2773,A22,2865
-1274,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.13,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2773,D41,2865
-1275,Airthings Masters KO 2022,chess24.com INT,2022.02.25,3.14,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,C53,2773
-1276,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.21,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2865,B31,2773
-1277,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.23,"Nepomniachtchi,I","Carlsen,M",0-1,2865,B48,2773
-1278,Airthings Masters KO 2022,chess24.com INT,2022.02.26,3.22,"Carlsen,M","Nepomniachtchi,I",1-0,2773,C24,2865
-1279,Charity Cup Prelim,chess24.com INT,2022.03.19,1.3,"Carlsen,M","Duda,J",1/2-1/2,2750,A07,2864
-1280,Charity Cup Prelim,chess24.com INT,2022.03.19,2.7,"Harikrishna,P","Carlsen,M",0-1,2864,C11,2716
-1281,Charity Cup Prelim,chess24.com INT,2022.03.19,3.2,"Carlsen,M","Hansen,Eric",1-0,2606,A29,2864
-1282,Charity Cup Prelim,chess24.com INT,2022.03.19,4.8,Ding Liren,"Carlsen,M",1-0,2864,E60,2799
-1283,Charity Cup Prelim,chess24.com INT,2022.03.20,5.1,"Carlsen,M","Niemann,Hans Moke",1-0,2642,C82,2864
-1284,Charity Cup Prelim,chess24.com INT,2022.03.20,6.8,"Carlsen,M","Navara,D",0-1,2700,C65,2864
-1285,Charity Cup Prelim,chess24.com INT,2022.03.20,7.2,"Rapport,R","Carlsen,M",0-1,2864,B24,2762
-1286,Charity Cup Prelim,chess24.com INT,2022.03.20,8.7,"Carlsen,M","Lei,Tingjie",1-0,2535,A21,2864
-1287,Charity Cup Prelim,chess24.com INT,2022.03.21,9.3,"Praggnanandhaa,R","Carlsen,M",0-1,2864,D85,2619
-1288,Charity Cup Prelim,chess24.com INT,2022.03.21,10.6,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2714,D78,2864
-1289,Charity Cup Prelim,chess24.com INT,2022.03.21,11.4,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2864,A48,2694
-1290,Charity Cup Prelim,chess24.com INT,2022.03.21,12.5,"Carlsen,M","Jones,G",1-0,2672,C50,2864
-1291,Charity Cup Prelim,chess24.com INT,2022.03.22,13.5,"Le, Quang Liem","Carlsen,M",1/2-1/2,2864,E90,2709
-1292,Charity Cup Prelim,chess24.com INT,2022.03.22,14.4,"Carlsen,M","Ju,Wenjun",1-0,2560,C78,2864
-1293,Charity Cup Prelim,chess24.com INT,2022.03.22,15.6,"Vidit,S","Carlsen,M",1/2-1/2,2864,D90,2723
-1294,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.12,"Niemann,Hans Moke","Carlsen,M",0-1,2864,A90,2642
-1295,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.11,"Carlsen,M","Niemann,Hans Moke",1/2-1/2,2642,D78,2864
-1296,Charity Cup KO 2022,chess24.com INT,2022.03.23,1.13,"Carlsen,M","Niemann,Hans Moke",1-0,2642,C50,2864
-1297,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.23,"Carlsen,M",Ding Liren,1-0,2799,E10,2864
-1298,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.11,"Carlsen,M",Ding Liren,1/2-1/2,2799,A00,2864
-1299,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.24,Ding Liren,"Carlsen,M",0-1,2864,D43,2799
-1300,Charity Cup KO 2022,chess24.com INT,2022.03.24,2.22,Ding Liren,"Carlsen,M",1/2-1/2,2864,D32,2799
-1301,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.11,"Carlsen,M","Duda,J",1/2-1/2,2750,E04,2864
-1302,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.12,"Duda,J","Carlsen,M",0-1,2864,D45,2750
-1303,Charity Cup KO 2022,chess24.com INT,2022.03.25,3.13,"Carlsen,M","Duda,J",1-0,2750,A29,2864
-1304,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.31,"Carlsen,M","Duda,J",1-0,2750,D02,2864
-1305,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.23,"Duda,J","Carlsen,M",1-0,2864,C44,2750
-1306,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.22,"Carlsen,M","Duda,J",0-1,2750,B10,2864
-1307,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.32,"Duda,J","Carlsen,M",0-1,2864,B12,2750
-1308,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.24,"Carlsen,M","Duda,J",1/2-1/2,2750,C42,2864
-1309,Charity Cup KO 2022,chess24.com INT,2022.03.26,3.21,"Duda,J","Carlsen,M",0-1,2864,B31,2750
-1310,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
-1311,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
-1312,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
-1313,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Le, Quang Liem","Carlsen,M",1-0,2864,A40,2709
-1314,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Carlsen,M","Le, Quang Liem",0-1,2709,A06,2864
-1315,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Le, Quang Liem","Carlsen,M",1/2-1/2,2864,D30,2709
-1316,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Carlsen,M","Le, Quang Liem",1-0,2709,E10,2864
-1317,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,1.1,"Ivanchuk,V","Carlsen,M",0-1,2864,D32,2678
-1318,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,2.4,"Carlsen,M","Moiseenko,A1",1-0,2602,A20,2864
-1319,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,3.3,"Kuzubov,Y","Carlsen,M",1-0,2864,D10,2639
-1320,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,4.2,"Carlsen,M","Shevchenko,Kirill",0-1,2652,A50,2864
-1321,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Giri,A","Carlsen,M",0-1,2864,A79,2773
-1322,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,D31,2773
-1323,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Carlsen,M","Giri,A",1-0,2773,A29,2864
-1324,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Carlsen,M","Praggnanandhaa,R",1-0,2624,A06,2864
-1325,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Praggnanandhaa,R","Carlsen,M",0-1,2864,D41,2624
-1326,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Carlsen,M","Praggnanandhaa,R",1-0,2624,B31,2864
-1327,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,B12,2714
-1328,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2714,A07,2864
-1329,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Carlsen,M","Van Foreest,Jorden",0-1,2714,A20,2864
-1330,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,C50,2714
-1331,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Carlsen,M","Hansen,Eric",1-0,2606,D85,2864
-1332,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Carlsen,M","Hansen,Eric",1-0,2606,D41,2864
-1333,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Hansen,Eric","Carlsen,M",1/2-1/2,2864,B40,2606
-1334,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2771
-1335,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Carlsen,M","Mamedyarov,S",0-1,2771,A21,2864
-1336,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Mamedyarov,S","Carlsen,M",1-0,2864,E61,2771
-1337,Titled Tue 10th May Early,chess.com INT,2022.05.10,1,"Sachdev,T","Carlsen,M",0-1,2864,A40,2399
-1338,Titled Tue 10th May Early,chess.com INT,2022.05.10,2,"Carlsen,M","Skliarov,V",1-0,2387,A01,2864
-1339,Titled Tue 10th May Early,chess.com INT,2022.05.10,3,"Trimitzios,Petros","Carlsen,M",0-1,2864,A04,2377
-1340,Titled Tue 10th May Early,chess.com INT,2022.05.10,4,"Carlsen,M","Yilmaz,M",1/2-1/2,2631,D02,2864
-1341,Titled Tue 10th May Early,chess.com INT,2022.05.10,5,"Korchmar,V","Carlsen,M",0-1,2864,B00,2450
-1342,Titled Tue 10th May Early,chess.com INT,2022.05.10,6,"Carlsen,M","Meshkovs,Nikita",1-0,2553,A01,2864
-1343,Titled Tue 10th May Early,chess.com INT,2022.05.10,7,"Fier,A","Carlsen,M",0-1,2864,B00,2567
-1344,Titled Tue 10th May Early,chess.com INT,2022.05.10,8,"Carlsen,M","Xiong,Jeffery",1-0,2688,A01,2864
-1345,Titled Tue 10th May Early,chess.com INT,2022.05.10,9,"Oparin,G","Carlsen,M",0-1,2864,A40,2685
-1346,Titled Tue 10th May Early,chess.com INT,2022.05.10,10,"Carlsen,M","Maghsoodloo,Parham",1-0,2699,A01,2864
-1347,Titled Tue 10th May Early,chess.com INT,2022.05.10,11,"Fedoseev,Vl3","Carlsen,M",1/2-1/2,2864,B00,2701
-1348,Chessable Masters Prelim,chess24.com INT,2022.05.19,1.1,"Tari,A","Carlsen,M",1/2-1/2,2864,C16,2654
-1349,Chessable Masters Prelim,chess24.com INT,2022.05.19,2.1,"Carlsen,M","Mamedyarov,S",1/2-1/2,2759,A20,2864
-1350,Chessable Masters Prelim,chess24.com INT,2022.05.19,3.1,"Grandelius,N","Carlsen,M",0-1,2864,B22,2635
-1351,Chessable Masters Prelim,chess24.com INT,2022.05.19,4.1,"Carlsen,M","Van Foreest,Jorden",1-0,2715,D32,2864
-1352,Chessable Masters Prelim,chess24.com INT,2022.05.20,5.1,"Praggnanandhaa,R","Carlsen,M",1-0,2864,C77,2642
-1353,Chessable Masters Prelim,chess24.com INT,2022.05.20,6.1,"Carlsen,M","Mishra,Abhimanyu",1-0,2535,D11,2864
-1354,Chessable Masters Prelim,chess24.com INT,2022.05.20,7.1,"Harikrishna,P","Carlsen,M",1/2-1/2,2864,B10,2705
-1355,Chessable Masters Prelim,chess24.com INT,2022.05.20,8.1,"Carlsen,M","Shankland,S",1-0,2718,A00,2864
-1356,Chessable Masters Prelim,chess24.com INT,2022.05.21,9.1,"Jones,G","Carlsen,M",0-1,2864,B06,2669
-1357,Chessable Masters Prelim,chess24.com INT,2022.05.21,10.1,"Carlsen,M","Vidit,S",1-0,2723,A00,2864
-1358,Chessable Masters Prelim,chess24.com INT,2022.05.21,11.1,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2864,B30,2691
-1359,Chessable Masters Prelim,chess24.com INT,2022.05.21,12.1,"Carlsen,M",Wei Yi,1/2-1/2,2727,A00,2864
-1360,Chessable Masters Prelim,chess24.com INT,2022.05.22,13.1,Ding Liren,"Carlsen,M",1/2-1/2,2864,E60,2806
-1361,Chessable Masters Prelim,chess24.com INT,2022.05.22,14.1,"Carlsen,M","Giri,A",1/2-1/2,2761,E60,2864
-1362,Chessable Masters Prelim,chess24.com INT,2022.05.22,15.1,"Hansen,Eric","Carlsen,M",0-1,2864,C11,2606
-1363,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.13,"Carlsen,M","Anton Guijarro,D",1-0,2691,A02,2864
-1364,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.11,"Carlsen,M","Anton Guijarro,D",1-0,2691,D36,2864
-1365,Chessable Masters KO 2022,chess24.com INT,2022.05.23,1.12,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2864,B40,2691
-1366,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.12,Ding Liren,"Carlsen,M",1/2-1/2,2864,E53,2806
-1367,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.13,"Carlsen,M",Ding Liren,1/2-1/2,2806,A07,2864
-1368,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.14,Ding Liren,"Carlsen,M",1-0,2864,D11,2806
-1369,Chessable Masters KO 2022,chess24.com INT,2022.05.24,2.11,"Carlsen,M",Ding Liren,1/2-1/2,2806,A07,2864
-1370,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.1,"Radjabov,T","Carlsen,M",1/2-1/2,2864,D80,2753
-1371,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,A20,2864
-1372,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,E94,2761
-1373,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.1,"Carlsen,M","Tari,A",1-0,2654,A45,2864
-1374,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.1,Wang Hao,"Carlsen,M",0-1,2864,D45,2744
-1375,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.1,"Carlsen,M","So,W",0-1,2776,A00,2864
-1376,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
-1377,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.1,"Carlsen,M","Topalov,V",1-0,2730,A45,2864
-1378,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2759
-1379,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1-0,2744,E06,2864
-1380,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1/2-1/2,2744,A07,2864
-1381,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1/2-1/2,2864,D45,2776
-1382,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1-0,2864,C50,2776
-1383,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.1,"Carlsen,M","Radjabov,T",1-0,2753,E06,2864
-1384,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.1,"Carlsen,M","Giri,A",1-0,2761,D41,2864
-1385,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
-1386,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
-1387,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.1,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
-1388,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1-0,2864,B00,2654
-1389,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1/2-1/2,2864,C47,2654
-1390,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2750,D85,2864
-1391,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,D85,2864
-1392,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
-1393,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
-1394,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.3,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2766,D41,2864
-1395,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.5,"Topalov,V","Carlsen,M",0-1,2864,B11,2728
-1396,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2760,B23,2864
-1397,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.5,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2793,E06,2864
-1398,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.2,"Mamedyarov,S","Carlsen,M",1-0,2864,D94,2759
-1399,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.4,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,A36,2864
-1400,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.3,"So,W","Carlsen,M",1/2-1/2,2864,D10,2773
-1401,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.3,"Carlsen,M","Van Foreest,Jorden",1-0,2678,A20,2864
-1402,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.4,"Saric,Iv","Carlsen,M",0-1,2864,B42,2680
-1403,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.5,"Carlsen,M","Van Foreest,Jorden",1-0,2678,C65,2864
-1404,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.2,"Topalov,V","Carlsen,M",0-1,2864,C55,2728
-1405,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.4,"Carlsen,M","So,W",0-1,2773,C53,2864
-1406,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.3,"Dominguez Perez,L","Carlsen,M",1-0,2864,C88,2754
-1407,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.3,"Carlsen,M","Vachier Lagrave,M",1-0,2760,B23,2864
-1408,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.4,"Nepomniachtchi,I","Carlsen,M",0-1,2864,A05,2766
-1409,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.2,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
-1410,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.5,"Firouzja,Alireza","Carlsen,M",0-1,2864,D43,2793
-1411,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.1,"Carlsen,M","Saric,Iv",1-0,2680,E60,2864
-1412,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.5,"Van Foreest,Jorden","Carlsen,M",0-1,2864,C53,2678
-1413,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.4,"Carlsen,M","Topalov,V",1/2-1/2,2728,B23,2864
-1414,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.4,"So,W","Carlsen,M",1/2-1/2,2864,C47,2773
-1415,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.3,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,C42,2864
-1416,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2864,C67,2760
-1417,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.2,"Carlsen,M","Nepomniachtchi,I",1-0,2766,B23,2864
-1418,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,D47,2759
-1419,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.4,"Carlsen,M","Firouzja,Alireza",0-1,2793,D37,2864
-1420,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.5,"Saric,Iv","Carlsen,M",1-0,2864,C87,2680
-1421,44th Olympiad 2022,Chennai IND,2022.07.30,2.3,"Carlsen,M","Meier,Geo",1-0,2613,C10,2864
-1422,44th Olympiad 2022,Chennai IND,2022.07.31,3.3,"Vocaturo,D","Carlsen,M",1/2-1/2,2864,B13,2616
-1423,44th Olympiad 2022,Chennai IND,2022.08.01,4.13,"Carlsen,M","Batsuren,Dambasuren",1-0,2518,D38,2864
-1424,44th Olympiad 2022,Chennai IND,2022.08.02,5.26,"Bwalya,Gillan","Carlsen,M",0-1,2864,E51,2396
-1425,44th Olympiad 2022,Chennai IND,2022.08.03,6.14,"Smirnov,Ant","Carlsen,M",0-1,2864,B00,2600
-1426,44th Olympiad 2022,Chennai IND,2022.08.05,7.28,"Carlsen,M","Stanojoski,Z",1-0,2412,D00,2864
-1427,44th Olympiad 2022,Chennai IND,2022.08.06,8.17,"Carlsen,M","Pechac,Jergus",1/2-1/2,2594,A20,2864
-1428,44th Olympiad 2022,Chennai IND,2022.08.07,9.18,"Megaranto,S","Carlsen,M",0-1,2864,E11,2529
-1429,44th Olympiad 2022,Chennai IND,2022.08.08,10.11,"Carlsen,M","Schitco,Ivan",1/2-1/2,2490,A05,2864
-1430,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Giri,A","Carlsen,M",1/2-1/2,2864,B06,2760
-1431,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.4,"Carlsen,M","Giri,A",1-0,2760,A48,2864
-1432,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Carlsen,M","Giri,A",1/2-1/2,2760,B90,2864
-1433,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Giri,A","Carlsen,M",0-1,2864,C02,2760
-1434,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Carlsen,M","Niemann,Hans Moke",0-1,2687,B31,2864
-1435,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Niemann,Hans Moke","Carlsen,M",0-1,2864,C07,2687
-1436,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Carlsen,M","Niemann,Hans Moke",1-0,2687,A00,2864
-1437,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Niemann,Hans Moke","Carlsen,M",0-1,2864,B08,2687
-1438,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Carlsen,M","Aronian,L",1/2-1/2,2775,E60,2864
-1439,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Aronian,L","Carlsen,M",1/2-1/2,2864,D02,2775
-1440,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Aronian,L","Carlsen,M",0-1,2864,A40,2775
-1441,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.4,"Carlsen,M","Aronian,L",1/2-1/2,2775,E94,2864
-1442,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Carlsen,M","Le,Quang Liem",1-0,2728,A07,2864
-1443,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Le,Quang Liem","Carlsen,M",1/2-1/2,2864,E06,2728
-1444,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Carlsen,M","Le,Quang Liem",1/2-1/2,2728,C44,2864
-1445,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Le,Quang Liem","Carlsen,M",0-1,2864,D11,2728
-1446,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
-1447,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
-1448,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
-1449,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
-1450,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
-1451,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Carlsen,M","Firouzja,Alireza",1-0,2778,A15,2864
-1452,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
-1453,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Carlsen,M","Firouzja,Alireza",1-0,2778,A20,2864
-1454,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Firouzja,Alireza","Carlsen,M",1-0,2864,B10,2778
-1455,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
-1456,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2778,E04,2864
-1457,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Carlsen,M","Praggnanandhaa,R",1-0,2661,E04,2864
-1458,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Carlsen,M","Praggnanandhaa,R",1/2-1/2,2661,A08,2864
-1459,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.4,"Praggnanandhaa,R","Carlsen,M",1-0,2864,A40,2661
-1460,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.5,"Carlsen,M","Praggnanandhaa,R",0-1,2661,B23,2864
-1461,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.2,"Praggnanandhaa,R","Carlsen,M",1/2-1/2,2864,D38,2661
-1462,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.6,"Praggnanandhaa,R","Carlsen,M",1-0,2864,B06,2661
+13,8th Norway Armageddon,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",0-1,2863,D37,2767
+14,8th Norway Chess 2020,Stavanger NOR,2020.10.05,1.1,"Aronian,L","Carlsen,M",1/2-1/2,2863,E51,2767
+15,8th Norway Armageddon,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1-0,2728,D35,2863
+16,8th Norway Chess 2020,Stavanger NOR,2020.10.06,2.1,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2728,D35,2863
+17,8th Norway Chess 2020,Stavanger NOR,2020.10.07,3.1,"Tari,A","Carlsen,M",0-1,2863,B69,2633
+18,8th Norway Chess 2020,Stavanger NOR,2020.10.08,4.1,"Carlsen,M","Caruana,F",1-0,2828,E32,2863
+19,8th Norway Chess 2020,Stavanger NOR,2020.10.10,5.1,"Duda,J","Carlsen,M",1-0,2863,B15,2757
+20,8th Norway Chess 2020,Stavanger NOR,2020.10.11,6.1,"Carlsen,M","Duda,J",1-0,2757,D10,2863
+21,8th Norway Armageddon,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",0-1,2863,C67,2828
+22,8th Norway Chess 2020,Stavanger NOR,2020.10.12,7.1,"Caruana,F","Carlsen,M",1/2-1/2,2863,B31,2828
+23,8th Norway Chess 2020,Stavanger NOR,2020.10.13,8.1,"Carlsen,M","Tari,A",1-0,2633,C84,2863
+24,8th Norway Chess 2020,Stavanger NOR,2020.10.15,9.1,"Firouzja,Alireza","Carlsen,M",0-1,2863,A05,2728
+25,8th Norway Chess 2020,Stavanger NOR,2020.10.16,10.1,"Carlsen,M","Aronian,L",0-1,2767,D37,2863
+26,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.16,1.1,"Carlsen,M","Firouzja,Alireza",1-0,2749,D37,2862
+27,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.17,2.1,"Anton Guijarro,D","Carlsen,M",1/2-1/2,2862,B34,2679
+28,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.18,3.1,"Carlsen,M","Tari,A",1/2-1/2,2625,D41,2862
+29,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.19,4.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2862,C78,2671
+30,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.21,5.1,"Carlsen,M","Donchenko,Alexa",1/2-1/2,2668,B90,2862
+31,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.22,6.1,"Duda,J","Carlsen,M",1/2-1/2,2862,C50,2743
+32,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.23,7.1,"Carlsen,M","Harikrishna,P",1/2-1/2,2732,B47,2862
+33,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.24,8.1,"Esipenko,Andrey","Carlsen,M",1-0,2862,B84,2677
+34,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.26,9.1,"Carlsen,M","Grandelius,N",1-0,2663,B90,2862
+35,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.27,10.1,"Caruana,F","Carlsen,M",1/2-1/2,2862,E00,2823
+36,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.29,11.1,"Carlsen,M","Giri,A",1/2-1/2,2764,C53,2862
+37,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.30,12.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2862,D45,2705
+38,83rd Tata Steel Masters,Wijk aan Zee NED,2021.01.31,13.3,"Carlsen,M","Vachier Lagrave,M",1-0,2784,D85,2862
+39,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.15,2.1,"Martinovic,Sa","Carlsen,M",0-1,2847,D85,2548
+40,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.16,2.2,"Carlsen,M","Martinovic,Sa",1-0,2548,B56,2847
+41,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.18,3.1,"Carlsen,M","Tari,A",1-0,2639,A13,2847
+42,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.19,3.2,"Tari,A","Carlsen,M",0-1,2847,B46,2639
+43,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.22,4.1,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E06,2691
+44,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.23,4.2,"Carlsen,M","Wojtaszek,R",1/2-1/2,2691,B51,2847
+45,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.3,"Wojtaszek,R","Carlsen,M",1/2-1/2,2847,E01,2691
+46,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.24,4.4,"Carlsen,M","Wojtaszek,R",1-0,2691,E47,2847
+47,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.25,5.1,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
+48,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.26,5.2,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
+49,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.7,"Carlsen,M","Esipenko,Andrey",1-0,2716,C65,2847
+50,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.6,"Esipenko,Andrey","Carlsen,M",1-0,2847,C53,2716
+51,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.8,"Esipenko,Andrey","Carlsen,M",0-1,2847,C53,2716
+52,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.5,"Carlsen,M","Esipenko,Andrey",1-0,2716,E10,2847
+53,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.3,"Carlsen,M","Esipenko,Andrey",1/2-1/2,2716,E10,2847
+54,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.27,5.4,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2847,C53,2716
+55,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.28,6.1,"Bacrot,E","Carlsen,M",0-1,2847,C88,2678
+56,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.07.29,6.2,"Carlsen,M","Bacrot,E",1-0,2678,B52,2847
+57,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.01,7.1,"Carlsen,M","Duda,J",1/2-1/2,2738,D37,2847
+58,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.02,7.2,"Duda,J","Carlsen,M",1/2-1/2,2847,C88,2738
+59,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.4,"Carlsen,M","Duda,J",0-1,2738,B52,2847
+60,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.03,7.3,"Duda,J","Carlsen,M",1/2-1/2,2847,C65,2738
+61,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.04,8.1,"Fedoseev,Vl3","Carlsen,M",0-1,2847,E60,2696
+62,FIDE World Cup 2021,Krasnaya Polyana RUS,2021.08.05,8.2,"Carlsen,M","Fedoseev,Vl3",1-0,2696,B12,2847
+63,9th Norway Armageddon,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+64,9th Norway Chess 2021,Stavanger NOR,2021.09.07,1.1,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2855,B30,2754
+65,9th Norway Armageddon,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1-0,2642,C50,2855
+66,9th Norway Chess 2021,Stavanger NOR,2021.09.08,2.1,"Carlsen,M","Tari,A",1/2-1/2,2642,C50,2855
+67,9th Norway Chess 2021,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,E94,2760
+68,9th Norway Armageddon,Stavanger NOR,2021.09.09,3.1,"Rapport,R","Carlsen,M",1/2-1/2,2855,A08,2760
+69,9th Norway Armageddon,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1-0,2792,A05,2855
+70,9th Norway Chess 2021,Stavanger NOR,2021.09.10,4.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2792,C67,2855
+71,9th Norway Chess 2021,Stavanger NOR,2021.09.12,5.1,"Karjakin,Sergey","Carlsen,M",1-0,2855,B33,2758
+72,9th Norway Chess 2021,Stavanger NOR,2021.09.13,6.1,"Carlsen,M","Firouzja,Alireza",1-0,2754,C78,2855
+73,9th Norway Chess 2021,Stavanger NOR,2021.09.14,7.1,"Tari,A","Carlsen,M",0-1,2855,C88,2642
+74,9th Norway Chess 2021,Stavanger NOR,2021.09.15,8.1,"Carlsen,M","Rapport,R",1-0,2760,C65,2855
+75,9th Norway Chess 2021,Stavanger NOR,2021.09.16,9.1,"Carlsen,M","Karjakin,Sergey",1-0,2758,C65,2855
+76,9th Norway Chess 2021,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C53,2792
+77,9th Norway Armageddon,Stavanger NOR,2021.09.17,10.1,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C28,2792
+78,36th ECC Open 2021,Struga MKD,2021.09.20,3.6,"Sarrau,J","Carlsen,M",0-1,2855,A20,2374
+79,36th ECC Open 2021,Struga MKD,2021.09.21,4.6,"Carlsen,M","Llobel Cortell,E",1-0,2392,B30,2855
+80,36th ECC Open 2021,Struga MKD,2021.09.22,5.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2855,E62,2762
+81,TCh-NOR Elite 2021-22,Norway NOR,2021.10.29,1.2,"Arvola,B","Carlsen,M",0-1,2855,B14,2471
+82,WCh 2021,Dubai UAE,2021.11.26,1,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+83,WCh 2021,Dubai UAE,2021.11.27,2,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2855
+84,WCh 2021,Dubai UAE,2021.11.28,3,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+85,WCh 2021,Dubai UAE,2021.11.30,4,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+86,WCh 2021,Dubai UAE,2021.12.01,5,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+87,WCh 2021,Dubai UAE,2021.12.03,6,"Carlsen,M","Nepomniachtchi,I",1-0,2782,D02,2855
+88,WCh 2021,Dubai UAE,2021.12.04,7,"Nepomniachtchi,I","Carlsen,M",1/2-1/2,2855,C88,2782
+89,WCh 2021,Dubai UAE,2021.12.05,8,"Carlsen,M","Nepomniachtchi,I",1-0,2782,C43,2855
+90,WCh 2021,Dubai UAE,2021.12.07,9,"Nepomniachtchi,I","Carlsen,M",0-1,2855,A13,2782
+91,WCh 2021,Dubai UAE,2021.12.08,10,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,C42,2855
+92,WCh 2021,Dubai UAE,2021.12.10,11,"Nepomniachtchi,I","Carlsen,M",0-1,2855,C50,2782
+93,World Rapid 2021,Warsaw POL,2021.12.26,1.1,"Carlsen,M","Gagunashvili,M",1-0,2573,C77,2856
+94,World Rapid 2021,Warsaw POL,2021.12.26,2.1,"Ter Sahakyan,S","Carlsen,M",1/2-1/2,2856,C88,2637
+95,World Rapid 2021,Warsaw POL,2021.12.26,3.11,"Carlsen,M","Dreev,A",1-0,2623,D02,2856
+96,World Rapid 2021,Warsaw POL,2021.12.26,4.1,"Carlsen,M","Harsha,B",1-0,2489,B51,2856
+97,World Rapid 2021,Warsaw POL,2021.12.26,5.1,"Shirov,A","Carlsen,M",0-1,2856,C84,2704
+98,World Rapid 2021,Warsaw POL,2021.12.27,6.1,"Jobava,Ba","Carlsen,M",1/2-1/2,2856,D53,2588
+99,World Rapid 2021,Warsaw POL,2021.12.27,7.1,"Carlsen,M","Firouzja,Alireza",1-0,2804,B12,2856
+100,World Rapid 2021,Warsaw POL,2021.12.27,8.1,"Grischuk,A","Carlsen,M",1/2-1/2,2856,D36,2764
+101,World Rapid 2021,Warsaw POL,2021.12.27,9.1,"Carlsen,M","Duda,J",1-0,2760,B29,2856
+102,World Rapid 2021,Warsaw POL,2021.12.28,10.1,"Abdusattorov,Nodirbek","Carlsen,M",1-0,2856,A28,2633
+103,World Rapid 2021,Warsaw POL,2021.12.28,11.1,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2782,E06,2856
+104,World Rapid 2021,Warsaw POL,2021.12.28,12.1,"Carlsen,M","Aronian,L",1-0,2772,D27,2856
+105,World Rapid 2021,Warsaw POL,2021.12.28,13.1,"Nakamura,Hi","Carlsen,M",1/2-1/2,2856,D37,2736
+106,World Blitz 2021,Warsaw POL,2021.12.29,1.1,"Corrales Jimenez,F","Carlsen,M",0-1,2856,C45,2530
+107,World Blitz 2021,Warsaw POL,2021.12.29,2.1,"Carlsen,M","Sjugirov,S",1-0,2680,C65,2856
+108,World Blitz 2021,Warsaw POL,2021.12.29,3.1,"Indjic,A","Carlsen,M",0-1,2856,D37,2623
+109,World Blitz 2021,Warsaw POL,2021.12.29,4.1,"Carlsen,M","Sychev,K",1-0,2550,B40,2856
+110,World Blitz 2021,Warsaw POL,2021.12.29,5.1,"Socko,B","Carlsen,M",1-0,2856,E10,2642
+111,World Blitz 2021,Warsaw POL,2021.12.29,6.1,"Carlsen,M","Fedoseev,Vl3",0-1,2704,E10,2856
+112,World Blitz 2021,Warsaw POL,2021.12.29,7.1,"Predke,A","Carlsen,M",0-1,2856,D36,2682
+113,World Blitz 2021,Warsaw POL,2021.12.29,8.1,"Carlsen,M","Gelfand,B",1-0,2663,B23,2856
+114,World Blitz 2021,Warsaw POL,2021.12.29,9.1,"Mamedyarov,S","Carlsen,M",1-0,2856,A45,2767
+115,World Blitz 2021,Warsaw POL,2021.12.29,10.1,"Carlsen,M","Kobalia,M",1-0,2596,B12,2856
+116,World Blitz 2021,Warsaw POL,2021.12.29,11.1,"Sanal,V","Carlsen,M",0-1,2856,B06,2601
+117,World Blitz 2021,Warsaw POL,2021.12.29,12.1,"Carlsen,M","Erigaisi,Arjun",1/2-1/2,2629,C42,2856
+118,World Blitz 2021,Warsaw POL,2021.12.30,13.1,"Carlsen,M","Maghsoodloo,Parham",1-0,2701,C02,2856
+119,World Blitz 2021,Warsaw POL,2021.12.30,14.1,"Martirosyan,Haik M.","Carlsen,M",1/2-1/2,2856,D43,2621
+120,World Blitz 2021,Warsaw POL,2021.12.30,15.1,"Carlsen,M","Giri,A",0-1,2772,C65,2856
+121,World Blitz 2021,Warsaw POL,2021.12.30,16.1,"Grischuk,A","Carlsen,M",1-0,2856,E04,2764
+122,World Blitz 2021,Warsaw POL,2021.12.30,17.1,"Carlsen,M","Mastrovasilis,D",1-0,2627,B46,2856
+123,World Blitz 2021,Warsaw POL,2021.12.30,18.1,"Alekseenko,K","Carlsen,M",1/2-1/2,2856,C50,2702
+124,World Blitz 2021,Warsaw POL,2021.12.30,19.1,"Amin,B","Carlsen,M",0-1,2856,B30,2680
+125,World Blitz 2021,Warsaw POL,2021.12.30,20.1,"Carlsen,M","Nepomniachtchi,I",1-0,2782,A07,2856
+126,World Blitz 2021,Warsaw POL,2021.12.30,21.1,"Vachier Lagrave,M","Carlsen,M",1-0,2856,C88,2761
+127,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.15,1.1,"Esipenko,Andrey","Carlsen,M",1/2-1/2,2865,D45,2714
+128,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.16,2.1,"Carlsen,M","Giri,A",1-0,2772,E06,2865
+129,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.17,3.1,"Duda,J","Carlsen,M",1/2-1/2,2865,C88,2760
+130,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.18,4.1,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2702,D78,2865
+131,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.20,5.2,"Grandelius,N","Carlsen,M",1/2-1/2,2865,B48,2672
+132,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.21,6.1,"Carlsen,M","Rapport,R",1-0,2763,E04,2865
+133,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.22,7.1,"Praggnanandhaa,R","Carlsen,M",0-1,2865,D27,2612
+134,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.23,8.1,"Shankland,S","Carlsen,M",1/2-1/2,2865,D32,2708
+135,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.25,9.1,"Carlsen,M","Mamedyarov,S",1-0,2767,E04,2865
+136,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.28,11.1,"Carlsen,M","Vidit,S",1/2-1/2,2727,C50,2865
+137,84th Tata Steel Masters,Wijk aan Zee NED,2022.01.29,12.1,"Caruana,F","Carlsen,M",0-1,2865,B31,2792
+138,TCh-NOR Elite 2021-22,Norway NOR,2022.02.05,5.4,"Carlsen,M","Ostmoe,G",1/2-1/2,2466,B10,2865
+139,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.2,"Carlsen,M","Duda,J",1/2-1/2,2750,A00,2864
+140,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.3,"Duda,J","Carlsen,M",0-1,2864,B11,2750
+141,Oslo Esports Cup 2022,Oslo NOR,2022.04.22,1.1,"Duda,J","Carlsen,M",0-1,2864,B42,2750
+142,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.4,"Le, Quang Liem","Carlsen,M",1-0,2864,A40,2709
+143,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.1,"Carlsen,M","Le, Quang Liem",0-1,2709,A06,2864
+144,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.2,"Le, Quang Liem","Carlsen,M",1/2-1/2,2864,D30,2709
+145,Oslo Esports Cup 2022,Oslo NOR,2022.04.23,2.3,"Carlsen,M","Le, Quang Liem",1-0,2709,E10,2864
+146,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,1.1,"Ivanchuk,V","Carlsen,M",0-1,2864,D32,2678
+147,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,2.4,"Carlsen,M","Moiseenko,A1",1-0,2602,A20,2864
+148,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,3.3,"Kuzubov,Y","Carlsen,M",1-0,2864,D10,2639
+149,Solidarity NOR-UKR Match,Tornelo INT,2022.04.23,4.2,"Carlsen,M","Shevchenko,Kirill",0-1,2652,A50,2864
+150,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.3,"Giri,A","Carlsen,M",0-1,2864,A79,2773
+151,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,D31,2773
+152,Oslo Esports Cup 2022,Oslo NOR,2022.04.24,3.2,"Carlsen,M","Giri,A",1-0,2773,A29,2864
+153,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.3,"Carlsen,M","Praggnanandhaa,R",1-0,2624,A06,2864
+154,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.2,"Praggnanandhaa,R","Carlsen,M",0-1,2864,D41,2624
+155,Oslo Esports Cup 2022,Oslo NOR,2022.04.25,4.1,"Carlsen,M","Praggnanandhaa,R",1-0,2624,B31,2864
+156,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.1,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,B12,2714
+157,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.4,"Carlsen,M","Van Foreest,Jorden",1/2-1/2,2714,A07,2864
+158,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.2,"Carlsen,M","Van Foreest,Jorden",0-1,2714,A20,2864
+159,Oslo Esports Cup 2022,Oslo NOR,2022.04.26,5.3,"Van Foreest,Jorden","Carlsen,M",1/2-1/2,2864,C50,2714
+160,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.1,"Carlsen,M","Hansen,Eric",1-0,2606,D85,2864
+161,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.3,"Carlsen,M","Hansen,Eric",1-0,2606,D41,2864
+162,Oslo Esports Cup 2022,Oslo NOR,2022.04.27,6.2,"Hansen,Eric","Carlsen,M",1/2-1/2,2864,B40,2606
+163,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2771
+164,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.2,"Carlsen,M","Mamedyarov,S",0-1,2771,A21,2864
+165,Oslo Esports Cup 2022,Oslo NOR,2022.04.28,7.3,"Mamedyarov,S","Carlsen,M",1-0,2864,E61,2771
+166,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.1,"Radjabov,T","Carlsen,M",1/2-1/2,2864,D80,2753
+167,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,A20,2864
+168,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.1,"Giri,A","Carlsen,M",1/2-1/2,2864,E94,2761
+169,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.1,"Carlsen,M","Tari,A",1-0,2654,A45,2864
+170,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.1,Wang Hao,"Carlsen,M",0-1,2864,D45,2744
+171,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.1,"Carlsen,M","So,W",0-1,2776,A00,2864
+172,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.1,"Anand,V","Carlsen,M",1-0,2864,B06,2751
+173,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.1,"Carlsen,M","Topalov,V",1-0,2730,A45,2864
+174,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.1,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,E60,2759
+175,10th Norway Armageddon,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1-0,2744,E06,2864
+176,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.1,"Carlsen,M",Wang Hao,1/2-1/2,2744,A07,2864
+177,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1/2-1/2,2864,D45,2776
+178,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.1,"So,W","Carlsen,M",1-0,2864,C50,2776
+179,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.1,"Carlsen,M","Radjabov,T",1-0,2753,E06,2864
+180,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.1,"Carlsen,M","Giri,A",1-0,2761,D41,2864
+181,10th Norway Armageddon,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1-0,2864,C50,2751
+182,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.1,"Anand,V","Carlsen,M",1/2-1/2,2864,C55,2751
+183,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.1,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+184,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1-0,2864,B00,2654
+185,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.1,"Tari,A","Carlsen,M",1/2-1/2,2864,C47,2654
+186,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2750,D85,2864
+187,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.1,"Carlsen,M","Vachier Lagrave,M",1-0,2750,D85,2864
+188,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
+189,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.1,"Topalov,V","Carlsen,M",1/2-1/2,2864,C50,2730
+190,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,1.3,"Carlsen,M","Nepomniachtchi,I",1/2-1/2,2766,D41,2864
+191,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,2.5,"Topalov,V","Carlsen,M",0-1,2864,B11,2728
+192,SuperUnited Rapid 2022,Zagreb CRO,2022.07.20,3.1,"Carlsen,M","Vachier Lagrave,M",1/2-1/2,2760,B23,2864
+193,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,4.5,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2793,E06,2864
+194,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,5.2,"Mamedyarov,S","Carlsen,M",1-0,2864,D94,2759
+195,SuperUnited Rapid 2022,Zagreb CRO,2022.07.21,6.4,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,A36,2864
+196,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,7.3,"So,W","Carlsen,M",1/2-1/2,2864,D10,2773
+197,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,8.3,"Carlsen,M","Van Foreest,Jorden",1-0,2678,A20,2864
+198,SuperUnited Rapid 2022,Zagreb CRO,2022.07.22,9.4,"Saric,Iv","Carlsen,M",0-1,2864,B42,2680
+199,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,1.5,"Carlsen,M","Van Foreest,Jorden",1-0,2678,C65,2864
+200,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,2.2,"Topalov,V","Carlsen,M",0-1,2864,C55,2728
+201,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,3.4,"Carlsen,M","So,W",0-1,2773,C53,2864
+202,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,4.3,"Dominguez Perez,L","Carlsen,M",1-0,2864,C88,2754
+203,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,5.3,"Carlsen,M","Vachier Lagrave,M",1-0,2760,B23,2864
+204,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,6.4,"Nepomniachtchi,I","Carlsen,M",0-1,2864,A05,2766
+205,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,7.2,"Carlsen,M","Mamedyarov,S",1-0,2759,D78,2864
+206,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,8.5,"Firouzja,Alireza","Carlsen,M",0-1,2864,D43,2793
+207,SuperUnited Blitz 2022,Zagreb CRO,2022.07.23,9.1,"Carlsen,M","Saric,Iv",1-0,2680,E60,2864
+208,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,10.5,"Van Foreest,Jorden","Carlsen,M",0-1,2864,C53,2678
+209,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,11.4,"Carlsen,M","Topalov,V",1/2-1/2,2728,B23,2864
+210,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,12.4,"So,W","Carlsen,M",1/2-1/2,2864,C47,2773
+211,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,13.3,"Carlsen,M","Dominguez Perez,L",1/2-1/2,2754,C42,2864
+212,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,14.1,"Vachier Lagrave,M","Carlsen,M",1/2-1/2,2864,C67,2760
+213,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,15.2,"Carlsen,M","Nepomniachtchi,I",1-0,2766,B23,2864
+214,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,16.3,"Mamedyarov,S","Carlsen,M",1/2-1/2,2864,D47,2759
+215,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,17.4,"Carlsen,M","Firouzja,Alireza",0-1,2793,D37,2864
+216,SuperUnited Blitz 2022,Zagreb CRO,2022.07.24,18.5,"Saric,Iv","Carlsen,M",1-0,2864,C87,2680
+217,44th Olympiad 2022,Chennai IND,2022.07.30,2.3,"Carlsen,M","Meier,Geo",1-0,2613,C10,2864
+218,44th Olympiad 2022,Chennai IND,2022.07.31,3.3,"Vocaturo,D","Carlsen,M",1/2-1/2,2864,B13,2616
+219,44th Olympiad 2022,Chennai IND,2022.08.01,4.13,"Carlsen,M","Batsuren,Dambasuren",1-0,2518,D38,2864
+220,44th Olympiad 2022,Chennai IND,2022.08.02,5.26,"Bwalya,Gillan","Carlsen,M",0-1,2864,E51,2396
+221,44th Olympiad 2022,Chennai IND,2022.08.03,6.14,"Smirnov,Ant","Carlsen,M",0-1,2864,B00,2600
+222,44th Olympiad 2022,Chennai IND,2022.08.05,7.28,"Carlsen,M","Stanojoski,Z",1-0,2412,D00,2864
+223,44th Olympiad 2022,Chennai IND,2022.08.06,8.17,"Carlsen,M","Pechac,Jergus",1/2-1/2,2594,A20,2864
+224,44th Olympiad 2022,Chennai IND,2022.08.07,9.18,"Megaranto,S","Carlsen,M",0-1,2864,E11,2529
+225,44th Olympiad 2022,Chennai IND,2022.08.08,10.11,"Carlsen,M","Schitco,Ivan",1/2-1/2,2490,A05,2864
+226,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.1,"Giri,A","Carlsen,M",1/2-1/2,2864,B06,2760
+227,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.4,"Carlsen,M","Giri,A",1-0,2760,A48,2864
+228,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.2,"Carlsen,M","Giri,A",1/2-1/2,2760,B90,2864
+229,FTX Crypto Cup 2022,Miami USA,2022.08.15,1.3,"Giri,A","Carlsen,M",0-1,2864,C02,2760
+230,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.1,"Carlsen,M","Niemann,Hans Moke",0-1,2687,B31,2864
+231,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.2,"Niemann,Hans Moke","Carlsen,M",0-1,2864,C07,2687
+232,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.3,"Carlsen,M","Niemann,Hans Moke",1-0,2687,A00,2864
+233,FTX Crypto Cup 2022,Miami USA,2022.08.16,2.4,"Niemann,Hans Moke","Carlsen,M",0-1,2864,B08,2687
+234,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.2,"Carlsen,M","Aronian,L",1/2-1/2,2775,E60,2864
+235,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.3,"Aronian,L","Carlsen,M",1/2-1/2,2864,D02,2775
+236,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.1,"Aronian,L","Carlsen,M",0-1,2864,A40,2775
+237,FTX Crypto Cup 2022,Miami USA,2022.08.17,3.4,"Carlsen,M","Aronian,L",1/2-1/2,2775,E94,2864
+238,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.3,"Carlsen,M","Le,Quang Liem",1-0,2728,A07,2864
+239,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.2,"Le,Quang Liem","Carlsen,M",1/2-1/2,2864,E06,2728
+240,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.1,"Carlsen,M","Le,Quang Liem",1/2-1/2,2728,C44,2864
+241,FTX Crypto Cup 2022,Miami USA,2022.08.18,4.4,"Le,Quang Liem","Carlsen,M",0-1,2864,D11,2728
+242,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.6,"Duda,J","Carlsen,M",1-0,2864,A45,2740
+243,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.1,"Duda,J","Carlsen,M",1-0,2864,E11,2740
+244,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.5,"Carlsen,M","Duda,J",0-1,2740,A01,2864
+245,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.4,"Carlsen,M","Duda,J",1-0,2740,D02,2864
+246,FTX Crypto Cup 2022,Miami USA,2022.08.19,5.2,"Carlsen,M","Duda,J",0-1,2740,C65,2864
+247,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.2,"Carlsen,M","Firouzja,Alireza",1-0,2778,A15,2864
+248,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.3,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+249,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.5,"Carlsen,M","Firouzja,Alireza",1-0,2778,A20,2864
+250,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.1,"Firouzja,Alireza","Carlsen,M",1-0,2864,B10,2778
+251,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.6,"Firouzja,Alireza","Carlsen,M",1/2-1/2,2864,B30,2778
+252,FTX Crypto Cup 2022,Miami USA,2022.08.20,6.4,"Carlsen,M","Firouzja,Alireza",1/2-1/2,2778,E04,2864
+253,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.3,"Carlsen,M","Praggnanandhaa,R",1-0,2661,E04,2864
+254,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.1,"Carlsen,M","Praggnanandhaa,R",1/2-1/2,2661,A08,2864
+255,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.4,"Praggnanandhaa,R","Carlsen,M",1-0,2864,A40,2661
+256,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.5,"Carlsen,M","Praggnanandhaa,R",0-1,2661,B23,2864
+257,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.2,"Praggnanandhaa,R","Carlsen,M",1/2-1/2,2864,D38,2661
+258,FTX Crypto Cup 2022,Miami USA,2022.08.21,7.6,"Praggnanandhaa,R","Carlsen,M",1-0,2864,B06,2661

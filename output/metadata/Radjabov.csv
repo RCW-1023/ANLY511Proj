@@ -1,333 +1,78 @@
 ,Event,Site,Date,Round,White,Black,Result,BlackElo,ECO,WhiteElo
-0,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.4,"Anton Guijarro,D","Radjabov,T",1/2-1/2,2765,D55,2703
-1,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.11,"Radjabov,T","Anton Guijarro,D",0-1,2703,D37,2765
-2,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.2,"Anton Guijarro,D","Radjabov,T",1/2-1/2,2765,D55,2703
-3,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.3,"Radjabov,T","Anton Guijarro,D",1/2-1/2,2703,C50,2765
-4,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.13,"Radjabov,T","Anton Guijarro,D",0-1,2703,C50,2765
-5,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.12,"Anton Guijarro,D","Radjabov,T",0-1,2765,C41,2703
-6,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.10,"Anton Guijarro,D","Radjabov,T",0-1,2765,D55,2703
-7,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.9,"Radjabov,T","Anton Guijarro,D",0-1,2703,C50,2765
-8,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.1,"Radjabov,T","Anton Guijarro,D",1/2-1/2,2703,C50,2765
-9,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.7,"Radjabov,T","Anton Guijarro,D",1/2-1/2,2703,C50,2765
-10,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.8,"Anton Guijarro,D","Radjabov,T",0-1,2765,D55,2703
-11,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.6,"Anton Guijarro,D","Radjabov,T",1/2-1/2,2765,D55,2703
-12,Pepe Cuenca Invitational,chess24.com INT,2020.04.12,1.5,"Radjabov,T","Anton Guijarro,D",0-1,2703,C50,2765
-13,Online Nations Cup Prelim,chess.com INT,2020.05.05,1.2,Wang Hao,"Radjabov,T",1/2-1/2,2765,E32,2763
-14,Online Nations Cup Prelim,chess.com INT,2020.05.05,2.2,"Radjabov,T","Anand,V",1/2-1/2,2753,D38,2765
-15,Online Nations Cup Prelim,chess.com INT,2020.05.06,3.3,"Nakamura,Hi","Radjabov,T",1/2-1/2,2765,D37,2736
-16,Online Nations Cup Prelim,chess.com INT,2020.05.06,4.1,"Nepomniachtchi,I","Radjabov,T",1-0,2765,D37,2784
-17,Online Nations Cup Prelim,chess.com INT,2020.05.07,5.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2778,D43,2765
-18,Online Nations Cup Prelim,chess.com INT,2020.05.07,6.2,"Radjabov,T",Ding Liren,0-1,2791,A05,2765
-19,Online Nations Cup Prelim,chess.com INT,2020.05.08,7.2,"Anand,V","Radjabov,T",1-0,2765,E97,2753
-20,Online Nations Cup Prelim,chess.com INT,2020.05.09,9.1,"Radjabov,T","Artemiev,V",1-0,2716,B10,2765
-21,Online Nations Cup Prelim,chess.com INT,2020.05.09,10.3,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,D37,2778
-22,Chessable Masters GpB,chess24.com INT,2020.06.21,1.2,"Nepomniachtchi,I","Radjabov,T",1-0,2765,E18,2784
-23,Chessable Masters GpB,chess24.com INT,2020.06.21,2.2,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2778,D12,2765
-24,Chessable Masters GpB,chess24.com INT,2020.06.21,3.3,"Giri,A","Radjabov,T",1/2-1/2,2765,A90,2764
-25,Chessable Masters GpB,chess24.com INT,2020.06.21,4.3,"Radjabov,T","Caruana,F",0-1,2835,D02,2765
-26,Chessable Masters GpB,chess24.com INT,2020.06.21,5.1,Ding Liren,"Radjabov,T",1/2-1/2,2765,A35,2791
-27,Chessable Masters GpB,chess24.com INT,2020.06.23,6.2,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
-28,Chessable Masters GpB,chess24.com INT,2020.06.23,7.2,"Vachier Lagrave,M","Radjabov,T",0-1,2765,A15,2778
-29,Chessable Masters GpB,chess24.com INT,2020.06.23,8.3,"Radjabov,T","Giri,A",1/2-1/2,2764,D38,2765
-30,Chessable Masters GpB,chess24.com INT,2020.06.23,9.3,"Caruana,F","Radjabov,T",1/2-1/2,2765,E71,2835
-31,Chessable Masters GpB,chess24.com INT,2020.06.23,10.1,"Radjabov,T",Ding Liren,1/2-1/2,2791,A06,2765
-32,Friendship Match AZE-TUR,PlayChess INT,2020.08.08,1.2,"Solak,D","Radjabov,T",0-1,2765,C45,2594
-33,Friendship Match AZE-TUR,PlayChess INT,2020.08.08,2.2,"Radjabov,T","Solak,D",1/2-1/2,2594,D02,2765
-34,Online Olym Top DivB 2020,chess.com INT,2020.08.21,1.1,"Van Foreest,Jorden","Radjabov,T",0-1,2765,C50,2682
-35,Online Olym Top DivB 2020,chess.com INT,2020.08.21,2.5,"Radjabov,T","Erdos,V",1-0,2618,D30,2765
-36,Online Olym Top DivB 2020,chess.com INT,2020.08.22,4.4,"Korobov,A","Radjabov,T",1/2-1/2,2765,D38,2688
-37,Online Olym Top DivB 2020,chess.com INT,2020.08.22,6.3,"Khusnutdinov,R","Radjabov,T",1/2-1/2,2765,C49,2491
-38,Online Olym Top DivB 2020,chess.com INT,2020.08.23,7.4,"Anton Guijarro,D","Radjabov,T",0-1,2765,A14,2688
-39,Online Olym KO Stage 2020,chess.com INT,2020.08.28,2.22,"Duda,J","Radjabov,T",1/2-1/2,2765,E40,2753
-40,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.1,"Radjabov,T",Le Quang Liem,0-1,2709,D37,2765
-41,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.8,Le Quang Liem,"Radjabov,T",1-0,2765,B31,2709
-42,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.9,"Radjabov,T",Le Quang Liem,0-1,2709,C50,2765
-43,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.10,Le Quang Liem,"Radjabov,T",1-0,2765,B31,2709
-44,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.5,"Radjabov,T",Le Quang Liem,0-1,2709,B10,2765
-45,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.4,Le Quang Liem,"Radjabov,T",1/2-1/2,2765,B31,2709
-46,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.3,"Radjabov,T",Le Quang Liem,1/2-1/2,2709,D37,2765
-47,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.2,Le Quang Liem,"Radjabov,T",0-1,2765,B31,2709
-48,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.7,"Radjabov,T",Le Quang Liem,1-0,2709,C50,2765
-49,Chess24 Banter Final 2020,chess24.com INT,2020.09.21,1.6,Le Quang Liem,"Radjabov,T",0-1,2765,B31,2709
-50,Skilling Open Prelim,chess24.com INT,2020.11.22,1.7,"Svidler,P","Radjabov,T",1/2-1/2,2765,C53,2723
-51,Skilling Open Prelim,chess24.com INT,2020.11.22,2.2,"Radjabov,T","Nepomniachtchi,I",0-1,2784,D93,2765
-52,Skilling Open Prelim,chess24.com INT,2020.11.22,3.8,"Carlsen,M","Radjabov,T",1-0,2765,D38,2862
-53,Skilling Open Prelim,chess24.com INT,2020.11.22,4.1,"Vachier Lagrave,M","Radjabov,T",0-1,2765,B30,2784
-54,Skilling Open Prelim,chess24.com INT,2020.11.22,5.8,"Radjabov,T","Anton Guijarro,D",0-1,2675,D39,2765
-55,Skilling Open Prelim,chess24.com INT,2020.11.23,6.2,"Firouzja,Alireza","Radjabov,T",0-1,2765,C46,2749
-56,Skilling Open Prelim,chess24.com INT,2020.11.23,7.7,"Radjabov,T","Aronian,L",1-0,2781,D37,2765
-57,Skilling Open Prelim,chess24.com INT,2020.11.23,8.3,"Duda,J","Radjabov,T",0-1,2765,A05,2743
-58,Skilling Open Prelim,chess24.com INT,2020.11.23,9.6,"Radjabov,T",Ding Liren,0-1,2791,B97,2765
-59,Skilling Open Prelim,chess24.com INT,2020.11.23,10.4,"Giri,A","Radjabov,T",1/2-1/2,2765,E51,2764
-60,Skilling Open Prelim,chess24.com INT,2020.11.24,11.5,"Radjabov,T","Karjakin,Sergey",1-0,2752,D63,2765
-61,Skilling Open Prelim,chess24.com INT,2020.11.24,12.5,"Nakamura,Hi","Radjabov,T",1/2-1/2,2765,D37,2736
-62,Skilling Open Prelim,chess24.com INT,2020.11.24,13.4,"Radjabov,T",Le Quang Liem,1/2-1/2,2709,D37,2765
-63,Skilling Open Prelim,chess24.com INT,2020.11.24,14.6,"Vidit,S","Radjabov,T",1/2-1/2,2765,A25,2726
-64,Skilling Open Prelim,chess24.com INT,2020.11.24,15.3,"Radjabov,T","So,W",1/2-1/2,2770,D93,2765
-65,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.13,"So,W","Radjabov,T",0-1,2765,A28,2770
-66,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.12,"Radjabov,T","So,W",1/2-1/2,2770,D41,2765
-67,Skilling Open KO 2020,chess24.com INT,2020.11.25,1.11,"So,W","Radjabov,T",0-1,2765,C53,2770
-68,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.22,"So,W","Radjabov,T",1-0,2765,C50,2770
-69,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.23,"Radjabov,T","So,W",1/2-1/2,2770,D41,2765
-70,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.33,"Radjabov,T","So,W",1/2-1/2,2770,A06,2765
-71,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.32,"So,W","Radjabov,T",1/2-1/2,2765,B32,2770
-72,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.24,"So,W","Radjabov,T",1/2-1/2,2765,B32,2770
-73,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.31,"Radjabov,T","So,W",1/2-1/2,2770,D41,2765
-74,Skilling Open KO 2020,chess24.com INT,2020.11.26,1.21,"Radjabov,T","So,W",1/2-1/2,2770,D41,2765
-75,Airthings Masters Prelim,chess24.com INT,2020.12.26,1.2,"Dubov,Daniil","Radjabov,T",1/2-1/2,2765,E06,2702
-76,Airthings Masters Prelim,chess24.com INT,2020.12.26,2.5,"Radjabov,T","Anton Guijarro,D",1-0,2675,D38,2765
-77,Airthings Masters Prelim,chess24.com INT,2020.12.26,3.3,"Carlsen,M","Radjabov,T",1/2-1/2,2765,D37,2862
-78,Airthings Masters Prelim,chess24.com INT,2020.12.26,4.4,"Radjabov,T","Giri,A",1/2-1/2,2764,D38,2765
-79,Airthings Masters Prelim,chess24.com INT,2020.12.27,5.4,"Grischuk,A","Radjabov,T",1/2-1/2,2765,D37,2777
-80,Airthings Masters Prelim,chess24.com INT,2020.12.27,6.3,"Radjabov,T","Nakamura,Hi",1/2-1/2,2736,D37,2765
-81,Airthings Masters Prelim,chess24.com INT,2020.12.27,7.5,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,B30,2784
-82,Airthings Masters Prelim,chess24.com INT,2020.12.27,8.2,"Radjabov,T","Aronian,L",1/2-1/2,2781,D39,2765
-83,Airthings Masters Prelim,chess24.com INT,2020.12.28,10.1,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,B30,2784
-84,Airthings Masters Prelim,chess24.com INT,2020.12.28,11.6,"Radjabov,T","Harikrishna,P",1/2-1/2,2732,D44,2765
-85,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.13,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E61,2784
-86,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.12,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
-87,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.11,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,D35,2784
-88,Airthings Masters KO 2020,chess24.com INT,2020.12.29,1.14,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,D42,2765
-89,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.23,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2784,A04,2765
-90,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.22,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E25,2784
-91,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.21,"Radjabov,T","Nepomniachtchi,I",1-0,2784,D42,2765
-92,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.24,"Nepomniachtchi,I","Radjabov,T",1-0,2765,E73,2784
-93,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.32,"Nepomniachtchi,I","Radjabov,T",0-1,2765,B00,2784
-94,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.31,"Radjabov,T","Nepomniachtchi,I",0-1,2784,D02,2765
-95,Airthings Masters KO 2020,chess24.com INT,2020.12.30,1.33,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,E91,2784
-96,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.13,"Radjabov,T","Dubov,Daniil",1-0,2702,D43,2765
-97,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.12,"Dubov,Daniil","Radjabov,T",1/2-1/2,2765,E11,2702
-98,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.11,"Radjabov,T","Dubov,Daniil",1/2-1/2,2702,D43,2765
-99,Airthings Masters KO 2020,chess24.com INT,2020.12.31,2.14,"Dubov,Daniil","Radjabov,T",0-1,2765,B32,2702
-100,Airthings Masters KO 2020,chess24.com INT,2021.01.01,2.21,"Dubov,Daniil","Radjabov,T",0-1,2765,D37,2702
-101,Airthings Masters KO 2020,chess24.com INT,2021.01.01,2.22,"Radjabov,T","Dubov,Daniil",1-0,2702,A15,2765
-102,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.12,"Aronian,L","Radjabov,T",1/2-1/2,2765,B30,2781
-103,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.14,"Aronian,L","Radjabov,T",0-1,2765,C67,2781
-104,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.13,"Radjabov,T","Aronian,L",1/2-1/2,2781,D39,2765
-105,Airthings Masters KO 2020,chess24.com INT,2021.01.02,3.11,"Radjabov,T","Aronian,L",1/2-1/2,2781,D39,2765
-106,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.22,"Radjabov,T","Aronian,L",1-0,2781,D80,2765
-107,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.21,"Aronian,L","Radjabov,T",1/2-1/2,2765,C53,2781
-108,Airthings Masters KO 2020,chess24.com INT,2021.01.03,3.23,"Aronian,L","Radjabov,T",1/2-1/2,2765,C53,2781
-109,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,1.4,"Bluebaum,M","Radjabov,T",1/2-1/2,2765,D05,2670
-110,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,2.5,"Radjabov,T","Shankland,S",1-0,2691,D02,2765
-111,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,3.5,"Dominguez Perez,L","Radjabov,T",1/2-1/2,2765,B32,2758
-112,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,4.4,"Radjabov,T","Duda,J",1/2-1/2,2743,D41,2765
-113,Opera Euro Rapid Prelim,chess24.com INT,2021.02.06,5.6,"Grischuk,A","Radjabov,T",1/2-1/2,2765,B31,2777
-114,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,6.3,"Radjabov,T","Giri,A",1/2-1/2,2764,D38,2765
-115,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,7.7,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,B32,2789
-116,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,8.2,"Radjabov,T","Nakamura,Hi",1/2-1/2,2736,D37,2765
-117,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,9.8,"Vidit,S","Radjabov,T",1/2-1/2,2765,A15,2726
-118,Opera Euro Rapid Prelim,chess24.com INT,2021.02.07,10.1,"Dubov,Daniil","Radjabov,T",1/2-1/2,2765,D40,2710
-119,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,11.8,"Radjabov,T",Ding Liren,1/2-1/2,2791,E15,2765
-120,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,12.2,"Carlsen,M","Radjabov,T",1/2-1/2,2765,E58,2862
-121,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,13.7,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2784,A05,2765
-122,Opera Euro Rapid Prelim,chess24.com INT,2021.02.08,15.6,"Radjabov,T","Aronian,L",1/2-1/2,2781,E46,2765
-123,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.13,"Giri,A","Radjabov,T",0-1,2765,B32,2764
-124,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.11,"Giri,A","Radjabov,T",1/2-1/2,2765,B32,2764
-125,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.14,"Radjabov,T","Giri,A",0-1,2764,E11,2765
-126,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.09,1.12,"Radjabov,T","Giri,A",1/2-1/2,2764,D38,2765
-127,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.32,"Radjabov,T","Giri,A",1-0,2764,C44,2765
-128,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.22,"Giri,A","Radjabov,T",1/2-1/2,2765,C65,2764
-129,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.23,"Radjabov,T","Giri,A",1/2-1/2,2764,D38,2765
-130,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.31,"Giri,A","Radjabov,T",1/2-1/2,2765,A45,2764
-131,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.24,"Giri,A","Radjabov,T",1/2-1/2,2765,C67,2764
-132,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.10,1.21,"Radjabov,T","Giri,A",1/2-1/2,2764,A06,2765
-133,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.11,"So,W","Radjabov,T",1-0,2765,B30,2770
-134,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.12,"Radjabov,T","So,W",1-0,2770,D55,2765
-135,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.14,"Radjabov,T","So,W",1/2-1/2,2770,D37,2765
-136,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.11,2.13,"So,W","Radjabov,T",1-0,2765,B31,2770
-137,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.21,"Radjabov,T","So,W",1/2-1/2,2770,D55,2765
-138,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.12,2.23,"Radjabov,T","So,W",0-1,2770,E20,2765
-139,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.12,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A15,2765
-140,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.11,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2765,B32,2784
-141,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.13,"Vachier Lagrave,M","Radjabov,T",1-0,2765,B32,2784
-142,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.13,3.14,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A15,2765
-143,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.22,"Vachier Lagrave,M","Radjabov,T",0-1,2765,B32,2784
-144,Opera Euro Rapid KO 2021,chess24.com INT,2021.02.14,3.21,"Radjabov,T","Vachier Lagrave,M",1-0,2784,A04,2765
-145,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,1.1,"Radjabov,T","Giri,A",1/2-1/2,2776,D38,2765
-146,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,2.8,"Radjabov,T","Pichot,A",1/2-1/2,2630,D37,2765
-147,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,3.2,"So,W","Radjabov,T",1/2-1/2,2765,C53,2770
-148,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,4.7,"Radjabov,T","Aronian,L",1/2-1/2,2781,D38,2765
-149,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.13,5.3,"Dubov,Daniil","Radjabov,T",0-1,2765,E06,2710
-150,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,7.4,"Van Foreest,Jorden","Radjabov,T",1/2-1/2,2765,C66,2701
-151,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,8.5,"Radjabov,T","Vachier Lagrave,M",0-1,2758,A04,2765
-152,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,9.5,"Firouzja,Alireza","Radjabov,T",1-0,2765,E98,2759
-153,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.14,10.4,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D43,2765
-154,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,11.6,"Anton Guijarro,D","Radjabov,T",0-1,2765,A05,2673
-155,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,12.3,"Radjabov,T","Grandelius,N",1/2-1/2,2670,D85,2765
-156,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,13.7,"Mamedyarov,S","Radjabov,T",1/2-1/2,2765,C47,2770
-157,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,14.2,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2789,D85,2765
-158,Magnus Carlsen Inv Prelim,chess24.com INT,2021.03.15,15.8,"Karjakin,Sergey","Radjabov,T",1-0,2765,B30,2757
-159,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,1.1,"Radjabov,T","Jones,G",1-0,2670,A38,2765
-160,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,2.8,"Radjabov,T","Tari,A",1-0,2639,D40,2765
-161,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,3.2,"Aronian,L","Radjabov,T",1/2-1/2,2765,A46,2781
-162,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,4.7,"Radjabov,T","Christiansen,Johan-Sebastian",1-0,2618,D02,2765
-163,NIC Classic Prelim 2021,chess24.com INT,2021.04.24,5.3,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C65,2847
-164,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,7.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2765,A46,2759
-165,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,8.5,"Radjabov,T","Duda,J",1/2-1/2,2729,D52,2765
-166,NIC Classic Prelim 2021,chess24.com INT,2021.04.25,9.5,"Praggnanandhaa,R","Radjabov,T",1-0,2765,D37,2608
-167,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,11.6,"Mamedyarov,S","Radjabov,T",1/2-1/2,2765,D79,2770
-168,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,13.7,Le Quang Liem,"Radjabov,T",1/2-1/2,2765,D37,2709
-169,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,14.2,"Radjabov,T","Dominguez Perez,L",1/2-1/2,2758,D26,2765
-170,NIC Classic Prelim 2021,chess24.com INT,2021.04.26,15.8,"Vidit,S","Radjabov,T",1/2-1/2,2765,D35,2726
-171,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.12,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D41,2765
-172,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.13,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C65,2847
-173,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.14,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D37,2765
-174,NIC Classic KO 2021,chess24.com INT,2021.04.27,1.11,"Carlsen,M","Radjabov,T",1/2-1/2,2765,D37,2847
-175,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.23,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D37,2765
-176,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.22,"Carlsen,M","Radjabov,T",1-0,2765,E36,2847
-177,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.21,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D39,2765
-178,NIC Classic KO 2021,chess24.com INT,2021.04.28,1.24,"Carlsen,M","Radjabov,T",1/2-1/2,2765,B65,2847
-179,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,11.4,"Giri,A","Radjabov,T",1-0,2765,C67,2780
-180,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,12.5,"Radjabov,T",Ding Liren,1-0,2799,E15,2765
-181,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,13.5,"Grischuk,A","Radjabov,T",1/2-1/2,2765,B32,2776
-182,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,14.4,"Radjabov,T","Dubov,Daniil",1/2-1/2,2710,D85,2765
-183,FTX Crypto Cup Prelim,chess24.com INT,2021.05.25,15.6,"Carlsen,M","Radjabov,T",1-0,2765,B30,2847
-184,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.13,"Giri,A","Radjabov,T",1/2-1/2,2765,C67,2780
-185,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.12,"Radjabov,T","Giri,A",1/2-1/2,2780,D80,2765
-186,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.14,"Radjabov,T","Giri,A",1-0,2780,A35,2765
-187,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.26,1.11,"Giri,A","Radjabov,T",1/2-1/2,2765,C67,2780
-188,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.22,"Giri,A","Radjabov,T",1/2-1/2,2765,C65,2780
-189,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.27,1.24,"Giri,A","Radjabov,T",1/2-1/2,2765,C65,2780
-190,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.12,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D31,2765
-191,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.11,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C50,2847
-192,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.14,"Radjabov,T","Carlsen,M",1-0,2847,D38,2765
-193,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.28,2.13,"Carlsen,M","Radjabov,T",1-0,2765,E60,2847
-194,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.21,"Radjabov,T","Carlsen,M",0-1,2847,D31,2765
-195,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.22,"Carlsen,M","Radjabov,T",1/2-1/2,2765,C67,2847
-196,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.23,"Radjabov,T","Carlsen,M",1/2-1/2,2847,D41,2765
-197,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.29,2.24,"Carlsen,M","Radjabov,T",1-0,2765,B00,2847
-198,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.11,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2792,D85,2765
-199,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.12,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,C67,2792
-200,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.30,3.13,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2792,D85,2765
-201,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.24,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2792,A35,2765
-202,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.21,"Nepomniachtchi,I","Radjabov,T",1-0,2765,A01,2792
-203,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.22,"Radjabov,T","Nepomniachtchi,I",1-0,2792,B08,2765
-204,FTX Crypto Cup KO 2021,chess24.com INT,2021.05.31,3.23,"Nepomniachtchi,I","Radjabov,T",1-0,2765,A01,2792
-205,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.3,"Giri,A","Radjabov,T",1/2-1/2,2765,E06,2780
-206,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.4,"Mamedyarov,S","Radjabov,T",1/2-1/2,2765,E60,2770
-207,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.2,"Radjabov,T","Grischuk,A",1/2-1/2,2776,D37,2765
-208,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.5,"Deac,Bogdan-Daniel","Radjabov,T",1/2-1/2,2765,C67,2627
-209,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.3,"Radjabov,T","So,W",1/2-1/2,2770,D39,2765
-210,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.5,"Radjabov,T","Lupulescu,C",1/2-1/2,2656,B67,2765
-211,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.4,"Vachier Lagrave,M","Radjabov,T",1-0,2765,C65,2760
-212,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.2,"Radjabov,T","Firouzja,Alireza",1-0,2759,D43,2765
-213,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.5,"Svidler,P","Radjabov,T",1/2-1/2,2765,C11,2714
-214,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.1,"Radjabov,T","So,W",1/2-1/2,2770,D39,2765
-215,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.5,"Radjabov,T","Caruana,F",1/2-1/2,2820,D38,2765
-216,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.2,"Bacrot,E","Radjabov,T",1/2-1/2,2765,C67,2678
-217,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.4,"Radjabov,T","Rapport,R",1/2-1/2,2763,E12,2765
-218,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.3,"Nepomniachtchi,I","Radjabov,T",1-0,2765,C67,2792
-219,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.3,"Radjabov,T","Firouzja,Alireza",0-1,2759,D37,2765
-220,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.4,"So,W","Radjabov,T",1-0,2765,C11,2770
-221,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.2,"Radjabov,T","Nepomniachtchi,I",0-1,2792,D38,2765
-222,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.5,"Caruana,F","Radjabov,T",0-1,2765,E60,2820
-223,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.1,"Radjabov,T","Rapport,R",1/2-1/2,2763,A15,2765
-224,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.5,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2760,A04,2765
-225,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.2,"Svidler,P","Radjabov,T",1-0,2765,A01,2714
-226,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.4,"Radjabov,T","Aronian,L",0-1,2781,D38,2765
-227,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.3,"Kramnik,V","Radjabov,T",0-1,2765,C02,2753
-228,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.3,"Firouzja,Alireza","Radjabov,T",1-0,2765,C28,2759
-229,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.2,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,A01,2792
-230,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.5,"Radjabov,T","Caruana,F",0-1,2820,A05,2765
-231,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.1,"Rapport,R","Radjabov,T",1-0,2765,A07,2763
-232,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.5,"Vachier Lagrave,M","Radjabov,T",1-0,2765,A10,2760
-233,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.2,"Radjabov,T","Svidler,P",1-0,2714,A04,2765
-234,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.4,"Aronian,L","Radjabov,T",0-1,2765,A46,2781
-235,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.3,"Radjabov,T","Kramnik,V",0-1,2753,A30,2765
-236,Online Olym Top DivB 2021,chess.com INT,2021.09.08,1.2,"Radjabov,T","Agrest,E",1-0,2568,D52,2763
-237,Online Olym Top DivB 2021,chess.com INT,2021.09.09,4.5,"Radjabov,T","Aleksandrov,A",1/2-1/2,2525,A15,2763
-238,Online Olym Top DivB 2021,chess.com INT,2021.09.09,5.2,"Anand,V","Radjabov,T",1/2-1/2,2763,C50,2753
-239,Online Olym Top DivB 2021,chess.com INT,2021.09.10,7.3,"Skoberne,J","Radjabov,T",0-1,2763,A46,2561
-240,Online Olym Top DivB 2021,chess.com INT,2021.09.10,9.4,"Gozzoli,Y","Radjabov,T",1/2-1/2,2763,E12,2602
-241,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.2,"Artemiev,V","Radjabov,T",1/2-1/2,2763,D78,2699
-242,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.4,"Artemiev,V","Radjabov,T",1/2-1/2,2763,A05,2699
-243,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.3,"Radjabov,T","Artemiev,V",1/2-1/2,2699,D35,2763
-244,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.5,"Artemiev,V","Radjabov,T",1-0,2763,A05,2699
-245,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.6,"Radjabov,T","Artemiev,V",1/2-1/2,2699,D37,2763
-246,Meltwater Tour Final 2021,chess24.com INT,2021.09.25,1.1,"Radjabov,T","Artemiev,V",1/2-1/2,2699,D35,2763
-247,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.3,"Nakamura,Hi","Radjabov,T",1/2-1/2,2763,D37,2736
-248,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.2,"Radjabov,T","Nakamura,Hi",1/2-1/2,2736,D37,2763
-249,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.5,"Radjabov,T","Nakamura,Hi",0-1,2736,D37,2763
-250,Meltwater Tour Final 2021,chess24.com INT,2021.09.26,2.6,"Nakamura,Hi","Radjabov,T",1/2-1/2,2763,E94,2736
-251,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.5,"Giri,A","Radjabov,T",1-0,2763,B00,2777
-252,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.6,"Radjabov,T","Giri,A",1/2-1/2,2777,D40,2763
-253,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.3,"Radjabov,T","Giri,A",1/2-1/2,2777,D43,2763
-254,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.2,"Giri,A","Radjabov,T",1/2-1/2,2763,C65,2777
-255,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.1,"Radjabov,T","Giri,A",1-0,2777,D43,2763
-256,Meltwater Tour Final 2021,chess24.com INT,2021.09.27,3.4,"Giri,A","Radjabov,T",1-0,2763,C65,2777
-257,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.4,"Duda,J","Radjabov,T",0-1,2763,B31,2756
-258,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.3,"Radjabov,T","Duda,J",0-1,2756,D52,2763
-259,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.2,"Duda,J","Radjabov,T",1/2-1/2,2763,B31,2756
-260,Meltwater Tour Final 2021,chess24.com INT,2021.09.28,4.1,"Radjabov,T","Duda,J",1-0,2756,A15,2763
-261,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.4,"Radjabov,T","Aronian,L",1/2-1/2,2782,A56,2763
-262,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.3,"Aronian,L","Radjabov,T",1/2-1/2,2763,C50,2782
-263,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.2,"Radjabov,T","Aronian,L",1-0,2782,C50,2763
-264,Meltwater Tour Final 2021,chess24.com INT,2021.09.29,5.1,"Aronian,L","Radjabov,T",1/2-1/2,2763,C50,2782
-265,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.4,"So,W","Radjabov,T",0-1,2763,C50,2778
-266,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.3,"Radjabov,T","So,W",0-1,2778,D37,2763
-267,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.2,"So,W","Radjabov,T",0-1,2763,C65,2778
-268,Meltwater Tour Final 2021,chess24.com INT,2021.10.01,6.1,"Radjabov,T","So,W",1-0,2778,D59,2763
-269,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.3,"Carlsen,M","Radjabov,T",0-1,2763,C65,2855
-270,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.4,"Radjabov,T","Carlsen,M",1-0,2855,B08,2763
-271,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.1,"Carlsen,M","Radjabov,T",1/2-1/2,2763,C65,2855
-272,Meltwater Tour Final 2021,chess24.com INT,2021.10.02,7.2,"Radjabov,T","Carlsen,M",1/2-1/2,2855,E94,2763
-273,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.3,"Radjabov,T","Mamedyarov,S",1/2-1/2,2762,D38,2763
-274,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2763,C67,2762
-275,Meltwater Tour Final 2021,chess24.com INT,2021.10.03,8.4,"Mamedyarov,S","Radjabov,T",0-1,2763,E60,2762
-276,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.1,"Vachier Lagrave,M","Radjabov,T",1/2-1/2,2763,C67,2763
-277,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.2,"Radjabov,T","Vachier Lagrave,M",1-0,2763,D38,2763
-278,Meltwater Tour Final 2021,chess24.com INT,2021.10.04,9.3,"Vachier Lagrave,M","Radjabov,T",0-1,2763,C67,2763
-279,Chess Super League 2021,chess.com INT,2021.10.11,1.2,"Radjabov,T",Ding Liren,1/2-1/2,2799,E32,2763
-280,Chess Super League 2021,chess.com INT,2021.10.12,2.3,"Nakamura,Hi","Radjabov,T",0-1,2763,A45,2736
-281,Chess Super League 2021,chess.com INT,2021.10.13,3.1,"Karjakin,Sergey","Radjabov,T",1/2-1/2,2763,D37,2743
-282,Chess Super League 2021,chess.com INT,2021.10.15,5.2,"Vidit,S","Radjabov,T",1/2-1/2,2763,E94,2727
-283,23rd European Teams,Terme Catez SLO,2021.11.13,2.2,"Radjabov,T","Ivanisevic,I",1/2-1/2,2604,D37,2763
-284,23rd European Teams,Terme Catez SLO,2021.11.14,3.2,"Donchenko,Alexa","Radjabov,T",1/2-1/2,2763,E21,2645
-285,23rd European Teams,Terme Catez SLO,2021.11.15,4.1,"Radjabov,T","Berkes,F",1/2-1/2,2676,D15,2763
-286,23rd European Teams,Terme Catez SLO,2021.11.16,5.1,"Dubov,Daniil","Radjabov,T",1/2-1/2,2763,D37,2714
-287,23rd European Teams,Terme Catez SLO,2021.11.18,6.2,"Martirosyan,Haik M.","Radjabov,T",1/2-1/2,2763,D41,2624
-288,23rd European Teams,Terme Catez SLO,2021.11.19,7.2,"Radjabov,T","Van Foreest,Jorden",1/2-1/2,2701,D41,2763
-289,23rd European Teams,Terme Catez SLO,2021.11.20,8.1,"Radjabov,T","Korobov,A",1/2-1/2,2684,D38,2763
-290,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2766,A37,2763
-291,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.1,"Radjabov,T","Carlsen,M",1/2-1/2,2864,D80,2753
-292,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.5,"Radjabov,T","Giri,A",1-0,2761,A48,2753
-293,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.2,Wang Hao,"Radjabov,T",1-0,2753,E36,2744
-294,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.4,"Radjabov,T","Anand,V",1/2-1/2,2751,D38,2753
-295,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.3,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,D13,2759
-296,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.3,"Radjabov,T","Vachier Lagrave,M",0-1,2750,D26,2753
-297,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.4,"Tari,A","Radjabov,T",1-0,2753,C10,2654
-298,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.2,"Radjabov,T","So,W",0-1,2776,D26,2753
-299,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.5,"Topalov,V","Radjabov,T",1/2-1/2,2753,A15,2730
-300,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.2,"So,W","Radjabov,T",1-0,2753,C50,2776
-301,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.5,"Radjabov,T","Tari,A",1-0,2654,E20,2753
-302,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.5,"Radjabov,T","Tari,A",1/2-1/2,2654,D41,2753
-303,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.1,"Carlsen,M","Radjabov,T",1-0,2753,E06,2864
-304,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1-0,2750,D26,2753
-305,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2750,D85,2753
-306,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.5,"Giri,A","Radjabov,T",1-0,2753,C65,2761
-307,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.5,"Radjabov,T","Topalov,V",1/2-1/2,2730,D43,2753
-308,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.5,"Radjabov,T","Topalov,V",1/2-1/2,2730,E36,2753
-309,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1-0,2753,C53,2751
-310,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1/2-1/2,2753,C53,2751
-311,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1-0,2744,C48,2753
-312,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1/2-1/2,2744,C43,2753
-313,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,A13,2759
-314,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,E10,2759
-315,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.4,"Radjabov,T","Firouzja,Alireza",1/2-1/2,2793,D37,2753
-316,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.2,"Nakamura,Hi","Radjabov,T",1-0,2753,C65,2760
-317,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.3,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2766,E04,2753
-318,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.3,"Duda,J","Radjabov,T",1/2-1/2,2753,C65,2750
-319,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.2,"Radjabov,T",Ding Liren,1/2-1/2,2806,E00,2753
-320,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.1,"Radjabov,T","Rapport,R",1/2-1/2,2764,B46,2753
-321,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.4,"Caruana,F","Radjabov,T",1-0,2753,B28,2783
-322,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2753,C50,2793
-323,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.2,"Radjabov,T","Nakamura,Hi",1-0,2760,C65,2753
-324,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.3,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2753,E06,2766
-325,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.3,"Radjabov,T","Duda,J",1/2-1/2,2750,A15,2753
-326,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.2,Ding Liren,"Radjabov,T",0-1,2753,E48,2806
-327,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.4,"Radjabov,T","Caruana,F",1/2-1/2,2783,E04,2753
-328,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.1,"Rapport,R","Radjabov,T",0-1,2753,C65,2764
-329,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,1.4,"Duda,J","Radjabov,T",1-0,2738,C65,2750
-330,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,3.5,"Erigaisi,Arjun","Radjabov,T",1-0,2738,D02,2689
-331,FTX Road to Miami Prelim,chess24.com INT,2022.07.10,4.4,"Radjabov,T","Ju,Wenjun",0-1,2560,D38,2738
+0,Superbet Classic 2021,Bucharest ROU,2021.06.06,2.3,"Giri,A","Radjabov,T",1/2-1/2,2765,E06,2780
+1,Superbet Classic 2021,Bucharest ROU,2021.06.08,4.4,"Mamedyarov,S","Radjabov,T",1/2-1/2,2765,E60,2770
+2,Superbet Classic 2021,Bucharest ROU,2021.06.09,5.2,"Radjabov,T","Grischuk,A",1/2-1/2,2776,D37,2765
+3,Superbet Classic 2021,Bucharest ROU,2021.06.11,6.5,"Deac,Bogdan-Daniel","Radjabov,T",1/2-1/2,2765,C67,2627
+4,Superbet Classic 2021,Bucharest ROU,2021.06.12,7.3,"Radjabov,T","So,W",1/2-1/2,2770,D39,2765
+5,Superbet Classic 2021,Bucharest ROU,2021.06.13,8.5,"Radjabov,T","Lupulescu,C",1/2-1/2,2656,B67,2765
+6,GCT Rapid Paris 2021,Paris FRA,2021.06.18,2.4,"Vachier Lagrave,M","Radjabov,T",1-0,2765,C65,2760
+7,GCT Rapid Paris 2021,Paris FRA,2021.06.18,3.2,"Radjabov,T","Firouzja,Alireza",1-0,2759,D43,2765
+8,GCT Rapid Paris 2021,Paris FRA,2021.06.19,4.5,"Svidler,P","Radjabov,T",1/2-1/2,2765,C11,2714
+9,GCT Rapid Paris 2021,Paris FRA,2021.06.19,5.1,"Radjabov,T","So,W",1/2-1/2,2770,D39,2765
+10,GCT Rapid Paris 2021,Paris FRA,2021.06.19,6.5,"Radjabov,T","Caruana,F",1/2-1/2,2820,D38,2765
+11,GCT Rapid Paris 2021,Paris FRA,2021.06.20,7.2,"Bacrot,E","Radjabov,T",1/2-1/2,2765,C67,2678
+12,GCT Rapid Paris 2021,Paris FRA,2021.06.20,8.4,"Radjabov,T","Rapport,R",1/2-1/2,2763,E12,2765
+13,GCT Rapid Paris 2021,Paris FRA,2021.06.20,9.3,"Nepomniachtchi,I","Radjabov,T",1-0,2765,C67,2792
+14,GCT Blitz Paris 2021,Paris FRA,2021.06.21,1.3,"Radjabov,T","Firouzja,Alireza",0-1,2759,D37,2765
+15,GCT Blitz Paris 2021,Paris FRA,2021.06.21,2.4,"So,W","Radjabov,T",1-0,2765,C11,2770
+16,GCT Blitz Paris 2021,Paris FRA,2021.06.21,3.2,"Radjabov,T","Nepomniachtchi,I",0-1,2792,D38,2765
+17,GCT Blitz Paris 2021,Paris FRA,2021.06.21,4.5,"Caruana,F","Radjabov,T",0-1,2765,E60,2820
+18,GCT Blitz Paris 2021,Paris FRA,2021.06.21,5.1,"Radjabov,T","Rapport,R",1/2-1/2,2763,A15,2765
+19,GCT Blitz Paris 2021,Paris FRA,2021.06.21,6.5,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2760,A04,2765
+20,GCT Blitz Paris 2021,Paris FRA,2021.06.21,7.2,"Svidler,P","Radjabov,T",1-0,2765,A01,2714
+21,GCT Blitz Paris 2021,Paris FRA,2021.06.21,8.4,"Radjabov,T","Aronian,L",0-1,2781,D38,2765
+22,GCT Blitz Paris 2021,Paris FRA,2021.06.21,9.3,"Kramnik,V","Radjabov,T",0-1,2765,C02,2753
+23,GCT Blitz Paris 2021,Paris FRA,2021.06.22,10.3,"Firouzja,Alireza","Radjabov,T",1-0,2765,C28,2759
+24,GCT Blitz Paris 2021,Paris FRA,2021.06.22,12.2,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2765,A01,2792
+25,GCT Blitz Paris 2021,Paris FRA,2021.06.22,13.5,"Radjabov,T","Caruana,F",0-1,2820,A05,2765
+26,GCT Blitz Paris 2021,Paris FRA,2021.06.22,14.1,"Rapport,R","Radjabov,T",1-0,2765,A07,2763
+27,GCT Blitz Paris 2021,Paris FRA,2021.06.22,15.5,"Vachier Lagrave,M","Radjabov,T",1-0,2765,A10,2760
+28,GCT Blitz Paris 2021,Paris FRA,2021.06.22,16.2,"Radjabov,T","Svidler,P",1-0,2714,A04,2765
+29,GCT Blitz Paris 2021,Paris FRA,2021.06.22,17.4,"Aronian,L","Radjabov,T",0-1,2765,A46,2781
+30,GCT Blitz Paris 2021,Paris FRA,2021.06.22,18.3,"Radjabov,T","Kramnik,V",0-1,2753,A30,2765
+31,23rd European Teams,Terme Catez SLO,2021.11.13,2.2,"Radjabov,T","Ivanisevic,I",1/2-1/2,2604,D37,2763
+32,23rd European Teams,Terme Catez SLO,2021.11.14,3.2,"Donchenko,Alexa","Radjabov,T",1/2-1/2,2763,E21,2645
+33,23rd European Teams,Terme Catez SLO,2021.11.15,4.1,"Radjabov,T","Berkes,F",1/2-1/2,2676,D15,2763
+34,23rd European Teams,Terme Catez SLO,2021.11.16,5.1,"Dubov,Daniil","Radjabov,T",1/2-1/2,2763,D37,2714
+35,23rd European Teams,Terme Catez SLO,2021.11.18,6.2,"Martirosyan,Haik M.","Radjabov,T",1/2-1/2,2763,D41,2624
+36,23rd European Teams,Terme Catez SLO,2021.11.19,7.2,"Radjabov,T","Van Foreest,Jorden",1/2-1/2,2701,D41,2763
+37,23rd European Teams,Terme Catez SLO,2021.11.20,8.1,"Radjabov,T","Korobov,A",1/2-1/2,2684,D38,2763
+38,23rd European Teams,Terme Catez SLO,2021.11.21,9.1,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2766,A37,2763
+39,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,1.1,"Radjabov,T","Carlsen,M",1/2-1/2,2864,D80,2753
+40,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,2.5,"Radjabov,T","Giri,A",1-0,2761,A48,2753
+41,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,3.2,Wang Hao,"Radjabov,T",1-0,2753,E36,2744
+42,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,4.4,"Radjabov,T","Anand,V",1/2-1/2,2751,D38,2753
+43,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,5.3,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,D13,2759
+44,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,6.3,"Radjabov,T","Vachier Lagrave,M",0-1,2750,D26,2753
+45,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,7.4,"Tari,A","Radjabov,T",1-0,2753,C10,2654
+46,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,8.2,"Radjabov,T","So,W",0-1,2776,D26,2753
+47,10th Norway Blitz 2022,Stavanger NOR,2022.05.30,9.5,"Topalov,V","Radjabov,T",1/2-1/2,2753,A15,2730
+48,10th Norway Chess 2022,Stavanger NOR,2022.05.31,1.2,"So,W","Radjabov,T",1-0,2753,C50,2776
+49,10th Norway Armageddon,Stavanger NOR,2022.06.01,2.5,"Radjabov,T","Tari,A",1-0,2654,E20,2753
+50,10th Norway Chess 2022,Stavanger NOR,2022.06.01,2.5,"Radjabov,T","Tari,A",1/2-1/2,2654,D41,2753
+51,10th Norway Chess 2022,Stavanger NOR,2022.06.02,3.1,"Carlsen,M","Radjabov,T",1-0,2753,E06,2864
+52,10th Norway Armageddon,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1-0,2750,D26,2753
+53,10th Norway Chess 2022,Stavanger NOR,2022.06.03,4.3,"Radjabov,T","Vachier Lagrave,M",1/2-1/2,2750,D85,2753
+54,10th Norway Chess 2022,Stavanger NOR,2022.06.05,5.5,"Giri,A","Radjabov,T",1-0,2753,C65,2761
+55,10th Norway Armageddon,Stavanger NOR,2022.06.06,6.5,"Radjabov,T","Topalov,V",1/2-1/2,2730,D43,2753
+56,10th Norway Chess 2022,Stavanger NOR,2022.06.06,6.5,"Radjabov,T","Topalov,V",1/2-1/2,2730,E36,2753
+57,10th Norway Armageddon,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1-0,2753,C53,2751
+58,10th Norway Chess 2022,Stavanger NOR,2022.06.07,7.3,"Anand,V","Radjabov,T",1/2-1/2,2753,C53,2751
+59,10th Norway Armageddon,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1-0,2744,C48,2753
+60,10th Norway Chess 2022,Stavanger NOR,2022.06.09,8.5,"Radjabov,T",Wang Hao,1/2-1/2,2744,C43,2753
+61,10th Norway Armageddon,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,A13,2759
+62,10th Norway Chess 2022,Stavanger NOR,2022.06.10,9.2,"Mamedyarov,S","Radjabov,T",1/2-1/2,2753,E10,2759
+63,FIDE Candidates 2022,Madrid ESP,2022.06.17,1.4,"Radjabov,T","Firouzja,Alireza",1/2-1/2,2793,D37,2753
+64,FIDE Candidates 2022,Madrid ESP,2022.06.18,2.2,"Nakamura,Hi","Radjabov,T",1-0,2753,C65,2760
+65,FIDE Candidates 2022,Madrid ESP,2022.06.19,3.3,"Radjabov,T","Nepomniachtchi,I",1/2-1/2,2766,E04,2753
+66,FIDE Candidates 2022,Madrid ESP,2022.06.21,4.3,"Duda,J","Radjabov,T",1/2-1/2,2753,C65,2750
+67,FIDE Candidates 2022,Madrid ESP,2022.06.22,5.2,"Radjabov,T",Ding Liren,1/2-1/2,2806,E00,2753
+68,FIDE Candidates 2022,Madrid ESP,2022.06.23,6.1,"Radjabov,T","Rapport,R",1/2-1/2,2764,B46,2753
+69,FIDE Candidates 2022,Madrid ESP,2022.06.25,7.4,"Caruana,F","Radjabov,T",1-0,2753,B28,2783
+70,FIDE Candidates 2022,Madrid ESP,2022.06.26,8.4,"Firouzja,Alireza","Radjabov,T",1/2-1/2,2753,C50,2793
+71,FIDE Candidates 2022,Madrid ESP,2022.06.27,9.2,"Radjabov,T","Nakamura,Hi",1-0,2760,C65,2753
+72,FIDE Candidates 2022,Madrid ESP,2022.06.29,10.3,"Nepomniachtchi,I","Radjabov,T",1/2-1/2,2753,E06,2766
+73,FIDE Candidates 2022,Madrid ESP,2022.06.30,11.3,"Radjabov,T","Duda,J",1/2-1/2,2750,A15,2753
+74,FIDE Candidates 2022,Madrid ESP,2022.07.01,12.2,Ding Liren,"Radjabov,T",0-1,2753,E48,2806
+75,FIDE Candidates 2022,Madrid ESP,2022.07.03,13.4,"Radjabov,T","Caruana,F",1/2-1/2,2783,E04,2753
+76,FIDE Candidates 2022,Madrid ESP,2022.07.04,14.1,"Rapport,R","Radjabov,T",0-1,2753,C65,2764
