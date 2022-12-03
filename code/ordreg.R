@@ -15,6 +15,8 @@ library(MASS)
 library(RStata)
 library(car)
 
+# ref: https://stats.oarc.ucla.edu/r/dae/ordinal-logistic-regression/
+
 ## age
 players.ord <- polr(WL ~ Age + EloDiff + Mean_CP + Std_CP, data=players)
 summary(players.ord)
@@ -41,3 +43,4 @@ summary(players.ord4)
 (ctable <- coef(summary(players.ord4)))
 p <- pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2
 (ctable <- cbind(ctable, "p value" = p)) ## mean_cp
+

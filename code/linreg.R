@@ -53,19 +53,22 @@ ols_step_best_subset(model8)
 
 
 ## mean_cp ##
+library(caret)
+
+set.seed(123)
 training.samples <- players$Mean_CP %>%
         createDataPartition(p = 0.8, list = FALSE)
 train.data  <- players[training.samples, ]
 test.data <- players[-training.samples, ]
 
 players.lm1 <- lm(Mean_CP~Std_CP+Elo+OppElo,data=train.data)
-summary(players.lm1)
+summary(players.lm1) # Adj R^2: 0.8562
 
 players.lm2 <- lm(Mean_CP~Time+Elo+Time*Std_CP+Std_CP*Elo+Std_CP*OppElo+Elo*OppElo,data=train.data)
-summary(players.lm2)
+summary(players.lm2) # Adj. R^2: 0.8567
 
 players.lm3 <- lm(Mean_CP~Age+Elo+Age*Std_CP+Age*OppElo+Std_CP*Elo,data=train.data)
-summary(players.lm3)
+summary(players.lm3) # Adj. R^2: 0.8567
 
 predictions1 <- players.lm1 %>% predict(test.data)
 p1=data.frame(
@@ -83,20 +86,28 @@ p3=data.frame(
         R2 = R2(predictions3, test.data$Mean_CP)
 )
 
-p1 #best model -- avoid overfitting
-p2 
+p1
+p2
 p3
+
+summary(players.lm1)$adj.r
+summary(players.lm2)$adj.r
+summary(players.lm3)$adj.r
 
 AIC(players.lm1,players.lm2,players.lm3)
 
 par(mfrow=c(2,2))
 plot(players.lm1)
+plot(players.lm2)
+plot(players.lm3)
 
 ## std_cp ##
-training.samples <- players.norm$Std_CP %>%
+set.seed(123)
+
+training.samples <- players$Std_CP %>%
         createDataPartition(p = 0.8, list = FALSE)
-train.data  <- players.norm[training.samples, ]
-test.data <- players.norm[-training.samples, ]
+train.data  <- players[training.samples, ]
+test.data <- players[-training.samples, ]
 
 players.lm1 <- lm(Std_CP~Mean_CP+Elo+OppElo,data=train.data)
 summary(players.lm1)
@@ -123,25 +134,37 @@ p3=data.frame(
         R2 = R2(predictions3, test.data$Mean_CP)
 )
 
-p1 #best model -- avoid overfitting
+p1
 p2 
 p3
 
+summary(players.lm1)$adj.r
+summary(players.lm2)$adj.r
+summary(players.lm3)$adj.r
+
 AIC(players.lm1,players.lm2,players.lm3)
 
+par(mfrow=c(2,2))
+plot(players.lm1)
+plot(players.lm2)
+plot(players.lm3)
 
 ## w/o outliers ##
 Q <- quantile(players$Mean_CP, probs=c(.25, .75), na.rm = FALSE)
 iqr <- IQR(players$Mean_CP)
 up <-  Q[2]+1.5*iqr 
 low<- Q[1]-1.5*iqr
-mean_eliminated <- subset(players, players$Mean_CP > (Q[1] - 1.5*iqr) & players$Mean_CP < (Q[2]+1.5*iqr))
+mean_eliminated <- subset(players, 
+                          players$Mean_CP > (Q[1] - 1.5*iqr) & 
+                                  players$Mean_CP < (Q[2]+1.5*iqr))
 
 Q <- quantile(mean_eliminated$Std_CP, probs=c(.25, .75), na.rm = FALSE)
 iqr <- IQR(mean_eliminated$Std_CP)
 up <-  Q[2]+1.5*iqr 
 low<- Q[1]-1.5*iqr
-no.outliers <- subset(mean_eliminated, mean_eliminated$Std_CP > (Q[1] - 1.5*iqr) & mean_eliminated$Std_CP < (Q[2]+1.5*iqr))
+no.outliers <- subset(mean_eliminated, 
+                      mean_eliminated$Std_CP > (Q[1] - 1.5*iqr) & 
+                              mean_eliminated$Std_CP < (Q[2]+1.5*iqr))
 
 model1 <- lm(Std_CP ~ Age + Mean_CP + Elo + OppElo, data = no.outliers) #best model is 3: Mean_CP, Elo, OppElo
 vif(model1)
@@ -180,6 +203,7 @@ ols_step_all_possible(model8)
 ols_step_best_subset(model8)
 
 ## mean_cp ##
+set.seed(123)
 training.samples <- no.outliers$Mean_CP %>%
         createDataPartition(p = 0.8, list = FALSE)
 train.data  <- no.outliers[training.samples, ]
@@ -210,14 +234,23 @@ p3=data.frame(
         R2 = R2(predictions3, test.data$Mean_CP)
 )
 
-p1 #best model -- avoid overfitting
+p1
 p2 
 p3
 
+summary(players.lm1)$adj.r
+summary(players.lm2)$adj.r
+summary(players.lm3)$adj.r
+
 AIC(players.lm1,players.lm2,players.lm3)
 
+par(mfrow=c(2,2))
+plot(players.lm1)
+plot(players.lm2)
+plot(players.lm3)
 
 ## std_cp ##
+set.seed(123)
 training.samples <- no.outliers$Std_CP %>%
         createDataPartition(p = 0.8, list = FALSE)
 train.data  <- no.outliers[training.samples, ]
@@ -248,8 +281,17 @@ p3=data.frame(
         R2 = R2(predictions3, test.data$Mean_CP)
 )
 
-p1 #best model -- avoid overfitting
+p1 
 p2 
 p3
 
+summary(players.lm1)$adj.r
+summary(players.lm2)$adj.r
+summary(players.lm3)$adj.r
+
 AIC(players.lm1,players.lm2,players.lm3)
+
+par(mfrow=c(2,2))
+plot(players.lm1)
+plot(players.lm2)
+plot(players.lm3)
