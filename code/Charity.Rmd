@@ -1,0 +1,109 @@
+---
+title: "JustinsPart"
+author: "JustinCeresa"
+date: "2022-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(resampledata)
+library(ISLR)
+library(boot)
+library(Stat2Data)
+library(vioplot)
+```
+
+
+```{r}
+fi <- list.files('../data/',full.names=T)
+dat <- lapply(fi,read.csv)
+players <- bind_rows(dat, .id = "column_label")
+head(players)
+```
+
+
+
+```{r}
+dplyr::count(players, Name, sort = TRUE)
+```
+
+
+
+
+
+
+##Spliting the data
+
+```{r}
+players<-players[,c(5,6,11)]
+
+niemann<-filter(players, Name == "niemann")
+other<-filter(players, Name != "niemann")
+```
+
+##Bootstrapping
+```{r}
+#mean_Cp
+N <- 10000
+ratio <- numeric(N) 
+for (i in 1:N)
+{
+  x <- mean(sample(niemann$Mean_CP, length(niemann$Mean_CP), replace = T))
+  y <- mean(sample(other$Mean_CP, length(other$Mean_CP), replace = T))
+  ratio[i] <- mean(x)/mean(y) #bootstrap sample mean
+}
+hist(ratio, main = "Bootstrap distribution of means",col = '#E5CCFF') 
+abline(v = mean(niemann$Mean_CP)/mean(other$Mean_CP), col = "red", lty = 2) 
+#It is a approximately normal distribution
+quantile(ratio, c(0.025, 0.975))
+```
+```{r}
+#std_cp
+N <- 10000
+ratio <- numeric(N) 
+for (i in 1:N)
+{
+  x <- mean(sample(niemann$Std_CP, length(niemann$Std_CP), replace = T))
+  y <- mean(sample(other$Std_CP, length(other$Std_CP), replace = T))
+  ratio[i] <- mean(x)/mean(y) #bootstrap sample mean
+}
+hist(ratio, main = "Bootstrap distribution of means",col = '#E5CCFF') 
+abline(v = mean(niemann$Std_CP)/mean(other$Std_CP), col = "red", lty = 2) 
+#It is a approximately normal distribution
+quantile(ratio, c(0.025, 0.975))
+```
+
+##T-test
+```{r}
+t.test(niemann$Mean_CP, other$Mean_CP, alt="greater")
+t.test(niemann$Std_CP, other$Std_CP, alt="greater")
+```
+##Non-parametric test
+```{r}
+#HNull is that the population medians are equal
+#HAlternate is that the medians are not equal
+#slides say that this test is "sometimes described as an ANOVA with the data replaced by their ranks"
+
+kruskal.test(Mean_CP ~ Name, data = players)
+
+kruskal.test(Std_CP ~ Name, data = players)
+
+#looks like we can reject the HNull (that medians are equal for all groups)
+```
+
+##Anova
+```{r}
+anov.mean <- aov(Mean_CP ~ Name, data = players)
+summary(anov.mean)
+anov.std<-aov(Std_CP ~ Name, data = players)
+summary(anov.std)
+```
+
+
