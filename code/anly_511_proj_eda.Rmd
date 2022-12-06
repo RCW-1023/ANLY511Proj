@@ -1,0 +1,472 @@
+---
+title: "Untitled"
+author: "Ryan Walter"
+date: "2022-12-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+fi <- list.files('../data/',full.names=T)
+dat <- lapply(fi,read.csv)
+
+## ref: https://stackoverflow.com/questions/2851327/combine-a-list-of-data-frames-into-one-data-frame-by-row
+library(dplyr)
+players <- bind_rows(dat, .id = "column_label")
+library(plotly)
+library(tidyverse)
+niemann<-players %>% filter(Name=='niemann')
+magnusson<-players %>% filter(Name=='carlsen')
+Anand<-players %>% filter(Name=='Anand')
+Yu<-players %>% filter(Name=='Yu')
+Vitiugov<-players %>% filter(Name=='Vitiugov')
+Topalov<-players %>% filter(Name=='Topalov')
+```
+
+```{r}
+updatemenus <- list(
+  
+  list(
+    
+    active = -1,
+    
+    type= 'buttons',
+    
+    buttons = list(
+      
+      list(
+        
+        label = "niemann",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, FALSE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "niemann"))),
+      list(
+        
+        label = "magnusson",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, TRUE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "magnusson"))),
+      list(
+        
+        label = "Anand",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,TRUE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "Anand"))),
+      list(
+        
+        label = "Yu",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,TRUE,FALSE,FALSE)),
+                    
+                    list(title = "Yu"))),
+      list(
+        
+        label = "Vitiugov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,TRUE,FALSE)),
+                    
+                    list(title = "Vitiugov"))),
+      
+     
+      
+      list(
+        
+        label = "Topalov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,FALSE,TRUE)),
+                    
+                    list(title = "Topalov"
+                         
+                         ))),
+      
+      list(
+        
+        label = "All",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, TRUE,TRUE,TRUE,TRUE,TRUE)),
+                    
+                    list(title = "All"
+                         
+                         ))))
+      
+      
+    
+  )
+  
+)
+
+fig <- plot_ly()
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = niemann,
+                         name='niemann',
+                         line = list(color = '#AC4425'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = magnusson,
+                         name='magnusson',
+                         line = list(color = '#224B0C', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = Anand,
+                         name='Anand',
+                         line = list(color = '#b7c5a9', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = Yu,
+                         name='Yu',
+                         line = list(color = '#c2b0a0', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = Vitiugov,
+                         name='Vitiugov',
+                         line = list(color = '#816353', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Mean_CP, 
+                         data = Topalov,
+                         name='Topalov',
+                         line = list(color = '#719971', width = 3, dash = 'dash') )
+
+t <- list(
+  family = "sans serif",
+  size = 14,
+  color = '#523e32',
+  margin = 20)
+
+fig <- fig %>% layout(
+  
+  title = "Mean CP for Top Chess Players",
+  font=t,
+  
+  xaxis = list(title='Number of Games',
+    
+    
+    rangeslider = list(type = "Games")),
+  
+  
+  yaxis = list(title = "Mean CP",
+              automargin = TRUE),
+  paper_bgcolor='#f4eddd',
+  plot_bgcolor='#f4eddd',
+  updatemenus=updatemenus,
+  autosize=TRUE)
+
+
+fig
+htmlwidgets::saveWidget(as_widget(fig), "~/ANLY511Proj/code/mean_centipawn.html")
+```
+```{r}
+updatemenus <- list(
+  
+  list(
+    
+    active = -1,
+    
+    type= 'buttons',
+    
+    buttons = list(
+      
+      list(
+        
+        label = "niemann",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, FALSE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "niemann"))),
+      list(
+        
+        label = "magnusson",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, TRUE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "magnusson"))),
+      list(
+        
+        label = "Anand",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,TRUE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "Anand"))),
+      list(
+        
+        label = "Yu",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,TRUE,FALSE,FALSE)),
+                    
+                    list(title = "Yu"))),
+      list(
+        
+        label = "Vitiugov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,TRUE,FALSE)),
+                    
+                    list(title = "Vitiugov"))),
+      
+     
+      
+      list(
+        
+        label = "Topalov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,FALSE,TRUE)),
+                    
+                    list(title = "Topalov"
+                         
+                         ))),
+      
+      list(
+        
+        label = "All",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, TRUE,TRUE,TRUE,TRUE,TRUE)),
+                    
+                    list(title = "All"
+                         
+                         ))))
+      
+      
+    
+  )
+  
+)
+
+fig <- plot_ly()
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = niemann,
+                         name='niemann',
+                         line = list(color = '#AC4425'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = magnusson,
+                         name='magnusson',
+                         line = list(color = '#224B0C', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = Anand,
+                         name='Anand',
+                         line = list(color = '#b7c5a9', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = Yu,
+                         name='Yu',
+                         line = list(color = '#c2b0a0', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = Vitiugov,
+                         name='Vitiugov',
+                         line = list(color = '#816353', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Elo, 
+                         data = Topalov,
+                         name='Topalov',
+                         line = list(color = '#719971', width = 3, dash = 'dash') )
+
+t <- list(
+  family = "sans serif",
+  size = 14,
+  color = '#523e32',
+  margin = 20)
+
+fig <- fig %>% layout(
+  
+  title = "Elo for Top Chess Players",
+  font=t,
+  
+  xaxis = list(title='Number of Games',
+    
+    
+    rangeslider = list(type = "Games")),
+  
+  
+  yaxis = list(title = "Elo",
+              automargin = TRUE),
+  paper_bgcolor='#f4eddd',
+  plot_bgcolor='#f4eddd',
+  updatemenus=updatemenus,
+  autosize=TRUE)
+
+
+fig
+htmlwidgets::saveWidget(as_widget(fig), "~/ANLY511Proj/code/elo.html")
+```
+```{r}
+updatemenus <- list(
+  
+  list(
+    
+    active = -1,
+    
+    type= 'buttons',
+    
+    buttons = list(
+      
+      list(
+        
+        label = "niemann",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, FALSE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "niemann"))),
+      list(
+        
+        label = "magnusson",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, TRUE,FALSE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "magnusson"))),
+      list(
+        
+        label = "Anand",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,TRUE,FALSE,FALSE,FALSE)),
+                    
+                    list(title = "Anand"))),
+      list(
+        
+        label = "Yu",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,TRUE,FALSE,FALSE)),
+                    
+                    list(title = "Yu"))),
+      list(
+        
+        label = "Vitiugov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,TRUE,FALSE)),
+                    
+                    list(title = "Vitiugov"))),
+      
+     
+      
+      list(
+        
+        label = "Topalov",
+        
+        method = "update",
+        
+        args = list(list(visible = c(FALSE, FALSE,FALSE,FALSE,FALSE,TRUE)),
+                    
+                    list(title = "Topalov"
+                         
+                         ))),
+      
+      list(
+        
+        label = "All",
+        
+        method = "update",
+        
+        args = list(list(visible = c(TRUE, TRUE,TRUE,TRUE,TRUE,TRUE)),
+                    
+                    list(title = "All"
+                         
+                         ))))
+      
+      
+    
+  )
+  
+)
+
+fig <- plot_ly()
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = niemann,
+                         name='niemann',
+                         line = list(color = '#AC4425'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = magnusson,
+                         name='magnusson',
+                         line = list(color = '#224B0C', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = Anand,
+                         name='Anand',
+                         line = list(color = '#b7c5a9', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = Yu,
+                         name='Yu',
+                         line = list(color = '#c2b0a0', width = 3, dash = 'dot'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = Vitiugov,
+                         name='Vitiugov',
+                         line = list(color = '#816353', width = 3, dash = 'dash'))
+fig <- fig %>% add_lines(x=~X,
+                         y= ~Std_CP, 
+                         data = Topalov,
+                         name='Topalov',
+                         line = list(color = '#719971', width = 3, dash = 'dash') )
+
+t <- list(
+  family = "sans serif",
+  size = 14,
+  color = '#523e32',
+  margin = 20)
+
+fig <- fig %>% layout(
+  
+  title = "Standard Deviation of Centipawn Loss for Top Chess Players",
+  font=t,
+  
+  xaxis = list(title='Number of Games',
+    
+    
+    rangeslider = list(type = "Games")),
+  
+  
+  yaxis = list(title = "Standard Deviation of Centipawn Loss",
+              automargin = TRUE),
+  paper_bgcolor='#f4eddd',
+  plot_bgcolor='#f4eddd',
+  updatemenus=updatemenus,
+  autosize=TRUE)
+
+
+fig
+htmlwidgets::saveWidget(as_widget(fig), "~/ANLY511Proj/code/standard_deviation.html")
+```
+
