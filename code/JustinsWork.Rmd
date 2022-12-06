@@ -53,6 +53,8 @@ as.numeric(as.character(players$Elo))
 as.numeric(as.character(players$OppElo))
 as.numeric(as.character(players$WL))
 as.numeric(as.character(players$WhiteWL))
+players$Mean_CP <- log(players$Mean_CP)
+players$Std_CP <- log(players$Std_CP)
 
 
 
@@ -91,6 +93,35 @@ dplyr::count(comps, pval, sort = TRUE)
 
 comps
 ```
+```{r}
+MCPResults <- filter(comps , Var2 == 'Mean_CP')
+
+StdCPResults <- filter(comps , Var2 == 'Std_CP' )
+
+SigMCPResults <- filter( MCPResults , pval <= 0.05)
+
+SigStdCPResults <- filter(StdCPResults , pval <= 0.05)
+
+
+SigMCPResults %>% 
+  rename(
+    Player = Var1,
+    Metric = Var2
+    )
+
+SigStdCPResults %>% 
+  rename(
+    Player = Var1,
+    Metric = Var2
+    )
+
+
+
+SigMCPResults
+
+SigStdCPResults
+
+```
 
 
 
@@ -121,6 +152,17 @@ kruskal.test(Std_CP ~ Name, data = players)
 ```
 
 
+```{r}
+players <- filter( players , Name != "carlsen")
+
+kruskal.test(Mean_CP ~ Name, data = players)
+
+kruskal.test(Std_CP ~ Name, data = players)
+
+
+
+
+```
 
 
 
